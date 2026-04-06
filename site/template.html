@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{PAGE_TITLE}}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ASSET_PREFIX}}/styles.css">
+</head>
+<body class="edition-page">
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-backdrop"></div>
+      <div class="hero-actions">
+        <a class="top-link" href="{{ARCHIVE_HREF}}">Archive</a>
+        <a class="top-link" href="{{LATEST_HREF}}">Latest</a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle theme">Theme</button>
+      </div>
+      <div class="hero-copy">
+        <p class="eyebrow">{{EDITION_KICKER}}</p>
+        <h1>{{EDITION_TITLE}}</h1>
+        <p class="hero-date">{{DATE_LONG}}</p>
+        <p class="hero-subtitle">{{EDITION_SUBTITLE}}</p>
+      </div>
+      <div class="hero-summary">
+        <div class="summary-panel">
+          <p class="summary-label">Spotlight</p>
+          <p>{{SPOTLIGHT}}</p>
+        </div>
+        <div class="summary-panel">
+          <p class="summary-label">Market Mood</p>
+          <p>{{MARKET_MOOD}}</p>
+        </div>
+        <div class="summary-panel">
+          <p class="summary-label">Reader Note</p>
+          <p>{{READER_NOTE}}</p>
+        </div>
+      </div>
+    </header>
+
+    <main class="content-shell">
+      <section class="toolbar">
+        <div class="stats-grid">
+          {{SUMMARY_STATS}}
+        </div>
+        <div class="filter-row" data-filter-root>
+          {{FILTER_PILLS}}
+        </div>
+      </section>
+
+      {{FEATURED_STORY}}
+      {{SECTIONS}}
+    </main>
+
+    <footer class="footer">
+      <p>Generated {{GENERATED_AT}} Romania time.</p>
+    </footer>
+  </div>
+  <script src="{{ASSET_PREFIX}}/app.js"></script>
+</body>
+</html>

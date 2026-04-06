@@ -1,0 +1,308 @@
+{
+  "date": "2026-04-06",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Signals from conflict, markets, science, climate, and Romania.",
+  "generated_at": "2026-04-06T14:44:00+03:00",
+  "summary": {
+    "spotlight": "Energy security and regional conflict are driving the day, while space and Romania add very different but still meaningful signals.",
+    "market_mood": "Volatile",
+    "reader_note": "Seed edition built from your previous archive examples so the new template has real content to render."
+  },
+  "featured_story": {
+    "category": "conflict",
+    "label": "Top Story",
+    "headline": "Trump presses Iran over the Strait of Hormuz as the oil shock deepens",
+    "summary": "President Trump warned Iran to reopen the Strait of Hormuz or face broader attacks on infrastructure, while Tehran said the waterway would stay shut until war damages are addressed. The standoff kept pressure on crude prices and pushed energy security back to the center of global coverage.",
+    "why_it_matters": "A prolonged closure of Hormuz would keep energy, shipping, and inflation risks elevated well beyond the immediate conflict zone.",
+    "countries": ["Iran", "United States"],
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "conflict",
+      "stories": [
+        {
+          "label": "Conflict",
+          "headline": "Israel advances deeper into southern Lebanon as displacement grows",
+          "summary": "Israeli forces moved further toward the Litani River while battles intensified around Al-Khiyam. Humanitarian pressure kept rising as casualties mounted and large parts of the population remained displaced.",
+          "why_it_matters": "The conflict is turning into a broader regional stability issue rather than a contained border clash.",
+          "countries": ["Israel", "Lebanon"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/04/02/nx-s1-5770161/israel-invades-southern-lebanon-to-go-after-iran-allied-hezbollah-militants"
+            }
+          ]
+        },
+        {
+          "label": "Conflict",
+          "headline": "U.S. recovers crew member from fighter jet downed over Iran",
+          "summary": "American forces completed a search-and-rescue mission for a crew member from an F-15 shot down over Iran. The operation drew attention because it marked a rare and visible battlefield loss for Washington in the current crisis.",
+          "why_it_matters": "Direct military losses increase the risk of escalation and narrow the political space for de-escalation.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "stories": [
+        {
+          "label": "Ukraine",
+          "headline": "Russia says it now controls all of Luhansk region",
+          "summary": "Moscow claimed full control of Luhansk, one of the regions it announced as annexed in 2022. Ukrainian officials did not validate the claim, and the broader front remained active.",
+          "why_it_matters": "Territorial claims in eastern Ukraine shape both battlefield momentum and any future negotiation baseline.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/1/russia-claims-to-take-full-control-of-ukraines-luhansk-region"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine",
+          "headline": "Russian drone strikes hit Nikopol as Kyiv keeps targeting oil assets",
+          "summary": "A drone attack on Nikopol killed civilians while Ukraine continued strikes on Russian oil infrastructure. The pattern showed both sides sustaining pressure on civilian areas and strategic energy networks.",
+          "why_it_matters": "The war remains both a battlefield conflict and an economic infrastructure war.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-confirms-strikes-on-russian-oil-infrastructure-defying-calls-to-ease-attacks-amid-soaring-fuel-prices/"
+            },
+            {
+              "name": "EMPR",
+              "url": "https://empr.media/news/war/russia-ukraine-war-updates-key-developments-as-of-april-4-2026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "diplomacy",
+      "stories": [
+        {
+          "label": "Diplomacy",
+          "headline": "Iran rejects direct talks while intermediaries circulate ceasefire ideas",
+          "summary": "Tehran said it has responses for outside mediators but will not join direct negotiations while attacks continue. Diplomats kept floating terms, but none appeared close to a breakthrough.",
+          "why_it_matters": "When diplomacy depends on intermediaries, signals can shift fast and miscalculation becomes more likely.",
+          "countries": ["Iran", "United States", "Israel"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "policy",
+      "stories": [
+        {
+          "label": "U.S. Policy",
+          "headline": "Effective U.S. tariff rate climbs to its highest level in decades",
+          "summary": "New trade measures pushed the effective tariff rate to levels not seen since the 1940s. Economists and pollsters pointed to both fiscal effects and public unease over the direction of trade policy.",
+          "why_it_matters": "Tariffs affect inflation, supply chains, business confidence, and the political tone around the wider economy.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "Yale Budget Lab",
+              "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-2-2026"
+            },
+            {
+              "name": "Tax Foundation",
+              "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "stories": [
+        {
+          "label": "Economy",
+          "headline": "Oil prices remain elevated as Hormuz fears ripple through markets",
+          "summary": "Crude stayed near crisis highs while investors tracked the risk of prolonged shipping disruption through the Gulf. Higher fuel costs spilled into recession talk and market caution.",
+          "why_it_matters": "Energy shocks are one of the fastest ways for geopolitical instability to become a household economic problem.",
+          "countries": ["Saudi Arabia", "Iran", "United States"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/2/oil-surges-asian-stocks-plunge-as-trump-vows-to-keep-up-iran-attacks"
+            }
+          ]
+        },
+        {
+          "label": "Economy",
+          "headline": "Goldman Sachs warns an oil shock could cut deeply into equities",
+          "summary": "Strategists warned that a longer supply squeeze could drag major U.S. equities significantly lower. The warning echoed broader fears that high energy prices could tip growth into recession territory.",
+          "why_it_matters": "This story links global conflict directly to portfolio risk and consumer sentiment.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "Motley Fool",
+              "url": "https://www.fool.com/investing/2026/04/06/stock-market-crash-oil-shock-economy-do-this-next/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "space",
+      "stories": [
+        {
+          "label": "Space",
+          "headline": "Artemis II reaches lunar space in a milestone for crewed exploration",
+          "summary": "NASA's Artemis II astronauts entered the Moon's sphere of influence after launch from Kennedy Space Center. The mission became one of the most visible science stories of the day.",
+          "why_it_matters": "Beyond the symbolic value, Artemis sets the pace for future U.S. lunar exploration and international space cooperation.",
+          "countries": ["United States", "Canada"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/"
+            },
+            {
+              "name": "Space.com",
+              "url": "https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-5-2026"
+            }
+          ]
+        },
+        {
+          "label": "Science",
+          "headline": "Researchers show laser-based wireless networking with extreme throughput",
+          "summary": "A new miniature-laser approach pointed to much faster wireless data transfer than current radio-based systems. The result stood out as a science story with obvious commercial implications.",
+          "why_it_matters": "Infrastructure-level advances in networking can reshape both industry and daily digital life.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "SciTechDaily",
+              "url": "https://scitechdaily.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "stories": [
+        {
+          "label": "Climate",
+          "headline": "Wildfire pressure and heat alerts reinforce the climate risk backdrop",
+          "summary": "Evacuations in California and severe heat in Southeast Asia kept the environmental picture tense. At the same time, renewable power capacity continued to trend upward globally.",
+          "why_it_matters": "The climate story is now a mix of disaster response, long-term adaptation, and energy transition.",
+          "countries": ["United States", "Vietnam"],
+          "sources": [
+            {
+              "name": "Earth.Org",
+              "url": "https://earth.org/this-week-in-climate-news-april-2026-week-1/"
+            },
+            {
+              "name": "Climate & Economy",
+              "url": "https://climateandeconomy.com/2026/04/02/2nd-april-2026-todays-round-up-of-climate-news/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "stories": [
+        {
+          "label": "Romania",
+          "headline": "Romania intervenes in the fuel market as regional pressure grows",
+          "summary": "The government announced lower diesel excise and a solidarity contribution on oil companies as the wider Middle East shock affected domestic fuel conditions. Energy affordability moved up the national agenda.",
+          "why_it_matters": "Romania is feeling global market stress directly, not just watching it from the sidelines.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/april-5-2026-update-id1003056.html"
+            },
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/romania-yields-state-bonds-april-2026"
+            }
+          ]
+        },
+        {
+          "label": "Romania",
+          "headline": "Recovered Dacian artifacts return a rare cultural win for Romania",
+          "summary": "Authorities recovered the Cotofenesti helmet and gold bracelets stolen from the Netherlands. The story stood out because it mixed heritage, law enforcement, and national symbolism.",
+          "why_it_matters": "Not every important daily story is about conflict or markets; cultural recovery can matter just as much to national identity.",
+          "countries": ["Romania", "Netherlands"],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/the-week-in-review/the-week-in-review-30-03-5-04-2026-id1002722.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "stories": [
+        {
+          "label": "r/space",
+          "headline": "Reddit follows Artemis II in real time",
+          "summary": "Space communities were packed with livestream links, orbital speculation, and reactions to the mission's lunar milestone. The discussion gave a good pulse check on what nontraditional audiences cared about today.",
+          "why_it_matters": "Reddit can surface what technically literate audiences are paying attention to before it filters into broader coverage.",
+          "countries": ["United States"],
+          "score": "24.7k",
+          "comments": "3.1k",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/space/"
+            }
+          ]
+        },
+        {
+          "label": "r/worldnews",
+          "headline": "Users debate whether the oil spike is the start of a recessionary turn",
+          "summary": "A widely shared discussion thread focused on fuel prices, supply vulnerability, and local reports from different countries. It complemented the formal market coverage with a public-reaction layer.",
+          "why_it_matters": "Trending Reddit posts help capture where public attention and anxiety are concentrating.",
+          "countries": ["Global"],
+          "score": "18.3k",
+          "comments": "4.5k",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/worldnews/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "date": "YYYY-MM-DD",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan across geopolitics, markets, science, climate, and Romania.",
+  "generated_at": "YYYY-MM-DDT09:00:00+03:00",
+  "summary": {
+    "spotlight": "Two or three sentences summarizing the overall day.",
+    "market_mood": "Calm | Volatile | Mixed",
+    "reader_note": "Optional short note about what shaped the selection."
+  },
+  "featured_story": {
+    "category": "conflict",
+    "label": "Top Story",
+    "headline": "Main headline here",
+    "summary": "Two to three sentences summarizing what happened.",
+    "why_it_matters": "One sentence on why the story matters.",
+    "countries": ["Country A", "Country B"],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://example.com/story"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "conflict",
+      "stories": [
+        {
+          "label": "Conflict",
+          "headline": "Story headline",
+          "summary": "Brief summary.",
+          "why_it_matters": "Why this matters.",
+          "countries": ["Country A"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://example.com/story"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
