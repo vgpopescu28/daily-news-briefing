@@ -3,17 +3,17 @@
   "edition_title": "Daily Global News Briefing",
   "edition_kicker": "Morning Edition",
   "edition_subtitle": "Signals from war, markets, science, climate, and Romania.",
-  "generated_at": "2026-04-06T23:02:13+03:00",
+  "generated_at": "2026-04-06T23:34:00+03:00",
   "summary": {
-    "spotlight": "The Middle East crisis is setting the global tone, with Iran ceasefire diplomacy, shipping risk, and inflation pressure all moving together. Ukraine remains a grinding war of attrition, while NASA's lunar flyby and Romania's fuel-market response add two very different but important signals.",
+    "spotlight": "Middle East escalation is still driving the global news cycle, with military pressure, ceasefire diplomacy, and oil-market nerves all feeding into one another. Ukraine remains a grinding attritional war, while Artemis II's lunar flyby and Romania's fuel response show how quickly the same news day can span crisis management, science, and domestic policy.",
     "market_mood": "Volatile",
-    "reader_note": "This edition replaces the seed file with current reporting from AP, Reuters reprints, NASA, Romanian outlets, and a small Reddit pulse check."
+    "reader_note": "This refresh tightens the edition around April 4-6 reporting from AP, Reuters-syndicated coverage, NASA, the White House, and Romanian outlets, while keeping a small Reddit pulse check."
   },
   "featured_story": {
     "category": "conflict",
     "label": "Top Story",
     "headline": "Trump hardens the Strait of Hormuz deadline as Iran rejects a temporary truce",
-    "summary": "President Donald Trump said Iran must reopen the Strait of Hormuz by Tuesday night or risk wider attacks on bridges and power plants, while Tehran rejected a U.S.-backed 45-day ceasefire and demanded guarantees against renewed strikes. The standoff kept the war's next move centered on shipping, energy flows, and the risk of a broader regional escalation.",
+    "summary": "President Donald Trump said Iran must reopen the Strait of Hormuz by Tuesday night or risk wider attacks on bridges and power plants, while Tehran rejected a U.S.-backed 45-day ceasefire and demanded stronger guarantees against renewed strikes. The standoff kept the war's next move centered on shipping, energy flows, and the risk of broader regional escalation.",
     "why_it_matters": "Hormuz is one of the world's most important oil chokepoints, so any prolonged crisis there can quickly spill into inflation, shipping disruption, and recession risk.",
     "countries": ["Iran", "United States", "Israel"],
     "sources": [
@@ -23,7 +23,7 @@
       },
       {
         "name": "Reuters",
-        "url": "https://www.brecorder.com/news/40414972"
+        "url": "https://www.globalbankingandfinance.com/iran-u-receive-plan-end-hostilities-immediate-ceasefire/"
       }
     ]
   },
@@ -39,21 +39,21 @@
           "countries": ["Israel", "Lebanon"],
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/3/18/israel-bombs-central-beirut-killing-6-strafes-south-east-lebanon"
+              "name": "AP",
+              "url": "https://apnews.com/article/4f112f7a45205880ed2947c079c4840c"
             }
           ]
         },
         {
           "label": "Conflict",
-          "headline": "UN and Red Cross warnings sharpen over threats to Iran's civilian infrastructure",
-          "summary": "As Trump repeated threats against bridges and power plants, UN officials and the International Committee of the Red Cross warned that attacks on civilian infrastructure are tightly constrained under international law. Their interventions highlighted how quickly the war could move from military escalation into mass humanitarian damage.",
-          "why_it_matters": "Civilian infrastructure threats raise the legal and humanitarian stakes well beyond battlefield calculations.",
-          "countries": ["Iran", "United States"],
+          "headline": "Pentagon rescues downed U.S. airman as cross-border fighting widens",
+          "summary": "A U.S. military rescue mission recovered an airman after an aircraft was shot down, reinforcing how quickly the crisis has drawn American forces deeper into direct risk. The episode underlined that the conflict is no longer only about deterrence messaging or proxy pressure.",
+          "why_it_matters": "Once U.S. personnel are directly exposed, the political and military costs of escalation rise much faster.",
+          "countries": ["United States", "Iran", "Israel"],
           "sources": [
             {
               "name": "AP",
-              "url": "https://apnews.com/article/93f8ec25d61b58882b25d34bda08d0f9"
+              "url": "https://apnews.com/article/7d8cf71eaa8950c62afb4eeb1802df6d"
             }
           ]
         }
@@ -65,7 +65,7 @@
         {
           "label": "Ukraine",
           "headline": "Russia says it controls all of Luhansk, but Kyiv rejects the claim",
-          "summary": "Moscow said its forces had taken full control of Ukraine's Luhansk region, one of the territories Russia has claimed since 2022. Ukrainian officials disputed the assertion, underscoring how battlefield claims and political messaging are now intertwined.",
+          "summary": "Moscow said its forces had taken full control of Ukraine's Luhansk region, one of the territories Russia has claimed since 2022. Ukrainian officials disputed the assertion, underscoring how battlefield claims and political messaging are now tightly intertwined.",
           "why_it_matters": "Claims over Luhansk affect both military momentum and the baseline for any future negotiations.",
           "countries": ["Russia", "Ukraine"],
           "sources": [
@@ -79,7 +79,7 @@
           "label": "Ukraine",
           "headline": "Ukraine keeps hitting Russian oil assets as Russian strikes continue on front-line cities",
           "summary": "Kyiv continued targeting Russian oil infrastructure while Russian attacks hit Ukrainian urban areas, reinforcing the war's dual character as both a territorial fight and an infrastructure campaign. That pattern left civilians exposed while both sides looked for leverage away from the trenches.",
-          "why_it_matters": "Energy infrastructure has become one of the clearest bridges between military pressure, export revenue, and daily civilian disruption.",
+          "why_it_matters": "Energy infrastructure is one of the clearest bridges between military pressure, export revenue, and daily civilian disruption.",
           "countries": ["Russia", "Ukraine"],
           "sources": [
             {
@@ -96,20 +96,20 @@
         {
           "label": "Diplomacy",
           "headline": "Regional mediators circulate a 45-day ceasefire framework to Washington and Tehran",
-          "summary": "Regional mediators pushed a two-phase proposal built around a 45-day halt in fighting followed by negotiations on a permanent end to the war. Reuters reported the outline via Axios, though the proposal's viability looked fragile even before Tehran's rejection.",
+          "summary": "Regional mediators pushed a two-phase proposal built around an immediate ceasefire and reopening of the Strait of Hormuz followed by negotiations on a longer settlement. The framework showed there is still an active search for an off-ramp even as public rhetoric hardens.",
           "why_it_matters": "Even weak ceasefire frameworks matter because they show where outside powers think a landing zone might still exist.",
-          "countries": ["Iran", "United States", "Qatar", "Pakistan"],
+          "countries": ["Iran", "United States", "Pakistan", "Qatar"],
           "sources": [
             {
               "name": "Reuters",
-              "url": "https://www.brecorder.com/news/40414972"
+              "url": "https://www.globalbankingandfinance.com/iran-u-receive-plan-end-hostilities-immediate-ceasefire/"
             }
           ]
         },
         {
           "label": "Diplomacy",
           "headline": "Turkey says it is intensifying its push to end the war",
-          "summary": "President Recep Tayyip Erdogan said Ankara was working harder to seize any opening for negotiations, joining the wider cluster of states trying to keep the conflict from expanding further. Turkey's positioning reflected how much the war is unsettling countries that sit near both the fighting and the trade routes it threatens.",
+          "summary": "President Recep Tayyip Erdogan said Ankara was working harder to seize any opening for negotiations, joining a wider cluster of states trying to keep the conflict from expanding further. Turkey's positioning reflected how much the war is unsettling countries that sit near both the fighting and the trade routes it threatens.",
           "why_it_matters": "Middle powers can matter most when direct U.S.-Iran contacts are politically constrained or unavailable.",
           "countries": ["Turkey", "Iran", "United States"],
           "sources": [
@@ -127,13 +127,13 @@
         {
           "label": "U.S. Policy",
           "headline": "New U.S. tariffs on steel, aluminum, and copper take effect",
-          "summary": "A new White House trade action set across-the-board duties on imported steel, aluminum, and copper products beginning April 6, broadening the administration's tariff push. The move added another policy shock at a time when global energy risk was already pressuring prices and supply chains.",
+          "summary": "A new White House trade action set revised duties on imported steel, aluminum, and copper products beginning April 6, broadening the administration's tariff push. The move added another policy shock at a time when global energy risk was already pressuring prices and supply chains.",
           "why_it_matters": "Trade restrictions can amplify inflation and supply-chain strain precisely when markets are already reacting to war and energy disruption.",
           "countries": ["United States"],
           "sources": [
             {
               "name": "The White House",
-              "url": "https://www.whitehouse.gov/presidential-actions/2026/04/further-modifying-the-reciprocal-tariff-rates/"
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/"
             }
           ]
         }
@@ -145,7 +145,7 @@
         {
           "label": "Economy",
           "headline": "Oil stays elevated as traders price in disruption risk around Hormuz",
-          "summary": "Crude markets remained highly sensitive to every signal from Washington and Tehran as investors weighed the chance of a prolonged shipping disruption through the Gulf. The move kept energy security, freight risk, and inflation expectations tightly linked.",
+          "summary": "Crude markets remained highly sensitive to every signal from Washington and Tehran as investors weighed the chance of prolonged disruption through the Gulf. The move kept energy security, freight risk, and inflation expectations tightly linked.",
           "why_it_matters": "Oil is the fastest transmission channel from a regional war into household costs, transport prices, and central-bank pressure.",
           "countries": ["Iran", "Saudi Arabia", "United States"],
           "sources": [
@@ -165,10 +165,6 @@
             {
               "name": "Reuters",
               "url": "https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_L6N40P0KC%3A0-fed-s-goolsbee-hammack-say-inflation-is-flashing-orange-or-worse/"
-            },
-            {
-              "name": "AP",
-              "url": "https://apnews.com/article/93f8ec25d61b58882b25d34bda08d0f9"
             }
           ]
         }
@@ -179,27 +175,27 @@
       "stories": [
         {
           "label": "Space",
-          "headline": "Artemis II leaves Earth orbit for its crewed flight around the Moon",
-          "summary": "NASA said Orion completed its translunar injection burn, sending Artemis II on the first crewed mission beyond Earth orbit since Apollo. The milestone turned a long-prepared test mission into the day's clearest science achievement.",
-          "why_it_matters": "Artemis is the foundation for U.S. lunar return plans and for broader international deep-space cooperation.",
+          "headline": "Artemis II prepares for its lunar flyby window",
+          "summary": "NASA said the Orion crew was entering the mission's April 6 flyby window, with Earthrise, Moon observations, and a solar eclipse visible from the spacecraft during the pass. The moment turned a long-planned test mission into the day's clearest science milestone.",
+          "why_it_matters": "Artemis is the foundation for U.S. lunar return plans and broader international deep-space cooperation.",
           "countries": ["United States", "Canada"],
           "sources": [
             {
               "name": "NASA",
-              "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/"
+              "url": "https://www.nasa.gov/blogs/missions/2026/04/04/artemis-ii-flight-day-4-deep-space-flying-lunar-flyby-prep/"
             }
           ]
         },
         {
           "label": "Science",
-          "headline": "Artemis II's lunar flyby sets a new human distance record from Earth",
-          "summary": "During Monday's flyby, the Artemis II crew moved beyond Apollo 13's distance mark and got direct views of the Moon's far side. AP framed the moment as both a symbolic record and a practical test of navigation, life support, and communications far from Earth.",
+          "headline": "Artemis II's lunar pass is testing navigation and crew systems far from Earth",
+          "summary": "As the crew moves through its deep-space flyby sequence, NASA is using the mission to validate navigation, communications, and life-support performance well beyond low Earth orbit. That practical systems test is as important as the symbolism of sending astronauts around the Moon again.",
           "why_it_matters": "High-visibility mission milestones help sustain political backing for costly long-cycle science programs.",
           "countries": ["United States", "Canada"],
           "sources": [
             {
-              "name": "AP",
-              "url": "https://www.military.com/daily-news/2026/04/06/artemis-ii-kicks-off-trip-around-moon-after-surpassing-apollo-13s-distance-record.html"
+              "name": "NASA",
+              "url": "https://www.nasa.gov/blogs/missions/2026/04/04/artemis-ii-flight-day-4-deep-space-flying-lunar-flyby-prep/"
             }
           ]
         }
@@ -216,21 +212,21 @@
           "countries": ["United States"],
           "sources": [
             {
-              "name": "Riverside Today",
-              "url": "https://nationaltoday.com/us/ca/riverside/news/2026/04/03/fast-growing-wildfire-prompts-evacuations-in-southern-california/"
+              "name": "Cal Fire",
+              "url": "https://www.fire.ca.gov/incidents"
             }
           ]
         },
         {
           "label": "Environment",
-          "headline": "Clean-energy advocates say power demand is keeping U.S. renewables momentum alive",
-          "summary": "An AP analysis found that even after federal cutbacks, strong electricity demand and state-level policy are still supporting solar and storage growth. The story mattered because it framed the climate transition as increasingly driven by grid economics, not only subsidies.",
-          "why_it_matters": "Energy transition stories matter most when they show whether the low-carbon buildout can continue under political stress.",
+          "headline": "Clean-energy advocates say power demand is still supporting U.S. renewables",
+          "summary": "Even with federal policy pressure, rising electricity demand and state-level incentives are still helping solar, storage, and grid investment move forward. The key question is whether economics can keep the energy transition advancing when politics turn less favorable.",
+          "why_it_matters": "Energy-transition stories matter most when they show whether low-carbon buildout can continue under political stress.",
           "countries": ["United States"],
           "sources": [
             {
               "name": "AP",
-              "url": "https://apnews.com/article/94c718a3651476db92286dca992db426"
+              "url": "https://apnews.com/"
             }
           ]
         }
@@ -247,8 +243,8 @@
           "countries": ["Romania"],
           "sources": [
             {
-              "name": "Radio Romania Actualitati",
-              "url": "https://www.romania-actualitati.ro/news-in-english/standard-diesel-excise-duty-to-be-reduced-by-0-30-ron-per-liter-id226438.html"
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash-en/standard-diesel-excise-duty-to-be-reduced-by-0-30-ron-per-liter-id226438.html"
             },
             {
               "name": "Romania Journal",
@@ -258,8 +254,8 @@
         },
         {
           "label": "Romania",
-          "headline": "Rising local bond yields keep financing pressure on Bucharest",
-          "summary": "Romania's higher borrowing costs remained part of the domestic economic picture as investors demanded more yield amid political and regional uncertainty. That left debt management and budget credibility as important Romania stories even without a dramatic single headline.",
+          "headline": "Higher bond yields keep financing pressure on Bucharest",
+          "summary": "Romania's higher borrowing costs remained part of the domestic economic picture as investors demanded more yield amid political and regional uncertainty. That kept debt management and budget credibility on the short list of stories that matter locally even without a dramatic single headline.",
           "why_it_matters": "Higher yields translate into tighter fiscal space just as the government is trying to cushion households from fuel and inflation shocks.",
           "countries": ["Romania"],
           "sources": [
@@ -277,7 +273,7 @@
         {
           "label": "r/politics",
           "headline": "Reddit politics tracks Iran's rejection of a ceasefire offer",
-          "summary": "A fast-moving discussion thread around Iran's rejection of the ceasefire proposal showed users focusing on escalation risk, U.S. credibility, and the odds of a wider war. It was a useful readout on where high-attention American political conversation was clustering.",
+          "summary": "A fast-moving discussion thread around Iran's rejection of the ceasefire proposal showed users focusing on escalation risk, U.S. credibility, and the odds of a wider war. It worked as a useful readout on where high-attention American political conversation was clustering.",
           "why_it_matters": "Reddit offers a public-reaction layer that often surfaces anxiety and framing shifts before they show up in polling.",
           "countries": ["United States", "Iran"],
           "score": "68",
@@ -289,16 +285,16 @@
           ]
         },
         {
-          "label": "r/oil",
-          "headline": "Oil traders on Reddit fixate on ceasefire-rumor timing before markets open",
-          "summary": "A heavily upvoted r/oil thread argued that ceasefire rumors were moving faster than verifiable reporting and could be influencing market sentiment. The conversation worked as a small but revealing indicator of how retail observers were reading the oil-news cycle.",
-          "why_it_matters": "Public market chatter is not reporting, but it can show where trust is breaking down during a fast-moving commodity shock.",
-          "countries": ["Global"],
-          "score": "585",
+          "label": "r/SpaceXLounge",
+          "headline": "Artemis II launch and flyby chatter keeps space Reddit focused on NASA's deep-space return",
+          "summary": "A discussion thread around Artemis II drew reactions on mission execution, NASA's public presentation, and the broader argument over government versus commercial spaceflight. It served as a useful public-interest signal beside the formal NASA coverage.",
+          "why_it_matters": "Audience reaction helps show which science stories are actually breaking through beyond specialist reporting.",
+          "countries": ["United States"],
+          "score": "1",
           "sources": [
             {
               "name": "Reddit",
-              "url": "https://www.reddit.com/r/oil/comments/1sdnfqg/ah_here_we_go_again_market_manipulation_news_of/"
+              "url": "https://www.reddit.com/r/SpaceXLounge/comments/1s9zxoz/artemis_ii_has_launched/"
             }
           ]
         }

@@ -110,6 +110,7 @@ def render_section(section: dict) -> str:
     meta = SECTION_META.get(section_key, {"title": section_key.title(), "description": "", "icon": "Briefing", "tone": "tone-default"})
     cards = "\n".join(render_story(section_key, story) for story in section.get("stories", []))
     count = len(section.get("stories", []))
+    story_label = "story" if count == 1 else "stories"
     return f"""
     <section class="news-section" data-section="{escape(section_key)}">
       <div class="section-frame {escape(meta["tone"])}">
@@ -118,7 +119,7 @@ def render_section(section: dict) -> str:
             <p class="section-kicker">{escape(meta["icon"])}</p>
             <h2>{escape(meta["title"])}</h2>
           </div>
-          <span class="section-count">{count} stories</span>
+          <span class="section-count">{count} {story_label}</span>
         </div>
         <p class="section-description">{escape(meta["description"])}</p>
         <div class="story-grid">
@@ -150,14 +151,14 @@ def render_featured(edition: dict) -> str:
 
 
 def render_filter_pills(edition: dict) -> str:
-    counts = Counter(section["key"] for section in edition["sections"] if section.get("stories"))
     pills = ['<button class="filter-pill is-active" data-filter="all" type="button">All</button>']
     for section in edition["sections"]:
-      if not section.get("stories"):
-        continue
-      key = section["key"]
-      title = escape(SECTION_META.get(key, {}).get("title", key.title()))
-      pills.append(f'<button class="filter-pill" data-filter="{escape(key)}" type="button">{title} <span>{counts[key]}</span></button>')
+        stories = section.get("stories", [])
+        if not stories:
+            continue
+        key = section["key"]
+        title = escape(SECTION_META.get(key, {}).get("title", key.title()))
+        pills.append(f'<button class="filter-pill" data-filter="{escape(key)}" type="button">{title} <span>{len(stories)}</span></button>')
     return "\n".join(pills)
 
 
