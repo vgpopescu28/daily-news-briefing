@@ -5,6 +5,7 @@ import base64
 import json
 import os
 import subprocess
+import time
 from pathlib import Path
 
 
@@ -40,6 +41,23 @@ PROXY_ENV_VARS = (
     "https_proxy",
     "http_proxy",
 )
+RETRYABLE_ERRORS = (
+    "eof",
+    "unexpected eof",
+    "connection reset",
+    "connection refused",
+    "forcibly closed",
+    "wsarecv",
+    "i/o timeout",
+    "context deadline exceeded",
+    "tls handshake timeout",
+    "timeout",
+    "temporary failure",
+    "temporarily unavailable",
+    "502",
+    "503",
+    "504",
+)
 
 
 def clean_network_env() -> dict[str, str]:
@@ -57,15 +75,35 @@ def run_json(args: list[str], payload: dict | None = None) -> dict:
         "capture_output": True,
         "check": False,
         "env": clean_network_env(),
+        "timeout": 60,
     }
     if payload is not None:
         cmd.extend(["--input", "-"])
         kwargs["input"] = json.dumps(payload)
 
-    result = subprocess.run(cmd, **kwargs)
-    if result.returncode != 0:
-        raise SystemExit(result.stderr.strip() or result.stdout.strip())
-    return json.loads(result.stdout or "{}")
+    last_error = ""
+    for attempt in range(1, 6):
+        try:
+            result = subprocess.run(cmd, **kwargs)
+            if result.returncode == 0:
+                try:
+                    return json.loads(result.stdout or "{}")
+                except json.JSONDecodeError as exc:
+                    last_error = f"Could not parse GitHub API response: {exc}"
+            else:
+                last_error = result.stderr.strip() or result.stdout.strip()
+        except subprocess.TimeoutExpired as exc:
+            last_error = f"GitHub API request timed out after {exc.timeout} seconds."
+
+        retryable = any(marker in last_error.lower() for marker in RETRYABLE_ERRORS)
+        if not retryable or attempt == 5:
+            raise SystemExit(last_error)
+
+        delay = min(2 ** attempt, 20)
+        print(f"GitHub API call failed transiently on attempt {attempt}; retrying in {delay}s: {last_error}")
+        time.sleep(delay)
+
+    raise SystemExit(last_error)
 
 
 def run_text(args: list[str]) -> str:
