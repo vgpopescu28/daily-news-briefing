@@ -114,6 +114,15 @@ def run_text(args: list[str]) -> str:
     return result.stdout.strip()
 
 
+def run_git(args: list[str]) -> bool:
+    result = subprocess.run(["git", *args], cwd=ROOT, text=True, capture_output=True, check=False)
+    if result.returncode != 0:
+        details = result.stderr.strip() or result.stdout.strip()
+        print(f"Local git sync warning: {details}")
+        return False
+    return True
+
+
 def infer_repo(explicit_repo: str | None) -> str:
     if explicit_repo:
         return explicit_repo
@@ -180,6 +189,16 @@ def fetch_tree_files(repo: str, tree_sha: str) -> dict[str, str]:
     }
 
 
+def sync_local_branch(branch: str, commit_sha: str) -> None:
+    current_branch = run_text(["git", "branch", "--show-current"])
+    git_dir = run_text(["git", "rev-parse", "--git-dir"]).replace("\\", "/")
+    if current_branch != branch or "/.git/worktrees/" in git_dir:
+        return
+
+    if run_git(["update-ref", f"refs/heads/{branch}", commit_sha]):
+        run_git(["read-tree", "--reset", commit_sha])
+
+
 def publish(repo: str, branch: str, message: str) -> None:
     ref = run_json([f"repos/{repo}/git/ref/heads/{branch}"])
     parent_sha = ref["object"]["sha"]
@@ -204,6 +223,7 @@ def publish(repo: str, branch: str, message: str) -> None:
         )
 
     if not tree_entries:
+        sync_local_branch(branch, parent_sha)
         print("No changes to commit.")
         return
 
@@ -213,6 +233,7 @@ def publish(repo: str, branch: str, message: str) -> None:
     )
     tree_sha = tree["sha"]
     if tree_sha == base_tree:
+        sync_local_branch(branch, parent_sha)
         print("No changes to commit.")
         return
 
@@ -226,6 +247,7 @@ def publish(repo: str, branch: str, message: str) -> None:
         [f"repos/{repo}/git/refs/heads/{branch}", "--method", "PATCH"],
         {"sha": commit_sha, "force": False},
     )
+    sync_local_branch(branch, commit_sha)
     print(f"Published {commit_sha} to {repo}@{branch}.")
 
 
