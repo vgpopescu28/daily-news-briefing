@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import base64
+import hashlib
 import json
 import os
 import subprocess
@@ -147,6 +148,15 @@ def posix_relative(path: Path) -> str:
     return path.relative_to(ROOT).as_posix()
 
 
+def is_publish_path(path: str) -> bool:
+    return any(path == root or path.startswith(f"{root}/") for root in PUBLISH_PATHS)
+
+
+def git_blob_sha(content: bytes) -> str:
+    header = f"blob {len(content)}\0".encode("ascii")
+    return hashlib.sha1(header + content).hexdigest()
+
+
 def read_blob_bytes(path: Path) -> bytes:
     if path.name in TEXT_FILENAMES or path.suffix.lower() in TEXT_EXTENSIONS:
         text = path.read_text(encoding="utf-8").replace("\r\n", "\n").replace("\r", "\n")
@@ -163,23 +173,49 @@ def create_blob(repo: str, path: Path) -> str:
     return blob["sha"]
 
 
+def fetch_tree_files(repo: str, tree_sha: str) -> dict[str, str]:
+    tree = run_json([f"repos/{repo}/git/trees/{tree_sha}?recursive=1"])
+    if tree.get("truncated"):
+        raise SystemExit("GitHub returned a truncated tree; refusing to publish an incomplete comparison.")
+    return {
+        item["path"]: item["sha"]
+        for item in tree.get("tree", [])
+        if item.get("type") == "blob"
+    }
+
+
 def publish(repo: str, branch: str, message: str) -> None:
     ref = run_json([f"repos/{repo}/git/ref/heads/{branch}"])
     parent_sha = ref["object"]["sha"]
     parent_commit = run_json([f"repos/{repo}/git/commits/{parent_sha}"])
     base_tree = parent_commit["tree"]["sha"]
+    remote_files = fetch_tree_files(repo, base_tree)
 
     tree_entries = []
+    local_files = {}
     for path in iter_publish_files():
+        relative_path = posix_relative(path)
+        content = read_blob_bytes(path)
+        local_files[relative_path] = content
+        if remote_files.get(relative_path) == git_blob_sha(content):
+            continue
         blob_sha = create_blob(repo, path)
         tree_entries.append(
             {
-                "path": posix_relative(path),
+                "path": relative_path,
                 "mode": "100644",
                 "type": "blob",
                 "sha": blob_sha,
             }
         )
+
+    for remote_path in sorted(remote_files):
+        if is_publish_path(remote_path) and remote_path not in local_files:
+            tree_entries.append({"path": remote_path, "sha": None})
+
+    if not tree_entries:
+        print("No changes to commit.")
+        return
 
     tree = run_json(
         [f"repos/{repo}/git/trees", "--method", "POST"],
