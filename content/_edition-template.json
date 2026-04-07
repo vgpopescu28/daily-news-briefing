@@ -2,7 +2,7 @@
   "date": "YYYY-MM-DD",
   "edition_title": "Daily Global News Briefing",
   "edition_kicker": "Morning Edition",
-  "edition_subtitle": "A concise scan across geopolitics, markets, science, climate, and Romania.",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
   "generated_at": "YYYY-MM-DDT09:00:00+03:00",
   "summary": {
     "spotlight": "Two or three sentences summarizing the overall day.",
@@ -10,7 +10,8 @@
     "reader_note": "Optional short note about what shaped the selection."
   },
   "featured_story": {
-    "category": "conflict",
+    "category": "middle-east-crisis",
+    "tone": "conflict",
     "label": "Top Story",
     "headline": "Main headline here",
     "summary": "Two to three sentences summarizing what happened.",
@@ -25,7 +26,11 @@
   },
   "sections": [
     {
-      "key": "conflict",
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The main developments driving regional and global risk today.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
       "stories": [
         {
           "label": "Conflict",

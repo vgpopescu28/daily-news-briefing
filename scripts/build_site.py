@@ -27,6 +27,29 @@ SECTION_META = {
     "reddit": {"title": "Trending on Reddit", "description": "A few conversation-led signals that surfaced outside traditional outlets.", "icon": "Public Signal", "tone": "tone-reddit"},
 }
 
+TONE_KEYS = (
+    "conflict",
+    "ukraine",
+    "diplomacy",
+    "policy",
+    "economy",
+    "space",
+    "environment",
+    "romania",
+    "reddit",
+)
+
+AUTO_TONES = (
+    "tone-auto-1",
+    "tone-auto-2",
+    "tone-auto-3",
+    "tone-auto-4",
+    "tone-auto-5",
+    "tone-auto-6",
+    "tone-auto-7",
+    "tone-auto-8",
+)
+
 
 def load_template(name: str) -> str:
     return (SITE_DIR / name).read_text(encoding="utf-8")
@@ -83,7 +106,43 @@ def render_sources(sources: list[dict]) -> str:
     return " · ".join(links)
 
 
-def render_story(section_key: str, story: dict) -> str:
+def titleize_key(key: str) -> str:
+    return key.replace("-", " ").replace("_", " ").title()
+
+
+def normalize_tone(value: str | None) -> str | None:
+    if not value:
+        return None
+    tone = value.removeprefix("tone-").lower().strip()
+    if tone in TONE_KEYS:
+        return f"tone-{tone}"
+    auto_tone = f"tone-{tone}"
+    if auto_tone in AUTO_TONES:
+        return auto_tone
+    return None
+
+
+def section_meta(section: dict, index: int) -> dict:
+    key = section["key"]
+    known = SECTION_META.get(key, {})
+    tone = normalize_tone(section.get("tone")) or known.get("tone") or AUTO_TONES[index % len(AUTO_TONES)]
+    return {
+        "title": section.get("title") or known.get("title") or titleize_key(key),
+        "description": section.get("description") or known.get("description") or "The day's most relevant stories in this lane.",
+        "icon": section.get("kicker") or section.get("icon") or known.get("icon") or "Briefing",
+        "tone": tone,
+    }
+
+
+def section_tones(edition: dict) -> dict[str, str]:
+    return {
+        section["key"]: section_meta(section, index)["tone"]
+        for index, section in enumerate(edition["sections"])
+        if section.get("stories")
+    }
+
+
+def render_story(section_key: str, story: dict, tone: str) -> str:
     countries = ", ".join(escape(country) for country in story.get("countries", []))
     meta_bits = [f'<span class="story-meta-item">{countries}</span>'] if countries else []
     if story.get("score"):
@@ -92,9 +151,9 @@ def render_story(section_key: str, story: dict) -> str:
         meta_bits.append(f'<span class="story-meta-item">{escape(story["comments"])} comments</span>')
     meta = "".join(meta_bits)
     return f"""
-      <article class="story-card" data-category="{escape(section_key)}">
+      <article class="story-card {escape(tone)}" data-category="{escape(section_key)}">
         <div class="story-card-head">
-          <span class="story-pill story-pill-{escape(section_key)}">{escape(story["label"])}</span>
+          <span class="story-pill">{escape(story["label"])}</span>
         </div>
         <h3>{escape(story["headline"])}</h3>
         <p class="story-summary">{escape(story["summary"])}</p>
@@ -105,10 +164,10 @@ def render_story(section_key: str, story: dict) -> str:
     """.strip()
 
 
-def render_section(section: dict) -> str:
+def render_section(section: dict, index: int) -> str:
     section_key = section["key"]
-    meta = SECTION_META.get(section_key, {"title": section_key.title(), "description": "", "icon": "Briefing", "tone": "tone-default"})
-    cards = "\n".join(render_story(section_key, story) for story in section.get("stories", []))
+    meta = section_meta(section, index)
+    cards = "\n".join(render_story(section_key, story, meta["tone"]) for story in section.get("stories", []))
     count = len(section.get("stories", []))
     story_label = "story" if count == 1 else "stories"
     return f"""
@@ -130,15 +189,16 @@ def render_section(section: dict) -> str:
     """.strip()
 
 
-def render_featured(edition: dict) -> str:
+def render_featured(edition: dict, tones: dict[str, str]) -> str:
     story = edition["featured_story"]
     category = story.get("category", "conflict")
+    tone = normalize_tone(story.get("tone")) or tones.get(category) or normalize_tone(category) or "tone-default"
     countries = ", ".join(escape(country) for country in story.get("countries", []))
     return f"""
     <section class="featured-wrap" data-section="featured">
-      <article class="featured-card" data-category="{escape(category)}">
+      <article class="featured-card {escape(tone)}" data-category="{escape(category)}">
         <div class="featured-head">
-          <span class="story-pill story-pill-{escape(category)}">{escape(story["label"])}</span>
+          <span class="story-pill">{escape(story["label"])}</span>
           <span class="featured-countries">{countries}</span>
         </div>
         <h2>{escape(story["headline"])}</h2>
@@ -152,13 +212,14 @@ def render_featured(edition: dict) -> str:
 
 def render_filter_pills(edition: dict) -> str:
     pills = ['<button class="filter-pill is-active" data-filter="all" type="button">All</button>']
-    for section in edition["sections"]:
+    for index, section in enumerate(edition["sections"]):
         stories = section.get("stories", [])
         if not stories:
             continue
         key = section["key"]
-        title = escape(SECTION_META.get(key, {}).get("title", key.title()))
-        pills.append(f'<button class="filter-pill" data-filter="{escape(key)}" type="button">{title} <span>{len(stories)}</span></button>')
+        meta = section_meta(section, index)
+        title = escape(meta["title"])
+        pills.append(f'<button class="filter-pill {escape(meta["tone"])}" data-filter="{escape(key)}" type="button">{title} <span>{len(stories)}</span></button>')
     return "\n".join(pills)
 
 
@@ -178,7 +239,8 @@ def render_stats(edition: dict) -> str:
 
 def render_page(edition: dict, asset_prefix: str, archive_href: str, latest_href: str) -> str:
     template = load_template("template.html")
-    sections = "\n".join(render_section(section) for section in edition["sections"] if section.get("stories"))
+    tones = section_tones(edition)
+    sections = "\n".join(render_section(section, index) for index, section in enumerate(edition["sections"]) if section.get("stories"))
     replacements = {
         "{{ASSET_PREFIX}}": asset_prefix,
         "{{PAGE_TITLE}}": escape(f'{edition["edition_title"]} - {format_long_date(edition["date"])}'),
@@ -192,7 +254,7 @@ def render_page(edition: dict, asset_prefix: str, archive_href: str, latest_href
         "{{READER_NOTE}}": escape(edition.get("summary", {}).get("reader_note", "")),
         "{{SUMMARY_STATS}}": render_stats(edition),
         "{{FILTER_PILLS}}": render_filter_pills(edition),
-        "{{FEATURED_STORY}}": render_featured(edition),
+        "{{FEATURED_STORY}}": render_featured(edition, tones),
         "{{SECTIONS}}": sections,
         "{{ARCHIVE_HREF}}": archive_href,
         "{{LATEST_HREF}}": latest_href,

@@ -45,9 +45,11 @@ Configure Pages to deploy from the `main` branch and the `/docs` folder.
 Copy `content/_edition-template.json` when creating a new edition. The builder expects:
 
 - one `featured_story`
-- one or more `sections`
 - optional `summary`
+- one or more dynamic `sections`; each section should include `key`, `title`, `description`, and `stories`
 - each story to include `headline`, `summary`, `why_it_matters`, `sources`, and `countries`
+
+Sections are chosen by the daily research pass rather than by a fixed taxonomy. Recurring sections such as conflict, economy, space, climate, and diplomacy are fine when the news warrants them, but the generator also supports one-off natural sections. Romania and Reddit should usually stay as dedicated sections when they have meaningful signal.
 
 ## Notes
 

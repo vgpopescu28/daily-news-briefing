@@ -26,6 +26,14 @@
   --tone-romania: #335a9d;
   --tone-reddit: #b85931;
   --tone-default: #637080;
+  --tone-auto-1: #4f6f8f;
+  --tone-auto-2: #8a5c7f;
+  --tone-auto-3: #6c7448;
+  --tone-auto-4: #9a6642;
+  --tone-auto-5: #53756f;
+  --tone-auto-6: #745f9b;
+  --tone-auto-7: #7e6a43;
+  --tone-auto-8: #516f54;
 }
 
 :root[data-theme="dark"] {
@@ -319,15 +327,28 @@ a:hover {
   color: var(--active-pill-count);
 }
 
-.filter-pill[data-filter="conflict"] { border-color: var(--tone-conflict); }
-.filter-pill[data-filter="ukraine"] { border-color: var(--tone-ukraine); }
-.filter-pill[data-filter="diplomacy"] { border-color: var(--tone-diplomacy); }
-.filter-pill[data-filter="policy"] { border-color: var(--tone-policy); }
-.filter-pill[data-filter="economy"] { border-color: var(--tone-economy); }
-.filter-pill[data-filter="space"] { border-color: var(--tone-space); }
-.filter-pill[data-filter="environment"] { border-color: var(--tone-environment); }
-.filter-pill[data-filter="romania"] { border-color: var(--tone-romania); }
-.filter-pill[data-filter="reddit"] { border-color: var(--tone-reddit); }
+.tone-conflict { --card-tone: var(--tone-conflict); --card-tone-soft: rgba(159, 77, 47, 0.12); }
+.tone-ukraine { --card-tone: var(--tone-ukraine); --card-tone-soft: rgba(163, 107, 0, 0.13); }
+.tone-diplomacy { --card-tone: var(--tone-diplomacy); --card-tone-soft: rgba(113, 85, 163, 0.13); }
+.tone-policy { --card-tone: var(--tone-policy); --card-tone-soft: rgba(128, 96, 67, 0.13); }
+.tone-economy { --card-tone: var(--tone-economy); --card-tone-soft: rgba(53, 118, 93, 0.13); }
+.tone-space { --card-tone: var(--tone-space); --card-tone-soft: rgba(66, 106, 167, 0.13); }
+.tone-environment { --card-tone: var(--tone-environment); --card-tone-soft: rgba(77, 121, 87, 0.13); }
+.tone-romania { --card-tone: var(--tone-romania); --card-tone-soft: rgba(51, 90, 157, 0.13); }
+.tone-reddit { --card-tone: var(--tone-reddit); --card-tone-soft: rgba(184, 89, 49, 0.13); }
+.tone-default { --card-tone: var(--tone-default); --card-tone-soft: rgba(99, 112, 128, 0.13); }
+.tone-auto-1 { --card-tone: var(--tone-auto-1); --card-tone-soft: rgba(79, 111, 143, 0.13); }
+.tone-auto-2 { --card-tone: var(--tone-auto-2); --card-tone-soft: rgba(138, 92, 127, 0.13); }
+.tone-auto-3 { --card-tone: var(--tone-auto-3); --card-tone-soft: rgba(108, 116, 72, 0.13); }
+.tone-auto-4 { --card-tone: var(--tone-auto-4); --card-tone-soft: rgba(154, 102, 66, 0.13); }
+.tone-auto-5 { --card-tone: var(--tone-auto-5); --card-tone-soft: rgba(83, 117, 111, 0.13); }
+.tone-auto-6 { --card-tone: var(--tone-auto-6); --card-tone-soft: rgba(116, 95, 155, 0.13); }
+.tone-auto-7 { --card-tone: var(--tone-auto-7); --card-tone-soft: rgba(126, 106, 67, 0.13); }
+.tone-auto-8 { --card-tone: var(--tone-auto-8); --card-tone-soft: rgba(81, 111, 84, 0.13); }
+
+.filter-pill[class*="tone-"] {
+  border-color: var(--card-tone, var(--rule));
+}
 
 .featured-wrap,
 .news-section {
@@ -338,23 +359,13 @@ a:hover {
   display: block;
   padding: 1rem 1rem 1.05rem;
   background: var(--paper);
-  border-left: 5px solid var(--accent);
+  border-left: 5px solid var(--card-tone, var(--accent));
   border-top: 1px solid var(--rule);
   border-right: 1px solid var(--rule);
   border-bottom: 1px solid var(--rule);
   border-radius: 18px;
   box-shadow: 0 12px 34px rgba(37, 31, 24, 0.08);
 }
-
-.featured-card[data-category="conflict"] { border-left-color: var(--tone-conflict); }
-.featured-card[data-category="ukraine"] { border-left-color: var(--tone-ukraine); }
-.featured-card[data-category="diplomacy"] { border-left-color: var(--tone-diplomacy); }
-.featured-card[data-category="policy"] { border-left-color: var(--tone-policy); }
-.featured-card[data-category="economy"] { border-left-color: var(--tone-economy); }
-.featured-card[data-category="space"] { border-left-color: var(--tone-space); }
-.featured-card[data-category="environment"] { border-left-color: var(--tone-environment); }
-.featured-card[data-category="romania"] { border-left-color: var(--tone-romania); }
-.featured-card[data-category="reddit"] { border-left-color: var(--tone-reddit); }
 
 .featured-head {
   display: flex;
@@ -400,37 +411,17 @@ a:hover {
 .story-pill {
   display: inline-flex;
   width: fit-content;
-  color: var(--accent);
+  color: var(--card-tone, var(--accent));
   font-size: 0.76rem;
   font-weight: 900;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   padding: 0.28rem 0.56rem;
   border-radius: 999px;
-  background: var(--accent-soft);
+  background: var(--card-tone-soft, var(--accent-soft));
   margin-bottom: 0.48rem;
   line-height: 1;
 }
-
-.story-pill-conflict { color: var(--tone-conflict); background: rgba(159, 77, 47, 0.12); }
-.story-pill-ukraine { color: var(--tone-ukraine); background: rgba(163, 107, 0, 0.13); }
-.story-pill-diplomacy { color: var(--tone-diplomacy); background: rgba(113, 85, 163, 0.13); }
-.story-pill-policy { color: var(--tone-policy); background: rgba(128, 96, 67, 0.13); }
-.story-pill-economy { color: var(--tone-economy); background: rgba(53, 118, 93, 0.13); }
-.story-pill-space { color: var(--tone-space); background: rgba(66, 106, 167, 0.13); }
-.story-pill-environment { color: var(--tone-environment); background: rgba(77, 121, 87, 0.13); }
-.story-pill-romania { color: var(--tone-romania); background: rgba(51, 90, 157, 0.13); }
-.story-pill-reddit { color: var(--tone-reddit); background: rgba(184, 89, 49, 0.13); }
-
-.story-card[data-category="conflict"] { border-left-color: var(--tone-conflict); }
-.story-card[data-category="ukraine"] { border-left-color: var(--tone-ukraine); }
-.story-card[data-category="diplomacy"] { border-left-color: var(--tone-diplomacy); }
-.story-card[data-category="policy"] { border-left-color: var(--tone-policy); }
-.story-card[data-category="economy"] { border-left-color: var(--tone-economy); }
-.story-card[data-category="space"] { border-left-color: var(--tone-space); }
-.story-card[data-category="environment"] { border-left-color: var(--tone-environment); }
-.story-card[data-category="romania"] { border-left-color: var(--tone-romania); }
-.story-card[data-category="reddit"] { border-left-color: var(--tone-reddit); }
 
 .section-frame {
   padding: 0;
@@ -483,7 +474,7 @@ a:hover {
   padding: 0.9rem 1rem 0.95rem;
   background: var(--paper);
   border: 1px solid var(--rule);
-  border-left: 5px solid var(--tone-default);
+  border-left: 5px solid var(--card-tone, var(--tone-default));
   border-radius: 16px;
   box-shadow: 0 8px 26px rgba(37, 31, 24, 0.05);
   transition: border-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
