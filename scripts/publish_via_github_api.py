@@ -195,8 +195,19 @@ def sync_local_branch(branch: str, commit_sha: str) -> None:
     if current_branch != branch or "/.git/worktrees/" in git_dir:
         return
 
+    if not run_git(["fetch", "origin", branch]):
+        return
+
+    if not run_git(["cat-file", "-e", f"{commit_sha}^{{commit}}"]):
+        return
+
+    diff = subprocess.run(["git", "diff", "--quiet", commit_sha, "--"], cwd=ROOT, check=False)
+    if diff.returncode != 0:
+        print("Local git sync warning: published commit differs from the working tree; leaving local files untouched.")
+        return
+
     if run_git(["update-ref", f"refs/heads/{branch}", commit_sha]):
-        run_git(["read-tree", "--reset", commit_sha])
+        run_git(["add", "-u"])
 
 
 def publish(repo: str, branch: str, message: str) -> None:
