@@ -5,12 +5,21 @@
     root.dataset.theme = savedTheme;
   }
 
+  const currentTheme = () => root.dataset.theme || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const updateThemeButton = (button) => {
+    const isDark = currentTheme() === "dark";
+    button.textContent = isDark ? "☀" : "☾";
+    button.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
+  };
+
   document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
+    updateThemeButton(button);
     button.addEventListener("click", () => {
-      const current = root.dataset.theme || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      const current = currentTheme();
       const next = current === "dark" ? "light" : "dark";
       root.dataset.theme = next;
       localStorage.setItem("daily-news-theme", next);
+      updateThemeButton(button);
     });
   });
 
