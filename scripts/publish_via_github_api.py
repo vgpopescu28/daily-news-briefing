@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import base64
 import json
+import os
 import subprocess
 from pathlib import Path
 
@@ -31,6 +32,21 @@ TEXT_EXTENSIONS = {
     ".txt",
 }
 TEXT_FILENAMES = {".gitattributes", ".gitignore", ".nojekyll"}
+PROXY_ENV_VARS = (
+    "ALL_PROXY",
+    "HTTPS_PROXY",
+    "HTTP_PROXY",
+    "all_proxy",
+    "https_proxy",
+    "http_proxy",
+)
+
+
+def clean_network_env() -> dict[str, str]:
+    env = os.environ.copy()
+    for key in PROXY_ENV_VARS:
+        env.pop(key, None)
+    return env
 
 
 def run_json(args: list[str], payload: dict | None = None) -> dict:
@@ -40,6 +56,7 @@ def run_json(args: list[str], payload: dict | None = None) -> dict:
         "text": True,
         "capture_output": True,
         "check": False,
+        "env": clean_network_env(),
     }
     if payload is not None:
         cmd.extend(["--input", "-"])
