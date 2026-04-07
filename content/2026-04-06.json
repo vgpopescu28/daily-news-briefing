@@ -3,17 +3,17 @@
   "edition_title": "Daily Global News Briefing",
   "edition_kicker": "Morning Edition",
   "edition_subtitle": "Signals from war, markets, science, climate, and Romania.",
-  "generated_at": "2026-04-06T23:34:00+03:00",
+  "generated_at": "2026-04-06T23:29:00+03:00",
   "summary": {
-    "spotlight": "Middle East escalation is still driving the global news cycle, with military pressure, ceasefire diplomacy, and oil-market nerves all feeding into one another. Ukraine remains a grinding attritional war, while Artemis II's lunar flyby and Romania's fuel response show how quickly the same news day can span crisis management, science, and domestic policy.",
+    "spotlight": "Middle East escalation is still driving the global news cycle, with military pressure, ceasefire diplomacy, and oil-market nerves feeding into one another. Ukraine remains a grinding attritional war, while Artemis II's lunar flyby and Romania's fuel response show how quickly the same news day can span crisis management, science, and domestic policy.",
     "market_mood": "Volatile",
-    "reader_note": "This refresh tightens the edition around April 4-6 reporting from AP, Reuters-syndicated coverage, NASA, the White House, and Romanian outlets, while keeping a small Reddit pulse check."
+    "reader_note": "This refresh keeps the same broad structure but replaces weaker sourcing, trims one filler environment item, and updates the Reddit pulse check with live April 6 discussion."
   },
   "featured_story": {
     "category": "conflict",
     "label": "Top Story",
-    "headline": "Trump hardens the Strait of Hormuz deadline as Iran rejects a temporary truce",
-    "summary": "President Donald Trump said Iran must reopen the Strait of Hormuz by Tuesday night or risk wider attacks on bridges and power plants, while Tehran rejected a U.S.-backed 45-day ceasefire and demanded stronger guarantees against renewed strikes. The standoff kept the war's next move centered on shipping, energy flows, and the risk of broader regional escalation.",
+    "headline": "Iran rejects the latest ceasefire push as Trump hardens the Hormuz deadline",
+    "summary": "Iran rejected a U.S.-backed 45-day ceasefire framework and demanded firmer guarantees against renewed attacks, while President Donald Trump warned Tehran to reopen the Strait of Hormuz or face broader strikes on infrastructure. The immediate question remains whether diplomacy can slow a confrontation that is already shaping shipping, oil prices, and wider regional risk.",
     "why_it_matters": "Hormuz is one of the world's most important oil chokepoints, so any prolonged crisis there can quickly spill into inflation, shipping disruption, and recession risk.",
     "countries": ["Iran", "United States", "Israel"],
     "sources": [
@@ -23,7 +23,7 @@
       },
       {
         "name": "Reuters",
-        "url": "https://www.globalbankingandfinance.com/iran-u-receive-plan-end-hostilities-immediate-ceasefire/"
+        "url": "https://www.brecorder.com/news/40414972/us-iran-and-mediators-make-push-for-45-day-ceasefire-axios-reports"
       }
     ]
   },
@@ -77,14 +77,14 @@
         },
         {
           "label": "Ukraine",
-          "headline": "Ukraine keeps hitting Russian oil assets as Russian strikes continue on front-line cities",
-          "summary": "Kyiv continued targeting Russian oil infrastructure while Russian attacks hit Ukrainian urban areas, reinforcing the war's dual character as both a territorial fight and an infrastructure campaign. That pattern left civilians exposed while both sides looked for leverage away from the trenches.",
-          "why_it_matters": "Energy infrastructure is one of the clearest bridges between military pressure, export revenue, and daily civilian disruption.",
+          "headline": "Russian drone attack on Odesa kills three, including a child",
+          "summary": "Russia launched another overnight drone attack on Odesa, killing three people and damaging homes, infrastructure, and administrative buildings in the Black Sea port city. The strike reinforced how Moscow continues to pressure Ukraine's logistics hubs even as the wider international focus shifts toward the Middle East.",
+          "why_it_matters": "Odesa is central to Ukraine's exports and wartime logistics, so repeated strikes there carry both civilian and broader economic costs.",
           "countries": ["Russia", "Ukraine"],
           "sources": [
             {
-              "name": "Kyiv Independent",
-              "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-confirms-strikes-on-russian-oil-infrastructure-defying-calls-to-ease-attacks-amid-soaring-fuel-prices/"
+              "name": "Reuters",
+              "url": "https://www.brecorder.com/news/40414978/russian-drone-attack-on-ukraines-odesa-kills-three-regional-governor-says"
             }
           ]
         }
@@ -102,7 +102,7 @@
           "sources": [
             {
               "name": "Reuters",
-              "url": "https://www.globalbankingandfinance.com/iran-u-receive-plan-end-hostilities-immediate-ceasefire/"
+              "url": "https://www.brecorder.com/news/40414972/us-iran-and-mediators-make-push-for-45-day-ceasefire-axios-reports"
             }
           ]
         },
@@ -151,7 +151,7 @@
           "sources": [
             {
               "name": "Reuters",
-              "url": "https://za.investing.com/news/commodities-news/oil-prices-open-higher-as-usisraeli-war-with-iran-continues-to-disrupt-supply-4197339"
+              "url": "https://www.gmanetwork.com/news/money/economy/982702/oil-prices-open-higher-as-us-israeli-war-with-iran-continues-to-disrupt-supply/story/"
             }
           ]
         },
@@ -216,19 +216,6 @@
               "url": "https://www.fire.ca.gov/incidents"
             }
           ]
-        },
-        {
-          "label": "Environment",
-          "headline": "Clean-energy advocates say power demand is still supporting U.S. renewables",
-          "summary": "Even with federal policy pressure, rising electricity demand and state-level incentives are still helping solar, storage, and grid investment move forward. The key question is whether economics can keep the energy transition advancing when politics turn less favorable.",
-          "why_it_matters": "Energy-transition stories matter most when they show whether low-carbon buildout can continue under political stress.",
-          "countries": ["United States"],
-          "sources": [
-            {
-              "name": "AP",
-              "url": "https://apnews.com/"
-            }
-          ]
         }
       ]
     },
@@ -271,30 +258,30 @@
       "key": "reddit",
       "stories": [
         {
-          "label": "r/politics",
-          "headline": "Reddit politics tracks Iran's rejection of a ceasefire offer",
-          "summary": "A fast-moving discussion thread around Iran's rejection of the ceasefire proposal showed users focusing on escalation risk, U.S. credibility, and the odds of a wider war. It worked as a useful readout on where high-attention American political conversation was clustering.",
+          "label": "r/worldnews",
+          "headline": "r/worldnews turns Iran's ceasefire rejection into a debate over escalation and market trust",
+          "summary": "A heavily upvoted worldnews thread on Iran's rejection of the ceasefire proposal focused on whether Washington still has diplomatic credibility and how quickly the crisis could hit markets. It was one of the clearest public-reaction snapshots of the day around the conflict.",
           "why_it_matters": "Reddit offers a public-reaction layer that often surfaces anxiety and framing shifts before they show up in polling.",
           "countries": ["United States", "Iran"],
-          "score": "68",
+          "score": "2157",
           "sources": [
             {
               "name": "Reddit",
-              "url": "https://www.reddit.com/r/politics/comments/1se1cup/iran_rejects_ceasefire_proposal_with_us_as_war_of/"
+              "url": "https://www.reddit.com/r/worldnews/comments/1sdzaz8/iran_rejects_ceasefire_proposal_with_us_as_war_of/"
             }
           ]
         },
         {
-          "label": "r/SpaceXLounge",
-          "headline": "Artemis II launch and flyby chatter keeps space Reddit focused on NASA's deep-space return",
-          "summary": "A discussion thread around Artemis II drew reactions on mission execution, NASA's public presentation, and the broader argument over government versus commercial spaceflight. It served as a useful public-interest signal beside the formal NASA coverage.",
+          "label": "r/space",
+          "headline": "r/space treats Artemis II's lunar flyby as a rare shared live event",
+          "summary": "The main Artemis II megathread stayed highly active as users followed the crewed lunar flyby, swapping mission updates, technical explanations, and emotional reactions to the first human Moon flight in decades. It was a good indicator that the science story was breaking through far beyond specialist media.",
           "why_it_matters": "Audience reaction helps show which science stories are actually breaking through beyond specialist reporting.",
           "countries": ["United States"],
-          "score": "1",
+          "score": "10041",
           "sources": [
             {
               "name": "Reddit",
-              "url": "https://www.reddit.com/r/SpaceXLounge/comments/1s9zxoz/artemis_ii_has_launched/"
+              "url": "https://www.reddit.com/r/space/comments/1s9qfc7/megathread_artemis_ii_launch_to_the_moon/"
             }
           ]
         }

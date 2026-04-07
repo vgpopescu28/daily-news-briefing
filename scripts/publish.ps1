@@ -43,17 +43,32 @@ function Get-DefaultBranch {
 
 python .\scripts\build_site.py
 
-Invoke-GitWithRetry -GitArgs @("add", "README.md", "content", "docs", "prompts", "scripts", "site", ".gitignore")
+if (-not $Message) {
+  $today = Get-Date -Format "yyyy-MM-dd"
+  $Message = "Publish daily news for $today"
+}
+
+$gitDir = (& git rev-parse --git-dir 2>$null)
+if ($LASTEXITCODE -eq 0 -and $gitDir -match "[/\\]\.git[/\\]worktrees[/\\]") {
+  python .\scripts\publish_via_github_api.py --message $Message
+  exit $LASTEXITCODE
+}
+
+try {
+  Invoke-GitWithRetry -GitArgs @("add", "README.md", "content", "docs", "prompts", "scripts", "site", ".gitignore")
+} catch {
+  $text = ($_ | Out-String)
+  if ($text -match 'index\.lock' -or $text -match 'Permission denied' -or $text -match 'Unable to create') {
+    python .\scripts\publish_via_github_api.py --message $Message
+    exit $LASTEXITCODE
+  }
+  throw
+}
 
 git diff --cached --quiet
 if ($LASTEXITCODE -eq 0) {
   Write-Host "No changes to commit."
   exit 0
-}
-
-if (-not $Message) {
-  $today = Get-Date -Format "yyyy-MM-dd"
-  $Message = "Publish daily news for $today"
 }
 
 Invoke-GitWithRetry -GitArgs @("commit", "-m", $Message)
