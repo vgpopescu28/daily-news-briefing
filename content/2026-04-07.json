@@ -3,7 +3,7 @@
   "edition_title": "Daily Global News Briefing",
   "edition_kicker": "Morning Edition",
   "edition_subtitle": "Signals from Hormuz, Ukraine, energy markets, science, environment, and Romania.",
-  "generated_at": "2026-04-07T09:50:00+03:00",
+  "generated_at": "2026-04-07T14:54:00+03:00",
   "summary": {
     "spotlight": "The Iran-Hormuz crisis is the dominant global story, with Tehran rejecting a temporary ceasefire, Trump setting an 8 p.m. EDT deadline, and shipping and energy markets still under stress. Ukraine is testing a narrower energy-ceasefire channel while striking Russian oil infrastructure, and Artemis II gave the day a rare science milestone as humans traveled farther from Earth than ever before.",
     "market_mood": "Volatile",
@@ -30,6 +30,10 @@
   "sections": [
     {
       "key": "conflict",
+      "title": "Middle East Crisis",
+      "description": "The Iran-Hormuz standoff is driving the largest global risk signals today.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
       "stories": [
         {
           "label": "Conflict",
@@ -61,6 +65,10 @@
     },
     {
       "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Kyiv is testing a narrow ceasefire channel while keeping pressure on Russian energy assets.",
+      "kicker": "War & Diplomacy",
+      "tone": "ukraine",
       "stories": [
         {
           "label": "Ukraine",
@@ -96,6 +104,10 @@
     },
     {
       "key": "diplomacy",
+      "title": "Diplomacy",
+      "description": "Mediation and U.N. talks are trying to convert shipping pressure into a pause in fighting.",
+      "kicker": "Negotiation Track",
+      "tone": "diplomacy",
       "stories": [
         {
           "label": "Diplomacy",
@@ -127,6 +139,10 @@
     },
     {
       "key": "policy",
+      "title": "U.S. Policy",
+      "description": "Washington's public legal and military signals are shaping the room for escalation.",
+      "kicker": "Decision Point",
+      "tone": "policy",
       "stories": [
         {
           "label": "U.S. Policy",
@@ -149,6 +165,10 @@
     },
     {
       "key": "economy",
+      "title": "Markets & Energy",
+      "description": "Oil, LNG, and OPEC supply signals show how fast the crisis is reaching the global economy.",
+      "kicker": "Market Mood",
+      "tone": "economy",
       "stories": [
         {
           "label": "Energy",
@@ -180,6 +200,10 @@
     },
     {
       "key": "space",
+      "title": "Science & Space",
+      "description": "Artemis II is giving the day a rare human-spaceflight milestone amid the crisis cycle.",
+      "kicker": "Science Signal",
+      "tone": "space",
       "stories": [
         {
           "label": "Space",
@@ -215,6 +239,10 @@
     },
     {
       "key": "environment",
+      "title": "Environment",
+      "description": "One war-zone conservation story shows the quieter ecological costs still unfolding.",
+      "kicker": "Ecology",
+      "tone": "environment",
       "stories": [
         {
           "label": "Environment",
@@ -233,6 +261,10 @@
     },
     {
       "key": "romania",
+      "title": "Romania",
+      "description": "Romania's domestic financial and fuel measures are responding to a more volatile energy backdrop.",
+      "kicker": "Local Lens",
+      "tone": "romania",
       "stories": [
         {
           "label": "Romania",
@@ -264,6 +296,10 @@
     },
     {
       "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Selected threads show how readers are connecting shipping, Ukraine, and Artemis II to daily life.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
       "stories": [
         {
           "label": "r/worldnews",
