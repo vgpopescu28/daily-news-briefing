@@ -148,10 +148,6 @@ def posix_relative(path: Path) -> str:
     return path.relative_to(ROOT).as_posix()
 
 
-def is_publish_path(path: str) -> bool:
-    return any(path == root or path.startswith(f"{root}/") for root in PUBLISH_PATHS)
-
-
 def git_blob_sha(content: bytes) -> str:
     header = f"blob {len(content)}\0".encode("ascii")
     return hashlib.sha1(header + content).hexdigest()
@@ -192,11 +188,9 @@ def publish(repo: str, branch: str, message: str) -> None:
     remote_files = fetch_tree_files(repo, base_tree)
 
     tree_entries = []
-    local_files = {}
     for path in iter_publish_files():
         relative_path = posix_relative(path)
         content = read_blob_bytes(path)
-        local_files[relative_path] = content
         if remote_files.get(relative_path) == git_blob_sha(content):
             continue
         blob_sha = create_blob(repo, path)
@@ -208,10 +202,6 @@ def publish(repo: str, branch: str, message: str) -> None:
                 "sha": blob_sha,
             }
         )
-
-    for remote_path in sorted(remote_files):
-        if is_publish_path(remote_path) and remote_path not in local_files:
-            tree_entries.append({"path": remote_path, "sha": None})
 
     if not tree_entries:
         print("No changes to commit.")
