@@ -55,7 +55,7 @@ if ($LASTEXITCODE -eq 0 -and $gitDir -match "[/\\]\.git[/\\]worktrees[/\\]") {
 }
 
 try {
-  Invoke-GitWithRetry -GitArgs @("add", "README.md", "content", "docs", "prompts", "scripts", "site", ".gitignore")
+  Invoke-GitWithRetry -GitArgs @("add", "README.md", "content", "docs", "prompts", "scripts", "site", ".gitattributes", ".gitignore")
 } catch {
   $text = ($_ | Out-String)
   if ($text -match 'index\.lock' -or $text -match 'Permission denied' -or $text -match 'Unable to create') {

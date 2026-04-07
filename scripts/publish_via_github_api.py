@@ -9,6 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PUBLISH_PATHS = [
+    ".gitattributes",
     ".gitignore",
     "README.md",
     "content",
@@ -17,6 +18,19 @@ PUBLISH_PATHS = [
     "scripts",
     "site",
 ]
+
+TEXT_EXTENSIONS = {
+    ".css",
+    ".html",
+    ".js",
+    ".json",
+    ".md",
+    ".ps1",
+    ".py",
+    ".toml",
+    ".txt",
+}
+TEXT_FILENAMES = {".gitattributes", ".gitignore", ".nojekyll"}
 
 
 def run_json(args: list[str], payload: dict | None = None) -> dict:
@@ -78,8 +92,15 @@ def posix_relative(path: Path) -> str:
     return path.relative_to(ROOT).as_posix()
 
 
+def read_blob_bytes(path: Path) -> bytes:
+    if path.name in TEXT_FILENAMES or path.suffix.lower() in TEXT_EXTENSIONS:
+        text = path.read_text(encoding="utf-8").replace("\r\n", "\n").replace("\r", "\n")
+        return text.encode("utf-8")
+    return path.read_bytes()
+
+
 def create_blob(repo: str, path: Path) -> str:
-    content = base64.b64encode(path.read_bytes()).decode("ascii")
+    content = base64.b64encode(read_blob_bytes(path)).decode("ascii")
     blob = run_json(
         [f"repos/{repo}/git/blobs", "--method", "POST"],
         {"content": content, "encoding": "base64"},
