@@ -3,11 +3,11 @@
   "edition_title": "Daily Global News Briefing",
   "edition_kicker": "Morning Edition",
   "edition_subtitle": "Signals from Hormuz, Ukraine, energy markets, science, environment, and Romania.",
-  "generated_at": "2026-04-07T09:45:00+03:00",
+  "generated_at": "2026-04-07T09:50:00+03:00",
   "summary": {
     "spotlight": "The Iran-Hormuz crisis is the dominant global story, with Tehran rejecting a temporary ceasefire, Trump setting an 8 p.m. EDT deadline, and shipping and energy markets still under stress. Ukraine is testing a narrower energy-ceasefire channel while striking Russian oil infrastructure, and Artemis II gave the day a rare science milestone as humans traveled farther from Earth than ever before.",
     "market_mood": "Volatile",
-    "reader_note": "This edition prioritizes direct wire and public-broadcaster reporting, then adds two Reddit threads that show how the same energy and space stories are landing with readers."
+    "reader_note": "This edition prioritizes direct wire and public-broadcaster reporting, then adds three Reddit threads that show how the same energy, Ukraine, and space stories are landing with readers."
   },
   "featured_story": {
     "category": "conflict",
@@ -280,16 +280,30 @@
           ]
         },
         {
-          "label": "r/space",
-          "headline": "r/space follows Artemis II as a live shared Moon moment",
-          "summary": "The r/space Artemis II megathread stayed active through the flyby, mixing technical mission updates with emotional reactions to the first crewed Moon mission in more than 50 years. The discussion spiked again as users followed the record distance, far-side observations, and the crew's human moments in deep space.",
+          "label": "r/science",
+          "headline": "r/science follows Artemis II as a live shared Moon moment",
+          "summary": "The r/science Artemis II megathread stayed active through the flyby, mixing technical mission updates with emotional reactions to the first crewed Moon mission in more than 50 years. The discussion spiked again as users followed the record distance, far-side observations, and the crew's human moments in deep space.",
           "why_it_matters": "The reaction shows Artemis II breaking beyond specialist space media into a wider public event.",
           "countries": ["United States", "Canada"],
           "score": "10102",
           "sources": [
             {
               "name": "Reddit",
-              "url": "https://www.reddit.com/r/space/comments/1s9qfc7/megathread_artemis_ii_launch_to_the_moon/"
+              "url": "https://www.reddit.com/r/science/comments/1s9o2nh/artemis_ii_launch_megathread/"
+            }
+          ]
+        },
+        {
+          "label": "r/worldnews",
+          "headline": "Ukraine refinery strike thread weighs battlefield impact against fuel-price pain",
+          "summary": "A r/worldnews thread on Ukrainian drones reportedly striking a Russian oil refinery mixed support for hitting Russia's war economy with concern about the wider fuel-price impact. The conversation connects Ukraine's infrastructure campaign to the already strained global oil market.",
+          "why_it_matters": "It shows readers linking Ukraine's tactical strikes with the same household energy pressures being driven by the Hormuz crisis.",
+          "countries": ["Ukraine", "Russia"],
+          "score": "1303",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/worldnews/comments/1sa6rnt/ukrainian_drones_reportedly_strike_oil_refinery/"
             }
           ]
         }
