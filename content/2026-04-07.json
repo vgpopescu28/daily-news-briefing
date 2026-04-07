@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-07",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Signals from Hormuz, Ukraine, energy markets, science, environment, and Romania.",
+  "generated_at": "2026-04-07T09:45:00+03:00",
+  "summary": {
+    "spotlight": "The Iran-Hormuz crisis is the dominant global story, with Tehran rejecting a temporary ceasefire, Trump setting an 8 p.m. EDT deadline, and shipping and energy markets still under stress. Ukraine is testing a narrower energy-ceasefire channel while striking Russian oil infrastructure, and Artemis II gave the day a rare science milestone as humans traveled farther from Earth than ever before.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes direct wire and public-broadcaster reporting, then adds two Reddit threads that show how the same energy and space stories are landing with readers."
+  },
+  "featured_story": {
+    "category": "conflict",
+    "label": "Top Story",
+    "headline": "Iran rejects a ceasefire as Trump's Hormuz deadline reaches its final day",
+    "summary": "Iran rejected a U.S. proposal mediated through Pakistan for an immediate ceasefire and quick reopening of the Strait of Hormuz, saying it wants a permanent end to the war instead. President Donald Trump kept an 8 p.m. EDT Tuesday deadline in place and threatened broader strikes if shipping through the strait does not fully resume.",
+    "why_it_matters": "Hormuz normally carries about a fifth of global oil and gas flows, so the deadline links a military crisis directly to inflation, shipping, and energy security.",
+    "countries": ["Iran", "United States", "Israel", "Pakistan"],
+    "sources": [
+      {
+        "name": "Reuters via GMA News",
+        "url": "https://www.gmanetwork.com/news/topstories/world/982884/iran-defiant-on-eve-of-trump-s-ceasefire-deadline/story/"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/421ee64fdc9a5c26460df8119c7d1b3f"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "conflict",
+      "stories": [
+        {
+          "label": "Conflict",
+          "headline": "Saudi Arabia closes its Bahrain causeway after Iranian missile fire",
+          "summary": "Saudi Arabia closed the King Fahd Causeway linking it to Bahrain after Iranian missiles targeted the kingdom's oil-rich Eastern Province. The move came as Iran urged youths to form human chains around power plants and Israel warned Iranians to avoid trains, suggesting infrastructure targets remain central to the next phase of escalation.",
+          "why_it_matters": "The war is no longer contained to bilateral U.S.-Iran signaling; Gulf states, civilian transport links, and energy infrastructure are now directly exposed.",
+          "countries": ["Saudi Arabia", "Bahrain", "Iran", "Israel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/421ee64fdc9a5c26460df8119c7d1b3f"
+            }
+          ]
+        },
+        {
+          "label": "Conflict",
+          "headline": "Iran halts two Qatar LNG tankers that had been cleared for Hormuz transit",
+          "summary": "Iran's Revolutionary Guards halted two Qatar LNG tankers that had been heading toward the Strait of Hormuz after a prior transit arrangement negotiated through Pakistan. Ship-tracking data showed both vessels had not crossed the strait and were positioned off the UAE coast.",
+          "why_it_matters": "LNG cargoes are a key test of whether any partial shipping deal is real, and a failed crossing keeps pressure on Asian and European energy buyers.",
+          "countries": ["Iran", "Qatar", "United Arab Emirates", "Pakistan"],
+          "sources": [
+            {
+              "name": "Reuters via Arab News",
+              "url": "https://www.arabnews.com/node/2638999/middle-east"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "stories": [
+        {
+          "label": "Ukraine",
+          "headline": "Zelensky proposes a reciprocal energy ceasefire with Russia",
+          "summary": "President Volodymyr Zelensky said Ukraine had proposed, through U.S. intermediaries, that both sides stop striking each other's energy infrastructure. Kyiv is also preparing proposals on security guarantees ahead of an expected U.S. delegation visit after Orthodox Easter.",
+          "why_it_matters": "A narrow energy ceasefire would not end the war, but it could reduce winter-style civilian pressure and create a smaller test of Russian intent.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [
+            {
+              "name": "The Kyiv Independent",
+              "url": "https://kyivindependent.com/ukraine-proposes-energy-ceasefire-to-russia-zelensky-says/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine",
+          "headline": "Ukraine keeps pressure on Russian energy infrastructure",
+          "summary": "Ukrainian reporting pointed to fresh strikes on Russian oil infrastructure, including Ust-Luga and other export-linked facilities, after an earlier wave of attacks on Russian fuel and port assets. The campaign intersects with a global oil shock already driven by the Hormuz crisis.",
+          "why_it_matters": "Ukraine's ability to hit Russian energy revenues now carries extra market weight because global spare supply is already constrained.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "The Kyiv Independent",
+              "url": "https://kyivindependent.com/"
+            },
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/worldnews/comments/1sczmal/ukraine_reportedly_strikes_russian_lukoil/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "diplomacy",
+      "stories": [
+        {
+          "label": "Diplomacy",
+          "headline": "Pakistan's ceasefire channel remains active but far from a settlement",
+          "summary": "Pakistan's mediation produced a framework that would start with an immediate ceasefire and a reopening of Hormuz, followed by broader talks within roughly 15 to 20 days. Iran's response instead emphasized a permanent end to the war, sanctions relief, reconstruction, and a protocol for safe passage.",
+          "why_it_matters": "The gap between a temporary pause and a permanent settlement explains why the latest diplomatic track has not yet lowered escalation risk.",
+          "countries": ["Pakistan", "Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reuters via GMA News",
+              "url": "https://www.gmanetwork.com/news/topstories/world/982884/iran-defiant-on-eve-of-trump-s-ceasefire-deadline/story/"
+            }
+          ]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "U.N. Security Council weighs a watered-down Hormuz shipping resolution",
+          "summary": "A U.N. Security Council vote was expected on a resolution aimed at protecting commercial shipping in the Strait of Hormuz, but Reuters reported that the measure had been softened after China opposed authorizing force. The debate highlights how hard it is to build a shared enforcement line around the strait.",
+          "why_it_matters": "Without a clear multilateral path, commercial shipping remains dependent on ad hoc exemptions, mediation, and military risk calculations.",
+          "countries": ["United Nations", "China", "Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reuters via New Straits Times",
+              "url": "https://www.nst.com.my/amp/business/corporate/2026/04/1411973/gold-steady-investors-await-trump-deadline-strait-hormuz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "policy",
+      "stories": [
+        {
+          "label": "U.S. Policy",
+          "headline": "Trump says he is not worried about war-crimes concerns over Iran threats",
+          "summary": "Trump said he was not concerned about possible war-crimes questions as he threatened to strike Iranian infrastructure if Tehran did not reopen the strait. International leaders and legal experts warned that attacks on civilian infrastructure can violate the laws of war depending on the target and proportionality.",
+          "why_it_matters": "The public legal framing matters because it shapes the political room for escalation before any new strikes occur.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/421ee64fdc9a5c26460df8119c7d1b3f"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "stories": [
+        {
+          "label": "Energy",
+          "headline": "Oil extends gains as traders wait on the Hormuz deadline",
+          "summary": "Brent and WTI rose again Tuesday as markets reacted to Trump's sharper Iran rhetoric and Tehran's rejection of a temporary ceasefire. Reuters reported Brent around $110 and WTI above $113 in morning trade, keeping fuel, freight, and inflation risk elevated.",
+          "why_it_matters": "Energy prices are the fastest channel through which the conflict reaches households, transport networks, and central-bank policy.",
+          "countries": ["Iran", "United States", "Saudi Arabia", "Qatar"],
+          "sources": [
+            {
+              "name": "Reuters via Business Recorder",
+              "url": "https://www.brecorder.com/news/40415137/oil-prices-extend-gains-as-trump-sharpens-rhetoric-on-iran"
+            }
+          ]
+        },
+        {
+          "label": "Energy",
+          "headline": "OPEC+ offers a quota boost that cannot help much until Hormuz reopens",
+          "summary": "OPEC+ agreed to raise May output quotas by 206,000 barrels per day, but Reuters reported the increase is largely symbolic while exports from Saudi Arabia, the UAE, Kuwait, and Iraq remain constrained by the Hormuz disruption. Analysts said extra barrels matter only if the shipping route can function again.",
+          "why_it_matters": "A paper supply increase does little for consumers if physical exports remain trapped behind a maritime chokepoint.",
+          "countries": ["Saudi Arabia", "United Arab Emirates", "Kuwait", "Iraq", "Russia"],
+          "sources": [
+            {
+              "name": "Reuters via The Daily Star",
+              "url": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/opec-agrees-boost-oil-output-when-strait-hormuz-reopens-4144271"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "space",
+      "stories": [
+        {
+          "label": "Space",
+          "headline": "Artemis II breaks Apollo 13's distance record",
+          "summary": "NASA's Artemis II crew traveled farther from Earth than any humans before them during the lunar flyby, surpassing Apollo 13's distance record and reaching the mission's maximum distance beyond the Moon. The crew is now heading home after the far-side pass.",
+          "why_it_matters": "The milestone validates deep-space crew systems for NASA's lunar return program and gives Artemis a high-visibility public proof point.",
+          "countries": ["United States", "Canada"],
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.islapublic.org/2026-04-06/nasas-artemis-ii-crew-readies-for-mondays-lunar-flyby-heres-what-you-need-to-know"
+            },
+            {
+              "name": "Reuters via GMA News",
+              "url": "https://www.gmanetwork.com/news/scitech/science/982849/artemis-moon-mission-breaks-record/story"
+            }
+          ]
+        },
+        {
+          "label": "Science",
+          "headline": "Artemis II astronauts gather human observations of the lunar far side",
+          "summary": "Scientists tracked the crew's real-time observations as Artemis II looped around the Moon, using the flyby to compare what astronauts can see with what orbital instruments have already mapped. NPR noted the mission is giving humans a direct view of lunar terrain no crew has seen from that path before.",
+          "why_it_matters": "Human observation is still valuable when mission planners are deciding how future crews will work around the Moon and eventually on its surface.",
+          "countries": ["United States", "Canada"],
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.islapublic.org/2026-04-07/what-can-artemis-ii-astronauts-see-that-satellites-havent-captured"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "stories": [
+        {
+          "label": "Environment",
+          "headline": "Ukraine releases hundreds of protected bats rescued from war zones",
+          "summary": "Volunteers in Kyiv released hundreds of rescued bats, many from war-damaged areas, as part of a spring wildlife effort. AP reported that all 28 bat species in Ukraine are protected and that destroyed buildings and explosions have damaged hibernation sites.",
+          "why_it_matters": "The story shows how war damages ecosystems as well as cities, and how conservation work continues even under repeated attacks.",
+          "countries": ["Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/810fc1d18dfee2db1a1e34ba2f17f136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "stories": [
+        {
+          "label": "Romania",
+          "headline": "Romania's diesel excise cut takes effect as fuel-price pressure builds",
+          "summary": "Romania's government adopted a second fuel-market intervention package that lowers the excise duty on standard diesel by 36 bani per liter including VAT and introduces a solidarity contribution for oil-sector companies. The measure takes effect April 7 and is meant to stay in force while domestic and international fuel prices remain in crisis.",
+          "why_it_matters": "Diesel makes up most Romanian fuel consumption, so Bucharest is targeting the fuel with the clearest inflation pass-through.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/april-6-2026-id1003239.html"
+            }
+          ]
+        },
+        {
+          "label": "Romania",
+          "headline": "Treasury securities reopen to Romanian retail investors",
+          "summary": "Romanians can invest from April 6 through early May in Treasury government securities with 1-, 3-, and 5-year maturities and annual interest rates of 6.50%, 7%, and 7.50%. Radio Romania International reported that first-quarter subscriptions under the program exceeded 7.75 billion lei.",
+          "why_it_matters": "High retail demand for state securities gives the government a domestic financing channel at a time when energy and budget pressures remain visible.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/april-6-2026-id1003239.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Reddit debates whether partial Hormuz openings are leverage or de-escalation",
+          "summary": "A highly upvoted r/worldnews thread on Iran allowing a small number of ships through the Strait of Hormuz turned into a discussion of oil fungibility, toll leverage, the petrodollar, and whether country-by-country passage deals could undermine U.S. influence.",
+          "why_it_matters": "The thread is a useful public-reaction snapshot because it connects a technical shipping story to household fuel prices and geopolitical power.",
+          "countries": ["Iran", "United States", "Saudi Arabia"],
+          "score": "15456",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/worldnews/comments/1sdm8gi/iran_allows_15_ships_through_strait_of_hormuz/"
+            }
+          ]
+        },
+        {
+          "label": "r/space",
+          "headline": "r/space follows Artemis II as a live shared Moon moment",
+          "summary": "The r/space Artemis II megathread stayed active through the flyby, mixing technical mission updates with emotional reactions to the first crewed Moon mission in more than 50 years. The discussion spiked again as users followed the record distance, far-side observations, and the crew's human moments in deep space.",
+          "why_it_matters": "The reaction shows Artemis II breaking beyond specialist space media into a wider public event.",
+          "countries": ["United States", "Canada"],
+          "score": "10102",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/space/comments/1s9qfc7/megathread_artemis_ii_launch_to_the_moon/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
