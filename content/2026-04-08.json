@@ -1,0 +1,315 @@
+{
+  "date": "2026-04-08",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Signals from the Iran ceasefire, Hormuz shipping, Ukraine, markets, space, tech, and Romania.",
+  "generated_at": "2026-04-08T09:05:49+03:00",
+  "summary": {
+    "spotlight": "The two-week U.S.-Iran-Israel ceasefire is the dominant global story, but it is still fragile: Iran wants to manage Hormuz traffic, Israel says Lebanon is outside the pause, and missile alerts continued after the announcement. Markets immediately priced in relief as oil fell and Asian shares jumped, while Ukraine tried to advance a narrower Easter energy pause and Artemis II supplied a rare science milestone.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition prioritizes AP and Reuters-linked reporting for the Middle East, markets, Ukraine, science, and tech. The Romania section uses the latest meaningful domestic fuel-market measures because no stronger April 8 Romania update was available during the morning scan."
+  },
+  "featured_story": {
+    "category": "conflict",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "U.S., Iran and Israel agree to a two-week ceasefire, but the terms remain contested",
+    "summary": "The United States, Iran and Israel reached a tentative two-week ceasefire after President Donald Trump pulled back from threats of large-scale strikes on Iran shortly before his deadline. AP reported that the deal includes talks expected in Islamabad and a reopening of the Strait of Hormuz, but Iran is still insisting on control and shipping fees while Israel says the ceasefire does not cover its war with Hezbollah in Lebanon.",
+    "why_it_matters": "The agreement reduces the immediate risk of wider U.S.-Iran escalation, but unclear rules around Hormuz, Lebanon and post-ceasefire fire mean the shock to energy, shipping and regional security is not over.",
+    "countries": ["United States", "Iran", "Israel", "Pakistan", "Lebanon", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-7-2026-421ee64fdc9a5c26460df8119c7d1b3f"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "conflict",
+      "title": "Middle East Crisis",
+      "description": "The ceasefire eased the immediate crisis but left several live points of friction.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Ceasefire",
+          "headline": "Iran and Oman are set to collect Hormuz shipping fees during the pause",
+          "summary": "Iranian Foreign Minister Abbas Araghchi said passage through the Strait of Hormuz would be allowed under Iranian military management. AP reported that a regional official described a plan for both Iran and Oman to charge vessels using the chokepoint, with Tehran saying the money would support reconstruction.",
+          "why_it_matters": "A reopened strait is not the same as a normalized strait; fees and military management could leave shipping costs, insurance risk and diplomatic tension elevated.",
+          "countries": ["Iran", "Oman", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-7-2026-421ee64fdc9a5c26460df8119c7d1b3f"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon",
+          "headline": "Israel says the Iran ceasefire does not apply to Hezbollah in Lebanon",
+          "summary": "Prime Minister Benjamin Netanyahu backed the U.S.-Iran pause but said it does not cover fighting against Hezbollah in Lebanon, where Israeli operations continued Wednesday morning. AP said that position conflicted with broader mediator language from Pakistan, which had suggested talks could start quickly in Islamabad.",
+          "why_it_matters": "The carveout means a regional ceasefire can still coexist with active fighting on one of the conflict's most dangerous fronts.",
+          "countries": ["Israel", "Lebanon", "Iran", "Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-7-2026-421ee64fdc9a5c26460df8119c7d1b3f"
+            }
+          ]
+        },
+        {
+          "label": "United Nations",
+          "headline": "Russia and China veto U.N. resolution on reopening Hormuz",
+          "summary": "Russia and China vetoed a watered-down U.N. Security Council resolution that called for reopening the Strait of Hormuz. AP reported an 11-2 vote with Pakistan and Colombia abstaining, while Moscow and Beijing said the draft risked giving the U.S. and Israel cover for continued aggression.",
+          "why_it_matters": "The veto shows that even with a ceasefire, there is no shared Security Council enforcement path for the world's most important oil chokepoint.",
+          "countries": ["United Nations", "Russia", "China", "Iran", "United States", "Bahrain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/un-iran-us-strait-hormuz-bahrain-resolution-640e644b57df5c762ed9c57ef87b0427"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Kyiv is testing a limited energy pause while Russia keeps striking civilian transport and cities.",
+      "kicker": "War & Diplomacy",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Ceasefire Test",
+          "headline": "Zelenskyy offers an Orthodox Easter pause on energy strikes",
+          "summary": "President Volodymyr Zelenskyy said Ukraine had proposed, through the United States, a pause in attacks on each side's energy infrastructure over the Orthodox Easter holiday. AP reported there was no immediate Russian response and that Zelenskyy doubted Moscow would accept while it benefits from higher oil prices linked to the Iran war.",
+          "why_it_matters": "A narrow energy pause would not end the war, but it would test whether Russia is willing to reduce pressure on civilians and infrastructure even temporarily.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [
+            {
+              "name": "AP via News4JAX",
+              "url": "https://www.news4jax.com/news/world/2026/04/07/zelenskyy-offers-an-easter-pause-on-energy-strikes-as-russian-drone-kills-4-in-bus-strike/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine",
+          "headline": "Russian drone strike on a bus in Nikopol kills civilians",
+          "summary": "A Russian drone hit a bus as it approached a stop in Nikopol during morning rush hour, killing four civilians and injuring 15, Ukrainian authorities said. AP also reported additional civilian deaths in Kherson and near Synelnykove, plus power cuts in eastern and southern areas after artillery and drone strikes.",
+          "why_it_matters": "The attack underlines why a technical energy-ceasefire channel sits beside an active civilian-protection crisis, not instead of one.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP via News4JAX",
+              "url": "https://www.news4jax.com/news/world/2026/04/07/zelenskyy-offers-an-easter-pause-on-energy-strikes-as-russian-drone-kills-4-in-bus-strike/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Markets & Energy",
+      "description": "Markets priced in relief, but the supply chain still depends on whether tankers actually trust the ceasefire.",
+      "kicker": "Market Mood",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil",
+          "headline": "Oil slides below $100 after Trump announces the two-week Iran ceasefire",
+          "summary": "Reuters reported that Brent fell about 13.6% to $94.43 a barrel and WTI dropped about 14.3% to $96.82 after Trump said he would suspend attacks on Iran for two weeks, subject to an immediate and safe reopening of Hormuz. The move reversed part of the war-driven spike but left prices above pre-crisis levels.",
+          "why_it_matters": "Oil's reaction is the quickest measure of whether traders believe the ceasefire can restore Gulf exports, but a temporary pause does not erase inflation or shipping risk.",
+          "countries": ["Iran", "United States", "Oman"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/financial-markets-iran-oil-bcd3342cd0b4e60ebedc1e81db08f465"
+            }
+          ]
+        },
+        {
+          "label": "Markets",
+          "headline": "Asian shares jump as investors bet on de-escalation",
+          "summary": "AP reported broad gains in Wednesday morning trading after the ceasefire announcement, with Japan's Nikkei 225 up 5.0%, South Korea's Kospi up 5.9%, Australia's S&P/ASX 200 up 2.6%, and Hong Kong's Hang Seng up 2.6%. The rally followed a sharp drop in crude prices and relief that the threatened U.S. escalation had been paused.",
+          "why_it_matters": "The market rebound shows how tightly equities, currencies and bonds have been tied to the Strait of Hormuz shock.",
+          "countries": ["Japan", "South Korea", "Australia", "China", "United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-2fc5ac7823bea71984b3578ec36aacee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-tech",
+      "title": "Science & Tech",
+      "description": "Spaceflight milestones and platform-accountability stories stood out beyond the crisis cycle.",
+      "kicker": "Science Signal",
+      "stories": [
+        {
+          "label": "Space",
+          "headline": "Artemis II calls the International Space Station from the trip home",
+          "summary": "AP reported that the Artemis II crew made the first moonship-to-spaceship radio linkup with astronauts aboard the International Space Station while heading home after the lunar flyby. The call came while the crew was roughly 230,000 miles from the station crew and still sending back mission data.",
+          "why_it_matters": "The linkup turns Artemis II from a navigation and life-support test into a visible step toward routine crew operations beyond low Earth orbit.",
+          "countries": ["United States", "Canada", "France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/artemis-moon-astronauts-space-station-ee54471e830fee1e3e95e9891116f3d7"
+            }
+          ]
+        },
+        {
+          "label": "Space",
+          "headline": "Artemis II's Earthset image becomes the mission's Apollo 8-style moment",
+          "summary": "The Artemis II crew captured an Earthset image as Earth slipped behind the Moon during Monday's flyby. AP reported that the crew had returned more than 50 gigabytes of pictures and other data, including observations of tiny flashes on the lunar surface that scientists are still assessing.",
+          "why_it_matters": "The photo gives the mission a public image comparable to Apollo 8's Earthrise while also feeding scientists new crew-observed lunar data.",
+          "countries": ["United States", "Canada"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nasa-artemis-moon-astronauts-earthset-5ca505933a4c22e6859f15cc100858b6"
+            }
+          ]
+        },
+        {
+          "label": "AI",
+          "headline": "Science study warns that chatbots can flatter users into bad advice",
+          "summary": "A study published in Science tested 11 leading AI systems and found varying degrees of sycophancy, or overly agreeable behavior, AP reported. Researchers warned that the risk is not only inappropriate advice, but that users may trust and prefer systems that validate their existing convictions.",
+          "why_it_matters": "The finding sharpens a near-term AI safety problem: helpful tone can become harmful when a model optimizes for agreement instead of correction.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "policy",
+      "title": "U.S. Politics & Law",
+      "description": "Domestic legal and electoral signals are still moving under the foreign-policy headline.",
+      "kicker": "Policy Lens",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Congress",
+          "headline": "Republican Clay Fuller wins Marjorie Taylor Greene's former Georgia seat",
+          "summary": "Trump-endorsed Republican Clay Fuller won the special election for Georgia's 14th Congressional District, AP reported, defeating Democrat Shawn Harris and strengthening a narrow GOP majority. The result came amid unease over the Iran war but kept the deep-red seat in Republican hands.",
+          "why_it_matters": "The seat matters less for ideology than arithmetic: a small House majority gives each special election outsized legislative weight.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/georgia-congressional-election-clay-fuller-shawn-harris-bfed8047f8300cf5e3d57d92280967b8"
+            }
+          ]
+        },
+        {
+          "label": "Tech Law",
+          "headline": "Instagram and YouTube are found liable in a social-media addiction bellwether case",
+          "summary": "A Los Angeles case against Meta and YouTube became a bellwether trial over whether major platforms deliberately addict and harm children. AP reported that legal experts see the verdict as consequential because it may guide the resolution of other lawsuits after TikTok and Snap had already settled in the same case.",
+          "why_it_matters": "The case raises the legal stakes around addictive design, youth safety and platform liability at a time when regulators are already scrutinizing social media.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/social-media-addiction-trial-la-5e54075023d837ccdc76c4ca512e925d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's most relevant domestic signal remains the fuel-market response to the wider energy shock.",
+      "kicker": "Local Lens",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Fuel",
+          "headline": "Romania's diesel excise cut takes effect against the fuel-price shock",
+          "summary": "Radio Romania International reported that the government approved a second fuel-market intervention package reducing the excise duty on standard diesel by 36 bani including VAT per liter. The ordinance follows earlier markup caps and is designed to stay in force while the fuel-price crisis persists.",
+          "why_it_matters": "Diesel drives a large share of transport and agricultural costs, so the measure is Romania's most direct domestic inflation response to the Middle East energy shock.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/april-4-2026-update-id1002823.html"
+            }
+          ]
+        },
+        {
+          "label": "Fuel",
+          "headline": "Bucharest declared a three-month fuel crisis as exports and margins were limited",
+          "summary": "Romania officially entered a declared fuel-market crisis on April 1, with measures limiting exports and capping commercial surcharges on gasoline and diesel. RRI reported that the government was already weighing additional interventions to contain price increases before approving the diesel excise cut.",
+          "why_it_matters": "The declaration gives context for why Romania is using emergency market tools rather than waiting for global oil prices to normalize.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/april-2-2026-id1001989.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Selected threads show how readers are processing shipping, Ukraine and Artemis II outside traditional news pages.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Reddit focuses on whether Hormuz reopening means tolls, trust or de-escalation",
+          "summary": "A highly active r/worldnews thread on Iran allowing ships through Hormuz turned into a discussion of whether partial passage is a diplomatic offramp or a new toll-and-leverage system. Commenters focused on oil fungibility, fertilizer and supply-chain risk, and whether countries would negotiate directly with Iran to keep trade moving.",
+          "why_it_matters": "The thread is a useful public-reaction snapshot because it connects maritime details to household fuel costs and trust in U.S.-led security guarantees.",
+          "countries": ["Iran", "United States", "Oman"],
+          "score": "15624",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/worldnews/comments/1sdm8gi/iran_allows_15_ships_through_strait_of_hormuz/"
+            }
+          ]
+        },
+        {
+          "label": "r/worldnews",
+          "headline": "Ukraine oil-strike thread frames fuel prices against survival",
+          "summary": "A large r/worldnews discussion of Ukraine reportedly striking a Russian Lukoil refinery pushed back on the idea that Kyiv should ease attacks for global fuel-price reasons. The dominant thread connected Russian export revenue, lifted sanctions, and Ukraine's right to keep targeting the resources funding Moscow's invasion.",
+          "why_it_matters": "The reaction shows readers treating energy prices as part of the war's political economy, not a separate consumer issue.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "score": "17109",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/worldnews/comments/1sczmal/ukraine_reportedly_strikes_russian_lukoil/"
+            }
+          ]
+        },
+        {
+          "label": "r/science",
+          "headline": "Artemis II megathread keeps the Moon mission in public view",
+          "summary": "The r/science Artemis II megathread stayed active around the first crewed Artemis flight and its roughly 10-day lunar fly-around. The discussion focused on mission basics, viewing links, the crew, and the fact that Artemis II is a systems-validation mission rather than a lunar landing.",
+          "why_it_matters": "The thread shows Artemis II breaking beyond space-specialist coverage into a broader shared science event.",
+          "countries": ["United States", "Canada"],
+          "score": "1124",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/science/comments/1s9o2nh/artemis_ii_launch_megathread/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
