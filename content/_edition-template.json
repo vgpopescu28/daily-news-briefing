@@ -16,6 +16,11 @@
     "headline": "Main headline here",
     "summary": "Two to three sentences summarizing what happened.",
     "why_it_matters": "One sentence on why the story matters.",
+    "image": {
+      "url": "https://example.com/image.jpg",
+      "alt": "Describe the image in plain language.",
+      "credit": "Optional source or photographer credit."
+    },
     "countries": ["Country A", "Country B"],
     "sources": [
       {
@@ -37,6 +42,11 @@
           "headline": "Story headline",
           "summary": "Brief summary.",
           "why_it_matters": "Why this matters.",
+          "image": {
+            "url": "https://example.com/image.jpg",
+            "alt": "Describe the image in plain language.",
+            "credit": "Optional source or photographer credit."
+          },
           "countries": ["Country A"],
           "sources": [
             {

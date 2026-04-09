@@ -48,6 +48,7 @@ Copy `content/_edition-template.json` when creating a new edition. The builder e
 - optional `summary`
 - one or more dynamic `sections`; each section should include `key`, `title`, `description`, and `stories`
 - each story to include `headline`, `summary`, `why_it_matters`, `sources`, and `countries`
+- stories and the featured story may also include an optional `image` object with `url`, `alt`, and optional `credit`
 
 Sections are chosen by the daily research pass rather than by a fixed taxonomy. Recurring sections such as conflict, economy, space, climate, and diplomacy are fine when the news warrants them, but the generator also supports one-off natural sections. Romania and Reddit should usually stay as dedicated sections when they have meaningful signal.
 

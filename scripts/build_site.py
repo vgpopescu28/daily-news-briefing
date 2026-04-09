@@ -106,6 +106,23 @@ def render_sources(sources: list[dict]) -> str:
     return " · ".join(links)
 
 
+def render_image(image: dict | None, class_name: str, *, eager: bool = False) -> str:
+    if not image or not image.get("url"):
+        return ""
+
+    url = escape(image["url"], quote=True)
+    alt = escape(image.get("alt") or "")
+    credit = image.get("credit")
+    loading = "eager" if eager else "lazy"
+    caption = f'<figcaption class="story-image-credit">{escape(credit)}</figcaption>' if credit else ""
+    return f"""
+      <figure class="{escape(class_name)}">
+        <img src="{url}" alt="{alt}" loading="{loading}" referrerpolicy="no-referrer">
+        {caption}
+      </figure>
+    """.strip()
+
+
 def titleize_key(key: str) -> str:
     return key.replace("-", " ").replace("_", " ").title()
 
@@ -150,8 +167,10 @@ def render_story(section_key: str, story: dict, tone: str) -> str:
     if story.get("comments"):
         meta_bits.append(f'<span class="story-meta-item">{escape(story["comments"])} comments</span>')
     meta = "".join(meta_bits)
+    image = render_image(story.get("image"), "story-media")
     return f"""
       <article class="story-card {escape(tone)}" data-category="{escape(section_key)}">
+        {image}
         <div class="story-card-head">
           <span class="story-pill">{escape(story["label"])}</span>
         </div>
@@ -194,9 +213,11 @@ def render_featured(edition: dict, tones: dict[str, str]) -> str:
     category = story.get("category", "conflict")
     tone = normalize_tone(story.get("tone")) or tones.get(category) or normalize_tone(category) or "tone-default"
     countries = ", ".join(escape(country) for country in story.get("countries", []))
+    image = render_image(story.get("image"), "featured-media", eager=True)
     return f"""
     <section class="featured-wrap" data-section="featured">
       <article class="featured-card {escape(tone)}" data-category="{escape(category)}">
+        {image}
         <div class="featured-head">
           <span class="story-pill">{escape(story["label"])}</span>
           <span class="featured-countries">{countries}</span>

@@ -367,6 +367,36 @@ a:hover {
   box-shadow: 0 12px 34px rgba(37, 31, 24, 0.08);
 }
 
+.featured-media,
+.story-media {
+  margin: 0 0 0.8rem;
+}
+
+.featured-media img,
+.story-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  background: var(--paper-soft);
+}
+
+.featured-media img {
+  aspect-ratio: 16 / 9;
+}
+
+.story-media img {
+  aspect-ratio: 16 / 9;
+}
+
+.story-image-credit {
+  margin: 0.35rem 0 0;
+  color: var(--faint);
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
 .featured-head {
   display: flex;
   flex-direction: row;
@@ -499,11 +529,6 @@ a:hover {
   color: var(--ink);
   font-size: 0.9rem;
   line-height: 1.45;
-  display: -webkit-box;
-  overflow: hidden;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
 }
 
 .story-card-head {
@@ -520,11 +545,7 @@ a:hover {
 }
 
 .story-why {
-  display: -webkit-box;
-  overflow: hidden;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
-  line-clamp: 1;
+  display: block;
 }
 
 .story-meta-item {
