@@ -59,6 +59,17 @@ RETRYABLE_ERRORS = (
     "503",
     "504",
 )
+DATE_FILE_PATTERNS = (
+    "content/{date}.json",
+    "docs/{date}.html",
+    "docs/{date}/index.html",
+)
+STABLE_DAILY_PATHS = (
+    "docs/index.html",
+    "docs/latest.html",
+    "docs/latest/index.html",
+    "docs/.nojekyll",
+)
 
 
 def clean_network_env() -> dict[str, str]:
@@ -153,6 +164,67 @@ def iter_publish_files() -> list[Path]:
     return sorted(files)
 
 
+def daily_publish_paths() -> list[Path]:
+    dates: set[str] = set()
+    candidates: list[str] = []
+
+    status_result = subprocess.run(
+        ["git", "status", "--porcelain=v1", "--untracked-files=all", "--", "content", "docs"],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+        check=False,
+    )
+    if status_result.returncode == 0:
+        for raw_line in status_result.stdout.splitlines():
+            if len(raw_line) >= 4:
+                candidates.append(raw_line[3:].strip())
+
+    ahead_result = subprocess.run(
+        ["git", "diff", "--name-only", "origin/main..HEAD", "--", "content", "docs"],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+        check=False,
+    )
+    if ahead_result.returncode == 0:
+        candidates.extend(ahead_result.stdout.splitlines())
+
+    for raw_path in candidates:
+        path = raw_path.strip().strip('"').replace("\\", "/")
+        if path.startswith("content/") and path.endswith(".json"):
+            date = path.removeprefix("content/").removesuffix(".json")
+            if len(date) == 10 and date[4] == "-" and date[7] == "-":
+                dates.add(date)
+            continue
+        if path.startswith("docs/") and path.endswith(".html"):
+            suffix = path.removeprefix("docs/")
+            if len(suffix) == 15 and suffix[10:] == ".html" and suffix[4] == "-" and suffix[7] == "-":
+                dates.add(suffix[:10])
+            continue
+        if path.startswith("docs/") and path.endswith("/index.html"):
+            suffix = path.removeprefix("docs/").removesuffix("/index.html")
+            if len(suffix) == 10 and suffix[4] == "-" and suffix[7] == "-":
+                dates.add(suffix)
+
+    if not dates:
+        return []
+
+    files: list[Path] = []
+    for date in sorted(dates):
+        for pattern in DATE_FILE_PATTERNS:
+            path = ROOT / pattern.format(date=date)
+            if path.exists():
+                files.append(path)
+
+    for relative in STABLE_DAILY_PATHS:
+        path = ROOT / relative
+        if path.exists():
+            files.append(path)
+
+    return sorted(files)
+
+
 def posix_relative(path: Path) -> str:
     return path.relative_to(ROOT).as_posix()
 
@@ -210,15 +282,19 @@ def sync_local_branch(branch: str, commit_sha: str) -> None:
         run_git(["add", "-u"])
 
 
-def publish(repo: str, branch: str, message: str) -> None:
+def publish(repo: str, branch: str, message: str, scope: str) -> None:
     ref = run_json([f"repos/{repo}/git/ref/heads/{branch}"])
     parent_sha = ref["object"]["sha"]
     parent_commit = run_json([f"repos/{repo}/git/commits/{parent_sha}"])
     base_tree = parent_commit["tree"]["sha"]
     remote_files = fetch_tree_files(repo, base_tree)
 
+    publish_files = daily_publish_paths() if scope == "daily" else iter_publish_files()
+    if scope == "auto":
+        publish_files = daily_publish_paths() or iter_publish_files()
+
     tree_entries = []
-    for path in iter_publish_files():
+    for path in publish_files:
         relative_path = posix_relative(path)
         content = read_blob_bytes(path)
         if remote_files.get(relative_path) == git_blob_sha(content):
@@ -267,8 +343,9 @@ def main() -> None:
     parser.add_argument("--repo", help="GitHub repository as owner/name.")
     parser.add_argument("--branch", default="main")
     parser.add_argument("--message", required=True)
+    parser.add_argument("--scope", choices=("auto", "daily", "all"), default="auto")
     args = parser.parse_args()
-    publish(infer_repo(args.repo), args.branch, args.message)
+    publish(infer_repo(args.repo), args.branch, args.message, args.scope)
 
 
 if __name__ == "__main__":
