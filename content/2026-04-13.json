@@ -1,0 +1,314 @@
+{
+  "date": "2026-04-13",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Signals from Iran, Ukraine, Hungary, Taiwan, oil markets, drought risk, Artemis, and Reddit.",
+  "generated_at": "2026-04-13T09:08:14+03:00",
+  "summary": {
+    "spotlight": "The dominant change on Monday, April 13, 2026 is that the failed U.S.-Iran talks have moved from uneasy ceasefire management to a threatened U.S. blockade of Iranian ports, which immediately tightened oil risk and widened the spillover into Asia and Ukraine. At the same time, Hungary's election has removed Viktor Orban from power, China is testing a new channel into Taiwan through the opposition, and Artemis II remains the clearest positive global story after its successful lunar flyby.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition leans heavily on AP and NASA because they offered the clearest verified overnight coverage. Romania does not have a strong enough standalone fresh signal this morning, so it is omitted instead of padding the file with weaker local items."
+  },
+  "featured_story": {
+    "category": "conflict",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Washington threatens a blockade of Iranian ports after the Pakistan talks fail",
+    "summary": "The United States said it would begin blockading Iranian ports on Monday, April 13, 2026 after more than 21 hours of talks in Pakistan ended without a deal. That moves the crisis from fragile ceasefire diplomacy back toward direct coercion, while still leaving non-Iranian shipping through Hormuz formally open.",
+    "why_it_matters": "This is the clearest sign that the diplomatic opening has narrowed, not widened, and it immediately raises the risk premium on energy, shipping, and regional escalation.",
+    "countries": ["Iran", "United States", "Pakistan", "Israel", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The ceasefire is still nominally alive, but the operational picture now looks more coercive and more unstable again.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Blockade",
+          "headline": "The U.S. says Iranian ports are next, even as Hormuz transit for other ships remains open on paper",
+          "summary": "AP reported that U.S. Central Command plans to enforce a blockade against vessels entering or leaving Iranian ports on the Persian Gulf and Gulf of Oman. The narrower legal framing leaves some non-Iranian traffic untouched, but it still turns the maritime crisis into a live enforcement question rather than a negotiation threat.",
+          "why_it_matters": "Partial maritime pressure can still disrupt insurance, freight pricing, and tanker behavior long before a navy physically stops every ship.",
+          "countries": ["Iran", "United States", "Oman", "United Arab Emirates"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13"
+            }
+          ]
+        },
+        {
+          "label": "Iran",
+          "headline": "Inside Tehran, disappointment over the failed talks is mixing with defiance and war fatigue",
+          "summary": "AP's reporting from Tehran said residents reacted to the collapse of the talks with a blend of frustration, nationalism, and acceptance that the war may continue. The public mood matters because the ceasefire now expires on April 22 and the state is still framing control of Hormuz and resistance to U.S. demands as proof of strength.",
+          "why_it_matters": "If the domestic political atmosphere rewards endurance over compromise, the next negotiation window becomes harder to reopen.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ca007ac1ba9f247cb3a59f9b97b06314"
+            }
+          ]
+        },
+        {
+          "label": "Vatican",
+          "headline": "Pope Leo XIV demands peace talks and condemns the 'delusion of omnipotence' behind the war",
+          "summary": "AP reported that Pope Leo XIV used his strongest language yet to condemn the U.S.-Israeli war in Iran and to call for political leaders to stop and negotiate. His intervention does not change the battlefield, but it adds moral and diplomatic pressure from a globally visible institution at a moment when escalation is becoming easier than compromise.",
+          "why_it_matters": "Religious and diplomatic criticism does not end wars, but it can harden the legitimacy costs of continuing them.",
+          "countries": ["Vatican City", "Iran", "United States", "Israel", "Lebanon"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7309c5df6c7312b942e0510ea65502cb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Ukraine is still fighting its own war while being pulled into the strategic aftershocks of the Iran crisis.",
+      "kicker": "War & Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Easter Truce",
+          "headline": "Russia's Orthodox Easter ceasefire already looked hollow as drone strikes continued",
+          "summary": "AP reported that Ukrainian forces said Russia kept using drones against positions after the Kremlin announced a 32-hour Easter ceasefire. Artillery paused in some places, but the pattern still looked more like a limited tactical pause than the start of a durable de-escalation.",
+          "why_it_matters": "A truce that breaks down immediately is evidence of how little trust or negotiating momentum exists on the actual battlefield.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/0f6548cf06dde9a2c261b22af17aa9ef"
+            }
+          ]
+        },
+        {
+          "label": "Spillover",
+          "headline": "Zelenskyy says Ukrainian teams shot down Shahed drones for partners in the Middle East",
+          "summary": "AP reported that Volodymyr Zelenskyy said Ukrainian personnel took part in active counter-drone operations in multiple Middle Eastern countries during the Iran war. Kyiv says it exchanged that expertise for weapons, fuel, and financial support, effectively turning its wartime drone experience into security leverage abroad.",
+          "why_it_matters": "Ukraine is no longer only a consumer of outside help; it is also exporting battlefield know-how to stay strategically relevant.",
+          "countries": ["Ukraine", "Iran", "Middle East"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4a5a6e01f0377a20404ab29093e69f12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "power-shifts",
+      "title": "Power Shifts",
+      "description": "The largest political moves this morning are in Budapest, across the Taiwan Strait, and in Washington's strategic focus.",
+      "kicker": "Political Map",
+      "stories": [
+        {
+          "label": "Hungary",
+          "headline": "Viktor Orban is out after 16 years, giving Europe its biggest political shock of 2026 so far",
+          "summary": "AP reported that Hungarian voters removed Orban from power and handed victory to Peter Magyar, whose campaign centered on corruption, public services, and rebuilding ties with the EU and NATO. The result is likely to change internal EU dynamics quickly because Orban had repeatedly obstructed common decisions on Ukraine and broader bloc policy.",
+          "why_it_matters": "Budapest may stop functioning as Moscow's most useful veto point inside the European Union.",
+          "countries": ["Hungary"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1a4eb0ba6b94e0c80c3cd18bd36254ab"
+            }
+          ]
+        },
+        {
+          "label": "Taiwan",
+          "headline": "China resumes a limited set of ties with Taiwan after hosting the opposition leader",
+          "summary": "AP reported that Beijing said it would restart some direct flights and some Taiwanese aquaculture imports after a visit by Kuomintang leader Cheng Li-wun. Taiwan's government criticized the move as a political transaction that bypasses official state-to-state channels and tries to exploit the divide between Taipei's government and opposition.",
+          "why_it_matters": "China is showing again that it prefers selective openings that reward friendlier political actors while isolating Taiwan's sitting government.",
+          "countries": ["China", "Taiwan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c72dd46ae64ee8e55c9df14cd56d5971"
+            }
+          ]
+        },
+        {
+          "label": "Asia",
+          "headline": "The Iran war is pulling U.S. military attention away from Asia just before a Trump-Xi summit",
+          "summary": "AP reported that the Middle East conflict has drawn military assets and political attention away from the Indo-Pacific and delayed President Donald Trump's trip to China. Allies in Asia are now warning that an extended Middle East commitment could weaken deterrence in the Taiwan Strait and slow weapons deliveries across the region.",
+          "why_it_matters": "Great-power competition is not paused by a Middle East war; it is being reshaped by where Washington must spend its finite attention and munitions.",
+          "countries": ["United States", "China", "Taiwan", "Japan", "South Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/44891d1bdf2c6b47acc766a8faf69ec6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Economy & Climate",
+      "description": "Oil shock risk remains the main economic story, but infrastructure stress and water scarcity are part of the same vulnerability picture.",
+      "kicker": "Pressure Gauge",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil",
+          "headline": "Crude jumps again as traders price in the threatened blockade of Iranian ports",
+          "summary": "AP reported that U.S. crude climbed to about $104 a barrel and Brent to about $102 after Washington said the blockade would begin Monday. The move matters not only because prices are higher again, but because it shows the market is still repricing the crisis in large steps every time the coercive posture changes.",
+          "why_it_matters": "Oil is still the fastest transmission channel from regional conflict into global inflation and business uncertainty.",
+          "countries": ["United States", "Iran", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4b0b4b1f6df389bf2e17f47e55e13119"
+            }
+          ]
+        },
+        {
+          "label": "Shock Absorbers",
+          "headline": "AP says the world is better positioned than in the 1970s, but not immune to another oil shock",
+          "summary": "AP's broader economic analysis argues that energy diversification, efficiency gains, strategic reserves, and more domestic U.S. output have reduced vulnerability compared with the embargo era. Even so, transport still depends heavily on oil, and policy reversals on efficiency and electrification could make future shocks hurt more than they need to.",
+          "why_it_matters": "The system has more buffers than it used to, but those buffers are policy choices and can erode.",
+          "countries": ["United States", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f12d886ce8af46862ad69be98f75a5d0"
+            }
+          ]
+        },
+        {
+          "label": "Water",
+          "headline": "A drought-driven water crunch in Corpus Christi is threatening a major U.S. energy port",
+          "summary": "AP reported that years of drought have pushed Corpus Christi into a water-security squeeze that could eventually force industrial cutbacks if major new supplies do not arrive. Because the city is tightly linked to refineries, petrochemicals, and fuel shipping, the story reads as both a climate signal and an industrial-risk story.",
+          "why_it_matters": "Energy systems are not only exposed to war shocks overseas; they are also exposed to drought and infrastructure shortfalls at home.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1d9577698f394e83335f1ed5c16cef6d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "space",
+      "title": "Space & Science",
+      "description": "Artemis II is still the strongest positive signal in the global mix and the clearest reminder that not every major headline is about collapse.",
+      "kicker": "Science Signal",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Homecoming",
+          "headline": "Artemis II's crew returns to Houston after a record-setting lunar flyby",
+          "summary": "AP reported that the Artemis II astronauts were welcomed back to Houston after splashdown, capping the first crewed moon flyby in more than half a century. The mission delivered new imagery, a new human distance record, and a rare moment of broad public excitement around a technically ambitious international program.",
+          "why_it_matters": "A successful return converts Artemis from aspiration into proof that the broader lunar architecture can actually execute.",
+          "countries": ["United States", "Canada"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/artemis-astronauts-moon-flyby-splashdown-1fe7e0f38a9dd506945a4e508abb402d"
+            },
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/mission/artemis-ii/"
+            }
+          ]
+        },
+        {
+          "label": "Next Mission",
+          "headline": "NASA is already shifting from celebration to Artemis III planning",
+          "summary": "AP reported that NASA is using the Artemis II success to point attention toward Artemis III, including docking practice in Earth orbit and future south-pole ambitions. That forward posture matters because the program's credibility now depends on whether it can translate one extraordinary mission into a repeatable campaign.",
+          "why_it_matters": "Big exploration programs become durable only when they show a sequence, not a one-off triumph.",
+          "countries": ["United States", "Canada"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/74008cb58e79ed525ae5e1fe08a04ad9"
+            },
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/mission/artemis-ii/"
+            }
+          ]
+        },
+        {
+          "label": "Photography",
+          "headline": "One remote camera photo helped explain why the Artemis launch broke through the usual attention ceiling",
+          "summary": "AP's photo essay on the remote camera shot that captured the Artemis II launch and startled nearby birds is a smaller story, but a useful one. It shows how a program that succeeds technically also needs memorable images that make the mission legible to people who do not follow aerospace every day.",
+          "why_it_matters": "Public imagination is part of the operating environment for expensive long-cycle science programs.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/artemis-ii-launch-one-extraordinary-photo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "The Reddit layer is lighter today, but it still helps show where public attention is clustering around the morning's strongest non-sports stories.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/europe",
+          "headline": "Hungary's result spread fast because users saw it as bigger than one country's election",
+          "summary": "A heavily upvoted r/europe thread on Viktor Orban's defeat turned quickly into a cross-border conversation about corruption, EU cohesion, and whether Budapest may stop obstructing European policy. The scale and tone of engagement make the thread useful as a measure of how unusually consequential this election feels outside Hungary itself.",
+          "why_it_matters": "The public reaction matches the geopolitical reading: this was not treated as a routine government change.",
+          "countries": ["Hungary", "European Union"],
+          "score": "472",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/europe/comments/1sjvvk4/hungarian_opposition_ousts_viktor_orb%C3%A1n_after_16/"
+            }
+          ]
+        },
+        {
+          "label": "r/space",
+          "headline": "The biggest Reddit science signal is still simple excitement that Artemis II actually flew",
+          "summary": "A large r/space thread from launch week kept drawing engagement because users treated Artemis II as a rare story that was both technically ambitious and easy to root for. That is useful public-signal value because it shows the mission maintained attention beyond the launch window itself.",
+          "why_it_matters": "When a difficult science mission keeps audience interest for days, it usually means the story has escaped niche coverage.",
+          "countries": ["United States", "Canada"],
+          "score": "1158",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/space/comments/1s7pux6/we_are_ready_nasa_still_on_track_to_launch/"
+            }
+          ]
+        },
+        {
+          "label": "r/spaceporn",
+          "headline": "Artemis Earthset imagery kept circulating because users read it as an instant classic",
+          "summary": "A smaller but still meaningful r/spaceporn thread comparing Artemis I and Artemis II Earthset imagery kept moving because users were discussing lenses, distance, and how the new image fits into the lineage of iconic lunar photography. It is a narrower signal than the main launch thread, but it still shows where curiosity and wonder are concentrating.",
+          "why_it_matters": "It helps explain why Artemis remains one of the few global stories right now that generates attention through awe instead of outrage.",
+          "countries": ["United States", "Canada"],
+          "score": "46",
+          "sources": [
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/r/spaceporn/comments/1sevw22/earthset_from_artemis_i_ii/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
