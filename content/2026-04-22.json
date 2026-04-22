@@ -1,0 +1,521 @@
+{
+  "date": "2026-04-22",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Trump extended the Iran ceasefire but kept the blockade, Europe is split over Israel and fuel risk, Ukraine's Druzhba repair may unlock EU money, Romania is in coalition talks, and Reddit is tracking whether diplomacy is real or just delay.",
+  "generated_at": "2026-04-22T09:05:00+03:00",
+  "summary": {
+    "spotlight": "The dominant global signal on Wednesday, April 22, 2026 is the uneasy extension of the U.S.-Iran ceasefire while the blockade around Iranian ports and the Hormuz energy shock continue. Europe is trying to manage fuel risk, Israel policy, Ukraine financing, and Hungary's post-Orban reset at the same time.",
+    "market_mood": "Volatile",
+    "reader_note": "Reuters, AP, Al Jazeera, Euronews, NASA, Romania-focused outlets, and several Reddit threads shaped today's edition. Romania and Reddit stay as dedicated lanes because both had meaningful signal."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Trump extends Iran ceasefire while keeping the blockade in place",
+    "summary": "Al Jazeera reported that President Donald Trump extended the Iran ceasefire while saying the U.S. blockade of Iranian ports would remain. The Guardian's live coverage said Iran demanded an end to the blockade before resuming negotiations, while maritime incidents near Oman kept the risk of escalation high.",
+    "why_it_matters": "The truce is no longer a clean de-escalation signal because diplomacy, shipping access, oil supply, and regional military risk are moving in different directions.",
+    "countries": ["Iran", "United States", "Pakistan", "Oman", "Global"],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The region's main risk is an extended ceasefire that still leaves ports blocked, ships exposed, and Israel policy contested.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Ceasefire",
+          "headline": "Iran says it will resist pressure as Washington extends the truce",
+          "summary": "Al Jazeera's live coverage said Tehran vowed to resist what it called bullying after Trump extended the truce but kept port restrictions in force. The same live feed reported a ship incident near Oman and continuing Israeli drone activity in Lebanon, underlining how fragile the ceasefire environment remains.",
+          "why_it_matters": "A ceasefire that leaves coercive measures in place can reduce immediate bombing risk while still inviting retaliation at sea or through proxies.",
+          "countries": ["Iran", "United States", "Oman", "Lebanon", "Israel"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
+            }
+          ]
+        },
+        {
+          "label": "Europe",
+          "headline": "EU ministers struggled to align energy, Iran, Lebanon, and Israel policy",
+          "summary": "AP reported that EU foreign ministers met in Luxembourg as the Iran war pushed up energy costs and exposed sharp divisions over whether to pressure Israel through trade measures. Kaja Kallas said ministers also backed sanctions on Iranian officials linked to disruptions to freedom of navigation in the Persian Gulf.",
+          "why_it_matters": "Europe is trying to handle several linked crises with a decision-making system that still needs broad consensus for its strongest foreign-policy moves.",
+          "countries": ["European Union", "Israel", "Iran", "Lebanon", "Palestinian Territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/07e072b251cf9eb48bff0526d1186b93"
+            }
+          ]
+        },
+        {
+          "label": "Gaza",
+          "headline": "Pressure for EU action on Israel keeps rising but unanimity remains elusive",
+          "summary": "AP said Spain, Ireland, Slovenia, and Belgium pushed for sharper action over Israel's conduct in Gaza, the West Bank, and Lebanon, but there was no clear agreement to suspend the EU-Israel Association Agreement. Euronews framed the debate as a widening fracture in Europe's relationship with Israel.",
+          "why_it_matters": "The EU's inability to agree on Israel policy limits its leverage and keeps humanitarian, legal, and diplomatic pressure from becoming a unified strategy.",
+          "countries": ["European Union", "Israel", "Palestinian Territories", "Lebanon"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/07e072b251cf9eb48bff0526d1186b93"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/video/2026/04/22/latest-news-bulletin-april-22nd-2026-morning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-energy",
+      "title": "Markets & Energy",
+      "description": "Oil, aviation fuel, and physical supply remain the clearest economic transmission channels from the Iran crisis.",
+      "kicker": "Pressure Gauge",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil",
+          "headline": "Oil prices eased slightly but Hormuz disruption kept markets cautious",
+          "summary": "Market reports showed crude prices slipping after the ceasefire extension, but traders remained focused on whether U.S.-Iran talks can reopen normal shipping. The Wall Street Journal reported that analysts still expect visible oil inventories to fall sharply because Hormuz flows remain far below normal.",
+          "why_it_matters": "Headline prices may cool before the physical supply problem is solved, leaving markets vulnerable to another shock if talks fail.",
+          "countries": ["Iran", "United States", "China", "Global"],
+          "sources": [
+            {
+              "name": "Wall Street Journal",
+              "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-strait-of-hormuz-likely-remaining-closed-c22bf647"
+            },
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-22-april-2026-crude-slips-as-markets-weigh-us-iran-talks-ceasefire-extension/articleshow/130431190.cms"
+            }
+          ]
+        },
+        {
+          "label": "Jet Fuel",
+          "headline": "Europe's jet-fuel warning is now part of the diplomacy clock",
+          "summary": "AP reported last week that IEA chief Fatih Birol warned Europe may have roughly six weeks of jet fuel left if the Strait of Hormuz does not reopen. EU ministers are now debating consumer and fuel measures while the ceasefire deadline has turned into a rolling diplomatic test.",
+          "why_it_matters": "The fuel clock gives Europe a direct economic reason to push for a durable settlement rather than another short ceasefire extension.",
+          "countries": ["European Union", "Iran", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6e67fafd493861b3858de5548aa77703"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/07e072b251cf9eb48bff0526d1186b93"
+            }
+          ]
+        },
+        {
+          "label": "Pacific",
+          "headline": "Fuel stress is spreading beyond the big importers",
+          "summary": "The Guardian's live coverage said Pacific island states that rely heavily on imported fuel are facing price spikes and shortages, with Kiribati, Tuvalu, and the Marshall Islands declaring emergencies. That widens the crisis from an oil-market story into a vulnerability test for small economies.",
+          "why_it_matters": "Energy shocks hit hardest where logistics are thin, foreign reserves are limited, and governments have few fiscal tools to cushion households.",
+          "countries": ["Kiribati", "Tuvalu", "Marshall Islands", "Global"],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "Ukraine's immediate diplomatic opening is tied to an oil pipeline that also exposes Europe's dependence on Russian energy infrastructure.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Druzhba",
+          "headline": "Ukraine completes Druzhba repairs, hoping to unlock a 90 billion euro EU loan",
+          "summary": "AP reported that Ukraine completed repairs on the Druzhba oil pipeline and said it can resume operation. Zelenskyy linked the repair to freeing a 90 billion euro EU support package that had been blocked by Hungary and Slovakia over oil-transit concerns.",
+          "why_it_matters": "A technical repair has become a strategic lever for Ukraine's budget, EU unity, and Hungary's post-Orban relationship with Kyiv.",
+          "countries": ["Ukraine", "Hungary", "Slovakia", "Russia", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7dfc9574bf95a69eda13b1440171e402"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work"
+            }
+          ]
+        },
+        {
+          "label": "Russia Oil",
+          "headline": "Ukrainian strikes are squeezing Russia's oil output",
+          "summary": "The Moscow Times, citing Reuters, reported that Ukrainian drone attacks on Russian ports and refineries have forced Moscow to cut oil production in April by an estimated 300,000 to 400,000 barrels per day. Reuters also reported a Ukrainian strike on a Samara-region station linked to the Druzhba supply chain.",
+          "why_it_matters": "Kyiv is using energy infrastructure pressure to hurt Russian revenue, but every strike also feeds Europe's wider supply and diplomacy problem.",
+          "countries": ["Ukraine", "Russia", "Hungary", "Slovakia"],
+          "sources": [
+            {
+              "name": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/04/21/russia-forced-to-slash-oil-production-after-ukrainian-strikes-reuters-a92560"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://wsau.com/2026/04/21/ukraine-hits-russian-oil-pumping-station-part-of-druzhba-pipeline/"
+            }
+          ]
+        },
+        {
+          "label": "NATO",
+          "headline": "NATO jets intercepted Russian bombers and fighters over the Baltic Sea",
+          "summary": "Euronews reported that French Rafale fighters joined aircraft from Sweden, Finland, Poland, Denmark, and Romania to monitor Russian Tu-22M3 bombers and escort fighters over the Baltic Sea. Russia said the flight was planned and stayed over neutral waters.",
+          "why_it_matters": "The Baltic intercept shows that NATO's eastern-flank pressure continues even while global attention is pulled toward Iran and energy markets.",
+          "countries": ["Russia", "Lithuania", "France", "Romania", "NATO"],
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/my-europe/2026/04/21/nato-intercepts-russian-military-aircraft-flying-over-the-baltic-sea-french-team-says"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-politics",
+      "title": "Europe Politics",
+      "description": "Hungary's transition is already changing the EU's room for maneuver on rights, funds, and Ukraine support.",
+      "kicker": "Statecraft",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Hungary",
+          "headline": "EU court says Hungary's anti-LGBTQ law violates core EU values",
+          "summary": "AP reported that the European Court of Justice ruled Hungary's 2021 law restricting LGBTQ content for minors violates EU law and fundamental treaty values. Euronews said it was the first time the court found a member state in breach of the EU's foundational values in this way.",
+          "why_it_matters": "The ruling lands just as Peter Magyar prepares to replace Viktor Orban, giving the incoming government an early rule-of-law and rights test.",
+          "countries": ["Hungary", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7be38f1e903f0492e53eeaee1c828297"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/my-europe/2026/04/21/eu-court-rules-orbans-anti-lgtbq-law-breaches-core-values-calls-on-budapest-to-cancel-it"
+            }
+          ]
+        },
+        {
+          "label": "Hungary Reset",
+          "headline": "Magyar's incoming government is seeking a quick EU funds deal",
+          "summary": "The Guardian reported that incoming Hungarian prime minister Peter Magyar is seeking a political deal with Brussels by mid-May to unfreeze EU funds and has tied Hungary's Ukraine-loan veto to Druzhba deliveries resuming. He also demanded that Orban-era officials resign or face removal.",
+          "why_it_matters": "If Hungary quickly changes course, the EU could regain capacity on Ukraine financing, sanctions, and rule-of-law bargaining after years of veto politics.",
+          "countries": ["Hungary", "European Union", "Ukraine"],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/apr/20/bulgaria-election-ukraine-russia-hungary-macron-poland-latest-news-updates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "americas-politics",
+      "title": "Americas Politics",
+      "description": "U.S. institutional stress and Latin American election uncertainty are moving alongside migration-policy spillovers.",
+      "kicker": "Americas",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Federal Reserve",
+          "headline": "Warsh defended Fed independence under Senate pressure",
+          "summary": "AP's national roundup said Kevin Warsh, Trump's nominee to chair the Federal Reserve, told senators he had not promised the White House he would cut interest rates. The hearing unfolded as Trump renewed pressure on the central bank and markets remained sensitive to war-driven inflation risk.",
+          "why_it_matters": "The next Fed chair would inherit an economy exposed to energy shocks, fiscal pressure, and questions about central-bank independence.",
+          "countries": ["United States", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://www.vindy.com/news/national-news/2026/04/nation-and-world-at-a-glance-for-april-22/"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/live/2026/apr/21/us-politics-latest-news-kevin-warsh-federal-reserve-donald-trump"
+            }
+          ]
+        },
+        {
+          "label": "Congress",
+          "headline": "Florida Democrat resigned before possible House sanctions",
+          "summary": "AP reported that Rep. Sheila Cherfilus-McCormick resigned shortly before an ethics hearing that could have led to an expulsion recommendation. She faced findings that she violated House rules and separate federal charges tied to alleged misuse of COVID-19 disaster relief money, which she denies.",
+          "why_it_matters": "The resignation adds another vacancy and ethics shock in a narrowly balanced House already shaped by redistricting and election-year pressure.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/376eaaa9ff51a7bf66a9a5528822d2ef"
+            }
+          ]
+        },
+        {
+          "label": "Peru",
+          "headline": "Peru's election chief resigned as vote-count frustration grew",
+          "summary": "AP reported that Peru's election agency chief Piero Corvetto resigned after logistical failures and a slow count in the country's presidential election. Al Jazeera said the vote is still headed toward a runoff, with officials facing pressure to restore trust before the next round.",
+          "why_it_matters": "Peru's next president will be its ninth in a decade, so election-management credibility matters as much as the final runoff lineup.",
+          "countries": ["Peru"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/2994623d10aeded475dc21357fe0f662"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "migration-human-rights",
+      "title": "Migration & Human Rights",
+      "description": "Migration data and deportation agreements show how border policy is shifting risks onto vulnerable people and smaller states.",
+      "kicker": "Human Security",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "IOM",
+          "headline": "IOM says nearly 8,000 people died or disappeared on migration routes in 2025",
+          "summary": "Al Jazeera reported that the International Organization for Migration documented 7,904 deaths or disappearances on migration routes in 2025, with sea routes to Europe the deadliest. Euronews said the agency warned that aid cuts and missing data may hide additional deaths.",
+          "why_it_matters": "The numbers show that tighter borders and shifting routes do not end migration; they often move people into more dangerous journeys.",
+          "countries": ["Global", "European Union", "Myanmar", "Bangladesh"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/04/21/almost-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom-says"
+            }
+          ]
+        },
+        {
+          "label": "Deportations",
+          "headline": "Paraguay agreed to receive third-country deportees from the United States",
+          "summary": "Al Jazeera reported that Paraguay will accept an initial group of 25 Spanish-speaking deportees from the United States, joining a growing list of countries participating in third-country deportation arrangements. The policy has drawn rights concerns because deportees may be sent to states where they have no ties.",
+          "why_it_matters": "Third-country deportation deals turn migration enforcement into a diplomatic marketplace and raise hard questions about legal protection after removal.",
+          "countries": ["Paraguay", "United States", "Costa Rica", "Global"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/2fbbbbd977463932a312cdab2955c573"
+            }
+          ]
+        },
+        {
+          "label": "Myanmar",
+          "headline": "Myanmar resistance groups rebuffed the junta's new peace-talk offer",
+          "summary": "AP reported that Myanmar's army-backed president Min Aung Hlaing proposed talks with armed resistance groups as part of a 100-day program, but key opposition groups quickly rejected the offer. Al Jazeera said the invitation followed a disputed election that kept military-backed rule in place.",
+          "why_it_matters": "A peace offer that opposition forces view as a tactic to entrench military rule is unlikely to end a civil war rooted in legitimacy and autonomy demands.",
+          "countries": ["Myanmar", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/db8959bd9d90158b6b3e1b8e56a82f7f"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-tech-culture",
+      "title": "Science, Tech & Culture",
+      "description": "NASA hardware, AI likeness tools, and World Cup pricing all show institutions testing public trust in high-visibility systems.",
+      "kicker": "Innovation Watch",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "NASA",
+          "headline": "NASA rolled out the Artemis III core stage for shipment to Kennedy",
+          "summary": "NASA said it moved the largest section of the SLS core stage for Artemis III from Michoud to the Pegasus barge for delivery to Kennedy Space Center. The milestone follows the recent Artemis II test flight and keeps the 2027 Artemis III architecture moving toward integration.",
+          "why_it_matters": "After Artemis II, the program now has to show that hardware flow, contractor coordination, and launch cadence can support the next crewed lunar phase.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/video/2026/04/21/nasa-rolls-out-key-artemis-iii-rocket-stage-for-2027-moon-mission"
+            }
+          ]
+        },
+        {
+          "label": "AI",
+          "headline": "China's iQIYI faced backlash over an AI actor database",
+          "summary": "Euronews reported that Chinese streaming company iQIYI launched an AI actor database connecting filmmakers with actors willing to license their likenesses for AI-generated content. AFP-linked reports said actors and fans pushed back over consent, work displacement, and control of digital likenesses.",
+          "why_it_matters": "The dispute is a practical preview of how entertainment markets will fight over consent, compensation, and ownership when AI can reuse human likenesses at scale.",
+          "countries": ["China", "Global"],
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/next/2026/04/21/ai-actor-database"
+            },
+            {
+              "name": "GMA News",
+              "url": "https://www.gmanetwork.com/news/scitech/technology/984659/outrage-in-china-after-streaming-site-debuts-ai-actor-database/story/"
+            }
+          ]
+        },
+        {
+          "label": "World Cup",
+          "headline": "FIFA released more World Cup tickets after pricing anger",
+          "summary": "Al Jazeera, citing AP, reported that FIFA put more 2026 World Cup tickets on sale after adding new premium-priced tiers. The move follows earlier fan anger over dynamic pricing and sharply higher top-end prices for the final.",
+          "why_it_matters": "Ticket access has become a governance issue for a tournament that promised broad reach but is increasingly testing what ordinary fans can afford.",
+          "countries": ["United States", "Canada", "Mexico", "Global"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/4/22/fifa-unlocks-more-world-cup-tickets-and-adds-new-more-expensive-categories"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e4bb8a9eb9aa285f55caa4b9405fb182"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's local signal is a coalition crisis that now sits on President Nicusor Dan's desk.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Coalition",
+          "headline": "Cotroceni consultations begin after PSD withdrew support for Bolojan",
+          "summary": "Romania Insider reported that President Nicusor Dan called coalition leaders to Cotroceni on April 22 after PSD withdrew political support for Prime Minister Ilie Bolojan. Euronews Romania said the talks are meant to find a path through the governing crisis.",
+          "why_it_matters": "Romania's government stability now affects fiscal reform, EU funds, credit risk, and the political space available to the far right.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/president-ruling-parties-talks-april-2026"
+            },
+            {
+              "name": "Euronews Romania",
+              "url": "https://www.euronews.ro/categorii/romania"
+            }
+          ]
+        },
+        {
+          "label": "Minority Government",
+          "headline": "Bolojan is exploring a smaller minority government",
+          "summary": "Romania Insider reported that Bolojan said PNL would talk with USR, UDMR, and national minorities about how a minority government could function after PSD's vote. Euronews Romania reported that PNL figures backed keeping Bolojan in place and warned against deepening the crisis.",
+          "why_it_matters": "A minority cabinet could remove some coalition blockages, but it would need disciplined parliamentary support to pass reforms.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/bolojan-talks-minority-govt-apr-2026"
+            },
+            {
+              "name": "Euronews Romania",
+              "url": "https://www.euronews.ro/categorii/romania"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit's useful signal today is skepticism about the Iran ceasefire, EU-Ukraine energy leverage, and the difference between market prices and lived risk.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Reddit",
+          "headline": "A large r/worldnews thread treated the Iran ceasefire as delay, not resolution",
+          "summary": "A r/worldnews thread on Trump's ceasefire extension focused less on relief and more on whether the truce is a tactic to buy time while the blockade bites. Users repeatedly linked the uncertainty to market volatility, fragmented Iranian decision-making, and the risk of another abrupt escalation.",
+          "why_it_matters": "The public signal is that ceasefire headlines are losing credibility unless they come with concrete movement on ports, Hormuz, and negotiations.",
+          "countries": ["Iran", "United States", "Global"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1srzf9i/trump_extends_ceasefire_in_iran_citing_seriously/"
+            },
+            {
+              "name": "Reddit r/politics",
+              "url": "https://www.reddit.com/r/politics/comments/1srzu8f/trump_extends_iran_ceasefire_indefinitely_says/"
+            }
+          ],
+          "score": "Public discussion",
+          "comments": "Public discussion"
+        },
+        {
+          "label": "Ukraine Reddit",
+          "headline": "Druzhba threads framed the repair as both absurd and strategically useful",
+          "summary": "Reddit discussions about the repaired Druzhba pipeline highlighted the contradiction of Ukraine restoring a route that can carry Russian oil while trying to unlock EU money. Several users read the move as a win for the incoming Hungarian government and a way to reduce Orban-era leverage.",
+          "why_it_matters": "The thread captures the real-world messiness of sanctions policy, where infrastructure, war finance, and coalition politics often point in different directions.",
+          "countries": ["Ukraine", "Hungary", "Russia", "European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1srwq91/ukraine_says_druzhba_pipeline_running_russian_oil/"
+            },
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1srst3w/ukraine_finishes_repair_works_on_druzhba_oil/"
+            }
+          ],
+          "score": "Public discussion",
+          "comments": "Public discussion"
+        },
+        {
+          "label": "Market Reddit",
+          "headline": "Oil and stock comments showed disbelief that markets are pricing the crisis calmly",
+          "summary": "In the Iran ceasefire thread, users argued that futures prices and stock indices were underreacting to blocked oil flows and wartime uncertainty. The discussion repeatedly contrasted paper-market pricing with physical supply stress in Asia and Europe.",
+          "why_it_matters": "Retail discussion is not a price model, but it is a useful warning that public trust in market signals weakens when prices look disconnected from visible supply disruption.",
+          "countries": ["Global", "United States", "Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1srzf9i/trump_extends_ceasefire_in_iran_citing_seriously/"
+            }
+          ],
+          "score": "Public discussion",
+          "comments": "Public discussion"
+        }
+      ]
+    }
+  ]
+}
