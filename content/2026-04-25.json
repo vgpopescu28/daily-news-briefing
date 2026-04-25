@@ -1,0 +1,382 @@
+{
+  "date": "2026-04-25",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Saturday's clearest signals are a still-choked Hormuz, a live Pakistan channel for Iran diplomacy, Europe tying energy security to strategic autonomy, and a Romanian government crisis that remains unresolved.",
+  "generated_at": "2026-04-25T09:10:00+03:00",
+  "summary": {
+    "spotlight": "The dominant signal on Saturday, April 25, 2026 is that the Iran ceasefire still has not restored normal trade, which keeps shipping, fuel, and diplomacy tightly linked. Europe is reacting by pairing Ukraine support with harder security language, while Romania's coalition crisis remains a reminder that economic pressure is turning into domestic political stress inside the EU as well.",
+    "market_mood": "Volatile",
+    "reader_note": "Reuters, AP, Al Jazeera, NASA, UN, Cyprus presidency material, Romania-focused reporting, and a few Reddit threads shaped today's edition. Romania and Reddit stay as dedicated lanes because both added real context instead of filler."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Hormuz remains the world's main pressure point even as diplomacy shifts to Pakistan",
+    "summary": "Reuters reported that only five ships moved through the Strait of Hormuz in the prior 24 hours, a tiny fraction of normal traffic, showing that the ceasefire still has not restored commercial confidence. AP and Al Jazeera reported that U.S. envoys and Iran's foreign minister are now converging on Pakistan, which makes diplomacy look more active without yet solving the shipping crisis.",
+    "why_it_matters": "The story is no longer only about whether fighting pauses, but whether trade, energy, and negotiations can move at the same time.",
+    "countries": ["Iran", "United States", "Pakistan", "Global"],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.investing.com/news/commodities-news/only-five-ships-pass-through-strait-of-hormuz-in-24-hours-4635274"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/6ffd7391c4235dda48f76a03c4a4d909"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/amp/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The central global risk is still the mismatch between a nominal ceasefire and a trade corridor that remains functionally broken.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Shipping",
+          "headline": "Reuters says Hormuz traffic is still near a standstill",
+          "summary": "Reuters reported on April 24 that only five ships, including one Iranian products tanker, passed through the strait in 24 hours, compared with a prewar average near 140 daily transits. Shipping groups said commercial operators still want a stable ceasefire and credible safety guarantees before resuming normal routes.",
+          "why_it_matters": "As long as shipowners stay away, the ceasefire does not translate into economic normalization.",
+          "countries": ["Iran", "United States", "Global"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/commodities-news/only-five-ships-pass-through-strait-of-hormuz-in-24-hours-4635274"
+            }
+          ]
+        },
+        {
+          "label": "Rerouting",
+          "headline": "AP reports firms are paying up to $4 million for faster Panama Canal passage",
+          "summary": "AP reported that businesses are bidding aggressively for Panama Canal slots as they reroute cargo away from Hormuz, with some expedited passages reaching $4 million. The canal cannot fully substitute for Gulf energy flows, but the surge shows how quickly maritime disruption is spilling into broader logistics costs.",
+          "why_it_matters": "When rerouting costs jump this sharply, the inflation story spreads from oil into global trade and supply chains.",
+          "countries": ["Panama", "Iran", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d6a2aa2a21f29bfdf313182e753e1c41"
+            }
+          ]
+        },
+        {
+          "label": "Talks",
+          "headline": "Pakistan has become the main venue for the next U.S.-Iran diplomatic test",
+          "summary": "AP and Al Jazeera reported that Steve Witkoff and Jared Kushner are being sent to Pakistan while Iranian Foreign Minister Abbas Araghchi is in Islamabad. The setup signals that mediation is active again, but Tehran is still avoiding any claim that direct U.S.-Iran talks are locked in.",
+          "why_it_matters": "Diplomacy matters more now because markets have already learned that a ceasefire headline alone does not reopen the strait.",
+          "countries": ["Pakistan", "Iran", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6ffd7391c4235dda48f76a03c4a4d909"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/amp/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "Europe used this week to move concrete money and sanctions again while Kyiv keeps trying to force direct diplomacy onto the agenda.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Funding",
+          "headline": "The EU approved a €90 billion Ukraine loan and a 20th sanctions package",
+          "summary": "Reuters reported that EU governments formally signed off on a €90 billion package for Ukraine and another sanctions round against Russia ahead of the Cyprus summit. The loan is designed to cover roughly two-thirds of Kyiv's financing needs over the next two years.",
+          "why_it_matters": "This is still the clearest material sign that European support for Ukraine has not collapsed under wider geopolitical pressure.",
+          "countries": ["Ukraine", "Russia", "European Union"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/economy-news/eu-formally-approves-ukraine-loan-and-20th-sanctions-package-against-russia-4633079"
+            }
+          ]
+        },
+        {
+          "label": "Summit Push",
+          "headline": "Ukraine is still pushing for a Zelenskyy-Putin summit",
+          "summary": "AP reported that Kyiv wants Turkey or another host to help arrange direct talks between Volodymyr Zelenskyy and Vladimir Putin as U.S.-led diplomacy drifts. Ukraine is trying to show openness to negotiation while avoiding any sign that frozen front lines should become a default settlement.",
+          "why_it_matters": "Kyiv wants the diplomatic burden shifted back onto Moscow rather than letting delay work in Russia's favor.",
+          "countries": ["Ukraine", "Russia", "Turkey", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/dcd076caeda4cf67f5592274beed6364"
+            }
+          ]
+        },
+        {
+          "label": "Cyprus Summit",
+          "headline": "EU leaders folded Ukraine support into a larger strategic-autonomy debate",
+          "summary": "The Cyprus presidency said EU leaders met with Zelenskyy before widening their discussion to energy resilience, competitiveness, and security readiness, including Article 42(7) mutual-defense planning. That framing puts Ukraine inside Europe's broader argument about how independent it must become in security and crisis management.",
+          "why_it_matters": "The more Ukraine is treated as part of Europe's own security architecture, the harder it becomes to frame aid as temporary or optional.",
+          "countries": ["Ukraine", "Cyprus", "European Union"],
+          "sources": [
+            {
+              "name": "Cyprus Presidency of the Council of the EU",
+              "url": "https://cyprus-presidency.consilium.europa.eu/en/news/the-informal-meeting-of-eu-heads-of-state-or-government-of-23-24-april-2026-is-held-in-cyprus/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-diplomacy",
+      "title": "Europe & Diplomacy",
+      "description": "Europe's current response is to treat energy vulnerability, regional diplomacy, and self-protection as one connected problem.",
+      "kicker": "Statecraft",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Energy Security",
+          "headline": "AP says the EU is exploring Middle East energy routes that bypass conflict zones",
+          "summary": "AP reported that Ursula von der Leyen said the EU is ready to work with Gulf partners on energy infrastructure that reduces dependence on vulnerable chokepoints like Hormuz. The discussion also touched the India-Middle-East-Europe corridor and stronger maritime security coordination.",
+          "why_it_matters": "Europe is moving from short-term crisis management toward structural attempts to reduce exposure to single-route energy shocks.",
+          "countries": ["European Union", "Gulf States", "Middle East"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/95425c82bcd5287f372ad6bb0ee69f5f"
+            }
+          ]
+        },
+        {
+          "label": "Regional Partners",
+          "headline": "Cyprus brought Arab partners and the Gulf states into the summit's final session",
+          "summary": "The Cyprus presidency said Egypt, Jordan, Lebanon, Syria, and the Gulf Cooperation Council joined EU leaders for the closing working lunch. That format shows the bloc is treating de-escalation, migration, and energy spillovers as problems that require regional partners rather than only internal EU coordination.",
+          "why_it_matters": "Europe cannot reduce Middle East spillover risk if it only talks to itself.",
+          "countries": ["Cyprus", "Egypt", "Jordan", "Lebanon", "Syria", "Gulf Cooperation Council", "European Union"],
+          "sources": [
+            {
+              "name": "Cyprus Presidency of the Council of the EU",
+              "url": "https://cyprus-presidency.consilium.europa.eu/en/news/the-informal-meeting-of-eu-heads-of-state-or-government-of-23-24-april-2026-is-held-in-cyprus/"
+            }
+          ]
+        },
+        {
+          "label": "Vatican",
+          "headline": "Pope Leo urged Washington and Tehran back to peace talks",
+          "summary": "AP reported that Pope Leo XIV, speaking on his flight back from Africa, called on the United States and Iran to return to negotiations and argued for a wider culture of peace. His comments also kept moral pressure on Western governments at a moment when formal diplomacy is still fragile.",
+          "why_it_matters": "The Vatican is trying to convert moral authority into diplomatic pressure while official channels remain uncertain.",
+          "countries": ["Vatican", "United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/23d775c8380c3a3e4559a3cee798e3c0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-energy",
+      "title": "Markets & Energy",
+      "description": "The economic damage is widening from oil prices into aviation, manufacturing, and food-system stress.",
+      "kicker": "Pressure Gauge",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Jet Fuel",
+          "headline": "The IEA warns Europe may have only weeks of jet fuel left if disruption persists",
+          "summary": "AP's interview with IEA chief Fatih Birol said Europe has maybe six weeks of jet fuel left if blocked energy flows continue. The warning sharpened the sense that the Hormuz crisis is not only about crude prices but also about downstream transport and business disruption.",
+          "why_it_matters": "A fuel shortage that starts affecting aviation would make the economic fallout visible to households and companies very quickly.",
+          "countries": ["Europe", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703"
+            }
+          ]
+        },
+        {
+          "label": "Macro Drag",
+          "headline": "Reuters says the Iran shock is now showing up deeper in the global economy",
+          "summary": "Reuters reported this week that higher energy costs are feeding into weaker business activity, higher production costs, and softer confidence readings across major economies. The signal is less about one dramatic market break and more about a steady broadening of economic drag.",
+          "why_it_matters": "This is how a geopolitical crisis turns into a wider growth and inflation problem.",
+          "countries": ["Global", "Eurozone", "United States", "Japan"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/economy-news/iran-war-impact-seeps-ever-deeper-into-global-economy-4632043"
+            }
+          ]
+        },
+        {
+          "label": "Food Systems",
+          "headline": "UN agencies warn extreme heat is pushing food systems toward the brink",
+          "summary": "The UN said extreme heat is already costing half a trillion work hours a year and is increasingly damaging crops, livestock, fisheries, and forests. The report presents heat as a compounding risk factor that worsens drought, water scarcity, wildfire risk, and disease pressure at the same time.",
+          "why_it_matters": "Even if the oil shock eases, climate-driven food stress remains a slower and broader inflation risk.",
+          "countries": ["Global"],
+          "sources": [
+            {
+              "name": "UN Geneva",
+              "url": "https://www.ungeneva.org/en/news-media/news/2026/04/117873/extreme-heat-pushing-global-food-systems-brink-un-agencies-warn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-space",
+      "title": "Science & Space",
+      "description": "NASA's current message is that Artemis still combines visible hardware progress with coalition building.",
+      "kicker": "Systems Watch",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Artemis III",
+          "headline": "NASA moved the Artemis III core stage toward Florida",
+          "summary": "NASA said the main SLS core stage for Artemis III rolled out from Michoud on April 20 and began shipment to Kennedy Space Center. The agency is using the milestone to show that lunar hardware progress continues after Artemis II rather than slipping into a long pause.",
+          "why_it_matters": "Visible hardware movement is how NASA demonstrates that the next crewed moon landing remains an active program, not only a long-range promise.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/"
+            }
+          ]
+        },
+        {
+          "label": "Accords",
+          "headline": "Jordan became the 63rd Artemis Accords signatory",
+          "summary": "NASA said Jordan signed the Artemis Accords in Washington on April 23, joining the expanding coalition around rules for civil exploration of the Moon and beyond. The agency framed the step as both a diplomatic and technical expansion of the Artemis network.",
+          "why_it_matters": "Space competition is also a rules-setting contest over who shapes norms for the next phase of exploration.",
+          "countries": ["Jordan", "United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/"
+            }
+          ]
+        },
+        {
+          "label": "Program Signal",
+          "headline": "NASA is presenting Artemis as industry, diplomacy, and exploration in one package",
+          "summary": "Taken together, the Artemis III rollout and Jordan's signing of the Accords show NASA pairing industrial progress with alliance building. That public framing matters because the Moon program is increasingly being sold as infrastructure and diplomacy, not only as exploration.",
+          "why_it_matters": "The countries that help set lunar rules and supply chains now are likely to shape the next decade of space politics.",
+          "countries": ["United States", "Jordan", "Global"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/"
+            },
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's core domestic story is still whether a pro-European governing arrangement can survive without collapsing into full paralysis.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Coalition",
+          "headline": "Romania's ruling coalition still lacks a stable majority after PSD's exit",
+          "summary": "Reuters and Romania Insider reported that the Social Democrats withdrew ministers and support from Ilie Bolojan's government, leaving it without a parliamentary majority. The rupture comes while Romania is still under pressure to deliver reforms linked to European funding and deficit reduction.",
+          "why_it_matters": "Romania is facing a political crisis at a moment when policy drift could carry real fiscal and market consequences.",
+          "countries": ["Romania", "European Union"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_L8N4161GR%3A0-romania-s-ruling-coalition-loses-majority-after-its-biggest-party-walks-out/"
+            },
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/pm-psd-talks-president-april-2026"
+            }
+          ]
+        },
+        {
+          "label": "Next Steps",
+          "headline": "Bolojan is trying to keep governing while minority-government talks continue",
+          "summary": "Romania Insider reported that Bolojan says he will remain prime minister while talks continue with USR, UDMR, and minority lawmakers on how a reduced governing formula could function. PSD is still signaling that it could move into opposition rather than back a minority cabinet under the current prime minister.",
+          "why_it_matters": "The immediate question is no longer whether the coalition has broken, but whether any workable pro-European governing majority can replace it.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/bolojan-talks-minority-govt-apr-2026"
+            },
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/Ilie-bolojan-stay-prime-minister-psd-support-april-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The useful Reddit signal today is where public attention concentrated around coalition-building, climate stress, and European follow-through.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Ukraine Reddit",
+          "headline": "Reddit treated the EU's Ukraine package as big money, but late money",
+          "summary": "High-engagement threads in r/worldnews focused on the size of the EU's new package and on whether it changes the military and fiscal trajectory for Kyiv. The overall mood mixed relief that Europe finally moved with frustration that comparable action did not come earlier.",
+          "why_it_matters": "The public signal is that Europe still gets credit for follow-through, but patience with procedural delay is very thin.",
+          "countries": ["Ukraine", "European Union", "Hungary"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1suom7n/ukraine_gets_us106b_loan_package_from_eu_after/"
+            }
+          ],
+          "score": "71",
+          "comments": "visible discussion"
+        },
+        {
+          "label": "Climate Reddit",
+          "headline": "Reddit users treated the UN heat report as a food-security warning, not abstract climate news",
+          "summary": "Discussion around the extreme-heat report in science and future-focused communities centered on crop resilience, farm economics, and whether technological adaptation can outpace rising heat stress. The argument itself was part of the signal because users were translating climate language into practical questions about food and work.",
+          "why_it_matters": "Public attention sharpens when climate risk is framed through visible costs like food production and labor loss.",
+          "countries": ["Global"],
+          "sources": [
+            {
+              "name": "Reddit r/Futurology",
+              "url": "https://www.reddit.com/r/Futurology/comments/1ssvric/world_food_systems_pushed_to_the_brink_by_extreme/"
+            }
+          ],
+          "score": "active thread",
+          "comments": "active thread"
+        },
+        {
+          "label": "Space Reddit",
+          "headline": "Jordan joining the Artemis Accords drew smaller but notably positive space-community attention",
+          "summary": "Threads in r/space and related communities framed Jordan's signing less as a headline event and more as another sign that NASA's lunar coalition keeps broadening. The conversation was more constructive than partisan, which made it a useful contrast to the harder geopolitical threads dominating the day.",
+          "why_it_matters": "Not all public-signal value comes from outrage; sometimes it comes from noticing where institutions are still building durable alliances.",
+          "countries": ["Jordan", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/space",
+              "url": "https://www.reddit.com/r/space/comments/1su1fir/nasa_welcomes_jordan_as_63rd_artemis_accords/"
+            }
+          ],
+          "score": "155",
+          "comments": "steady discussion"
+        }
+      ]
+    }
+  ]
+}
