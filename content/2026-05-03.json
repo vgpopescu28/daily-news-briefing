@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-03",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Sunday's core signals are an unresolved Iran-Hormuz crisis, thinner U.S.-Europe trust, deeper instability in Africa, and mounting political risk in Romania.",
+  "generated_at": "2026-05-03T23:22:42+03:00",
+  "summary": {
+    "spotlight": "The dominant signal on Sunday, May 3, 2026 is that the Iran war has not truly ended even with a ceasefire in place. Shipping risk in the Strait of Hormuz remains active, Washington and European allies are pulling further apart, and several undercovered crises in Mali, Sudan, and South Sudan show how much of the global system is still under strain away from the main headlines.",
+    "market_mood": "Volatile",
+    "reader_note": "AP, Al Jazeera, NASA, WHO, U.N. reporting, Romania Insider, and a small set of high-signal Reddit threads shaped today's edition. Romania and Reddit remain dedicated lanes because both added meaningful context."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The Iran crisis still leads the day because peace talks are moving forward while ships are still being attacked near Hormuz",
+    "summary": "AP reported on May 3 that a cargo ship was attacked by small craft near the Strait of Hormuz, the latest sign that maritime risk is still live even during a fragile ceasefire. At the same time, Tehran is reviewing Washington's response to its latest 14-point proposal and Trump says he is reviewing the plan, which means diplomacy exists but has not yet restored commercial confidence or strategic clarity.",
+    "why_it_matters": "A ceasefire without secure shipping or an accepted end-state still leaves the global economy exposed to a renewed shock.",
+    "countries": ["Iran", "United States", "Oman", "Pakistan", "Global"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/454006a0a9bb19a45a2f299c0869cefb"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/9317c11e51ba8dfa527b424f931fe04b"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The main question today is whether the region is moving toward a real settlement or just a more dangerous pause.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Diplomacy",
+          "headline": "Trump says he is reviewing Iran's new 14-point proposal but still doubts it will produce a deal",
+          "summary": "AP reported on May 2 that Trump said he was reviewing a new Iranian proposal delivered via Pakistan even as he signaled he remained skeptical of its terms. The proposal reportedly links sanctions relief, an end to the naval blockade, and a broader halt to fighting, showing that both sides are still bargaining over the terms of any durable postwar arrangement.",
+          "why_it_matters": "Talks are active, but the structure of the proposal shows the hardest issues are still unresolved.",
+          "countries": ["United States", "Iran", "Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9317c11e51ba8dfa527b424f931fe04b"
+            }
+          ]
+        },
+        {
+          "label": "Shipping",
+          "headline": "A cargo ship was attacked near the Strait of Hormuz as maritime security remained unsettled",
+          "summary": "AP reported on May 3 that a cargo ship was attacked by small craft near Hormuz, at least the 24th such incident since the war began. The attack reinforced that the waterway is still being governed through coercion and uncertainty rather than normal commercial rules, even while formal diplomacy continues.",
+          "why_it_matters": "Oil and shipping markets do not need a full closure to stay on edge; repeated attacks are enough to keep risk premiums high.",
+          "countries": ["Iran", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/454006a0a9bb19a45a2f299c0869cefb"
+            }
+          ]
+        },
+        {
+          "label": "Gaza",
+          "headline": "Israel is threatening to resume the Gaza war as the October truce keeps fraying",
+          "summary": "Al Jazeera reported on May 3 that Israeli officials and military figures are signaling that another round of fighting in Gaza is becoming more likely unless Palestinian factions disarm under a U.S.-backed framework. The report describes a truce that remains formal on paper but increasingly unstable in practice as Israeli territorial control and daily pressure continue.",
+          "why_it_matters": "Any renewed Gaza offensive would widen humanitarian damage and could further complicate efforts to stabilize the broader region.",
+          "countries": ["Israel", "Palestine", "United States"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-europe",
+      "title": "Ukraine & Europe",
+      "description": "Europe's security picture is being shaped at the same time by the Ukraine war, AI militarization, and new doubts about the U.S. commitment.",
+      "kicker": "Security Strain",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Ceasefire Politics",
+          "headline": "Zelenskyy wants details, not symbolism, from Putin's proposed May 9 ceasefire",
+          "summary": "AP reported on April 30 that Volodymyr Zelenskyy asked for clarification after Vladimir Putin floated a short ceasefire tied to Russia's Victory Day commemorations. Kyiv signaled that it wants a more meaningful pause while Russian and Ukrainian strikes continued to hit civilian and industrial targets.",
+          "why_it_matters": "A short ceremonial pause can help Moscow politically without changing the underlying military reality.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f6401f0bd72a2866486408fcfd5dc586"
+            }
+          ]
+        },
+        {
+          "label": "Autonomy",
+          "headline": "Ukraine says battlefield AI is becoming a central survival tool in the war",
+          "summary": "In an AP interview published April 30, the head of Ukraine's Defense Artificial Intelligence Center said AI is already helping speed targeting, logistics, and battlefield decisions even though full integration will take years. The message was that military advantage is shifting toward software, autonomy, and rapid adaptation rather than stockpiles alone.",
+          "why_it_matters": "Ukraine is showing how future wars may be shaped by who can operationalize AI fastest under live combat conditions.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a7d2cce367f68caa3598f4e0bd8b50c9"
+            }
+          ]
+        },
+        {
+          "label": "Alliance Rift",
+          "headline": "The U.S. troop drawdown from Germany is widening the strategic gap between Washington and Europe",
+          "summary": "AP reported on May 2 that the Pentagon will pull about 5,000 troops from Germany over the next six to 12 months, and Trump then said the reduction could go further. German officials called the move foreseeable while U.S. lawmakers warned it could weaken deterrence and leave Europe managing more security risk with less American backing.",
+          "why_it_matters": "Europe is being pushed to prepare for a thinner U.S. military umbrella before it has fully rebuilt its own defense capacity.",
+          "countries": ["United States", "Germany", "NATO", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d37af7bcd1a97e265f3b3afd8aa65142"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a93151327dcb7279a56a36dd4bbeca1c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trade-markets",
+      "title": "Trade & Markets",
+      "description": "The economic signal is still fragmentation: war pressure, tariffs, and bloc-level hedging are all reshaping the global market map.",
+      "kicker": "Economic Pressure",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Tariffs",
+          "headline": "Trump said he will raise tariffs on EU autos and trucks to 25 percent",
+          "summary": "AP reported on May 1 that Trump said he would raise tariffs on European Union cars and trucks to 25 percent, accusing the bloc of not complying with a prior trade arrangement. The move adds a fresh transatlantic economic shock at the same time security tensions with Europe are already rising over Iran and troop deployments.",
+          "why_it_matters": "Trade friction inside the Western alliance makes security coordination harder and adds another inflationary risk into an already stressed system.",
+          "countries": ["United States", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/800e6ed469b73cd4c144edb65e40ba72"
+            }
+          ]
+        },
+        {
+          "label": "Bloc Politics",
+          "headline": "The EU-Mercosur trade deal has entered provisional effect as Europe looks for room outside U.S. protectionism",
+          "summary": "AP reported on May 1 that the long-negotiated EU-Mercosur agreement has taken provisional effect, creating a vast trans-Atlantic market even as legal and political objections remain. Supporters see it as a geopolitical hedge against U.S. tariff pressure and a sign that major blocs are repositioning for a more fragmented world economy.",
+          "why_it_matters": "Trade blocs are not waiting for calm to return; they are reorganizing around a more contested global order.",
+          "countries": ["European Union", "Brazil", "Argentina", "Paraguay", "Uruguay"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/571f8814c51667650cc7fa3e0a754b10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-cross-strait",
+      "title": "Asia & Cross-Strait",
+      "description": "The Taiwan lane today is about how diplomatic pressure and signaling are raising regional stakes even without an immediate military crisis.",
+      "kicker": "Regional Risk",
+      "stories": [
+        {
+          "label": "Taiwan",
+          "headline": "Taipei is warning about growing pressure after Beijing called Taiwan the biggest risk in U.S.-China relations",
+          "summary": "AP reported on May 1 that Taiwan expressed concern after Chinese Foreign Minister Wang Yi described the island as the biggest risk in U.S.-China relations in a call with Secretary of State Marco Rubio. AP separately reported that President Lai Ching-te's trip to Eswatini was delayed by overflight denials that Taiwan says were driven by Chinese pressure.",
+          "why_it_matters": "Even without a sudden military event, diplomatic and airspace pressure can steadily narrow Taiwan's room to maneuver.",
+          "countries": ["Taiwan", "China", "United States", "Eswatini"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d19c90e61ada9e938b37b35c9c6f684b"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/438451a93e4de0a8f4dbc99fdb0d3bf0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "africa-humanitarian",
+      "title": "Africa & Humanitarian Stress",
+      "description": "Some of the clearest signs of global disorder today are in conflicts and civilian crises receiving far less attention than the Middle East or Ukraine.",
+      "kicker": "Undercovered Crises",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Sudan",
+          "headline": "A new drone strike near Khartoum showed that Sudan's war is still hitting civilians directly",
+          "summary": "AP reported on May 3 that a Rapid Support Forces drone strike killed at least five civilians traveling toward Omdurman. Khartoum had been relatively calmer after its recapture by the army, but the attack showed how quickly civilian roads and routine movement can still become targets.",
+          "why_it_matters": "Civilian targeting on public roads is one of the clearest markers that a war remains structurally lawless.",
+          "countries": ["Sudan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/42e4c942c488101eb9f7dfd53eedb2e7"
+            }
+          ]
+        },
+        {
+          "label": "South Sudan",
+          "headline": "The U.N. cut South Sudan's peacekeeping ceiling even as the country remains at risk of wider conflict",
+          "summary": "AP reported on April 30 that the Security Council reduced the authorized size of the U.N. mission in South Sudan from 17,000 to 12,000 troops while extending its mandate. The vote came as political violence continues to threaten the 2018 peace framework and aid access remains contested.",
+          "why_it_matters": "Reducing peacekeeping capacity during renewed instability raises the risk that humanitarian and civilian-protection gaps will widen faster than diplomacy can keep up.",
+          "countries": ["South Sudan", "United Nations"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/06481307572434ca19c9ba2e4d823263"
+            }
+          ]
+        },
+        {
+          "label": "Mali",
+          "headline": "Mali's junta is tightening repression after the biggest militant shock to the state in years",
+          "summary": "AP reported on May 1 that Malian authorities accused military officers of collaborating with jihadis and separatists in the biggest attacks the country has seen in over a decade. AP then reported on May 3 that former minister and junta critic Mountaga Tall was abducted from his home by armed hooded men as the fallout spread.",
+          "why_it_matters": "Mali is moving deeper into a cycle where militant advances and state repression reinforce each other rather than restore control.",
+          "countries": ["Mali"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ad322075647daeda4332d71e1a102631"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3d459f971e35e8335aa74dc22ca8c11a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-health-climate",
+      "title": "Science, Health & Climate",
+      "description": "The quieter but still important signal is that space diplomacy and climate-linked system stress are both advancing in the background.",
+      "kicker": "Long Horizon",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Space Diplomacy",
+          "headline": "NASA says Morocco became the 64th Artemis Accords signatory this week",
+          "summary": "NASA announced on April 30 that Morocco signed the Artemis Accords in Rabat, becoming the 64th country to join the U.S.-led framework for peaceful civil space exploration. The move shows that space cooperation remains an active instrument of diplomacy even in a period dominated by terrestrial conflict.",
+          "why_it_matters": "Space policy is still functioning as a live alignment tool for states choosing partners and standards.",
+          "countries": ["Morocco", "United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/"
+            }
+          ]
+        },
+        {
+          "label": "Heat",
+          "headline": "U.N. agencies say extreme heat is pushing global food systems closer to structural strain",
+          "summary": "The United Nations Office at Geneva reported on April 22 that a new FAO-WMO warning says extreme heat is already costing agriculture roughly half a trillion work hours each year and intensifying stress across crops, livestock, fisheries, and labor. The report frames heat as a compounding risk that magnifies existing weaknesses rather than a distant climate-only problem.",
+          "why_it_matters": "Climate stress becomes politically explosive when it starts to reshape food affordability, labor safety, and output at scale.",
+          "countries": ["Global"],
+          "sources": [
+            {
+              "name": "UN Geneva",
+              "url": "https://www.ungeneva.org/en/news-media/news/2026/04/117873/extreme-heat-pushing-global-food-systems-brink-un-agencies-warn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's domestic lane matters because the government crisis now intersects directly with borrowing costs, reforms, and Brussels credibility.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Government",
+          "headline": "PSD and AUR are pushing a no-confidence vote that could topple Ilie Bolojan on May 5",
+          "summary": "AP reported on April 28 that the Social Democrats and hard-right AUR filed a joint no-confidence motion against Prime Minister Ilie Bolojan after PSD left the coalition. Romania Insider reported that the motion is backed by more than half of lawmakers and is expected to be voted on Monday, May 5, 2026.",
+          "why_it_matters": "Romania is heading into another abrupt government test while it still needs reform credibility with Brussels and investors.",
+          "countries": ["Romania", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5035fc8bced8c4e518ba627f9db55bc3"
+            },
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/no-confidence-motion-backed-over-half-mps-2026"
+            }
+          ]
+        },
+        {
+          "label": "Market Risk",
+          "headline": "Bolojan says the political crisis is already raising costs through interest rates and investor distrust",
+          "summary": "Romania's public radio reported on April 30 that Bolojan said the crisis was driving up borrowing costs, weakening confidence, and undermining Romania's external credibility. The argument is that the parliamentary fight is no longer just coalition drama because it is feeding directly into financial conditions and reform risk.",
+          "why_it_matters": "Romania's cabinet struggle now has real fiscal consequences at a time when the country can least afford more instability.",
+          "countries": ["Romania", "European Union"],
+          "sources": [
+            {
+              "name": "Radio Romania Actualitati",
+              "url": "https://www.romania-actualitati.ro/news-in-english/ilie-bolojan-the-current-political-and-governmental-crisis-is-instigated-by-psd-id227707.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The strongest Reddit signal today came from users treating alliance strain and the Iran war as immediate economic and strategic problems, not abstract geopolitics.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "NATO Reddit",
+          "headline": "A major Reddit thread treated the Germany troop withdrawal as a sign that Europe should plan for less U.S. reliability",
+          "summary": "A high-engagement r/worldnews discussion on May 3 framed the Germany drawdown less as a narrow basing decision and more as another step in a broader U.S.-Europe separation. The dominant reaction was that Europe should accelerate its own defense planning rather than assume Washington will restore the old security bargain.",
+          "why_it_matters": "Public reaction is converging quickly on the idea that the alliance structure itself is changing.",
+          "countries": ["United States", "Germany", "NATO"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1t2bsos/germany_says_us_troop_withdrawal_anticipated/"
+            }
+          ],
+          "score": "6.3k+",
+          "comments": "active thread"
+        },
+        {
+          "label": "Oil Reddit",
+          "headline": "Reddit's Iran thread focused on market manipulation and the real-economy risk of a prolonged Hormuz crisis",
+          "summary": "A busy r/worldnews thread about Trump's review of Iran's latest proposal mixed political cynicism with a sharper concern that even a partial Hormuz disruption will eventually feed through into fuel prices and supply strain. The discussion was useful because it tracked how quickly users connected diplomacy headlines to lived economic risk.",
+          "why_it_matters": "Public sentiment is already translating the Iran story into expectations of delayed but painful market fallout.",
+          "countries": ["Iran", "United States", "Global"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1t247n0/president_trump_says_he_is_reviewing_a_new/"
+            }
+          ],
+          "score": "1.2k+",
+          "comments": "1k+"
+        }
+      ]
+    }
+  ]
+}
