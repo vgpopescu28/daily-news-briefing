@@ -1,0 +1,350 @@
+{
+  "date": "2026-05-08",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday's clearest signals are stalled Iran-war diplomacy under live fire, a pre-parade drone surge over Russia, Romania's coalition vacuum, Taiwan-heavy U.S.-China summit positioning, and widening security stress across Africa.",
+  "generated_at": "2026-05-08T09:35:00+03:00",
+  "summary": {
+    "spotlight": "The dominant signal on Friday, May 8, 2026 is that several headline crises are simultaneously trying to move from open confrontation into negotiation without actually becoming stable. Iran is still reviewing a U.S. peace proposal while Israel is widening strikes in Beirut and Gaza, Russia and Ukraine are escalating around Victory Day symbolism instead of de-escalating, and Romania's government collapse is turning into a broader test of fiscal and political resilience inside Eastern Europe.",
+    "market_mood": "Mixed",
+    "reader_note": "AP, Reuters-backed syndication, Al Jazeera, NASA, and U.N. material drove today's selection, with two Reddit threads included only where they add a clear public-signal read on Ukraine-war psychology and AI copyright backlash."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The global lead is still the Iran war because diplomacy is moving, but the battlefield is still expanding faster than trust",
+    "summary": "The most important global signal this morning is that Washington and Tehran are again talking through a Pakistan-mediated proposal while the wider war remains operationally unstable. Iran says it is still reviewing the U.S. offer, Trump says a deal is possible, and yet Israel has resumed high-profile strikes in Beirut while pressure continues in Gaza, leaving the region in the dangerous space where negotiations exist but no actor is behaving as if a durable settlement is already close.",
+    "why_it_matters": "When diplomacy and live-fire escalation advance at the same time, markets and governments have to price both peace talk upside and sudden-war downside together.",
+    "countries": ["Iran", "United States", "Israel", "Lebanon", "Gaza"],
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut"
+      },
+      {
+        "name": "Al Jazeera Live",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?update=4553303"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Diplomatic motion has returned, but it is still running alongside fresh Israeli strikes and persistent coercive pressure.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Talks Under Fire",
+          "headline": "Iran says it is still reviewing the latest U.S. proposal even as Trump publicly pushes the idea that a deal is within reach",
+          "summary": "Al Jazeera reported that Tehran is still reviewing a 14-point U.S. proposal delivered through Pakistani mediators, while Trump says talks have been productive and a deal is possible. That combination matters because it signals real diplomatic movement, but also suggests both sides are still negotiating from positions shaped by coercion rather than by postwar trust.",
+          "why_it_matters": "A proposal under review is not the same thing as a stable truce, especially when both parties still want leverage before any formal settlement.",
+          "countries": ["Iran", "United States", "Pakistan"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut"
+            },
+            {
+              "name": "Al Jazeera Live",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?update=4552713"
+            }
+          ]
+        },
+        {
+          "label": "Beirut Strike",
+          "headline": "Israel bombed Beirut again, signaling that Lebanon remains an active pressure front even while Iran diplomacy is being tested",
+          "summary": "Al Jazeera reported that Israel struck Beirut in the first attack on the Lebanese capital since the April 17 ceasefire, underscoring how little separation now exists between the Iran file and Israel's campaign against Hezbollah. The practical takeaway is that any U.S.-Iran deal would still have to survive spoilers and linked fronts elsewhere in the region.",
+          "why_it_matters": "If the Lebanon front stays hot, a diplomatic opening with Iran can still unravel through allied or proxy escalation.",
+          "countries": ["Israel", "Lebanon", "Iran"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Pressure",
+          "headline": "Hamas says the son of its chief negotiator died after an Israeli strike in Gaza City",
+          "summary": "AP reported that Azzam al-Hayya, the son of Hamas chief negotiator Khalil al-Hayya, died after an Israeli airstrike in Gaza City, with Hamas presenting the killing as part of a broader pressure campaign. The development adds more strain to an already fragile negotiation environment by reinforcing the message that battlefield targeting is still being used alongside diplomacy.",
+          "why_it_matters": "Negotiations become harder to stabilize when one side believes the other is trying to extract concessions through personal and symbolic losses.",
+          "countries": ["Gaza", "Israel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cfb7d60979a86c973b9885a9bf18649f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "The pre-Victory Day pattern is escalation by symbolism, with drones, threats, and prestige all crowding out any serious ceasefire logic.",
+      "kicker": "War Signal",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Drone Surge",
+          "headline": "Russia says Ukraine launched one of its biggest drone attacks of the war after Moscow rejected Kyiv's ceasefire offer",
+          "summary": "AP reported that Russia said it intercepted 347 Ukrainian drones over more than 20 regions, including Moscow, in what looked like Ukraine's second-biggest aerial attack since the invasion began. The strikes came as both sides argued over ceasefire optics ahead of Russia's May 9 Victory Day commemorations, making clear that symbolic dates are now part of the operational battlefield.",
+          "why_it_matters": "When prestige events become military pressure points, the risk of overreaction and demonstrative retaliation goes up sharply.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3fd7de0bc63bc349422117e1517e724d"
+            }
+          ]
+        },
+        {
+          "label": "Parade Security",
+          "headline": "The Kremlin says Putin's security is being tightened as Moscow braces for possible disruption to Victory Day events",
+          "summary": "Reuters reported that the Kremlin confirmed extra security measures for Putin and the May 9 celebrations because of what it called the Ukrainian threat. That statement is notable because it shows that even Russia's most choreographed patriotic event is now being planned under wartime vulnerability rather than under unquestioned control.",
+          "why_it_matters": "A state that must harden its showcase parade against attack is broadcasting that the war can reach the center of its own political theater.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reuters/Investing",
+              "url": "https://www.investing.com/news/world-news/kremlin-says-putins-security-is-being-tightened-for-victory-day-events-4667227"
+            }
+          ]
+        },
+        {
+          "label": "Deep-Strike Logic",
+          "headline": "Ukraine is also projecting range by striking far from the front, including a reported hit on a Russian missile ship in the Caspian Sea",
+          "summary": "The Guardian reported that Ukraine struck a Russian Karakurt-class missile ship near Kaspiysk in the Caspian Sea and also targeted a refinery in Perm. Whether or not those operations become strategic turning points, they reinforce Kyiv's message that Russia's rear areas and prestige infrastructure are no longer insulated from the war.",
+          "why_it_matters": "Long-range strikes change both deterrence calculations and domestic narratives about who is actually secure inside the conflict.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/may/08/ukraine-war-briefing-distant-strike-on-russian-missile-ship-in-caspian-sea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-politics-security",
+      "title": "Europe Politics & Security",
+      "description": "Romania's collapse and renewed tariff pressure are reinforcing the sense that Eastern Europe and the wider EU have less fiscal and strategic slack than they need.",
+      "kicker": "European Stress",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Government Fall",
+          "headline": "Romania's pro-European coalition collapse is still the region's clearest political warning light",
+          "summary": "AP reported that Prime Minister Ilie Bolojan lost a no-confidence vote, collapsing Romania's coalition amid recession fears, a high deficit, and post-election legitimacy strain. President Nicusor Dan is still promising a pro-Western replacement, but the absence of an obvious majority means the instability is now lasting longer than a routine cabinet reshuffle.",
+          "why_it_matters": "Romania sits inside both EU fiscal politics and NATO planning, so prolonged instability in Bucharest has wider regional consequences.",
+          "countries": ["Romania", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cae251a0ef62c9941d9355c0b2c927ea"
+            }
+          ]
+        },
+        {
+          "label": "Deficit Pressure",
+          "headline": "Reuters says Romania's implosion is feeding a broader Eastern European deficit story that is already worrying investors and ratings agencies",
+          "summary": "Reuters reported that Romania's no-confidence crisis has cast a shadow over a wider regional struggle with debt, defense spending, and energy costs, while the country remains close to a downgrade below investment grade. That makes Romania more than a domestic political drama because it becomes a live stress test for how much instability the region's finances can absorb.",
+          "why_it_matters": "Once political turmoil starts interacting with ratings risk and borrowing costs, governments lose room to improvise.",
+          "countries": ["Romania", "Eastern Europe", "European Union"],
+          "sources": [
+            {
+              "name": "Reuters/MarketScreener",
+              "url": "https://www.marketscreener.com/news/war-energy-and-politics-hamper-eastern-europe-s-efforts-to-keep-deficits-in-check-ce7f58d3dc8cf024"
+            }
+          ]
+        },
+        {
+          "label": "Tariff Overhang",
+          "headline": "EU negotiators say a trade deal with Washington still has work left even with higher auto tariffs hanging over the talks",
+          "summary": "Reuters reported that EU lawmakers and governments made progress on the legislation underpinning the trade deal with the United States, but chief negotiator Bernd Lange said there is still some way to go. The immediate significance is that Europe is trying to avoid another tariff shock while also dealing with security pressure and weak fiscal headroom.",
+          "why_it_matters": "Trade friction with Washington lands harder when Europe is already being asked to spend more on defense and absorb political instability at home.",
+          "countries": ["European Union", "United States"],
+          "sources": [
+            {
+              "name": "Reuters/Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/07/eu-negotiator-says-still-some-way-to-go-on-us-trade-deal-under-threat-of-higher-auto-tariffs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-strategy-trade",
+      "title": "Asia Strategy & Trade",
+      "description": "The next Trump-Xi meeting is being framed less as a reset than as a tightly managed attempt to prevent several flashpoints from worsening at once.",
+      "kicker": "Major-Power Friction",
+      "stories": [
+        {
+          "label": "Taiwan Signal",
+          "headline": "China is again warning that Taiwan will define whether the next Trump-Xi summit produces stability or more friction",
+          "summary": "AP reported that Beijing again emphasized Taiwan as the core issue in U.S.-China relations ahead of the May 14-15 Trump-Xi meeting, reiterating that Washington must honor the one-China principle. The language matters because it narrows the room for both sides to treat Taiwan as just one agenda item among trade, fentanyl, and technology.",
+          "why_it_matters": "When a summit is preconditioned around one flashpoint, missteps on that issue can overwhelm any progress elsewhere.",
+          "countries": ["China", "Taiwan", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9793fe4f345d05b4460d848eecbad6fa"
+            }
+          ]
+        },
+        {
+          "label": "Summit Stakes",
+          "headline": "Reuters says the Trump-Xi agenda is crowded with trade, Taiwan, Iran, rare earths, and Boeing rather than any single clean breakthrough",
+          "summary": "Reuters reported that next week's Beijing summit is expected to focus on trade concessions, aircraft purchases, critical supply chains, and the Iran war, with analysts expecting only modest gains rather than a dramatic reset. That is the important frame for readers because the real question is whether the meeting reduces cumulative friction, not whether it solves one issue outright.",
+          "why_it_matters": "Big-power summits matter most when they lower the number of crises that can reinforce each other at the same time.",
+          "countries": ["China", "United States"],
+          "sources": [
+            {
+              "name": "Reuters/WSAU",
+              "url": "https://wsau.com/2026/05/07/factbox-whats-at-stake-at-the-trump-xi-summit/"
+            }
+          ]
+        },
+        {
+          "label": "South Asia Deterrence",
+          "headline": "Pakistan marked the first anniversary of the 2025 clash with India by warning that any new attack would draw a strong response",
+          "summary": "AP reported that Pakistan's military used the anniversary of last year's four-day conflict with India to stress deterrence and readiness while saying it does not seek war. The point is not that war is imminent this morning, but that another nuclear-armed rivalry is still being managed through threat signaling rather than through any durable political thaw.",
+          "why_it_matters": "Persistent deterrence messaging in South Asia remains globally relevant because even limited miscalculation there carries outsized risk.",
+          "countries": ["Pakistan", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/683ab7446c2f019f545d68ddd3e1a7f1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "africa-humanitarian",
+      "title": "Africa & Humanitarian Stress",
+      "description": "The undercovered signal today is that multiple African crises are simultaneously becoming more militarized, more regional, and harder to stabilize.",
+      "kicker": "Undercovered Crisis",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Sudan Spillover",
+          "headline": "Sudan has recalled its ambassador to Ethiopia after blaming Addis Ababa and the UAE for drone attacks",
+          "summary": "AP reported that Sudan accused Ethiopia and the UAE of backing drone strikes, including on Khartoum airport, and responded by recalling its ambassador. Ethiopia denied the claim, but the real signal is that Sudan's civil war is generating more direct interstate confrontation rather than staying confined to internal front lines.",
+          "why_it_matters": "Civil wars become harder to contain once neighboring states are openly accused of direct involvement in major strikes.",
+          "countries": ["Sudan", "Ethiopia", "United Arab Emirates"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/907855de58f8c5ad89a1cd92897e5749"
+            }
+          ]
+        },
+        {
+          "label": "South Sudan Buffer",
+          "headline": "The U.N. is signaling that South Sudan remains close enough to renewed conflict that its peacekeeping mission still needs a full-year extension",
+          "summary": "U.N. Peacekeeping said the Security Council renewed UNMISS until April 30, 2027 at a moment when rising tensions could return South Sudan to large-scale conflict and nearly 10 million people need humanitarian assistance. That makes the mission less a bureaucratic rollover than a warning that the country remains structurally fragile.",
+          "why_it_matters": "A peacekeeping mission extended under explicit instability warnings is a reminder that political collapse risk is still real, not historical.",
+          "countries": ["South Sudan", "United Nations"],
+          "sources": [
+            {
+              "name": "UN Peacekeeping",
+              "url": "https://peacekeeping.un.org/en/multimedia/5-facts-un-mission-in-south-sudan"
+            }
+          ]
+        },
+        {
+          "label": "Mali Violence",
+          "headline": "A deadly double attack in central Mali shows the insurgent and militia war is still widening rather than cooling",
+          "summary": "AP reported that twin attacks hit the central Mali villages of Kori Kori and Gomossogou, with JNIM claiming it targeted pro-government militias as the wider security crisis deepens. The backdrop is a more ambitious militant offensive and a state that has already shifted away from French and U.N. security support toward Russia-linked backing.",
+          "why_it_matters": "A deteriorating Mali adds pressure to an already unstable Sahel and shows how quickly security vacuums can compound across the region.",
+          "countries": ["Mali", "Sahel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5c5d0aecfc51583225249c7b42f63fb2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-space",
+      "title": "Science & Space",
+      "description": "A quieter but still useful counter-signal is that international space rule-building is widening even while geopolitics on Earth remains hardening and fragmented.",
+      "kicker": "Long Horizon",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Ireland Signs",
+          "headline": "Ireland became the 66th signatory to the Artemis Accords, extending the civil-space rulebook across all ESA member states",
+          "summary": "NASA said Ireland signed the Artemis Accords on May 4 in Washington, joining the framework for peaceful, transparent, and responsible exploration. The timing stands out because it shows that a multilateral governance project is still expanding even during a period dominated by military crises and trade coercion on Earth.",
+          "why_it_matters": "International participation gives space norms more credibility, especially when terrestrial geopolitics are becoming more zero-sum.",
+          "countries": ["Ireland", "United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/"
+            }
+          ]
+        },
+        {
+          "label": "Malta Signs",
+          "headline": "Malta also joined the Artemis Accords, reinforcing that smaller states still want a formal stake in setting lunar and deep-space norms",
+          "summary": "NASA said Malta became the 65th signatory during a May 4 ceremony in Kalkara, further broadening the Accords coalition. Together with Ireland's signing, the signal is that the project is not stalling after a high-profile Artemis II cycle and still attracts states that see strategic value in codified rules.",
+          "why_it_matters": "Smaller-country participation matters because durable governance frameworks become stronger when they are not just great-power clubs.",
+          "countries": ["Malta", "United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The strongest Reddit signal today is split between Ukraine-war escalation psychology and sustained anger over AI companies using copyrighted work.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Ukraine Thread",
+          "headline": "A large r/UkrainianConflict thread is reading the Moscow-parade drone threat mainly as psychological warfare and air-defense shaping",
+          "summary": "A current r/UkrainianConflict discussion around possible Ukrainian pressure on Russia's Victory Day parade is centered less on spectacle than on the idea of forcing Moscow to redirect scarce air defenses and absorb prestige damage. The thread is useful because it shows how engaged readers are interpreting the pre-parade drone campaign as strategic signaling rather than just provocation.",
+          "why_it_matters": "Public discussion is already treating symbolic strikes as part of broader resource-denial strategy, not merely headline theater.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/UkrainianConflict",
+              "url": "https://www.reddit.com/r/UkrainianConflict/comments/1t5a20i/breaking_ukraine_rejects_russias_victory_day/"
+            }
+          ],
+          "score": "1.5k",
+          "comments": "100+"
+        },
+        {
+          "label": "AI Copyright Thread",
+          "headline": "r/technology is treating the Meta publisher lawsuit as more proof that AI training battles are becoming a mainstream accountability fight",
+          "summary": "A large r/technology thread on the new publisher lawsuit against Meta and Mark Zuckerberg is drawing high engagement and unusually consistent hostility toward the idea that AI companies can train on copyrighted work and settle later. The thread matters because it captures a broader mood shift: copyright disputes are increasingly being understood by ordinary users as a direct legitimacy problem for the AI industry.",
+          "why_it_matters": "Once public opinion hardens around data misuse rather than novelty, legal and regulatory pressure becomes easier to sustain.",
+          "countries": ["United States", "Global"],
+          "sources": [
+            {
+              "name": "Reddit r/technology",
+              "url": "https://www.reddit.com/r/technology/comments/1t4msyy/mark_zuckerberg_personally_authorized_and/"
+            }
+          ],
+          "score": "11.1k",
+          "comments": "300+"
+        }
+      ]
+    }
+  ]
+}
