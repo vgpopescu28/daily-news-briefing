@@ -1,0 +1,335 @@
+{
+  "date": "2026-05-18",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Monday's clearest signals are a renewed Hormuz war risk, Ukraine's expanding long-range strikes, fragile diplomacy across Europe and Asia, a serious Ebola emergency in central Africa, and still-volatile energy markets.",
+  "generated_at": "2026-05-18T09:40:00+03:00",
+  "summary": {
+    "spotlight": "The main signal on Monday, May 18, 2026 is that several of the world's biggest risks are active at the same time rather than taking turns. The Iran-Hormuz crisis is again the lead story after a drone strike at the UAE's nuclear plant and no meaningful diplomatic breakthrough, Ukraine has carried one of its biggest drone attacks on Russia after the failed May 9-11 pause, and markets are still swinging hard as traders try to price war risk, oil stress, and higher yields together.",
+    "market_mood": "Volatile",
+    "reader_note": "AP, Reuters-backed reporting, NASA, and a small set of meaningful Reddit threads shaped today's selection. Romania and Reddit both remain dedicated lanes because each still adds real signal this morning."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The world's most important risk lane is back to the foreground because the Hormuz crisis is no longer just a shipping dispute, it is again brushing against nuclear infrastructure and open war language",
+    "summary": "A drone strike caused a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday, and both Washington and Tehran are again signaling that they are prepared to resume war if talks fail. That pushes the Strait of Hormuz story back into its most dangerous form: a conflict where energy security, civilian infrastructure, and military signaling are all entangled at once.",
+    "why_it_matters": "When a chokepoint crisis starts touching nuclear infrastructure and renewed war threats at the same time, governments and markets have to plan for escalation rather than just delay.",
+    "countries": ["United Arab Emirates", "Iran", "United States"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/71e7e58f45193b7dee3df28740532a7b"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://openrss.org/www.reuters.com/world/middle-east/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The central Gulf and Lebanon signals both point to a ceasefire architecture that exists on paper but not yet in practice.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "UAE Strike",
+          "headline": "A drone strike at the UAE's nuclear plant shows how close the Iran war remains to a wider regional infrastructure crisis",
+          "summary": "AP reported that a drone strike sparked a fire on the edge of the Barakah nuclear plant without causing injuries or a radiological release. Even without a catastrophic outcome, the incident shows that high-value civilian infrastructure in the Gulf is still exposed while negotiations remain stalled.",
+          "why_it_matters": "A conflict becomes more globally dangerous when critical infrastructure is being tested for deterrence as well as damage.",
+          "countries": ["United Arab Emirates", "Iran", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/71e7e58f45193b7dee3df28740532a7b"
+            }
+          ]
+        },
+        {
+          "label": "Diplomatic Deadlock",
+          "headline": "Reuters says U.S. and Iranian demands remain far apart even after weeks of talks and a fragile ceasefire",
+          "summary": "Reuters reported that Washington still wants Tehran to dismantle its nuclear program and reopen Hormuz, while Iran is demanding compensation for war damage, an end to the U.S. blockade of its ports, and a halt to fighting across connected fronts. The result is a negotiating channel that still looks active but does not yet look convergent.",
+          "why_it_matters": "When both sides keep negotiating while preserving maximal demands, the talks mainly buy time rather than trust.",
+          "countries": ["Iran", "United States", "China"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://openrss.org/www.reuters.com/world/middle-east/"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon Toll",
+          "headline": "Lebanon says the death toll from the latest Israel-Hezbollah fighting has passed 3,000 despite the ceasefire",
+          "summary": "AP reported that more than one million people have been displaced and that the death toll in Lebanon has risen above 3,000 even though direct talks between Israel and Lebanon produced a truce that has been extended into June. That makes the ceasefire look more like a brake on worse violence than a transition toward settlement.",
+          "why_it_matters": "A ceasefire that lowers tempo without stopping deaths can still leave the wider regional war highly combustible.",
+          "countries": ["Lebanon", "Israel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/2d0737f122640d72b247bd9e6643b537"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "The short truce is over, and the war is again being defined by scale, reach, and the failure of symbolic pauses.",
+      "kicker": "War Signal",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Moscow Reach",
+          "headline": "Ukraine carried one of its largest drone strikes on Russia, killing four people and hitting the Moscow region",
+          "summary": "AP reported that the barrage killed at least four people, damaged infrastructure and buildings, and forced Russia to reckon again with long-range strikes near the capital. The operation followed the end of the May 9-11 ceasefire and reinforced how little the brief pause changed the underlying military pattern.",
+          "why_it_matters": "When Ukraine can keep pushing the war's costs deeper into Russia, the political and industrial meaning of the conflict shifts as much as the battlefield map.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3164d723ca8331e5780ec7942245a2e6"
+            }
+          ]
+        },
+        {
+          "label": "Truce Expired",
+          "headline": "Reuters says the U.S.-mediated May 9-11 ceasefire ended with both sides still accusing each other of violations",
+          "summary": "Reuters reported that President Volodymyr Zelenskyy said Russia had no intention of ending the war and that Kyiv was preparing for further attacks as the ceasefire drew to a close. That leaves the episode looking less like momentum toward peace and more like a short diplomatic intermission.",
+          "why_it_matters": "Each failed limited pause makes the next ceasefire harder to treat as a credible bridge to broader negotiations.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://openrss.org/www.reuters.com/world/ukraine-russia-war/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-energy",
+      "title": "Markets & Energy",
+      "description": "The market message is still that war risk and policy uncertainty are feeding directly into pricing, yields, and oil assumptions.",
+      "kicker": "Systems Check",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil Whiplash",
+          "headline": "AP says oil prices and global stocks are still swinging sharply as traders try to price the next Hormuz shock",
+          "summary": "AP reported that oil spiked overnight and then moderated, while stocks worldwide stayed unsettled and bond yields kept pressure on borrowing costs. The broader signal is that markets are not treating this as a resolved war premium, only as a rapidly repriced one.",
+          "why_it_matters": "Large daily reversals in oil and yields are a sign that investors still do not trust the political framework around energy security.",
+          "countries": ["Global", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e7b781e8e2394be6486fa5f006e5e06e"
+            }
+          ]
+        },
+        {
+          "label": "Sanctions Pushback",
+          "headline": "China has formally blocked U.S. sanctions against five refiners accused of buying Iranian oil",
+          "summary": "Reuters reported that China's commerce ministry issued an order telling firms not to comply with U.S. sanctions on five refiners. The move matters because it turns the Iran war's energy lane into another live front in U.S.-China economic confrontation.",
+          "why_it_matters": "Once sanctions enforcement starts colliding with a rival power's industrial policy, energy disputes become harder to contain.",
+          "countries": ["China", "United States", "Iran"],
+          "sources": [
+            {
+              "name": "Reuters/Investing",
+              "url": "https://m.investing.com/news/commodities-news/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-4654774?ampMode=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "diplomacy-power",
+      "title": "Diplomacy & Power",
+      "description": "The diplomatic lane is about alignment and repositioning: Beijing, Moscow, Africa, and Central Europe are all testing new balances.",
+      "kicker": "Statecraft",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Putin To Beijing",
+          "headline": "Putin will visit Xi Jinping this week, days after Trump's own Beijing summit",
+          "summary": "AP reported that the Kremlin scheduled Putin's May 19-20 trip to coincide with the 25th anniversary of the Russia-China friendship treaty and to discuss international and regional issues. The timing matters because Moscow wants to show that it still has a strategic partner at the center of the global system despite the pressure of the Ukraine war.",
+          "why_it_matters": "High-level choreography matters when rival great powers are all trying to show that they are not diplomatically isolated.",
+          "countries": ["Russia", "China", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/75d703648da64e2caaace39e6415dc35"
+            }
+          ]
+        },
+        {
+          "label": "Africa Representation",
+          "headline": "Macron ended his Africa trip in Ethiopia with a push for U.N. reform and stronger African representation",
+          "summary": "AP reported that Macron, Abiy Ahmed, African Union officials, and U.N. Secretary-General Antonio Guterres discussed Africa's representation in global institutions, including the Security Council. The larger story is that France is trying to rebuild influence in Africa by backing structural reforms instead of leaning on old patronage language.",
+          "why_it_matters": "Calls for fairer representation matter most when middle powers start tying legitimacy to how global institutions are designed.",
+          "countries": ["France", "Ethiopia", "African Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/2e4c7f0916813a30fe34272d52db9d89"
+            }
+          ]
+        },
+        {
+          "label": "Hungary-Ukraine Reset",
+          "headline": "Hungary and Ukraine opened talks on minority rights, an early sign that Budapest's new government may ease a long-running dispute",
+          "summary": "AP reported that the two governments will begin high-level consultations on the rights of Ukraine's ethnic Hungarian minority, one of the main issues that poisoned relations under Viktor Orban. The change is notable because it suggests that a government shift in Budapest could alter both bilateral ties and regional politics.",
+          "why_it_matters": "Small diplomatic resets can have outsized effects when they remove a recurring veto point inside Europe.",
+          "countries": ["Hungary", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3f2f3d7846e362c153f1378740a11882"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "health-science",
+      "title": "Health, Climate & Science",
+      "description": "This lane is about system resilience: one fast-moving outbreak, one climate-driven disaster signal, and one quiet but important space logistics milestone.",
+      "kicker": "Preparedness",
+      "stories": [
+        {
+          "label": "Global Health Emergency",
+          "headline": "The WHO has declared the Ebola outbreak in Congo and Uganda a global health emergency",
+          "summary": "AP reported that the outbreak has produced more than 300 suspected cases and 88 deaths and involves the rare Bundibugyo strain, which has no approved vaccines or therapeutics. The declaration is an early warning that the current response gap is serious enough to require international attention before spread accelerates further.",
+          "why_it_matters": "An emergency declaration matters because it signals that local containment is no longer a safe assumption.",
+          "countries": ["Congo", "Uganda"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6f93a87ff28107bdda8990599bbcd52d"
+            }
+          ]
+        },
+        {
+          "label": "Treatment Push",
+          "headline": "Congo is opening three Ebola treatment centers in Ituri as the rare strain keeps spreading",
+          "summary": "AP reported that the World Health Organization has sent experts and supplies while Congolese authorities open new treatment centers in eastern Ituri province. That is a concrete response step, but it also underlines how quickly the outbreak moved before stronger infrastructure was in place.",
+          "why_it_matters": "When emergency care capacity is still being built during the outbreak itself, response time becomes part of the risk.",
+          "countries": ["Congo", "World Health Organization"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/305bf410419bdb1311020b72111c12e7"
+            }
+          ]
+        },
+        {
+          "label": "ISS Logistics",
+          "headline": "NASA says the latest SpaceX cargo mission has reached the station with nearly 6,500 pounds of science and supplies",
+          "summary": "NASA said the CRS-34 Dragon mission launched on May 15 and is carrying new experiments and cargo for the International Space Station's Expedition 74 crew. It is a quieter story than the war headlines, but it remains a useful proof that high-value scientific infrastructure still depends on routine logistics working well.",
+          "why_it_matters": "Complex programs stay resilient when ordinary missions remain ordinary during a noisy global news cycle.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania remains a real regional signal because its domestic political weakness is now intersecting with NATO security and budget credibility.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Coalition Collapse",
+          "headline": "Romania is still dealing with the fallout from the collapse of its pro-European coalition government",
+          "summary": "AP reported that Prime Minister Ilie Bolojan lost a no-confidence vote, toppling the government and forcing President Nicusor Dan to search for a new governing formula while ruling out early elections. The instability is not yet resolved, and it is still colliding with recession risk, inflation, and deficit pressure.",
+          "why_it_matters": "Romania's instability now matters beyond Bucharest because fiscal credibility and eastern-flank politics are both at stake.",
+          "countries": ["Romania", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cae251a0ef62c9941d9355c0b2c927ea"
+            }
+          ]
+        },
+        {
+          "label": "Air Defence Warning",
+          "headline": "Reuters says Romania and other eastern-flank allies want stronger NATO air defences after repeated Russian airspace breaches",
+          "summary": "Reuters reported from Bucharest that 14 eastern-flank leaders called for stronger air-defence coordination and greater defence-industrial cooperation after repeated missile and drone incidents. The local meaning is that Romania is not just absorbing political stress at home, it is also acting as a front-line security organizer.",
+          "why_it_matters": "Romania's value to NATO rises further when political fragility and front-line geography are happening together.",
+          "countries": ["Romania", "Poland", "NATO"],
+          "sources": [
+            {
+              "name": "Reuters/Investing",
+              "url": "https://www.investing.com/news/world-news/russian-airspace-breaches-show-need-to-boost-nato-eastern-flank-air-defence-say-leaders-4685079"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The strongest Reddit signals this morning are concentrated around Moscow strike reach, outbreak anxiety, and space logistics curiosity.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Moscow Strike Debate",
+          "headline": "A current r/worldnews thread on Zelenskyy's confirmation of the Moscow drone strike is treating the attack mainly as proof of Ukraine's growing reach",
+          "summary": "The discussion around the Moscow strike focused less on the headline itself and more on what it says about Russia's air-defence burden, domestic vulnerability, and the political meaning of drones over the capital. The thread adds value because readers are interpreting the strike as strategic pressure, not just retaliation.",
+          "why_it_matters": "Public reaction matters when a long war starts being read through capability shifts rather than front-line maps.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1tflu3k/zelenskyy_confirms_ukraine_was_behind_massive/"
+            }
+          ],
+          "score": "active thread",
+          "comments": "ongoing"
+        },
+        {
+          "label": "Ebola Anxiety",
+          "headline": "A fresh Reddit science thread on the Ebola emergency shows high concern about the lack of a vaccine for this strain",
+          "summary": "The r/sciences discussion centered on the Bundibugyo strain's lack of approved therapeutics or vaccines and on how quickly cases appeared to spread before the emergency declaration. It is useful because it captures immediate public concern about preparedness, not just casualty counts.",
+          "why_it_matters": "Reader reaction matters when outbreak coverage shifts from distant headline to concrete preparedness anxiety.",
+          "countries": ["Congo", "Uganda"],
+          "sources": [
+            {
+              "name": "Reddit r/sciences",
+              "url": "https://www.reddit.com/r/sciences/comments/1tgiogs/deadly_ebola_outbreak_declared_global_emergency/"
+            }
+          ],
+          "score": "73+",
+          "comments": "active"
+        },
+        {
+          "label": "Cargo Curiosity",
+          "headline": "A recent r/space post on the Dragon cargo launch drew practical discussion about routine ISS flights and why they still matter",
+          "summary": "The thread around SpaceX's cargo launch focused on the mechanics of uncrewed station resupply, how normal these missions have become, and why that reliability is easy to underrate. It adds value because it shows genuine public interest in infrastructure stories that are usually overshadowed by crises.",
+          "why_it_matters": "Some Reddit signal is useful precisely because it shows which technically important stories still break through the noise.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "Reddit r/space",
+              "url": "https://www.reddit.com/r/space/comments/1tehuhp/spacex_launches_dragon_cargo_ship_on_unpiloted/"
+            }
+          ],
+          "score": "608+",
+          "comments": "active"
+        }
+      ]
+    }
+  ]
+}

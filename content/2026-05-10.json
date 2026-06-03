@@ -1,0 +1,355 @@
+{
+  "date": "2026-05-10",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Sunday's clearest signals are a still-fragile Hormuz ceasefire, an unreliable Russia-Ukraine pause, political stress across Europe, and a mix of Asian, African, health, and science developments that matter beyond their regions.",
+  "generated_at": "2026-05-10T09:55:00+03:00",
+  "summary": {
+    "spotlight": "The main signal on Sunday, May 10, 2026 is that several headline crises are technically cooling without becoming stable. The Strait of Hormuz remains the single most important global risk lane, Russia's Victory Day ceasefire is being violated in practice, and Europe's political map is shifting as Romania stays fragile, Hungary turns a page, and Britain's governing party absorbs a sharp public rebuke.",
+    "market_mood": "Volatile",
+    "reader_note": "Reuters, AP, WHO, NASA, U.N. material, and a few high-signal Reddit threads drove today's selection. Romania and Reddit both remain dedicated lanes because each adds real signal this morning."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The most important global risk is still the Strait of Hormuz because diplomacy exists, but military and market pressure have not actually eased",
+    "summary": "The U.S.-Iran ceasefire around Hormuz is still functioning only as a narrow pause layered on top of unresolved disputes over shipping, sanctions, and coercive leverage. Even with Washington waiting on Tehran's answer to a peace proposal, fresh exchanges of fire and new allied naval planning show that the waterway remains a live strategic fault line rather than a stabilized trade route.",
+    "why_it_matters": "When the world's most sensitive energy chokepoint is being managed by temporary restraint instead of a durable settlement, governments and markets still have to price in renewed disruption.",
+    "countries": ["Iran", "United States", "France", "Gulf States"],
+    "sources": [
+      {
+        "name": "Reuters/Economic Times",
+        "url": "https://m.economictimes.com/news/international/world-news/calm-holds-around-strait-of-hormuz-as-iran-sits-on-us-peace-proposal/articleshow/130982175.cms"
+      },
+      {
+        "name": "Reuters/GMA News",
+        "url": "https://www.gmanetwork.com/news/topstories/world/986872/us-and-iran-exchange-fire-but-trump-says-ceasefire-still-in-effect/story/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The Gulf is quieter than it was, but the quiet still depends on force, signaling, and unresolved bargaining.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Proposal Waiting",
+          "headline": "Reuters says calm is holding around Hormuz for now while Iran sits on a U.S. peace proposal",
+          "summary": "Reuters reported that Washington is still awaiting Tehran's response to a proposal meant to turn the current pause into a more formal ceasefire track. The importance is not that peace is close, but that the confrontation has shifted into a narrow window where diplomatic delay and military risk are now operating at the same time.",
+          "why_it_matters": "A calm that depends on an unanswered proposal can break quickly if either side decides delay has become leverage.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reuters/Economic Times",
+              "url": "https://m.economictimes.com/news/international/world-news/calm-holds-around-strait-of-hormuz-as-iran-sits-on-us-peace-proposal/articleshow/130982175.cms"
+            }
+          ]
+        },
+        {
+          "label": "Ceasefire Stress Test",
+          "headline": "Reuters says U.S. and Iranian forces exchanged fire even as Washington insisted the ceasefire remains in effect",
+          "summary": "Reuters reported that American and Iranian forces traded fire in the most serious test yet of the month-old ceasefire, with both sides later signaling they did not want immediate escalation. That contradiction is the core signal today: the framework is alive, but the operational environment still looks unstable and militarized.",
+          "why_it_matters": "A ceasefire that survives direct clashes may calm headlines briefly, but it does not yet restore confidence in trade or deterrence.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reuters/GMA News",
+              "url": "https://www.gmanetwork.com/news/topstories/world/986872/us-and-iran-exchange-fire-but-trump-says-ceasefire-still-in-effect/story/"
+            }
+          ]
+        },
+        {
+          "label": "European Naval Signal",
+          "headline": "France moved its carrier group toward the Red Sea as Europe prepares for a possible Hormuz security mission",
+          "summary": "Reuters reported that France deployed the Charles de Gaulle carrier strike group as Paris and London prepare for a future mission to help protect navigation in Hormuz if conditions permit. That matters because European powers are now planning around the assumption that market security may require a longer external policing effort, not just diplomacy.",
+          "why_it_matters": "When allies start repositioning major naval assets, a regional crisis has already become a wider global logistics problem.",
+          "countries": ["France", "United Kingdom", "Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reuters/Investing",
+              "url": "https://www.investing.com/news/world-news/france-moves-aircraft-carrier-to-red-sea-with-eye-on-hormuz-mission-4664443"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "The Victory Day pause remains more symbolic than stable, with both sides still treating messaging and battlefield pressure as part of the same contest.",
+      "kicker": "War Signal",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Ceasefire Violations",
+          "headline": "Russia and Ukraine are accusing each other of breaking the Victory Day ceasefire almost as soon as it takes effect",
+          "summary": "Reuters reported that both Moscow and Kyiv said the other side violated the ceasefire announced around Russia's World War Two commemorations, even though no major breakthrough or collapse followed immediately. The takeaway is that the truce is functioning more as a political gesture and defensive breathing space than as a real trust-building step.",
+          "why_it_matters": "Short pauses that begin with mutual accusations rarely create the confidence needed for broader talks.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reuters/Investing",
+              "url": "https://www.investing.com/news/stock-market-news/russia-and-ukraine-accuse-each-other-of-violating-ceasefire-4671068"
+            }
+          ]
+        },
+        {
+          "label": "Scaled-Back Spectacle",
+          "headline": "Reuters says Moscow's Victory Day parade was one of the most reduced in years because of Ukraine war security fears",
+          "summary": "Reuters reported that Russia staged a heavily scaled-back Red Square parade with no tanks or other heavy military hardware rolling through central Moscow. The signal is not that the Kremlin has softened politically, but that even its most choreographed patriotic ritual is now constrained by wartime vulnerability.",
+          "why_it_matters": "When a state's central prestige event has to be redesigned around threat management, the war is shaping domestic legitimacy as much as front-line operations.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reuters/WEVE",
+              "url": "https://979weve.com/2026/05/08/russia-holds-scaled-back-ww2-victory-parade-as-worries-over-war-in-ukraine-deepen/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania remains one of Europe's clearest political and fiscal stress points, with instability now feeding directly into broader market risk.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Government Collapse",
+          "headline": "Romania's pro-European coalition collapse is still the sharpest political warning light on the EU's eastern flank",
+          "summary": "AP reported that Prime Minister Ilie Bolojan lost a no-confidence vote, collapsing Romania's coalition amid recession risk, inflation pressure, and a wider legitimacy crisis. President Nicusor Dan has ruled out early elections, but the lack of a clear governing path means the country's instability is still growing into a regional story rather than remaining a normal cabinet reset.",
+          "why_it_matters": "Romania matters beyond Bucharest because prolonged instability affects EU fiscal politics, investor confidence, and NATO's eastern flank at the same time.",
+          "countries": ["Romania", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cae251a0ef62c9941d9355c0b2c927ea"
+            }
+          ]
+        },
+        {
+          "label": "Ratings Pressure",
+          "headline": "Reuters says Romania's coalition collapse is now feeding directly into sovereign-rating risk and tougher deficit politics",
+          "summary": "Reuters reported that S&P's negative outlooks on Romania and Hungary reflect widening fiscal risk, and that Romania's government collapse could complicate the budget consolidation still needed in coming years. That turns today's political noise into a more concrete financing problem for the state.",
+          "why_it_matters": "Once political instability starts interacting with rating pressure and deficit targets, policy mistakes become more expensive and harder to reverse.",
+          "countries": ["Romania", "Hungary"],
+          "sources": [
+            {
+              "name": "Reuters/MarketScreener",
+              "url": "https://www.marketscreener.com/news/negative-outlooks-on-hungary-romania-ratings-reflect-fiscal-risks-in-cee-s-p-global-ratings-ce7f58ddd089f725"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-politics",
+      "title": "Europe Politics",
+      "description": "Elsewhere in Europe, one country is opening a post-Orban chapter while another is showing how fast anti-establishment pressure can rearrange party competition.",
+      "kicker": "Political Shift",
+      "stories": [
+        {
+          "label": "Post-Orban Turn",
+          "headline": "Hungary swore in Peter Magyar, formally ending Viktor Orban's 16-year hold on the premiership",
+          "summary": "AP reported that Magyar took office after a landslide parliamentary win and immediately framed his government around democratic repair, anti-corruption work, and rebuilding ties with the European Union. The symbolic change is substantial because Hungary has moved from being a model of illiberal durability to a test case for whether damaged institutions can be repaired quickly.",
+          "why_it_matters": "Leadership turnover matters most when it changes a country's direction on rule of law, EU alignment, and how power is actually exercised.",
+          "countries": ["Hungary", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a12b25cb022dedb777a54686e59c65a8"
+            }
+          ]
+        },
+        {
+          "label": "British Rebuff",
+          "headline": "Reuters says Labour was punished in British local elections as Reform UK made major gains",
+          "summary": "Reuters reported that Keir Starmer's Labour Party suffered heavy losses in local elections, while Nigel Farage's Reform UK gained hundreds of seats and deepened pressure on the prime minister. The result matters because it strengthens the view that Britain is moving into a more fragmented and more volatile party system.",
+          "why_it_matters": "When a governing party is punished this sharply only two years after a national landslide, its strategic room narrows fast.",
+          "countries": ["United Kingdom"],
+          "sources": [
+            {
+              "name": "Reuters/Investing",
+              "url": "https://www.investing.com/news/stock-market-news/uks-labour-party-punished-in-local-elections-populist-reform-gains-4671208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-signals",
+      "title": "Asia Signals",
+      "description": "Asia's headline signals combine sanctions resistance, persistent India-Pakistan deterrence, and a deadly reminder of basic disaster vulnerability.",
+      "kicker": "Regional Pressure",
+      "stories": [
+        {
+          "label": "Sanctions Pushback",
+          "headline": "China has formally blocked U.S. sanctions against five refiners accused of buying Iranian oil",
+          "summary": "Reuters reported that China's commerce ministry issued an injunction telling firms not to comply with U.S. sanctions on five refiners, marking a sharper use of Beijing's anti-sanctions toolkit. That matters because the Iran crisis is now reinforcing U.S.-China economic friction rather than remaining a separate regional issue.",
+          "why_it_matters": "Once sanctions fights become part of great-power competition, energy disputes get harder to isolate and de-escalate.",
+          "countries": ["China", "United States", "Iran"],
+          "sources": [
+            {
+              "name": "Reuters/Investing",
+              "url": "https://m.investing.com/news/commodities-news/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-4654774?ampMode=1"
+            }
+          ]
+        },
+        {
+          "label": "Deterrence Anniversary",
+          "headline": "Pakistan used the anniversary of last year's clash with India to warn it would answer any new attack with greater force",
+          "summary": "AP reported that Pakistani military leaders marked the anniversary of the 2025 conflict by stressing readiness and deterrence while saying they do not seek another war. The significance is that one of the world's most dangerous rivalries remains managed mainly by signaling and memory, not by any meaningful political thaw.",
+          "why_it_matters": "Nuclear-armed rivalries stay globally relevant even when they are quiet, because the underlying triggers remain unresolved.",
+          "countries": ["Pakistan", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/683ab7446c2f019f545d68ddd3e1a7f1"
+            }
+          ]
+        },
+        {
+          "label": "Volcano Risk",
+          "headline": "Indonesia is still recovering bodies and searching the scene after the Mount Dukono eruption trapped hikers in a restricted zone",
+          "summary": "AP reported that rescuers recovered one body and kept searching after the Dukono eruption stranded hikers who had entered an off-limits area despite warnings. The story is locally tragic, but it also shows how quickly disaster exposure compounds when public restrictions fail and active hazard zones are ignored.",
+          "why_it_matters": "Disasters become governance stories when known danger zones are repeatedly breached and rescue systems are forced into high-risk recovery operations.",
+          "countries": ["Indonesia", "Singapore"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/22c16a03238d430869bbf4caeaad87b8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "africa-humanitarian",
+      "title": "Africa & Humanitarian Stress",
+      "description": "Across Africa, several undercovered crises are becoming more structurally dangerous rather than less.",
+      "kicker": "Undercovered Crisis",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Sudan Spillover",
+          "headline": "Sudan recalled its ambassador to Ethiopia after accusing Addis Ababa of enabling drone attacks including one on Khartoum airport",
+          "summary": "AP reported that Sudan blamed Ethiopia and the UAE for recent drone strikes and responded by recalling its ambassador, while Ethiopia rejected the accusations. The deeper signal is that Sudan's war is increasingly spilling into overt interstate confrontation instead of remaining a contained internal conflict.",
+          "why_it_matters": "Civil wars become harder to contain once neighboring states are openly accused of operational involvement.",
+          "countries": ["Sudan", "Ethiopia", "United Arab Emirates"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/907855de58f8c5ad89a1cd92897e5749"
+            }
+          ]
+        },
+        {
+          "label": "Mali Deterioration",
+          "headline": "Double attacks in central Mali show the country's security crisis is still widening after last month's major militant offensive",
+          "summary": "AP reported that attacks in Kori Kori and Gomossogou killed and injured civilians as the al-Qaida-linked JNIM group claimed it targeted pro-government militias. The broader message is that Mali's junta still cannot convert emergency rule and new security partnerships into actual stability on the ground.",
+          "why_it_matters": "A deteriorating Mali adds pressure to the wider Sahel and highlights how quickly state weakness can spread regionally.",
+          "countries": ["Mali", "Sahel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5c5d0aecfc51583225249c7b42f63fb2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-health",
+      "title": "Science & Health",
+      "description": "Today's science and health lane is about preparedness: one global disease response and one near-term space logistics milestone.",
+      "kicker": "Systems Check",
+      "stories": [
+        {
+          "label": "Cruise Outbreak",
+          "headline": "WHO says the hantavirus cases linked to the MV Hondius are serious but still low risk to the wider public",
+          "summary": "WHO said eight cases had been reported, including three deaths and five confirmed hantavirus infections linked to the cruise ship, while emphasizing that the overall public-health risk remains low. The signal here is less about panic than about how quickly a rare outbreak now requires a genuinely multinational response.",
+          "why_it_matters": "Cross-border health events are still a systems test even when the pathogen does not pose a broad pandemic risk.",
+          "countries": ["Multi-country"],
+          "sources": [
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/united-kingdom-of-great-britain-and-northern-ireland/news/item/08-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship"
+            }
+          ]
+        },
+        {
+          "label": "ISS Logistics",
+          "headline": "NASA and SpaceX are preparing the next major cargo mission to the International Space Station for May 12",
+          "summary": "NASA said the next Dragon resupply mission is targeted for May 12 and will carry about 6,500 pounds of science, supplies, and equipment to the station. This is not a dramatic geopolitical story, but it is a useful reminder that high-value space infrastructure still depends on a steady cadence of routine logistics.",
+          "why_it_matters": "Reliable resupply is what keeps orbital science and long-duration station operations functioning as a system instead of a spectacle.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The strongest Reddit signal this morning is public skepticism toward official de-escalation narratives and unusually intense engagement with Europe's political turns.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Hormuz Skepticism",
+          "headline": "A large r/worldnews thread treats White House claims of Hormuz deal progress as unstable theater rather than settled diplomacy",
+          "summary": "A heavily engaged r/worldnews thread on Trump's pause in U.S. efforts to guide ships out of Hormuz drew more than 8,100 upvotes and roughly 700 comments, with the dominant reaction focused on distrust of official messaging. The thread is useful because it captures how fast public interpretation has shifted from relief to skepticism.",
+          "why_it_matters": "When the public reads ceasefire messaging as narrative management rather than policy progress, confidence gains become harder to hold.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://en.reddit.com/r/worldnews/comments/1t4vv03/trump_pauses_us_bid_to_guide_ships_out_of_strait/"
+            }
+          ],
+          "score": "8.1k",
+          "comments": "700+"
+        },
+        {
+          "label": "Hungary Optimism",
+          "headline": "r/worldnews is treating Peter Magyar's swearing-in as one of the few clear democratic reversals in Europe this year",
+          "summary": "A large r/worldnews thread on Hungary's new prime minister drew more than 12,700 upvotes and a long comment chain centered on relief, institutional repair, and the difficulty of unwinding Orban's legacy. Its value is that it shows how strongly engaged readers are reading Hungary as a broader European test case, not just a domestic handover.",
+          "why_it_matters": "Public attention matters because democratic repair stories can quickly become reference points for how people judge similar political transitions elsewhere.",
+          "countries": ["Hungary", "European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1t88mbd/p%C3%A9ter_magyar_sworn_in_as_hungarys_prime_minister/"
+            }
+          ],
+          "score": "12.7k",
+          "comments": "1k+"
+        },
+        {
+          "label": "Britain Alarm",
+          "headline": "A popular r/worldnews thread reads Labour's election losses mainly as a warning about protest politics and Reform UK's rise",
+          "summary": "A high-engagement r/worldnews thread on Labour's losses and Reform UK's gains drew roughly 2,500 upvotes and a long debate over protest voting, Brexit politics, and party-system fragmentation. The thread is a useful public-signal read because it shows anxiety not only about Labour's weakness, but about what voters may be willing to reward next.",
+          "why_it_matters": "When political backlash is being interpreted less as ideology than as anti-status-quo frustration, volatility becomes easier for insurgent parties to exploit.",
+          "countries": ["United Kingdom"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1t77bq6/starmers_labour_suffers_huge_losses_as_hardright/"
+            }
+          ],
+          "score": "2.5k",
+          "comments": "800+"
+        }
+      ]
+    }
+  ]
+}
