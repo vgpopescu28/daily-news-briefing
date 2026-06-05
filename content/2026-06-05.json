@@ -1,0 +1,370 @@
+{
+  "date": "2026-06-05",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday's clearest signals are a tightening China-North Korea axis, unresolved Middle East conflict, Ukraine's widening reach into Russian and NATO-adjacent space, and European governments moving toward harder migration and security choices.",
+  "generated_at": "2026-06-05T11:35:00+03:00",
+  "summary": {
+    "spotlight": "The main signal on Friday, June 5, 2026 is that geopolitical blocs are hardening even where the front lines look static. China is moving to reassert influence over North Korea while Russia and Ukraine keep expanding the practical geography of their war, the Iran conflict is still producing political and diplomatic strain rather than a clean settlement, and Europe is responding with tougher migration rules, sharper defence discussions, and renewed pressure on how to manage refugee protection during a long war.",
+    "market_mood": "Volatile",
+    "reader_note": "AP and Reuters-driven reporting shaped most of today's edition, with WHO and NASA used where official-source detail mattered more than secondary coverage. Romania remains a dedicated lane because it has both domestic political movement and direct security exposure, and Reddit stays in because several threads added genuine signal about how readers are interpreting the biggest stories."
+  },
+  "featured_story": {
+    "category": "strategic-tensions",
+    "tone": "diplomacy",
+    "label": "Top Story",
+    "headline": "Xi Jinping's planned June 8-9 trip to North Korea is the strongest new sign that Beijing wants to pull Pyongyang back toward its own orbit as regional alignments harden",
+    "summary": "AP and Reuters both reported on June 5 that Chinese President Xi Jinping will visit North Korea next week for his first trip there since 2019. The visit matters beyond protocol because it comes after North Korea deepened ties with Russia through the Ukraine war, suggesting Beijing now wants to visibly reassert leverage over one of the region's most destabilizing actors rather than leave that space to Moscow.",
+    "why_it_matters": "When China decides it needs a more active relationship with North Korea, it usually means the wider Northeast Asian balance is becoming less stable, not more.",
+    "countries": ["China", "North Korea", "Russia", "South Korea"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/4def48720a7cb66f820d3efc256a941c"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://uk.marketscreener.com/news/china-s-xi-to-visit-north-korea-as-beijing-seeks-deeper-pyongyang-ties-ce7f5dddda8ef22d"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "strategic-tensions",
+      "title": "Strategic Tensions",
+      "description": "The most important state-to-state signal today is that unresolved wars are now reshaping alliances and bargaining positions well beyond their original theaters.",
+      "kicker": "Power Politics",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Beijing-Pyongyang",
+          "headline": "Xi will travel to North Korea next week in his first visit since 2019 as China tries to reinforce influence over Kim Jong Un",
+          "summary": "The announcement from Chinese and North Korean state media, reported by AP and Reuters on June 5, comes after a year in which Pyongyang has leaned heavily into ties with Russia. The practical message is that Beijing no longer wants to be seen as a passive bystander in its own neighborhood while North Korea deepens military and political coordination elsewhere.",
+          "why_it_matters": "China's choice to elevate ties with North Korea is a regional strategy signal, not just a ceremonial visit.",
+          "countries": ["China", "North Korea", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4def48720a7cb66f820d3efc256a941c"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://uk.marketscreener.com/news/china-s-xi-to-visit-north-korea-as-beijing-seeks-deeper-pyongyang-ties-ce7f5dddda8ef22d"
+            }
+          ]
+        },
+        {
+          "label": "Iran War Politics",
+          "headline": "The U.S. House approved a war powers resolution to halt military action against Iran, turning battlefield strain into a formal political rebuke",
+          "summary": "AP reported that the House voted 215-208 on June 3 to direct an end to U.S. military involvement in the Iran conflict, with several Republicans breaking ranks. The military picture remains unresolved, but the domestic political signal is now unmistakable: the war has moved from being a foreign-policy gamble to a growing constraint on the White House.",
+          "why_it_matters": "Conflicts become harder to manage when executive freedom narrows before a durable settlement exists.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9aaadea35f9523c818802286a6553536"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon Front",
+          "headline": "Hezbollah rejected the latest ceasefire arrangement even as Israel and Lebanon kept talking, showing how fragile the wider de-escalation track remains",
+          "summary": "AP reported on June 4 that Hezbollah rejected the newest ceasefire extension and demanded a full Israeli withdrawal, while new strikes killed people in Lebanon. That makes the diplomatic picture clearer rather than better: nominal ceasefires exist on paper, but armed actors still have enough freedom to keep the Iran-linked regional crisis alive.",
+          "why_it_matters": "A ceasefire that key fighters do not truly buy into functions more as a pause in risk than a path out of it.",
+          "countries": ["Lebanon", "Israel", "United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/06ea585ce43fd28e26c4d21d46a4df83"
+            },
+            {
+              "name": "AP Background",
+              "url": "https://apnews.com/article/75695f2e611c8dd9851075f1fcd6ac47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "The main war signal is still geographic widening: Ukraine is reaching deeper into Russia while drone spillover keeps dragging NATO territory and politics closer to the conflict.",
+      "kicker": "Escalation Map",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "St. Petersburg Hit",
+          "headline": "Ukrainian drones struck a St. Petersburg oil terminal just as Russia opened its showcase economic forum",
+          "summary": "AP reported on June 3 that long-range Ukrainian drones set an oil terminal ablaze in St. Petersburg, disrupting the atmosphere around Russia's main investment forum. The strike did not change the front line directly, but it reinforced Ukraine's current strategy of hitting energy and prestige targets far from the battlefield.",
+          "why_it_matters": "Deep strikes reshape the war's economic and psychological geography even when territorial control barely moves.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/887969921c595f3a81c3b6c0b120b5f3"
+            }
+          ]
+        },
+        {
+          "label": "Russian Response",
+          "headline": "Putin said Russia will strengthen air defenses after Ukrainian drones pierced deep into Russian territory",
+          "summary": "Speaking in St. Petersburg on June 4, Putin acknowledged to AP that some Ukrainian drones are getting through and said Russia would improve its air-defense network. The remark matters because it amounts to a public admission that Ukraine's strike campaign is forcing the Kremlin to redirect attention and resources toward homeland protection.",
+          "why_it_matters": "When Russia talks openly about internal vulnerability, it underscores that the war is no longer containable to occupied zones and border regions.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/33f3e7f260e23563ed8a6b509650079e"
+            }
+          ]
+        },
+        {
+          "label": "NATO Spillover",
+          "headline": "Reuters says repeated drone incursions are sowing fear and political disruption along Finland's and the Baltic states' borders",
+          "summary": "A Reuters timeline published on June 3 showed how military drones straying from the Ukraine war have produced security alerts and political fallout in Finland, Estonia, Latvia, and Lithuania. The key signal is cumulative rather than spectacular: even incidents that do not trigger direct military retaliation are steadily normalizing the war as a NATO border-management problem.",
+          "why_it_matters": "Persistent spillover increases the chance of misread intent, rushed responses, and harder alliance postures over time.",
+          "countries": ["Finland", "Estonia", "Latvia", "Lithuania", "Ukraine", "Russia", "NATO"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/world-news/drone-incursions-sow-fear-chaos-along-natos-baltic-and-finnish-borders-4723921"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trade-and-economy",
+      "title": "Trade & Economy",
+      "description": "Economic signals remain dominated by war-linked supply risk, weak industrial demand, and trade policy that is becoming more openly political.",
+      "kicker": "Economic Pressure",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "China Demand",
+          "headline": "China's factory activity was flat in May, reinforcing concerns that demand remains weak even before any new global shock",
+          "summary": "AP reported that China's official manufacturing PMI held at 50 in May, with softer new orders and weaker stockpiles highlighting an economy that is still struggling for momentum. That matters because China remains one of the cleanest real-time gauges of whether global demand is truly stabilizing or only looking better in headline market data.",
+          "why_it_matters": "A flat Chinese factory pulse makes the world economy look more fragile when war and trade frictions are already elevated.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/783cddb4560c1ecf53b1678801cabf34"
+            }
+          ]
+        },
+        {
+          "label": "Brazil Tariffs",
+          "headline": "Washington's proposed 25% tariffs on Brazil show U.S. trade policy is widening beyond the usual China and Europe fights",
+          "summary": "AP reported on June 2 that the Trump administration proposed tariffs on Brazilian imports despite the United States running a goods surplus with Brazil. The move reads less like a conventional trade-balancing exercise and more like a politically charged extension of pressure into Latin America ahead of Brazil's own election season.",
+          "why_it_matters": "Trade conflict spreads faster when it starts targeting partners for political leverage rather than straightforward deficit arguments.",
+          "countries": ["United States", "Brazil"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3f389d69e8706d773ed19eb4de6a4726"
+            }
+          ]
+        },
+        {
+          "label": "Energy Shock Warning",
+          "headline": "The OECD warned that a prolonged Middle East supply disruption would hit growth, raise inflation, and push some countries into recession",
+          "summary": "AP reported on June 3 that the OECD sees a long disruption in Gulf energy supplies as a major global downside scenario, especially for Asian economies dependent on crude oil and gas from the region. The warning matters because it frames the Iran conflict not as a market headline but as a live macroeconomic risk with knock-on effects for inflation, employment, and public finances.",
+          "why_it_matters": "Oil shocks stop being abstract when institutions start mapping them directly onto recession risk.",
+          "countries": ["Global", "Iran", "Asian Economies"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/0252139d172b7ecaf8d0a9f80e649c29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-and-policy",
+      "title": "Europe & Policy",
+      "description": "Europe's clearest policy move today is toward harder border, asylum, and protection rules as the continent absorbs both migration pressure and a long war next door.",
+      "kicker": "Harder Line",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Return Hubs",
+          "headline": "The EU struck a migration deal that allows faster deportations and opens the way to detention centers outside the bloc",
+          "summary": "AP reported that the European Union agreed on June 2 to a tougher returns regime built around faster deportations and controversial third-country 'return hubs.' The deeper signal is political: Europe's center of gravity on migration is moving further toward enforcement-first policy under pressure from domestic electorates and right-wing challengers.",
+          "why_it_matters": "Migration rules often reveal where mainstream politics is moving before election results fully catch up.",
+          "countries": ["European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/27f04759acf5f9f4df73862c561a609b"
+            },
+            {
+              "name": "EU Council",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/pdf/"
+            }
+          ]
+        },
+        {
+          "label": "Ukrainian Protection Debate",
+          "headline": "EU ministers broadly backed discussing limits on temporary protection for newly arriving Ukrainian men of fighting age",
+          "summary": "Reuters reported on June 4 that ministers in Luxembourg supported exploring whether newly arriving military-age Ukrainian men should face narrower access to temporary protection. The proposal does not undo existing protections, but it shows how the political logic of refugee policy is now colliding directly with the manpower logic of a long war.",
+          "why_it_matters": "Even limited changes to protection rules can mark a bigger shift in how Europe thinks about solidarity, obligation, and wartime burden-sharing.",
+          "countries": ["European Union", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://uk.marketscreener.com/news/eu-considers-limiting-protection-for-ukrainian-men-of-fighting-age-ce7f5ddddb8af222"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "health-and-science",
+      "title": "Health & Science",
+      "description": "Outside hard geopolitics, the most useful signal set is a mix of chronic public-health burden and one near-term aerospace milestone with broader state-capacity significance.",
+      "kicker": "Systems View",
+      "stories": [
+        {
+          "label": "Food Safety",
+          "headline": "WHO says unsafe food still causes 866 million illnesses and 1.5 million deaths a year, with young children facing the highest risk",
+          "summary": "In a June 4 release ahead of World Food Safety Day, WHO updated its estimates and said children under five face nearly three times the risk of illness from unsafe food compared with older groups. It is not a sudden outbreak story, but it is strategically important because it quantifies an enormous and persistent public-health burden that often receives less attention than acute emergencies.",
+          "why_it_matters": "Large recurring health burdens matter because they quietly shape productivity, child development, and health-system strain at global scale.",
+          "countries": ["Global", "World Health Organization"],
+          "sources": [
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk"
+            }
+          ]
+        },
+        {
+          "label": "Ebola Response",
+          "headline": "WHO and Congo's government say the Bundibugyo Ebola outbreak remains a top emergency even as field response capacity improves",
+          "summary": "A joint statement issued on May 31 said the outbreak in the Democratic Republic of the Congo remains serious, while response operations have expanded in Bunia and surrounding health zones after the emergency declaration earlier in May. The signal remains one of unresolved risk rather than collapse: authorities have improved treatment and surveillance, but this is still a cross-border outbreak without approved Bundibugyo-specific therapeutics or vaccines.",
+          "why_it_matters": "High-consequence outbreaks matter even when they are geographically concentrated because containment windows are narrow and medical options are limited.",
+          "countries": ["Democratic Republic of the Congo", "Uganda", "World Health Organization"],
+          "sources": [
+            {
+              "name": "WHO Joint Statement",
+              "url": "https://www.who.int/news/item/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus"
+            },
+            {
+              "name": "WHO Emergency Declaration",
+              "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"
+            }
+          ]
+        },
+        {
+          "label": "Supersonic Test",
+          "headline": "NASA says the X-59 is preparing for its first supersonic test flights in early June",
+          "summary": "NASA said last week that the X-59 quiet supersonic research aircraft is nearing a major milestone, with first supersonic flight expected during a series of tests in early June. In a conflict-heavy news cycle, the story stands out as a practical marker of whether governments can still deliver long-horizon research programs with potential civilian payoff.",
+          "why_it_matters": "Advanced aerospace programs matter because they are one of the clearest tests of sustained technical competence and public-sector execution.",
+          "countries": ["United States", "NASA"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania has meaningful signal today because national politics and eastern-flank security are moving at the same time rather than as separate stories.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Government Formation",
+          "headline": "President Nicusor Dan nominated adviser and MEP Eugen Tomac as prime minister in a bid to end Romania's post-collapse deadlock",
+          "summary": "AP reported late on June 4 that Dan nominated Tomac after the previous coalition fell last month, extending a period of political uncertainty in a country already under fiscal and security pressure. The nomination is important less because it resolves the crisis immediately than because Romania needs a functioning government while trying to stabilize its budget and respond to war spillover on its border.",
+          "why_it_matters": "Political drift becomes more dangerous when a frontline NATO state is also dealing with security shocks and investor scrutiny.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4d36941513c931e19b8ce46c11f582be"
+            }
+          ]
+        },
+        {
+          "label": "Eastern Flank Defence",
+          "headline": "Romania says allies are preparing to reinforce air defenses on NATO's eastern flank after the Galati drone strike",
+          "summary": "Reuters reported on June 3 that Romania's foreign minister said several allies were preparing to strengthen air-defense capabilities after a drone identified by Bucharest as Russian crashed into a residential building in Galati. The local significance is immediate: Romania is no longer discussing hypothetical spillover but tangible defense reinforcement after civilians were injured.",
+          "why_it_matters": "Romania matters strategically when alliance reassurance has to be translated into visible, near-border military capability.",
+          "countries": ["Romania", "NATO", "Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.marketscreener.com/news/romania-says-allies-preparing-to-bolster-air-defences-after-russian-drone-strike-ce7f5ddfdf8ff622"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/world-news/romania-says-russian-drone-hit-block-of-flats-in-galati-area-4715865"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The most useful Reddit signal today is that readers are not just reacting to events, but arguing about constitutional limits, border-hardening, and the economic logic of deep strikes.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "War Powers Thread",
+          "headline": "A high-engagement thread on the House Iran vote is treating the story as a test of whether Congress can still meaningfully restrain a war in progress",
+          "summary": "The discussion around the House resolution focused less on partisan spectacle and more on whether a war powers rebuke has real teeth if the executive branch resists it. That makes the thread useful signal because readers were debating institutional capacity, not just venting about the conflict.",
+          "why_it_matters": "Reddit adds value when it surfaces the procedural question that may decide whether a headline changes anything in practice.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/Military",
+              "url": "https://www.reddit.com/r/Military/comments/1tw9jal/house_passes_war_powers_resolution_ordering_end/"
+            },
+            {
+              "name": "Reddit r/politics",
+              "url": "https://www.reddit.com/r/politics/comments/1twdw23/us_house_passes_iran_war_powers_resolution_in/"
+            }
+          ]
+        },
+        {
+          "label": "Migration Debate",
+          "headline": "A large r/worldnews thread on the EU return-hubs deal is reading the migration overhaul as proof that Europe is converging on enforcement-first politics",
+          "summary": "Commenters argued over whether the new rules are overdue realism, a surrender to far-right pressure, or both at once. That is useful public signal because it shows readers framing the policy not as a technical asylum fix but as evidence of a broader ideological turn across Europe.",
+          "why_it_matters": "Public reaction matters when it clarifies whether a policy is seen as a one-off response or as a change in political direction.",
+          "countries": ["European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1tujwc7/eu_agrees_deal_for_deporting_migrants_to/"
+            }
+          ]
+        },
+        {
+          "label": "Energy Strike Logic",
+          "headline": "Reddit discussion around the St. Petersburg oil-terminal strike is centered on whether smaller-looking hits can still have outsized economic effects",
+          "summary": "Threads in Ukraine-focused communities concentrated on why an attack that did not produce the biggest visible explosion might still matter if it damaged high-value processing or logistics infrastructure. That makes the reaction worth tracking because readers were thinking in terms of strategic economic leverage rather than just spectacle.",
+          "why_it_matters": "Online commentary is most informative when it tracks how audiences are reasoning about second-order effects instead of only cheering the strike itself.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/ukraine",
+              "url": "https://www.reddit.com/r/ukraine/comments/1twph7v/ukraine_humiliates_putin_by_striking_saint/"
+            },
+            {
+              "name": "Reddit r/oil",
+              "url": "https://www.reddit.com/r/oil/comments/1tvnvvp/ukrainian_drone_strikes_the_oil_terminal_in_st/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
