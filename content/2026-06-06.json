@@ -1,0 +1,379 @@
+{
+  "date": "2026-06-06",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Saturday's clearest signals are a fresh U.S.-Iran flare-up in the Strait of Hormuz, Ukraine's push to widen the strategic cost of war for Russia, a more openly militarized Northeast Asia, and public-health risk that is no longer staying local.",
+  "generated_at": "2026-06-06T10:45:00+03:00",
+  "summary": {
+    "spotlight": "The main signal on Saturday, June 6, 2026 is that several conflicts that looked partly contained are widening again at the operational level. The U.S.-Iran war is spilling back into maritime security around the Strait of Hormuz, Ukraine is trying to turn diplomacy and deep strikes into leverage at the same time, China and North Korea are advertising a tighter strategic relationship, and health authorities are warning that Congo's Ebola outbreak could still become much worse without a stronger response.",
+    "market_mood": "Volatile",
+    "reader_note": "Reuters and AP supplied most of the core reporting, with WHO and NASA used where official detail mattered more than secondary coverage. Romania stays separate because it has simultaneous political and security signal, and Reddit stays in because a few high-engagement threads are usefully showing what readers are elevating outside traditional front pages."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S. struck Iranian coastal radar sites after drones were launched toward the Strait of Hormuz, showing that the Gulf shipping crisis is still one misstep away from widening again",
+    "summary": "Reuters reported on June 6 that U.S. forces hit Iranian surveillance positions in Goruk and on Qeshm Island after American forces shot down four Iranian drones that a U.S. official said were headed toward regional maritime traffic. The immediate exchange matters because it pushes the war back toward the chokepoint that carries a major share of global oil and liquefied natural gas flows, complicating already-fragile diplomacy.",
+    "why_it_matters": "When fighting returns to the Strait of Hormuz, military escalation and global economic risk move together rather than separately.",
+    "countries": ["United States", "Iran", "Oman", "Strait of Hormuz"],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://uk.marketscreener.com/news/us-attacks-iranian-coastal-sites-after-iran-launches-drones-in-latest-flare-up-ce7f5dd2db88f627"
+      },
+      {
+        "name": "Reuters Background",
+        "url": "https://ca.investing.com/news/world-news/iran-studying-deal-to-halt-war-as-stalemate-persists-4671118"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The core regional signal is that formal ceasefire talk still exists, but violence keeps outrunning it on the ground and at sea.",
+      "kicker": "Escalation Track",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz Risk",
+          "headline": "Reuters says U.S. forces retaliated after Iranian drones were launched toward maritime traffic near Hormuz",
+          "summary": "The June 6 Reuters report says the U.S. military believed the drones were targeting regional shipping and responded by striking Iranian coastal radar and surveillance sites. That is a sharper signal than routine tit-for-tat because it ties battlefield action directly to the safety of one of the world's most sensitive trade routes.",
+          "why_it_matters": "Any conflict action framed around shipping security can change oil, insurance, and military calculations within hours.",
+          "countries": ["United States", "Iran", "Strait of Hormuz"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://uk.marketscreener.com/news/us-attacks-iranian-coastal-sites-after-iran-launches-drones-in-latest-flare-up-ce7f5dd2db88f627"
+            }
+          ]
+        },
+        {
+          "label": "Stalled Talks",
+          "headline": "Iran is still studying a draft deal with Washington even after three months of war hardened into a costly stalemate",
+          "summary": "Reuters reported on June 2 that Tehran was reviewing a proposed interim agreement that would halt the war and reopen Hormuz traffic, but mistrust and unanswered core demands were still blocking closure. That means the diplomatic lane exists, yet it remains too weak to stop military flare-ups from dictating the tempo.",
+          "why_it_matters": "Markets and allies care less about the existence of talks than about whether talks can actually constrain violence.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://ca.investing.com/news/world-news/iran-studying-deal-to-halt-war-as-stalemate-persists-4671118"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon Front",
+          "headline": "Lebanese leaders publicly pushed back on Iran while Israeli strikes and evacuation orders continued in the south",
+          "summary": "AP reported on June 5 that Lebanon's president and prime minister criticized Tehran for treating Lebanon like a bargaining chip as Israeli strikes hit multiple southern areas and warnings were issued for nine villages. The political signal is that Beirut is trying to separate its own survival from Iran's bargaining strategy, even while it lacks full control over the battlefield.",
+          "why_it_matters": "A state caught between allied militias and external war pressure usually becomes more fragile before it becomes more stable.",
+          "countries": ["Lebanon", "Israel", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/303de2f806c493917150e9443ab99c03"
+            },
+            {
+              "name": "AP Background",
+              "url": "https://apnews.com/article/06ea585ce43fd28e26c4d21d46a4df83"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Strikes",
+          "headline": "Israeli strikes in Gaza killed at least 10 people even as regional attention stayed fixed on Lebanon and Iran",
+          "summary": "AP reported on June 4 that hospitals in Gaza received casualties from multiple Israeli strikes, including attacks in Gaza City that killed women and children. The strategic point is that Gaza remains an active humanitarian and military theater even when the headline focus shifts elsewhere in the region.",
+          "why_it_matters": "Conflicts often widen by addition rather than substitution, leaving old fronts active while new ones intensify.",
+          "countries": ["Gaza", "Israel", "Palestinian Territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cf3f41abf12e657ec7578794d10df225"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "Ukraine's clearest play right now is to combine deep strikes, external pressure, and diplomatic signaling into a stronger negotiating position.",
+      "kicker": "Pressure Strategy",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Peace Signaling",
+          "headline": "Reuters says Zelenskyy's public letter to Putin was aimed less at the Kremlin than at elites and partners who might favor an endgame",
+          "summary": "Reuters reported on June 5 that Kyiv's offer of face-to-face talks was designed to resonate through Russia's St. Petersburg forum and among Western governments, not simply to persuade Putin directly. The move suggests Ukraine thinks narrative pressure on Russian elites and outside backers now matters alongside battlefield action.",
+          "why_it_matters": "Diplomacy becomes more effective when it is used to shape multiple audiences instead of only the formal adversary.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://uk.marketscreener.com/news/zelenskiy-s-letter-to-putin-was-intended-for-other-ears-ce7f5dd2d988f62d"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c5d735ba02ba98199ccac4e6faf51bd0"
+            }
+          ]
+        },
+        {
+          "label": "House Break",
+          "headline": "The U.S. House passed a Ukraine aid and Russia sanctions bill in a direct rebuke to Trump's preferred line",
+          "summary": "AP reported on June 4 that the House voted 226-195 to approve more than $1 billion in security and reconstruction aid plus loans for Ukraine's defense after backers forced the bill to the floor. Even if the bill's path is not complete, the vote is a visible sign that Ukraine support still has enough bipartisan force to challenge the White House from inside Congress.",
+          "why_it_matters": "Wars shift when outside sponsors look less unified, but they also shift when institutional resistance to retrenchment hardens.",
+          "countries": ["United States", "Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c01c9e068b63d195d26e3134ed586a71"
+            }
+          ]
+        },
+        {
+          "label": "Massive Barrage",
+          "headline": "AP says Russia's latest large-scale attack killed at least 22 people as it kept pressing Ukraine's air defense limits",
+          "summary": "The June 2 AP report described hundreds of drones and dozens of missiles striking Kyiv and other cities, with heavy casualties in Dnipro and the capital. The pattern reinforces Kyiv's claim that Russia is testing whether attrition and air-defense shortages can produce political as well as military fatigue.",
+          "why_it_matters": "Large repeated barrages are designed to wear down the defender's systems, morale, and external support all at once.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/938c74b107d9bb8dc16b179d76125e50"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://openrss.org/www.reuters.com/world/ukraine-russia-war/"
+            }
+          ]
+        },
+        {
+          "label": "Romanian Spillover",
+          "headline": "A Ukrainian maritime drone exploded at Romania's port of Constanta after Kyiv said Russia had disrupted its control",
+          "summary": "AP reported on June 5 that one drone self-detonated inside the Romanian port while three others exploded outside after Ukrainian forces lost control of them, likely because of Russian electronic warfare. It is one more sign that the war's tools are increasingly hard to contain geographically even when no attack on Romania was intended.",
+          "why_it_matters": "Repeated spillover incidents raise the odds of alliance friction, misattribution, and faster military reinforcement on NATO's edge.",
+          "countries": ["Romania", "Ukraine", "Russia", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/defc53b2383a67475230c8349a47d7c6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "strategic-tensions",
+      "title": "Strategic Tensions",
+      "description": "The broader statecraft signal is that Northeast Asian players are leaning into harder power and clearer bloc politics.",
+      "kicker": "Power Politics",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Xi-Kim Axis",
+          "headline": "Xi Jinping will visit North Korea next week in his first trip there since 2019 as Beijing reasserts leverage over Pyongyang",
+          "summary": "AP reported on June 5 that Xi will travel to North Korea for a two-day state visit, the clearest recent sign that China wants to tighten its own relationship with Kim Jong Un after Russia gained ground with Pyongyang through the Ukraine war. The visit is not routine diplomacy; it is a visible alignment signal in a more polarized region.",
+          "why_it_matters": "When Beijing moves to visibly manage Pyongyang, it usually means the regional security picture is getting more rather than less combustible.",
+          "countries": ["China", "North Korea", "Russia", "South Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4def48720a7cb66f820d3efc256a941c"
+            }
+          ]
+        },
+        {
+          "label": "Naval Message",
+          "headline": "Kim Jong Un showcased a repaired destroyer and called for a nuclear-armed navy ahead of Xi's visit",
+          "summary": "AP reported on June 6 that Kim observed sea trials of the 5,000-ton destroyer Kang Kon and said North Korea must rapidly develop naval forces able to strengthen its nuclear deterrent. The timing makes the display more important because it pairs military signaling with high-level diplomacy rather than separating them.",
+          "why_it_matters": "Weapons displays tied to summit timing are meant to shape negotiations, perception, and deterrence simultaneously.",
+          "countries": ["North Korea", "China", "South Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5cac2d190fbddceb7d9fd5d1905d867b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trade-and-economy",
+      "title": "Trade & Economy",
+      "description": "The economic signal remains one of policy-driven uncertainty layered on top of war-driven energy risk.",
+      "kicker": "Economic Pressure",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "New Tariff Push",
+          "headline": "Washington proposed forced-labor-linked tariffs of up to 12.5% on imports from 60 economies",
+          "summary": "Reuters reported on June 3 that the Trump administration proposed new duties after a Section 301 investigation concluded that major trading partners had failed to curb trade in goods made with forced labor. The move widens uncertainty for businesses because it adds another politically flexible tariff regime on top of existing trade restrictions and sanctions.",
+          "why_it_matters": "Trade systems get harder to price and plan around when policy becomes broad, discretionary, and globally scoped.",
+          "countries": ["United States", "European Union", "China", "India", "Canada", "Mexico"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/world-news/us-proposes-additional-tariffs-on-imports-from-60-economies-over-forced-labor-4723286"
+            }
+          ]
+        },
+        {
+          "label": "War-Energy Link",
+          "headline": "Reuters says the unresolved U.S.-Iran deal keeps the Strait of Hormuz closure and oil risk in play even when prices briefly ease",
+          "summary": "The June 2 Reuters report noted that oil fell on hopes for an interim arrangement, but the underlying shipping disruption and sanctions dispute remained unresolved. That leaves energy markets reacting to every military and diplomatic headline because the structural choke point is still under pressure.",
+          "why_it_matters": "Temporary price relief is not the same thing as reduced systemic risk when the physical transit route remains contested.",
+          "countries": ["Iran", "United States", "Global"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://ca.investing.com/news/world-news/iran-studying-deal-to-halt-war-as-stalemate-persists-4671118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "health-and-science",
+      "title": "Health & Science",
+      "description": "Outside war, the most important signal is a mix of high-consequence outbreak risk and a reminder that space systems can fail in unexpected ways.",
+      "kicker": "Systems View",
+      "stories": [
+        {
+          "label": "Ebola Warning",
+          "headline": "AP says Congo's Ebola outbreak could reach 20,000 cases in a worst-case scenario without stronger intervention",
+          "summary": "AP reported late on June 5 that experts modeling the Bundibugyo outbreak warned of a severe escalation path if control measures do not improve, with conflict and the absence of approved strain-specific tools complicating the response. That turns the outbreak from a regional emergency into a story with clear international relevance.",
+          "why_it_matters": "High-fatality outbreaks matter early because the cost of underreacting compounds much faster than the cost of overpreparing.",
+          "countries": ["Democratic Republic of the Congo", "Uganda", "World Health Organization"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/96b2fb69de2245605b1fddfe22ec623b"
+            },
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan"
+            }
+          ]
+        },
+        {
+          "label": "Continental Response",
+          "headline": "WHO and Africa CDC launched a joint six-month Ebola response plan as cross-border spread reached Uganda",
+          "summary": "WHO said on June 5 that the new plan runs from June through November and is meant to coordinate surveillance, lab testing, clinical care, logistics, and community engagement under a single response framework. The announcement is significant because public-health authorities are treating the outbreak as a continental coordination problem, not a purely local one.",
+          "why_it_matters": "Formal multi-country response structures usually appear when the risk is serious enough that fragmented national action is no longer adequate.",
+          "countries": ["Democratic Republic of the Congo", "Uganda", "Africa CDC", "World Health Organization"],
+          "sources": [
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan"
+            },
+            {
+              "name": "WHO Background",
+              "url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026"
+            }
+          ]
+        },
+        {
+          "label": "ISS Alert",
+          "headline": "NASA briefly put astronauts into safe-haven mode after an air leak aboard the International Space Station worsened",
+          "summary": "Reuters reported on June 5 that five astronauts were told to shelter in a docked Crew Dragon for roughly two hours while NASA and Roscosmos assessed a worsening leak linked to Russia's Zvezda module, before the order was lifted. The event is notable because safe-haven procedures are rare and expose how aging joint infrastructure can become an operational vulnerability even without a catastrophic failure.",
+          "why_it_matters": "Space cooperation looks routine until technical degradation forces both sides to manage risk in real time under pressure.",
+          "countries": ["United States", "Russia", "International Space Station"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/world-news/international-space-station-astronauts-in-evacuation-mode-as-russia-attempts-to-fix-widening-air-leak-4728762"
+            },
+            {
+              "name": "NASA News",
+              "url": "https://www.nasa.gov/news/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania has meaningful signal today because domestic political instability and Black Sea security exposure are intensifying together.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Prime Minister Pick",
+          "headline": "President Nicusor Dan nominated Eugen Tomac as prime minister in a bid to end the post-collapse deadlock",
+          "summary": "AP reported on June 4 that Dan tapped the MEP and presidential adviser to try to form a government after weeks of paralysis following the coalition's collapse. Romania needs more than symbolic progress here because fiscal stress, inflation, and regional security pressure all demand a functioning executive.",
+          "why_it_matters": "Political drift is more dangerous in a frontline EU and NATO state than in a strategically quiet one.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4d36941513c931e19b8ce46c11f582be"
+            }
+          ]
+        },
+        {
+          "label": "Constanta Incident",
+          "headline": "A Ukrainian sea drone detonated in Constanta after authorities evacuated beaches and port areas as a precaution",
+          "summary": "AP reported on June 5 that the self-detonation happened after Romanian authorities and Ukrainian counterparts confirmed Kyiv had lost control of four drones because of likely Russian electronic warfare. The incident does not look like an intentional strike on Romania, but it does highlight how exposed Black Sea infrastructure has become to the war's spillover.",
+          "why_it_matters": "Security incidents matter politically even when accidental, because publics and allies still judge states by how exposed they appear.",
+          "countries": ["Romania", "Ukraine", "Russia", "Black Sea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/defc53b2383a67475230c8349a47d7c6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The most useful Reddit signal today is where readers are clustering around escalation risk, disease severity, and the backlash to AI-saturated products.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Escalation",
+          "headline": "Top r/worldnews discussion is centering on the new U.S. strike on Iran as another sign that shipping security can pull outside powers deeper in",
+          "summary": "The highest-signal thread visible in r/worldnews today is elevating the Reuters report on new U.S. strikes in Iran and focusing on whether maritime security claims can keep ratcheting the conflict upward. The thread is useful because commenters are reading the story through escalation logic rather than only partisan identity.",
+          "why_it_matters": "Reddit is most useful when it surfaces which angle of a story ordinary readers think is the real risk multiplier.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/top/?t=day"
+            }
+          ]
+        },
+        {
+          "label": "Ebola Attention",
+          "headline": "r/news is strongly elevating Congo's Ebola death toll and spread risk, showing that a health emergency is cutting through despite a crowded war cycle",
+          "summary": "On today's r/news page, Ebola stories from BBC-linked coverage are among the most visible items, suggesting the outbreak is registering as a serious public concern rather than a niche Africa-only story. That is useful signal because public attention often arrives late for outbreaks unless the threat feels unusually severe.",
+          "why_it_matters": "Attention is part of response capacity because ignored outbreaks usually struggle longer to attract money, logistics, and political urgency.",
+          "countries": ["Democratic Republic of the Congo", "Uganda"],
+          "sources": [
+            {
+              "name": "Reddit r/news",
+              "url": "https://www.reddit.com/r/news/top/?t=day"
+            }
+          ]
+        },
+        {
+          "label": "Anti-AI Search",
+          "headline": "r/technology is pushing a DuckDuckGo traffic spike story as evidence of user frustration with AI-heavy search results",
+          "summary": "The top thread on r/technology today highlights a report that traffic to DuckDuckGo's 'No AI' search page has tripled after Google's latest AI search changes. It is worth tracking not because the metric is definitive, but because it captures a broadening consumer backlash against generative clutter inside core internet tools.",
+          "why_it_matters": "Public tech sentiment matters when it starts translating into visible behavior changes rather than only complaints.",
+          "countries": ["Global", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/technology",
+              "url": "https://www.reddit.com/r/technology/top/?t=day"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
