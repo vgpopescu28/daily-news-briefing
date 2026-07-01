@@ -1,0 +1,342 @@
+{
+  "date": "2026-07-01",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Wednesday, July 1, 2026 opens with fragile U.S.-Iran diplomacy, a lethal European heat emergency, and a widening mix of military and industrial competition from Ukraine to East Asia.",
+  "generated_at": "2026-07-01T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The clearest lead this morning is that the U.S.-Iran channel has shifted back into mediated talks in Qatar, but the Strait of Hormuz remains tense and Tehran is still publicly contesting Washington's version of events. The next strongest layer of signal comes from systems under stress: Europe is absorbing heat deaths and overflow in mortuaries, Ukraine is still pushing the war deeper into Russia's rear, and East Asia is showing how trade, chips, and security alignments are hardening together.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition leans on AP for the main overnight world file, uses Al Jazeera to capture the Iran negotiation dispute from the regional angle, adds official Rubin Observatory reporting for science, and keeps Reddit to three threads that show where public attention is clustering rather than treating social discussion as primary reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "U.S. envoys are back in Qatar on Iran, but the Hormuz dispute still looks too live for anyone to call this stable",
+    "summary": "AP reported that U.S. envoys arrived in Qatar for new meetings on Iran after another tense weekend, with the Strait of Hormuz still central to the dispute. Al Jazeera's live coverage added that Tehran was denying Trump's public claims about the talks, underlining that diplomacy has resumed without a shared public narrative of what, if anything, has already been agreed.",
+    "why_it_matters": "When talks restart but both sides still contest the facts, shipping risk and oil risk remain real even without immediate new strikes.",
+    "countries": ["United States", "Iran", "Qatar"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-30-2026-d6e6bc2e03564b6d0daffecd75baaef3"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The Gulf remains the most important risk lane this morning because diplomacy is back on the table without convincing evidence that escalation pressure has actually drained away.",
+      "kicker": "Fragile Channel",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Qatar Talks",
+          "headline": "U.S. envoys reached Qatar for another Iran round while Hormuz stays at the center of the argument",
+          "summary": "AP reported that the new contacts in Qatar are focused on the aftermath of the latest attacks and on maritime access through the Strait of Hormuz. The practical signal is that Washington and Tehran still need mediation on the basic terms of de-escalation, not just on the longer nuclear file.",
+          "why_it_matters": "Energy markets and shipping insurers care less about rhetoric than about whether Hormuz can stay predictably open.",
+          "countries": ["United States", "Iran", "Qatar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-30-2026-d6e6bc2e03564b6d0daffecd75baaef3"
+            }
+          ]
+        },
+        {
+          "label": "Competing Narratives",
+          "headline": "Tehran is publicly rejecting Washington's account of the Doha track even while mediated contacts continue",
+          "summary": "Al Jazeera's June 30 liveblog said Iranian officials denied Trump's claims about meeting terms and rejected outside intervention around Hormuz. That leaves the diplomacy looking active but still politically brittle, with each side trying to frame the process as the other side's retreat.",
+          "why_it_matters": "Negotiations are harder to stabilize when both governments still need domestic and regional audiences to believe they are not conceding.",
+          "countries": ["Iran", "United States", "Qatar"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Civilian Toll",
+          "headline": "Israeli strikes in Gaza killed at least eight Palestinians, including children, even as regional diplomacy dominates the map",
+          "summary": "AP reported that strikes in southern and central Gaza killed at least eight people, including two children, and wounded more than 20 others. The continuing civilian toll matters because the wider Iran and Lebanon diplomacy is not translating into a meaningful pause for Palestinians on the ground.",
+          "why_it_matters": "A region cannot really be called on a path to de-escalation while civilian deaths continue almost daily in Gaza.",
+          "countries": ["Israel", "Gaza", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/156a754e51d1647add376554bd518f2f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-and-climate",
+      "title": "Europe & Climate",
+      "description": "The strongest non-war signal today is that extreme heat is no longer a weather story alone but a mortality, infrastructure, and governance story.",
+      "kicker": "Heat Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "France Mortuaries",
+          "headline": "Paris mortuaries are overflowing as France counts roughly 1,000 additional heat-related deaths",
+          "summary": "AP reported that the record heat wave in France has filled mortuaries and left families struggling to find space for the dead, with public health authorities estimating about 1,000 excess deaths. The important shift is that Europe's heat event has moved from warnings and records into visible institutional overload.",
+          "why_it_matters": "Heat becomes a first-tier global story when it starts overwhelming death-care systems in major capitals.",
+          "countries": ["France", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9"
+            }
+          ]
+        },
+        {
+          "label": "Climate Attribution",
+          "headline": "Scientists say Europe's record heat would have been effectively impossible without climate change",
+          "summary": "AP reported on a rapid attribution study concluding that the current heat wave could not plausibly have happened in this form without human-driven warming. That finding turns this from a bad seasonal anomaly into another data point showing how climate risk is now reshaping the baseline.",
+          "why_it_matters": "Attribution matters because it changes the debate from whether climate change played a role to how much adaptation failure governments are willing to tolerate.",
+          "countries": ["France", "Italy", "Spain", "United Kingdom", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8633dbe64319523484c8feabf2205234"
+            }
+          ]
+        },
+        {
+          "label": "Romania Heat Alert",
+          "headline": "Romania's red heat alert has expanded across most of the country, including Bucharest",
+          "summary": "Romania Insider reported that the weather service widened the red heat alert as temperatures were expected to reach as high as 41C in parts of Romania. That keeps Romania in the same continental stress pattern rather than as a side note to the France and Spain headlines.",
+          "why_it_matters": "Romania matters here because the emergency is broadening eastward across Europe, not staying confined to the usual Mediterranean hot spots.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/red-heat-alert-romania-june-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-security",
+      "title": "Ukraine & Security",
+      "description": "Ukraine's war remains a story of long-range pressure and civilian vulnerability at the same time, with Europe still adjusting the political and humanitarian frame around it.",
+      "kicker": "Cost Imposition",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Russian Strike Wave",
+          "headline": "Zelenskyy condemned another major Russian missile and drone attack after civilians were killed and wounded in Ukraine",
+          "summary": "AP reported that Russian strikes killed at least 12 people and wounded dozens more in another heavy attack on Ukrainian cities. The strategic point is that Moscow is still able to impose repeated mass-aerial pressure even as Ukraine intensifies its own deep-strike campaign.",
+          "why_it_matters": "Ukraine's air-defense gap remains one of the war's clearest determinants of civilian risk and political pressure on allies.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-attacks-putin-70ba832d0e760e08e5d50c5f467d953f"
+            }
+          ]
+        },
+        {
+          "label": "Volgograd Strike",
+          "headline": "Ukraine says it hit a major industrial facility in Volgograd as the war keeps reaching deeper into Russia",
+          "summary": "AP reported that Ukraine struck the Titan-Barrikady complex in Volgograd, a site linked to military production. The attack fits Kyiv's larger pattern of stretching the war beyond the front line and toward the industrial base that sustains Russia's campaign.",
+          "why_it_matters": "Deep strikes matter because they force Moscow to defend production and logistics, not only trenches and cities near the border.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-missiles-zelenskyy-drones-b47c7d6cc75a2fd2b0f6c39da50abe37"
+            }
+          ]
+        },
+        {
+          "label": "EU Protection",
+          "headline": "The EU is moving to prolong temporary protection for Ukrainians while tightening treatment of some new arrivals",
+          "summary": "AP reported that European governments agreed to extend temporary protection for displaced Ukrainians but not for new arrivals who would still be eligible for military service back home. The measure shows that the humanitarian regime is being preserved, but with more visible wartime policy tradeoffs.",
+          "why_it_matters": "The refugee framework is now part of Europe's war management, not just a humanitarian side channel.",
+          "countries": ["Ukraine", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-ukraine-temporary-protection-refugees-military-service-fad295461cf85b82a4d4f40dd78f7bd3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "indo-pacific-and-tech",
+      "title": "Indo-Pacific & Tech",
+      "description": "Several Asia stories today point to the same pattern: growth, trade controls, and military posture are increasingly parts of one combined strategic contest.",
+      "kicker": "Competitive Pressure",
+      "stories": [
+        {
+          "label": "China Manufacturing",
+          "headline": "China's factory activity expanded again in June, helped by technology exports",
+          "summary": "AP reported that China's official manufacturing survey showed renewed expansion, with tech exports providing support. That is a useful counter-signal to the common assumption that trade pressure automatically translates into broad industrial weakness.",
+          "why_it_matters": "China's export resilience affects supply chains, commodity demand, and the wider global growth outlook.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-manufacturing-economy-pmi-exports-39fd69ecc346364bb9f5c848d992d802"
+            }
+          ]
+        },
+        {
+          "label": "Vanuatu Pact",
+          "headline": "Australia and Vanuatu signed a pact designed to block any future Chinese military base",
+          "summary": "AP reported that the long-awaited treaty explicitly bars Vanuatu from allowing another country's military presence without Australia's approval. The practical meaning is that Canberra is trying to lock in Pacific security architecture before Beijing can test it more directly.",
+          "why_it_matters": "Small-island agreements matter because they can quietly shape the military map of the Pacific for years.",
+          "countries": ["Australia", "Vanuatu", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/australia-vanuatu-china-treaty-military-base-02620b0d8bf6155b4fc09392408fbfdf"
+            }
+          ]
+        },
+        {
+          "label": "China-Japan Controls",
+          "headline": "China imposed export controls on 40 Japanese entities as tensions with Tokyo rose",
+          "summary": "AP reported that Beijing added 40 Japanese companies to a military-related export control list. The move reinforces that economic restrictions in East Asia are increasingly being used as overt instruments of security signaling.",
+          "why_it_matters": "Export controls are now part of statecraft, and each new list raises the chance of wider industrial retaliation.",
+          "countries": ["China", "Japan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-japan-watch-list-military-export-1c9241dcd05560f1076a58b5953d99b5"
+            }
+          ]
+        },
+        {
+          "label": "Indus Pressure",
+          "headline": "Pakistan warned India against turning water into a strategic weapon under the Indus treaty dispute",
+          "summary": "AP reported that Pakistani officials used an Indus Waters Treaty seminar to warn New Delhi against water weaponization. Even without immediate kinetic escalation, the issue shows how resource dependence can become a security pressure point between two nuclear-armed neighbors.",
+          "why_it_matters": "Water disputes matter because they broaden rivalry into infrastructure, agriculture, and domestic political survival.",
+          "countries": ["Pakistan", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/pakistan-wars-india-water-weaponization-indus-1f8c5fff1fccdfec03192811e80ea6b7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "One of the clearest positive signals today is scientific scale: a new observatory is moving from anticipation into sustained operation.",
+      "kicker": "Long Horizon",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Rubin Survey",
+          "headline": "Rubin Observatory has officially begun its 10-year survey of the southern sky",
+          "summary": "Rubin Observatory said on June 30 that its Legacy Survey of Space and Time is now formally underway, beginning a decade-long effort to build a repeated time-lapse record of the southern sky. This is one of those science milestones that will matter more over time than on day one, because it creates the data infrastructure for years of discovery.",
+          "why_it_matters": "Large scientific surveys matter when they change the pace and scale at which the world can notice rare, moving, or fast-changing phenomena.",
+          "countries": ["Chile", "United States"],
+          "sources": [
+            {
+              "name": "Rubin Observatory",
+              "url": "https://rubinobservatory.org/news/action-rubin-lsst-begins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's local signals today are practical and household-level: higher summer heat risk is now paired with fresh cost and enforcement changes starting July 1.",
+      "kicker": "Local Shift",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Traffic Fines",
+          "headline": "Romania is imposing higher traffic fines from July 1 after the minimum wage increase changed the penalty point",
+          "summary": "Romania Insider reported that the penalty-point value rose alongside the gross minimum wage increase, lifting the cost of traffic fines nationwide starting today, July 1, 2026. It is a small but broad-based pocketbook change that many drivers will feel immediately.",
+          "why_it_matters": "Routine enforcement changes matter when they land at national scale and alter everyday costs overnight.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/romania-higher-traffic-fines-july-2026"
+            }
+          ]
+        },
+        {
+          "label": "Import Tax",
+          "headline": "Romania is targeting cheap non-EU online imports with a new three-euro per-item charge",
+          "summary": "Romania Insider reported that Romania plans to add a EUR 3 tax per item on low-cost goods arriving from outside the EU. The move combines a revenue motive with a broader European concern about the volume of ultra-cheap e-commerce entering local markets.",
+          "why_it_matters": "Import fees matter because they are one of the quickest ways governments can reshape consumer behavior and small-retail competition.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/romania-non-eu-shopping-tax-june-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit's most useful signal today is where large discussion clusters are reinforcing the same three themes as the formal news file: Iran uncertainty, climate stress, and Ukrainian deep-strike strategy.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Discussion Thread",
+          "headline": "The main r/worldnews Iran discussion thread is treating the Doha diplomacy as real but still highly mistrusted",
+          "summary": "The current r/worldnews Iran megathread is full of readers parsing contradictory claims about whether any agreement exists and what Tehran has actually accepted. That makes it a useful public-attention mirror for the same ambiguity visible in AP and Al Jazeera reporting.",
+          "why_it_matters": "Reddit adds value here because it shows that audiences are not reading the Iran file as settled just because talks resumed.",
+          "countries": ["Iran", "United States", "Qatar"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1u39jcq/rworldnews_discussion_thread_us_and_israel_launch/"
+            }
+          ]
+        },
+        {
+          "label": "Heatwave Thread",
+          "headline": "A high-traffic Europe heat thread is full of first-person accounts that match the formal reporting on unbearable conditions",
+          "summary": "One of the most active recent worldnews threads on the European heat wave features firsthand comments from people in Paris and elsewhere describing persistently warm indoor temperatures and the lack of escape from the heat. That public reaction closely tracks AP's reporting that the event has moved from discomfort into mortality and institutional strain.",
+          "why_it_matters": "Reddit is useful here because it turns an abstract climate statistic into a dense field of lived corroboration.",
+          "countries": ["France", "Spain", "Europe"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ufwdhd/european_heatwave_is_worst_ever_and_impossible/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine Strike Thread",
+          "headline": "The worldnews thread on Volgograd is focused on whether repeated infrastructure strikes can finally change Russia's cost calculus",
+          "summary": "The recent r/worldnews post on Ukraine's strike in Volgograd is less about spectacle than about attrition, logistics, and how many such hits it takes before they compound. That lines up with the more serious interpretation of Ukraine's deep-strike campaign now showing up in mainstream reporting.",
+          "why_it_matters": "Reddit is most useful when it reveals how readers are interpreting strategy rather than only reacting to explosions.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uhaci7/ukraine_strikes_industrial_facility_in_russias/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

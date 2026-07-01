@@ -1,0 +1,374 @@
+{
+  "date": "2026-06-14",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Sunday, June 14, 2026 opens with an Iran deal that still needs proof, Europe trying to harden its political and security architecture before the G7, and Romania navigating both a government deadline and a strategically timed Moldova visit.",
+  "generated_at": "2026-06-14T09:42:54+03:00",
+  "summary": {
+    "spotlight": "The clearest signal on Sunday, June 14, 2026 is that several headline crises are moving from raw escalation into political testing. The United States and Iran appear closer to a written formula to wind down the war, but the real question is whether a deal survives contact with enforcement, oil infrastructure, and the unresolved Lebanon dimension. Europe is formalizing support for Ukraine while tightening migration rules and preparing for a G7 summit shaped by Trump, China, and border politics, and Romania has enough genuine movement today to warrant its own lane because the Tomac government effort and Ilie Bolojan's Moldova visit both speak to the country's regional alignment.",
+    "market_mood": "Mixed",
+    "reader_note": "AP carried most of the rolling international reporting for June 14, with NOAA, WMO, the European Council, and JAXA used where official operational detail mattered. Reddit stays in because a few threads usefully show how readers are processing deal credibility, democratic accountability in South Korea, and Romania's still-fragile coalition arithmetic."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "A possible U.S.-Iran war settlement is suddenly close enough to move markets, but still too fragile to call peace",
+    "summary": "AP reported that Washington and Tehran appear close to finalizing a deal to end the war, with mediators pointing to a near-final text and public talk of an electronic signature on Sunday, June 14, 2026. The headline points toward de-escalation, but the actual test is whether a written formula changes military behavior, reopens the Strait of Hormuz, and holds up under the mistrust built during months of fighting.",
+    "why_it_matters": "Diplomatic optimism can calm markets immediately, but only verifiable compliance turns a truce headline into a real change in global risk.",
+    "countries": ["United States", "Iran", "Pakistan", "Israel"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/949710df39e3f1033cbb6beda3955814"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The main regional signal is movement toward an Iran deal, but the military and energy pressure points are still strong enough to break a weak settlement.",
+      "kicker": "Proof Over Promise",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Deal Architecture",
+          "headline": "AP's latest deal explainer says the U.S. and Iran are close, but the settlement still depends on nuclear steps, sanctions relief, and Lebanon",
+          "summary": "AP reported that the draft framework would extend the ceasefire, reopen the Strait of Hormuz, and begin a 60-day process tied to Iran's nuclear program, while Lebanon remains a major unresolved complication. That mix makes the deal look structurally important but still politically brittle.",
+          "why_it_matters": "A settlement that leaves key theaters or sequencing questions vague can reduce panic without actually reducing the odds of renewed fighting.",
+          "countries": ["United States", "Iran", "Lebanon", "Israel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/949710df39e3f1033cbb6beda3955814"
+            }
+          ]
+        },
+        {
+          "label": "Escalation Pause",
+          "headline": "Trump's decision to call off new strikes turned a night of threatened escalation into a public bet on diplomacy",
+          "summary": "AP reported that Trump said he halted further military action after threatening to hit Iran harder, framing the reversal as evidence of progress in negotiations. The signal is that Washington is still willing to swing sharply between coercion and deal-making while keeping maximum leverage in public view.",
+          "why_it_matters": "When war and diplomacy alternate this quickly, every pause has to be judged by what changes on the ground rather than by rhetoric alone.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d"
+            }
+          ]
+        },
+        {
+          "label": "Oil Vulnerability",
+          "headline": "Kharg Island remains the clearest reminder that the war can still spill straight back into global energy prices",
+          "summary": "AP's Kharg Island explainer said the terminal handles most of Iran's oil exports and would be a major escalation target if diplomacy fails. Even with the current mood improving, the story keeps the world's focus on how quickly one exposed infrastructure node can redraw the oil narrative.",
+          "why_it_matters": "A ceasefire feels durable only when its most obvious economic trigger stops looking like an immediate battlefield risk.",
+          "countries": ["Iran", "United States", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/us-iran-war-kharg-island-oil-industry-a4332ecc6500070c1e1929b9a734218f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-europe-security",
+      "title": "Ukraine & Europe Security",
+      "description": "Europe's signal today is that support for Ukraine is becoming more institutional at the same time the continent is being forced to think harder about carrying its own defense load.",
+      "kicker": "Hardening Commitments",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "EU Integration",
+          "headline": "EU governments agreed to open the first accession negotiation cluster with Ukraine and Moldova on Monday, June 15, 2026",
+          "summary": "AP reported that EU member states backed the next formal stage of accession talks, and the European Council described the step as a major advance. Entry is still distant, but the move makes Europe's war response more institutional and harder to unwind.",
+          "why_it_matters": "Security promises become more durable when they start changing the bloc's legal and political architecture.",
+          "countries": ["Ukraine", "Moldova", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-ukraine-eu-membership-moldova-negotiations-russia-6cd2ec3d41bd45c8115c6ee41eb1a114"
+            },
+            {
+              "name": "European Council",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/12/statement-by-president-von-der-leyen-and-president-costa-on-the-agreement-to-open-the-first-accession-negotiation-cluster-with-ukraine-and-moldova/"
+            }
+          ]
+        },
+        {
+          "label": "Deep Strikes",
+          "headline": "Ukraine is still widening the war's geographic cost by striking Russian military and energy targets far from the front",
+          "summary": "AP reported that Kyiv kept pressing long-range attacks into Russian territory while the front line remained largely static. The larger message is that Ukraine is trying to make Russian logistics, fuel infrastructure, and domestic confidence feel less insulated from the war.",
+          "why_it_matters": "A grinding front looks different when one side can still impose visible costs far behind the battlefield.",
+          "countries": ["Ukraine", "Russia", "Crimea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4a158f6273807683d48692dedb4121b8"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a2189d216731d92cbe74c873e1e6c04e"
+            }
+          ]
+        },
+        {
+          "label": "Alliance Burden",
+          "headline": "NATO is studying how Europe would defend itself if the U.S. shifts more forces toward another theater",
+          "summary": "AP reported that alliance planners are weighing new force options as Washington reduces parts of its European military posture and focuses more on the Indo-Pacific. The implication is that deterrence is no longer only about Russia's next move, but also about how much absence Europe must learn to absorb from its main sponsor.",
+          "why_it_matters": "Alliances change character when members start planning for partial sponsor withdrawal rather than constant reinforcement.",
+          "countries": ["NATO", "United States", "Europe", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f02062dccd3828cdd5ef8c8a717522ac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "global-politics-and-migration",
+      "title": "Global Politics & Migration",
+      "description": "Outside the war zones, today's political signal is that allied diplomacy and migration governance are both shifting toward harder and more openly strategic choices.",
+      "kicker": "Rules Under Stress",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Canada's Positioning",
+          "headline": "Mark Carney used his Europe trip to argue that middle powers should not compete for favor with Washington ahead of the G7",
+          "summary": "AP reported that Carney pushed for deeper Canada-Europe alignment and said middle powers should build a collaborative path instead of constantly adjusting around U.S. pressure. It is a notable signal before the summit because it mixes realism about American power with a clear attempt to widen strategic room outside it.",
+          "why_it_matters": "When allied leaders start speaking in blocs rather than only bilateral terms, they are signaling a different map of leverage.",
+          "countries": ["Canada", "Ireland", "France", "United States", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/04ce045524fd060d5439ed61acc2cd93"
+            }
+          ]
+        },
+        {
+          "label": "Migration Pact",
+          "headline": "The EU's new migration and asylum rules took effect even though member states are still not fully ready",
+          "summary": "AP reported that the bloc's Migration and Asylum Pact is now in force after years of argument, while Brussels acknowledges that implementation is incomplete. The move still matters because it formalizes a tougher common framework at a moment when migration remains one of Europe's most electorally combustible issues.",
+          "why_it_matters": "Border rules shape not only who enters Europe, but also which governments can still claim administrative control.",
+          "countries": ["European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/eu-migration-asylum-rules-what-to-know-5c0ffb5bf614bdf899fa62d618da4709"
+            }
+          ]
+        },
+        {
+          "label": "Swiss Referendum",
+          "headline": "Swiss voters are deciding whether to cap the country's population at 10 million in a referendum shaped by immigration anxiety",
+          "summary": "AP reported that the right-wing proposal would force sharp limits on migration if the country approaches the threshold and could strain relations with the European Union. Even outside the EU, the vote fits a wider European pattern in which population, housing, labor, and border politics are being fused into one argument.",
+          "why_it_matters": "Referendums on migration matter because they can turn cultural pressure into binding state constraints with wider regional consequences.",
+          "countries": ["Switzerland", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/03b42363567cfa9ff29c0995bb4ff711"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-and-governance",
+      "title": "Asia & Governance",
+      "description": "The region's strongest signal is institutional strain, with punishment, detention, and street pressure each showing up in a different form.",
+      "kicker": "Authority Tested",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "South Korea",
+          "headline": "A South Korean court gave ousted President Yoon and his former defense minister 30-year prison terms over drone flights linked to martial-law planning",
+          "summary": "AP reported that the court found Yoon and his former defense minister tried to provoke North Korea in order to manufacture a national emergency at home. The verdict shows how firmly South Korea's institutions now treat the episode as an abuse of state power rather than a passing scandal.",
+          "why_it_matters": "Democratic resilience is clearest when crisis tools used by leaders are later judged illegitimate by their own institutions.",
+          "countries": ["South Korea", "North Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a33f2207010d64b83a30e97e2f6a8a51"
+            }
+          ]
+        },
+        {
+          "label": "China Detention",
+          "headline": "China says American scholar Min Zin was arrested on suspicion of espionage",
+          "summary": "AP reported that the Myanmar-focused scholar and Berkeley doctoral student was detained after traveling to Kunming, prompting condemnation from rights groups and concern from Washington. Because Beijing rarely arrests U.S. citizens on national-security allegations, the case lands as a diplomatic signal as much as a legal one.",
+          "why_it_matters": "National-security detentions between rivals quickly become tests of the wider relationship, not just isolated court cases.",
+          "countries": ["China", "United States", "Myanmar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ec2559d40243f7bd4c4ab5eb11801f5b"
+            }
+          ]
+        },
+        {
+          "label": "Indonesia",
+          "headline": "Students rallied in Jakarta over food and fuel costs as pressure grows on Prabowo's policy choices",
+          "summary": "AP reported that hundreds of students protested rising prices and costly government programs in the capital and other cities. The demonstration matters because cost-of-living pressure is turning fiscal choices into a direct street-level political risk in one of the world's largest democracies.",
+          "why_it_matters": "Economic stress becomes strategically important when it starts organizing visible opposition in the capital.",
+          "countries": ["Indonesia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/indonesia-students-protest-economic-pressures-fc758948bc547075d62bcf80d8a7e827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-science-and-markets",
+      "title": "Climate, Science & Markets",
+      "description": "The strongest non-geopolitical system signals are a strengthening El Nino and another important execution test for Japan's launch ambitions.",
+      "kicker": "System Signals",
+      "stories": [
+        {
+          "label": "El Nino",
+          "headline": "Forecasters say El Nino has formed and could intensify into a major global weather disruptor later this year",
+          "summary": "AP reported that forecasters now say El Nino has formed, while NOAA says it is expected to strengthen and the WMO says probabilities remain near or above 90% into late 2026. That turns climate risk from seasonal speculation into an operational planning problem for agriculture, drought, floods, and energy systems worldwide.",
+          "why_it_matters": "When multiple forecast institutions converge on the same warning, governments and markets have less room to treat it as background noise.",
+          "countries": ["Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/el-nino-climate-change-flood-drought-damage-7eafacd2bcf04ade9d7f555dfd488178"
+            },
+            {
+              "name": "NOAA",
+              "url": "https://www.noaa.gov/news-release/el-nino-forms-expected-to-strengthen-say-noaa-forecasters"
+            },
+            {
+              "name": "WMO",
+              "url": "https://wmo.int/news/media-centre/wmo-prepare-el-nino"
+            }
+          ]
+        },
+        {
+          "label": "Japan Space",
+          "headline": "Japan's H3 rocket returned to flight as JAXA tested a lower-cost variant after last year's setback",
+          "summary": "AP reported that Japan's flagship H3 rocket returned to flight on Friday, June 12, 2026, and JAXA published the successful launch result the same day. The broader signal is that Tokyo is still trying to prove it can build a reliable and more competitive national launch system through repeated execution rather than one symbolic success.",
+          "why_it_matters": "Launch reliability matters because national space capability and commercial credibility both depend on it.",
+          "countries": ["Japan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/japan-jaxa-h3-rocket-launch-9c64f2c59b9212d612902e74823b77b5"
+            },
+            {
+              "name": "JAXA",
+              "url": "https://global.jaxa.jp/press/2026/06/20260612-1_e.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania has a meaningful dedicated lane today because government formation and Moldova-facing signaling are both active and regionally relevant.",
+      "kicker": "Coalition Test",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Government Deadline",
+          "headline": "Eugen Tomac said on Sunday, June 14, 2026 that he plans to send his governing program to Parliament on Monday",
+          "summary": "Digi24 reported that Tomac was due to hold talks with the speakers of the two chambers before submitting his program, as he tries to convert a weak nomination into an investiture path. The main signal is not stability but urgency, because Romania is still testing whether a technocratic or cross-party formula can survive the current parliamentary arithmetic.",
+          "why_it_matters": "A government plan only matters if it can gather votes quickly enough to stop political drift from becoming institutional paralysis.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Digi24",
+              "url": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/eugen-tomac-a-anuntat-ca-va-depune-luni-programul-de-guvernare-in-parlament-azi-discutii-cu-presedintii-celor-doua-camere-3814101"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4d36941513c931e19b8ce46c11f582be"
+            }
+          ]
+        },
+        {
+          "label": "Moldova Signal",
+          "headline": "Ilie Bolojan's Moldova visit is doubling as a regional alignment message at a sensitive political moment",
+          "summary": "Digi24 reported that Bolojan is in Chisinau for PAS events and official meetings just after the European Union agreed to open the first accession negotiation cluster with Moldova. That timing gives the visit more weight than ceremonial politics because it links Romania's domestic transition to a live pro-European regional project.",
+          "why_it_matters": "Romania's posture toward Moldova is a practical test of how domestic instability affects its wider strategic role on the EU's eastern edge.",
+          "countries": ["Romania", "Moldova"],
+          "sources": [
+            {
+              "name": "Digi24",
+              "url": "https://www.digi24.ro/stiri/actualitate/politica/premierul-ilie-bolojan-participa-duminica-la-congresul-pas-de-la-chisinau-3813735"
+            },
+            {
+              "name": "Digi24",
+              "url": "https://www.digi24.ro/stiri/actualitate/ilie-bolojan-merge-in-vizita-oficiala-in-republica-moldova-in-weekend-primaria-chisinau-va-vizita-institutiile-de-stat-3813479"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "The most useful Reddit signal today is where readers are clustering around credibility, accountability, and whether institutions still behave as advertised.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Deal Skepticism",
+          "headline": "A large r/worldnews thread is treating the expected U.S.-Iran signing as provisional until enforcement and sequencing become clearer",
+          "summary": "The discussion around the expected electronic signing is less interested in the optimistic headline than in whether a ceasefire extension, Hormuz reopening, and nuclear talks can actually be synchronized. That makes it useful because the public reaction is tracking the same implementation risk that defines the diplomacy itself.",
+          "why_it_matters": "Reddit is most useful when readers are focusing on the structural weakness in a story rather than only its drama.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1u50ecg/us_iran_expected_to_electronically_sign_agreement/"
+            },
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1u543n2/trump_says_usiran_deal_to_be_signed_sunday_as/"
+            }
+          ]
+        },
+        {
+          "label": "Yoon Accountability",
+          "headline": "Reddit reaction to Yoon's new prison term is framing the case as a rare example of democratic accountability carrying real force",
+          "summary": "Current threads on the Yoon sentence are focusing less on partisan Korean politics than on the broader idea that a former leader can still face serious punishment after trying to instrumentalize national security. That is a meaningful signal because the public takeaway is institutional resilience rather than personality theater.",
+          "why_it_matters": "Audience framing matters when it highlights the governing lesson of a story instead of getting lost in spectacle.",
+          "countries": ["South Korea"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1u4fip7/jailed_south_korea_expresident_gets_30_more_years/"
+            }
+          ]
+        },
+        {
+          "label": "Romania Watch",
+          "headline": "An r/europe thread on Eugen Tomac's nomination is treating Romania's government effort as a credibility test for the broader pro-European center",
+          "summary": "The active discussion around Tomac's mandate is less about personality than about whether Romania can produce a functioning government without drifting toward a longer instability cycle. That makes it useful because readers are following the coalition arithmetic in the same strategic terms that matter for Bucharest's EU and Moldova posture.",
+          "why_it_matters": "Public attention is valuable when it links domestic coalition mechanics to wider regional positioning.",
+          "countries": ["Romania", "European Union", "Moldova"],
+          "sources": [
+            {
+              "name": "Reddit r/europe",
+              "url": "https://www.reddit.com/r/europe/comments/1txdut2/romanias_president_taps_independent_candidate_to/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
