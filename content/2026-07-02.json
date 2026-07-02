@@ -1,0 +1,312 @@
+{
+  "date": "2026-07-02",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Thursday, July 2, 2026 opens with indirect U.S.-Iran talks still shaping energy risk, Russia escalating again over Kyiv, and climate and trade stress spreading across Europe and the Americas.",
+  "generated_at": "2026-07-02T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The clearest lead this morning is that Washington and Tehran are still talking through mediators in Qatar, which has eased some immediate oil panic without resolving the core disputes around Hormuz, Lebanon, and the war's accountability. The broader picture is one of systems under strain: Kyiv absorbed another lethal attack, Europe is treating extreme heat as a standing health emergency, Venezuela's earthquake zone is tipping toward a medical crisis, and trade blocs are moving defensively against both political and industrial shocks.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition leans heavily on fresh AP reporting, adds Reuters for the no-direct-talks clarification in Doha, uses Romania Insider for local political context, and keeps Reddit to three high-signal threads that mirror where public attention is clustering around Crimea, heat, and tariff risk."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "U.S. and Iran kept the Qatar channel alive, but the fact that the talks are still indirect says the crisis is not actually settled",
+    "summary": "AP reported that U.S. and Iranian negotiators met separately in Qatar on July 1 and agreed to continue discussions, with Doha describing positive progress. Reuters separately reported that Qatar ruled out direct U.S.-Iran talks, which is the key caution signal this morning because diplomacy has resumed without trust, without a shared account of the war's terms, and without a clean resolution on the Strait of Hormuz.",
+    "why_it_matters": "Oil prices can calm on the existence of talks, but shipping and regional risk stay live when the two sides still will not meet directly.",
+    "countries": ["United States", "Iran", "Qatar"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/de0729197bc7b9d3ee9e543d94c18fbe"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reutersconnect.com/item/qatar-rules-out-direct-talks-between-iran-and-the-united-states-in-doha/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTFRBQ0U3QUROWVNWUDNDOUkzWEZFSDBTT0VQS0Q"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The Gulf remains the top global risk lane because diplomacy, civilian fallout, and the unfinished Gaza war are all moving at once.",
+      "kicker": "Unfinished War",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Qatar Mediation",
+          "headline": "U.S. and Iranian negotiators agreed to keep talking in Doha, but still through mediators rather than face to face",
+          "summary": "AP reported that the latest Qatar round produced enough progress for both sides to continue discussions, while Reuters said Doha ruled out direct talks between the U.S. and Iran. That combination makes the overnight signal clearer than the optimistic headlines alone: the channel is open, but the mistrust level is still high enough that mediators remain essential.",
+          "why_it_matters": "Indirect talks are better than open escalation, but they are also a reminder that one shipping incident could still destabilize the whole track.",
+          "countries": ["United States", "Iran", "Qatar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/de0729197bc7b9d3ee9e543d94c18fbe"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reutersconnect.com/item/qatar-rules-out-direct-talks-between-iran-and-the-united-states-in-doha/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTFRBQ0U3QUROWVNWUDNDOUkzWEZFSDBTT0VQS0Q"
+            }
+          ]
+        },
+        {
+          "label": "Strike Accountability",
+          "headline": "AP reconstructed a U.S. strike on an Iranian primary school that killed more than 100 children",
+          "summary": "AP reported that a February 28 U.S. missile strike on a primary school in Minab killed at least 123 children and 34 adults, with outside estimates placing the toll even higher. The report matters this morning because the war's diplomatic phase is advancing faster than the public accounting for one of its deadliest civilian episodes.",
+          "why_it_matters": "Negotiations are harder to stabilize when one side still faces unresolved allegations over mass civilian deaths.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/2a134a5c74d80db763db4c3eb6d0d847"
+            }
+          ]
+        },
+        {
+          "label": "Gaza at 1,000 Days",
+          "headline": "Gaza reached 1,000 days of war with reconstruction stalled and over 2 million people still trapped in ruin",
+          "summary": "AP reported that Palestinians marked 1,000 days since the October 7, 2023 attack that triggered the war, with more than 2 million people displaced and post-ceasefire recovery still largely frozen. Even with wider regional attention focused on Iran and Hormuz, Gaza remains a long-running humanitarian and political wound with no credible near-term settlement.",
+          "why_it_matters": "The regional crisis cannot really be separated from Gaza while the territory remains devastated and politically unresolved.",
+          "countries": ["Gaza", "Israel", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f81c32c32a96cd7dd7952ef9b70b06b3"
+            }
+          ]
+        },
+        {
+          "label": "West Bank Arrests",
+          "headline": "Israeli raids detained Palestinian women across the West Bank, highlighting another front of pressure inside the conflict",
+          "summary": "AP reported that Israeli forces detained at least five Palestinian women in overnight raids in cities including Bethlehem, Hebron, Nablus, and Ramallah. Palestinian families said they were not told why, and rights groups said the detention of women has risen sharply since early 2026.",
+          "why_it_matters": "The West Bank file matters because it shows the conflict's coercive footprint widening beyond Gaza's battlefield and ceasefire arguments.",
+          "countries": ["Israel", "West Bank", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ca6f3f49f8fbf5706b52285d25bd77c0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-russia",
+      "title": "Ukraine & Russia",
+      "description": "The war is still being defined by two simultaneous patterns: Russia's mass attacks on cities and Ukraine's deepening pressure on the energy system behind the front.",
+      "kicker": "Escalation Spiral",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv Attack",
+          "headline": "Russia pounded Kyiv for hours with missiles and drones, killing at least 11 people and injuring dozens more",
+          "summary": "AP reported that Russia launched a large overnight strike on Kyiv that killed at least 11 people and injured 54, including children, while damaging residential buildings and infrastructure across multiple districts. The attack extends Moscow's pattern of trying to impose civilian fear and political pressure even as Ukraine pushes deeper strikes into Russian territory.",
+          "why_it_matters": "Kyiv's vulnerability keeps allied air-defense support at the center of the war's next phase.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/384d5b6bcdfc6e7d8c18f25130332ef7"
+            }
+          ]
+        },
+        {
+          "label": "Fuel Pressure",
+          "headline": "Months of Ukrainian refinery attacks have pushed Russia into a visible summer fuel crisis",
+          "summary": "AP reported that long lines at Russian gas stations and localized shortages are now exposing the cumulative effect of Ukraine's campaign against refineries and fuel logistics. The important change is that Kyiv's deep-strike strategy is no longer just symbolic or episodic; it is beginning to show up in civilian and military supply pressure inside Russia.",
+          "why_it_matters": "Wars shift when rear-area logistics become an everyday domestic problem rather than a distant military statistic.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871"
+            }
+          ]
+        },
+        {
+          "label": "Deep Strike Campaign",
+          "headline": "Zelenskyy said Ukraine hit the Ufa refinery again and struck a missile-component plant in Penza",
+          "summary": "AP reported that Ukraine targeted the Ufa oil refinery for the second time in a week and also struck a plant in Penza tied to missile components. That fits the same larger strategy as the fuel-crisis story: stretching Russian defenses, forcing industrial protection costs higher, and making the war more expensive away from the front line.",
+          "why_it_matters": "Repeated successful deep strikes change the economics of the war even before they change the map.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8f85eea709f58365c42ec3b29e5d1d6d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-and-climate",
+      "title": "Europe & Climate",
+      "description": "Europe's strongest non-war signal is that extreme heat is now driving health, infrastructure, and political responses at the same time.",
+      "kicker": "Stress Test",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Heat Preparedness",
+          "headline": "European hospitals are treating heat waves like a recurring mass-casualty season rather than a freak event",
+          "summary": "AP reported that hospitals in France and elsewhere in Europe are urgently upgrading for the next heat wave after recent extremes exposed shortages in cooling capacity, equipment, and building resilience. The key shift is institutional: health systems are now planning for heat the way they plan for flu surges or pandemic waves.",
+          "why_it_matters": "When hospitals redesign operations around heat, climate change has moved from forecast to standing public-health reality.",
+          "countries": ["France", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d2c26b56abd848e1a8553a0d702ee0b3"
+            }
+          ]
+        },
+        {
+          "label": "Political Realignment",
+          "headline": "European leaders are closing ranks under pressure from Trump on defense, trade, and foreign policy",
+          "summary": "AP reported that Trump's attacks on Italian Prime Minister Giorgia Meloni and wider U.S. pressure are pushing European leaders toward tighter coordination across defense and economic policy. The broader takeaway is that transatlantic friction is now helping consolidate European strategic behavior instead of only splintering it.",
+          "why_it_matters": "Europe's response to U.S. pressure could shape the next phase of sanctions, defense spending, and trade positioning across the continent.",
+          "countries": ["Italy", "European Union", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4567748bf998f158d99158068d978aad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trade-and-shocks",
+      "title": "Trade & Shocks",
+      "description": "The economic file this morning is about governments hardening their defenses against political leverage, China-linked import pressure, and technology volatility.",
+      "kicker": "Defensive Economics",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "North America Trade",
+          "headline": "The U.S., Canada, and Mexico have started a difficult renewal fight over the North American trade pact",
+          "summary": "AP reported that the three countries opened negotiations on renewing the USMCA under conditions that already look contentious, with Washington signaling a tougher posture on deficits, tariffs, and market access. The practical implication is that a trade framework covering roughly $1.9 trillion in activity is moving into a period of policy uncertainty rather than straightforward extension.",
+          "why_it_matters": "North American supply chains depend on predictability, and even a long negotiation can chill investment well before rules formally change.",
+          "countries": ["United States", "Canada", "Mexico"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/usmca-mexico-canada-trade-nafta-4531f12f1a59cb2b2e20bcdbdd9d47b5"
+            }
+          ]
+        },
+        {
+          "label": "EU-China Trade",
+          "headline": "The EU rolled out tougher steel and small-parcel import rules as it moves against rising trade imbalance with China",
+          "summary": "AP reported that the EU introduced new quotas and duties for steel and a new customs charge on low-value e-commerce parcels, measures widely understood as responses to the scale of Chinese-linked import pressure. Brussels is framing the changes as market defense, but the larger signal is that Europe is becoming more willing to trade openness for industrial protection.",
+          "why_it_matters": "Trade frictions matter most when they spread from rhetoric into rules that reshape how goods actually move.",
+          "countries": ["European Union", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e181c15226f44d6a2f782d4800fa837e"
+            }
+          ]
+        },
+        {
+          "label": "Chip Selloff",
+          "headline": "Asian stocks fell sharply on another semiconductor selloff, showing how fragile the AI market narrative still is",
+          "summary": "AP reported that shares tied to chips and AI infrastructure fell across much of Asia, with steep losses in South Korea and meaningful declines in Japan and Taiwan. Even with oil easing on the Iran talks, the market message was not calm optimism; it was that concentrated bets on the AI buildout are still vulnerable to sudden repricing.",
+          "why_it_matters": "When semiconductors wobble, the move quickly spills into broader growth, export, and risk sentiment across global markets.",
+          "countries": ["South Korea", "Japan", "Taiwan", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/21763c547c9aaaf13483625f90a751cd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's local signals this morning combine acute weather disruption with a still-unsettled political center.",
+      "kicker": "Local Strain",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Storm Damage",
+          "headline": "A violent storm hit Bucharest and 20 counties after the heat wave, killing one person and causing broad flooding and damage",
+          "summary": "AP reported that a powerful storm struck Bucharest overnight after days of extreme heat, killing one person, flooding dozens of localities, and generating more than 2,200 emergency requests. The swing from red-alert heat to destructive storm conditions captures how climate stress is landing in Romania as a compound risk rather than a single-event problem.",
+          "why_it_matters": "Romania's weather risk is now part of the broader European emergency, not a local outlier.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5081a17e7ba75c5c84bd183c800956c3"
+            }
+          ]
+        },
+        {
+          "label": "Government Talks",
+          "headline": "President Nicușor Dan is still pressing parties to keep negotiating a majority, with no timetable yet for a new government",
+          "summary": "Romania Insider reported on July 1 that President Nicușor Dan urged parties to continue frequent talks to build a governing majority but did not set a firm deadline for forming the next cabinet. That leaves the country's political center unsettled even as Romania is dealing with extreme weather, regional security risk, and budget pressure.",
+          "why_it_matters": "Romania needs a functioning government quickly because the domestic and regional risk environment is not waiting for coalition arithmetic to settle.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/president-urges-parties-talks-new-govt-july-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is most useful this morning as a fast read on where broad public attention is clustering around the same themes dominating the formal news file.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Crimea Thread",
+          "headline": "A high-traffic r/worldnews thread on Crimea treated the reported state of emergency as proof that Ukraine's pressure is biting deep into Russia's rear",
+          "summary": "The thread on Russian-installed authorities declaring a state of emergency in occupied Crimea is full of readers connecting fuel shortages, logistics stress, and the peninsula's growing insecurity. It is useful because it mirrors the mainstream shift from treating Ukrainian deep strikes as symbolic to reading them as part of a sustained systems campaign.",
+          "why_it_matters": "Reddit adds value here by showing that audiences are connecting Crimea's anxiety to the wider refinery and logistics story inside Russia.",
+          "countries": ["Ukraine", "Russia", "Crimea"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ug4ow2/state_of_emergency_declared_in_occupied_crimea_by/"
+            }
+          ]
+        },
+        {
+          "label": "Heat Thread",
+          "headline": "The Germany 41.3C thread turned into a wider public reaction channel about how abnormal this European heat now feels",
+          "summary": "The r/worldnews discussion around Germany's provisional all-time high is mixing headline shock with personal accounts about homes without cooling and nights that no longer reset temperatures. That is a useful public-signal layer on top of AP's hospital reporting because it shows how quickly climate extremes are being experienced as a daily livability crisis.",
+          "why_it_matters": "Reddit helps turn a record temperature into a clearer sense of how people are experiencing the crisis on the ground.",
+          "countries": ["Germany", "Europe"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ugcm9d/germany_records_provisional_alltime_high_of_413c/"
+            }
+          ]
+        },
+        {
+          "label": "Tariff Thread",
+          "headline": "A still-active Reddit thread on Trump's threat of 100% tariffs shows trade coercion landing as a consumer-cost story in public conversation",
+          "summary": "The discussion around Trump's threat to hit countries that tax U.S. digital services with 100% tariffs is focused less on formal trade doctrine than on who actually pays when tariff threats escalate. That makes it a good companion to today's USMCA and EU-China coverage because it shows how quickly trade policy is being interpreted as household-level pain.",
+          "why_it_matters": "Reddit is useful here because it reveals how audiences translate trade threats into everyday price anxiety rather than abstract diplomacy.",
+          "countries": ["United States", "European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ugdkci/trump_threatens_100_tax_on_european_imports_if/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
