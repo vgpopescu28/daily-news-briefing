@@ -1,0 +1,347 @@
+{
+  "date": "2026-07-03",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday, July 3, 2026 opens with Iran's postwar power structure coming into view, Russia escalating again over Kyiv, and climate and disaster stress spreading from Europe to Venezuela.",
+  "generated_at": "2026-07-03T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The clearest lead this morning is that Iran's funeral rites for Ali Khamenei are doubling as a power signal, with Gen. Ahmad Vahidi visibly reemerging while indirect diplomacy with Washington stays alive but fragile. The wider picture is still one of systems under pressure: Kyiv absorbed another major strike, Gaza hit the 1,000-day mark without a political end state, Europe is counting heat deaths while France battles new fires, and Venezuela's earthquake response is turning into a governance test as well as a humanitarian one.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition leans on fresh AP reporting for the main global file, uses Romania Insider for the local coalition track, adds NASA only where official scheduling mattered, and keeps Reddit to three threads that genuinely mirror public attention around Iran, Kyiv, and North American trade."
+  },
+  "featured_story": {
+    "category": "iran-and-gaza",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran's funeral for Ali Khamenei is also a live signal about who is shaping the next phase of the state's war policy",
+    "summary": "AP reported on July 3 that Revolutionary Guard Gen. Ahmad Vahidi reappeared publicly beside Ali Khamenei's casket as Tehran prepared for dayslong funeral ceremonies. That matters beyond symbolism because Vahidi is described as a central figure in Iran's hard-line negotiating posture with Washington while Mojtaba Khamenei remains wounded and largely out of sight.",
+    "why_it_matters": "The funeral is not just mourning; it is the clearest public read yet on who is consolidating influence inside Iran after the war.",
+    "countries": ["Iran", "United States", "Iraq"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/ali-khamenei-funeral-supreme-leader-iran-us-war-july-3-2026-554d4f05f43ebbb86f81821eb18c0927"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "iran-and-gaza",
+      "title": "Iran & Gaza",
+      "description": "The Middle East file is still being driven by a mix of succession politics, unfinished war diplomacy, and unresolved Palestinian devastation.",
+      "kicker": "Postwar Flux",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Power Shift",
+          "headline": "A senior Revolutionary Guard commander surfaced publicly as Tehran prepared for Ali Khamenei's funeral",
+          "summary": "AP reported that Gen. Ahmad Vahidi appeared at ceremonies and planning meetings on July 3 after months out of sight. His visibility matters because analysts see him as one of the main hard-line figures shaping Iran's negotiating line in any permanent settlement with the United States.",
+          "why_it_matters": "The people visible around the funeral are offering a practical map of who matters inside Iran right now.",
+          "countries": ["Iran", "United States", "Iraq"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ali-khamenei-funeral-supreme-leader-iran-us-war-july-3-2026-554d4f05f43ebbb86f81821eb18c0927"
+            }
+          ]
+        },
+        {
+          "label": "Indirect Talks",
+          "headline": "Qatar kept the U.S.-Iran channel open, but the talks are still indirect rather than face to face",
+          "summary": "AP reported on July 2 that U.S. and Iranian negotiators met separately in Qatar and agreed to continue discussions, while Reuters separately reported that Doha ruled out direct talks. The useful morning signal is that diplomacy is active, but it is still too brittle for either side to sit down openly with the other.",
+          "why_it_matters": "Shipping and oil risk can ease on talks, but mistrust remains high enough that a single incident could still derail the process.",
+          "countries": ["United States", "Iran", "Qatar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/de0729197bc7b9d3ee9e543d94c18fbe"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reutersconnect.com/item/qatar-rules-out-direct-talks-between-iran-and-the-united-states-in-doha/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTFRBQ0U3QUROWVNWUDNDOUkzWEZFSDBTT0VQS0Q"
+            }
+          ]
+        },
+        {
+          "label": "Gaza at 1,000 Days",
+          "headline": "Gaza crossed the 1,000-day mark with ceasefire scars visible and no durable political settlement in sight",
+          "summary": "AP reported that July 3 marked 1,000 days since the October 7, 2023 attacks that triggered the war, with over 2 million Palestinians still displaced and reconstruction stalled. The date is a reminder that the regional crisis remains anchored in Gaza even when diplomacy is focused on Iran and shipping lanes.",
+          "why_it_matters": "Any wider Middle East reset remains unstable while Gaza stays devastated and politically unresolved.",
+          "countries": ["Gaza", "Israel", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/gaza-palestinian-israel-thousand-days-war-ceasefire-f81c32c32a96cd7dd7952ef9b70b06b3"
+            }
+          ]
+        },
+        {
+          "label": "West Bank Arrests",
+          "headline": "Israeli raids detained Palestinian women across the West Bank, highlighting another pressure lane inside the conflict",
+          "summary": "AP reported that Israeli forces detained at least five Palestinian women in pre-dawn raids across Hebron, Ramallah, Nablus, and Bethlehem. Families said they were given little explanation, while rights groups said the number of women held by Israel has risen sharply during 2026.",
+          "why_it_matters": "The conflict's coercive footprint is widening beyond Gaza's battlefield and ceasefire arguments.",
+          "countries": ["Israel", "West Bank", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/west-bank-arrests-palestinian-women-israel-ca6f3f49f8fbf5706b52285d25bd77c0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-russia",
+      "title": "Ukraine & Russia",
+      "description": "The war remains defined by Russia's pressure on Ukrainian cities and Ukraine's growing ability to hurt Russian logistics and industry far from the front.",
+      "kicker": "Escalation Spiral",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv Barrage",
+          "headline": "Russia launched a major drone and missile attack on Kyiv, killing at least 21 people and injuring many more",
+          "summary": "AP reported on July 3 that an overnight Russian barrage hit apartment blocks and other sites across Kyiv, extending one of Moscow's clearest recent patterns: using large attacks on cities to impose civilian fear and air-defense strain. The assault also prompted a day of mourning in the capital.",
+          "why_it_matters": "Repeated large-scale strikes keep allied air-defense support and munition production at the center of Ukraine's survival.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-drone-attack-384d5b6bcdfc6e7d8c18f25130332ef7"
+            }
+          ]
+        },
+        {
+          "label": "Fuel Strain",
+          "headline": "Ukraine's refinery attacks are now showing up as a visible fuel crisis inside Russia",
+          "summary": "AP reported that long lines and shortages at Russian gas stations are exposing the cumulative effect of Ukraine's strikes on refineries and fuel logistics. The shift matters because deep strikes are no longer just symbolic; they are producing everyday pressure on Russia's rear-area supply system.",
+          "why_it_matters": "Wars change when logistics disruption becomes a domestic civilian problem rather than a remote military statistic.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871"
+            }
+          ]
+        },
+        {
+          "label": "Deep Strike Campaign",
+          "headline": "Ukraine said it struck the Ufa refinery again and hit a missile-component plant in Penza",
+          "summary": "AP reported that Ukrainian strikes targeted the Ufa refinery for the second time in a week and also hit a plant in Penza linked to missile production. That fits the broader pattern of stretching Russian defenses and raising the cost of the war behind the front lines.",
+          "why_it_matters": "Repeated industrial strikes reshape the economics of the war even before they reshape the map.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8f85eea709f58365c42ec3b29e5d1d6d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disaster",
+      "title": "Climate & Disaster",
+      "description": "The strongest non-war signal this morning is that climate and disaster emergencies are stressing public systems from Europe to the Caribbean coast of South America.",
+      "kicker": "Systems Under Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Venezuela Response",
+          "headline": "Venezuela's acting president is defending the earthquake response as criticism over delays and building quality grows",
+          "summary": "AP reported on July 3 that Delcy Rodriguez pushed back against complaints that the government's rescue effort was too slow after the twin earthquakes, with the confirmed death toll at 2,295 and many still missing. The political fight is intensifying alongside the humanitarian emergency.",
+          "why_it_matters": "Disaster recovery is becoming a legitimacy test for Venezuela's interim leadership, not just a rescue operation.",
+          "countries": ["Venezuela"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7e9964076f51a68d656f5727551f1f72"
+            }
+          ]
+        },
+        {
+          "label": "Rare Rescue",
+          "headline": "Rescuers pulled a security guard alive from a collapsed Venezuelan basement eight days after the quakes",
+          "summary": "AP reported that Hernan Alberto Gil Flores was found alive after more than 100 hours of tunneling through unstable debris in Catia La Mar. The rescue provided a rare hopeful moment in a disaster that has otherwise been defined by mounting fatalities and overwhelmed services.",
+          "why_it_matters": "Late rescues can buy time for search efforts, but they also underscore how thin the margin is for survivors as days pass.",
+          "countries": ["Venezuela"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ecb4f8db7608e16dd09bcca962a35bc8"
+            }
+          ]
+        },
+        {
+          "label": "Heat Deaths",
+          "headline": "France recorded roughly 1,000 additional deaths as Europe's record heat wave broke temperature records",
+          "summary": "AP reported that France's public health agency linked at least 1,000 additional deaths to the late-June heat surge, with mortality spiking well above seasonal norms. The key shift is that the toll is now measurable enough to move the story from forecasts and warnings into confirmed excess deaths.",
+          "why_it_matters": "When heat produces visible mortality spikes, climate risk becomes a standing public-health emergency rather than a seasonal inconvenience.",
+          "countries": ["France", "Germany", "Czech Republic", "Poland", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-heat-temperature-records-france-deaths-germany-61f444317600cf1bd9af5af84cb582bd"
+            }
+          ]
+        },
+        {
+          "label": "Mediterranean Fires",
+          "headline": "Wildfires are scorching southern France as heat and drought turn the Mediterranean into a sustained fire zone",
+          "summary": "AP reported on July 3 that fires in Aude and Herault had burned hundreds of hectares, forced evacuations, and drawn a large firefighting response. The fires are the next stage of the same heat story: after records and deaths come landscape-scale burn risk and infrastructure disruption.",
+          "why_it_matters": "Heat emergencies do not end when temperatures dip; they cascade into fire, displacement, and longer-term economic damage.",
+          "countries": ["France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/25da6a452c6c8528afcc403101994493"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "global-power-and-trade",
+      "title": "Global Power & Trade",
+      "description": "Governments are moving defensively on trade, alliance politics, and institutional authority rather than assuming stability will hold on its own.",
+      "kicker": "Harder Edges",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "USMCA Renewal",
+          "headline": "The U.S., Canada, and Mexico have opened a difficult renewal fight over the North American trade pact",
+          "summary": "AP reported on July 2 that the three countries began negotiations to renew USMCA under visibly tougher conditions, with Washington signaling a more confrontational posture. The practical message is that a framework underpinning major cross-border manufacturing and farm trade is entering a less predictable phase.",
+          "why_it_matters": "Supply chains react to uncertainty early, long before trade rules formally change.",
+          "countries": ["United States", "Canada", "Mexico"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/usmca-mexico-canada-trade-nafta-4531f12f1a59cb2b2e20bcdbdd9d47b5"
+            }
+          ]
+        },
+        {
+          "label": "EU-China Talks",
+          "headline": "China and the EU said they will formalize recurring ministerial trade talks as pressure builds to rebalance commerce",
+          "summary": "AP reported on July 3 that Beijing and Brussels agreed to regular ministerial-level trade consultations after meeting in Brussels. The agreement points to a more structured relationship, but it is happening because both sides are already confronting a large imbalance and rising industrial defensiveness.",
+          "why_it_matters": "Regular talks can reduce surprise, but they also confirm that the trade relationship has become strategic and contested.",
+          "countries": ["China", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/eu-china-trade-meeting-0b2afb981360117cb617052a2987ac98"
+            }
+          ]
+        },
+        {
+          "label": "EU Defenses",
+          "headline": "The EU has started tougher steel and e-commerce parcel rules aimed at limiting pressure from Chinese imports",
+          "summary": "AP reported that new quotas and charges took effect on July 2 as Brussels moved to defend domestic industry and curb the scale of low-value parcel flows. The bigger signal is that Europe is leaning more openly toward economic protection in sectors where it sees strategic vulnerability.",
+          "why_it_matters": "Trade disputes become more consequential when they move from rhetoric into border rules and customs costs.",
+          "countries": ["European Union", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/eu-china-trade-steel-ecommerce-quotas-tariffs-e181c15226f44d6a2f782d4800fa837e"
+            }
+          ]
+        },
+        {
+          "label": "NATO Ankara",
+          "headline": "Trump's personal ties to Erdogan are shaping the run-up to next week's NATO summit in Ankara",
+          "summary": "AP reported on July 3 that Trump's relationship with Erdogan helped secure his attendance at the July 7-8 NATO summit and could open space for Turkey on defense issues such as fighter jet sales. That makes the meeting important beyond ceremony because alliance cohesion, arms policy, and regional bargaining are all bundled together.",
+          "why_it_matters": "When alliance politics become personal, summit outcomes can shift faster and with less institutional friction.",
+          "countries": ["Turkey", "United States", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nato-summit-trump-erdogan-bond-c3fbddc43d7f4b0b12fcc2442ee03613"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's local file still combines acute weather disruption with a political center that has not yet restabilized.",
+      "kicker": "Local Strain",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Storm Damage",
+          "headline": "A violent storm after the heat wave flooded Bucharest and 20 counties, killing one person and overwhelming emergency services",
+          "summary": "AP reported that emergency crews handled more than 2,200 requests after severe storms hit Bucharest and surrounding areas, knocking down nearly 1,000 trees and damaging hundreds of cars. The swing from red-alert heat to destructive storms captures how climate stress is reaching Romania as compound risk rather than a single weather event.",
+          "why_it_matters": "Romania's weather risk now sits inside the wider European climate emergency instead of outside it.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/storm-weather-europe-heatwave-romania-5081a17e7ba75c5c84bd183c800956c3"
+            }
+          ]
+        },
+        {
+          "label": "Coalition Talks",
+          "headline": "President Nicusor Dan is still pressing parties to form a majority, with no clear timetable for a new Romanian government",
+          "summary": "Romania Insider reported on July 1 that President Nicusor Dan urged parties to keep negotiating toward a parliamentary majority but gave no deadline for naming a stable cabinet. That leaves the country with ongoing political uncertainty just as it faces weather damage, fiscal pressure, and regional security strain.",
+          "why_it_matters": "Romania needs a functioning government quickly because its risk environment is moving faster than coalition arithmetic.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/president-urges-parties-talks-new-govt-july-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is most useful this morning as a public-attention layer on the same war and trade stories dominating the formal news file.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Funeral Thread",
+          "headline": "A high-traffic r/worldnews thread on Mojtaba Khamenei's expected absence treated the funeral as a real-time succession clue",
+          "summary": "The discussion around reports that Iran's new supreme leader is unlikely to attend the funeral is full of readers parsing what secrecy, security, and elite visibility mean for the regime's next phase. It is useful because it mirrors the AP read that the ceremony is doubling as a signal about internal power distribution.",
+          "why_it_matters": "Reddit adds value here by showing that audiences are reading the funeral less as pageantry and more as evidence about who is actually in control.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ull5pz/iranian_supreme_leader_mojtaba_khamenei_unlikely/"
+            }
+          ]
+        },
+        {
+          "label": "Kyiv Strike Thread",
+          "headline": "The biggest Kyiv strike thread centered on first-hand accounts and frustration that mass Russian attacks still keep breaking through",
+          "summary": "The r/worldnews discussion around the overnight Kyiv barrage mixes eyewitness comments with a wider argument about air-defense gaps and Western resolve. That makes it a useful public-signal companion to AP's reporting on the casualties and destruction.",
+          "why_it_matters": "Reddit helps show how quickly battlefield updates are being translated into a public debate about allied deterrence and support.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ul97dd/russia_launches_massive_strike_on_ukraine_as/"
+            }
+          ]
+        },
+        {
+          "label": "USMCA Thread",
+          "headline": "A still-active USMCA thread framed North American trade renewal as a credibility test for Trump's own earlier deal",
+          "summary": "The r/worldnews conversation about Trump declining to renew the trade pact is focused on the contradiction between his current posture and his earlier praise for the agreement. It adds value because it shows the trade story landing as a trust and consistency issue, not just a tariff or customs story.",
+          "why_it_matters": "Reddit is useful here because it reveals how audiences translate trade renegotiation into political credibility and consumer-cost questions.",
+          "countries": ["United States", "Canada", "Mexico"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ukszp4/trump_declines_to_renew_major_trade_deal_with/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
