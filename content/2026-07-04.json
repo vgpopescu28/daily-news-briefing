@@ -1,0 +1,346 @@
+{
+  "date": "2026-07-04",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Saturday, July 4, 2026 opens with Iran using Ali Khamenei's funeral as a show of regime endurance, Russia and Ukraine widening the cost of their war, and Europe's heat crisis turning into a measurable death toll.",
+  "generated_at": "2026-07-04T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The clearest lead this morning is Iran's delayed state funeral for Ali Khamenei, which is functioning both as mourning and as a test of whether the regime can project unity after war, assassination, and a still-unseen new supreme leader. Around that core story, the broader morning picture is one of pressure compounding across systems: Ukraine is still trading city strikes for refinery damage, France's heat wave is now visible in mortality data, NATO and EU trade politics are hardening, and Romania is dealing with both storm damage and an unresolved government crisis.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition leans heavily on fresh AP reporting, keeps Romania as a dedicated local file because both weather damage and political instability remain meaningful, and uses Reddit only where it adds a real public-attention read on Iran, Kyiv, and the European heat story."
+  },
+  "featured_story": {
+    "category": "iran-and-gaza",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran's long-delayed funeral for Ali Khamenei has become a live test of regime control after war and succession shock",
+    "summary": "AP reported on July 4 that Iran began dayslong funeral ceremonies for Ali Khamenei in Tehran after months of delay caused by war and ceasefire negotiations. The scale of the turnout matters beyond symbolism because the regime is trying to display continuity while Mojtaba Khamenei remains out of public view and hard-line security figures appear to be shaping the next phase.",
+    "why_it_matters": "The funeral is the strongest public signal yet about whether Iran's system still looks cohesive after the killing of its longtime supreme leader.",
+    "countries": ["Iran", "United States", "Iraq"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/f7168b934d457bdb8b8a2da855d1d03a"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/5269a930c4a2263f788ebe893db86d61"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "iran-and-gaza",
+      "title": "Iran & Gaza",
+      "description": "The Middle East file is still being driven by Iranian succession politics, indirect diplomacy, and the unresolved Palestinian war zone.",
+      "kicker": "Postwar Legitimacy Test",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Funeral Politics",
+          "headline": "Iran opened Ali Khamenei's funeral with mass mourning and a strong visual display of state power",
+          "summary": "AP reported on July 4 that Khamenei's body was placed on public display in Tehran as huge crowds gathered and anti-American chants echoed through the capital. The practical signal is that the regime wants the funeral to serve as proof that it still commands a mobilizable base despite recent war losses and internal strain.",
+          "why_it_matters": "Authoritarian systems use funerals as political theater, and this one is effectively a referendum on visible regime strength.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f7168b934d457bdb8b8a2da855d1d03a"
+            }
+          ]
+        },
+        {
+          "label": "Succession Signal",
+          "headline": "The funeral's route and security plan underline how sensitive Iran's succession remains",
+          "summary": "AP's July 4 explainer said the ceremonies will stretch from Tehran to Qom, Karbala, and finally Mashhad, while authorities prepare for huge crowds and possible security incidents. Mojtaba Khamenei's continued absence keeps attention fixed on whether public religious ritual can compensate for political opacity at the top.",
+          "why_it_matters": "When the designated successor is mostly unseen, every logistical and ceremonial choice becomes a clue about how stable the handover really is.",
+          "countries": ["Iran", "Iraq"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5269a930c4a2263f788ebe893db86d61"
+            }
+          ]
+        },
+        {
+          "label": "Indirect Talks",
+          "headline": "U.S. and Iranian negotiators are still talking through mediators rather than directly",
+          "summary": "AP reported on July 2 that Qatar and Pakistan separately mediated another round of contacts between U.S. and Iranian negotiators and described the outcome as positive enough to continue. That is a useful stabilizing signal, but the structure of the talks also shows mistrust is still too high for open face-to-face engagement.",
+          "why_it_matters": "Energy and shipping risk can ease when talks continue, but the format shows the diplomatic floor is still fragile.",
+          "countries": ["United States", "Iran", "Qatar", "Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-july-1-2026-de0729197bc7b9d3ee9e543d94c18fbe"
+            }
+          ]
+        },
+        {
+          "label": "Gaza at 1,000 Days",
+          "headline": "Gaza crossed the 1,000-day mark with destruction entrenched and no durable settlement in sight",
+          "summary": "AP reported this week that the war has now run for 1,000 days, with displacement, trauma, and reconstruction paralysis still defining life for Palestinians while Israelis and Palestinians alike remain exhausted. The wider Middle East file keeps shifting between Iran, Lebanon, and trade routes, but Gaza remains the unresolved center of gravity.",
+          "why_it_matters": "Regional diplomacy will remain unstable as long as Gaza stays devastated without a political end state.",
+          "countries": ["Gaza", "Israel", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/gaza-palestinian-israel-thousand-days-war-ceasefire-f81c32c32a96cd7dd7952ef9b70b06b3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-russia",
+      "title": "Ukraine & Russia",
+      "description": "The war remains defined by Russia's punishment of Ukrainian cities and Ukraine's growing ability to disrupt Russian logistics far from the front.",
+      "kicker": "Attrition on Both Rears",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv Barrage",
+          "headline": "Russia's latest mass strike on Kyiv killed at least 21 people and again exposed the city's air-defense strain",
+          "summary": "AP reported that Russia's July 2 assault on Kyiv lasted roughly 11 hours and damaged more than 30 sites across the capital, including residential areas. The attack fits Moscow's current pattern of using large-scale strikes on urban targets to wear down Ukraine's defenses, morale, and allied patience.",
+          "why_it_matters": "Large civilian strikes keep external air-defense support at the center of Ukraine's ability to hold out.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-drone-attack-384d5b6bcdfc6e7d8c18f25130332ef7"
+            }
+          ]
+        },
+        {
+          "label": "Fuel Crunch",
+          "headline": "Putin is downplaying fuel shortages even as Ukrainian refinery attacks spread visible stress across Russia",
+          "summary": "AP reported on July 4 that Putin is publicly shrugging off the summer fuel crunch caused by repeated Ukrainian attacks on Russian oil infrastructure, even though shortages and long station lines are now obvious to civilians. That gap between Kremlin messaging and daily disruption is itself a meaningful wartime signal.",
+          "why_it_matters": "Once deep strikes start shaping civilian shortages, the economic cost of war becomes harder for the state to conceal or absorb.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-putin-attacks-fuel-refineries-a2f9eb36ad610ec8070b462244083f7b"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871"
+            }
+          ]
+        },
+        {
+          "label": "Deep Strike Campaign",
+          "headline": "Ukraine says it struck the Ufa refinery again and hit a missile-related plant in Penza",
+          "summary": "AP reported this week that Ukrainian forces targeted the Ufa refinery for a second time in a week and also hit a plant in Penza linked to missile components. The point is not just tactical damage; it is to keep stretching Russian defenses and raise the industrial cost of a long war.",
+          "why_it_matters": "Industrial and energy strikes can change a war's sustainability even before they change the battlefield map.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-ufa-refinery-oil-8f85eea709f58365c42ec3b29e5d1d6d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-systems",
+      "title": "Climate & Systems",
+      "description": "The strongest non-war signal this morning is that heat and fire are moving from forecast stories into mortality, infrastructure, and public-safety failures.",
+      "kicker": "Measured Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Heat Toll",
+          "headline": "France says deaths jumped 29% during the peak week of its record heat wave",
+          "summary": "AP reported on July 4 that France recorded at least 2,025 additional deaths during the week of June 22 to June 28 compared with the previous week, with the Paris region especially hard hit. That shifts the story from theoretical climate risk into an observed public-health emergency with hospitals, homes, and mortuaries all under strain.",
+          "why_it_matters": "When excess mortality is this visible, climate adaptation stops being a long-term debate and becomes immediate state capacity.",
+          "countries": ["France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/86e0a05e49a6ca7317e86b16b4296453"
+            }
+          ]
+        },
+        {
+          "label": "Fire Risk",
+          "headline": "Southern France is fighting new wildfires as heat and drought keep the fire season running hot",
+          "summary": "AP reported on July 3 that nearly 7,000 fires have broken out in France since the start of the summer season and thousands of hectares have already burned. The key morning signal is that the heat emergency is now cascading into land, transport, and evacuation risk rather than fading when temperatures slightly ease.",
+          "why_it_matters": "Compound climate crises are harder to manage because one hazard quickly hands off to the next.",
+          "countries": ["France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/france-heat-wildfires-europe-25da6a452c6c8528afcc403101994493"
+            }
+          ]
+        },
+        {
+          "label": "Sports Under Heat",
+          "headline": "Extreme July 4 heat is threatening World Cup players and fans in Philadelphia",
+          "summary": "AP reported on July 4 that heat indices around 115 Fahrenheit are raising alarms about whether FIFA's current safety rules are adequate for knockout-round matches. It is a useful global signal because climate stress is now colliding directly with mass events, worker safety, and public-health logistics in one of the world's biggest tournaments.",
+          "why_it_matters": "Heat is becoming a design constraint for major public events rather than a background weather variable.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e88edfc869146a2898928177e8c52286"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "global-power-and-trade",
+      "title": "Global Power & Trade",
+      "description": "Trade rules, alliance meetings, and economic protection are all getting sharper as governments plan for a less forgiving international environment.",
+      "kicker": "Harder Edges",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "EU-China Talks",
+          "headline": "China and the EU say they will hold regular ministerial trade meetings as tensions over imbalance deepen",
+          "summary": "AP reported this week that Beijing and Brussels agreed to formalize recurring ministerial-level trade talks, giving the relationship a more structured channel. That sounds cooperative, but it is really a sign that both sides now see trade frictions as strategic enough to require permanent management.",
+          "why_it_matters": "When trade disputes get institutionalized, it usually means they are expected to endure rather than disappear.",
+          "countries": ["China", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/eu-china-trade-meeting-0b2afb981360117cb617052a2987ac98"
+            }
+          ]
+        },
+        {
+          "label": "EU Defenses",
+          "headline": "The EU has started tougher steel and parcel-import rules that will hit Chinese trade flows",
+          "summary": "AP reported that Brussels introduced new steel quotas and a customs duty on low-value e-commerce parcels as it tries to reduce industrial pressure from Chinese imports. The move matters because the EU is no longer framing the issue as abstract imbalance alone; it is now writing defensive rules at the border.",
+          "why_it_matters": "Commercial friction becomes far more consequential when it turns into tariffs, quotas, and traceability regimes.",
+          "countries": ["European Union", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e181c15226f44d6a2f782d4800fa837e"
+            }
+          ]
+        },
+        {
+          "label": "NATO Ankara",
+          "headline": "Trump's relationship with Erdogan is shaping expectations for next week's NATO summit in Ankara",
+          "summary": "AP reported on July 4 that Erdogan's personal ties with Trump were central to securing the U.S. president's attendance at the July 7-8 summit and may also influence Turkish defense asks. That makes the meeting more than a routine alliance gathering because personality, bargaining, and arms politics are all tightly fused.",
+          "why_it_matters": "When alliance management runs through personal channels, outcomes can move faster but also become less predictable.",
+          "countries": ["Turkey", "United States", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nato-summit-trump-erdogan-bond-c3fbddc43d7f4b0b12fcc2442ee03613"
+            }
+          ]
+        },
+        {
+          "label": "Summit Security",
+          "headline": "Turkey is locking down Ankara ahead of the NATO summit as allies try to project unity",
+          "summary": "AP reported this week that Turkish authorities are planning heavy security for the summit while allies prepare for difficult arguments over defense spending, Iran, Ukraine, and the U.S. role. The practical takeaway is that NATO wants a show of cohesion even though the agenda is full of unresolved pressure points.",
+          "why_it_matters": "High-security summits often reveal how much symbolic unity is being asked to contain genuine strategic disagreement.",
+          "countries": ["Turkey", "NATO", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/turkey-nato-summit-tight-security-c2423abfaa605dbfb8228972047c1dbf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's local file is still being shaped by compound weather damage and an unsettled political center.",
+      "kicker": "Local Strain",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Storm Damage",
+          "headline": "Romania is still cleaning up after a deadly Bucharest-area storm that followed the heat wave",
+          "summary": "AP reported on July 1 that the storm killed one person, flooded 20 counties, toppled nearly 1,000 trees, and triggered more than 2,200 emergency calls after days of extreme heat. The sequence matters because it shows Romania facing the same compound climate pattern visible elsewhere in Europe, not an isolated weather incident.",
+          "why_it_matters": "Back-to-back heat and flood stress test local infrastructure and emergency capacity more than either event would alone.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5081a17e7ba75c5c84bd183c800956c3"
+            },
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/powerful-storm-bucharest-july1-2026"
+            }
+          ]
+        },
+        {
+          "label": "Political Deadlock",
+          "headline": "Romania still lacks a stable government after lawmakers rejected Adrian Vestea's proposed cabinet",
+          "summary": "AP reported last week that Vestea's cabinet won only 189 votes, far short of the 233 needed, deepening the post-election political crisis under President Nicusor Dan. The risk is not just procedural delay; Romania is trying to navigate budget strain, inflation, and regional insecurity without a settled governing coalition.",
+          "why_it_matters": "Political drift is more costly when fiscal and security pressures are already active at the same time.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-parliament-adrian-vestea-prime-minister-cabinet-rejected-cebfbe0963e1650edad381012fbeba95"
+            },
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/romanias-president-encourages-emergence-minority-government-limited-mandate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit adds the most value this morning as a public-attention layer on the same Iran, Ukraine, and climate stories dominating formal reporting.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Funeral Thread",
+          "headline": "A large r/worldnews thread treated Mojtaba Khamenei's absence as the most important clue in Iran's succession story",
+          "summary": "The discussion around Iran's funeral is less about ceremony than about what the new supreme leader's continued absence says about his condition, security, and practical control. That mirrors the main reporting line that the funeral is functioning as a political signal as much as a memorial.",
+          "why_it_matters": "Reddit is useful here because readers are parsing the same visual and symbolic clues that analysts are using to judge Iran's stability.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1umswi7/irans_injured_supreme_leader_mojtaba_khamenei/"
+            }
+          ]
+        },
+        {
+          "label": "Kyiv Strike Thread",
+          "headline": "The biggest Ukraine thread centered on how Russia's mass strikes keep reopening the air-defense debate",
+          "summary": "The active r/worldnews discussion on the Kyiv barrage mixes first-hand reactions, casualty anger, and renewed arguments about whether Western support is keeping up with Russia's strike tempo. It adds value because it shows the city attack immediately turning into a broader public argument about deterrence and allied credibility.",
+          "why_it_matters": "Audience attention is landing not only on the damage itself but on whether Ukraine's partners are doing enough to reduce repeat attacks.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ul97dd/russia_launches_massive_strike_on_ukraine_as/"
+            }
+          ]
+        },
+        {
+          "label": "Heat Deaths Thread",
+          "headline": "A widely shared France heat thread turned excess-death data into a broader argument about climate readiness",
+          "summary": "The r/worldnews response to France's heat-related deaths focused on overwhelmed hospitals, urban design, and whether Europe is adapting fast enough to hotter summers. That makes it a useful complement to AP's mortality reporting because it shows how quickly official health numbers are being translated into a governance critique.",
+          "why_it_matters": "Reddit adds signal here by showing climate deaths being read as a policy failure, not just a weather tragedy.",
+          "countries": ["France", "Europe"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1um1e21/about_1000_deaths_in_france_attributable_to_heat/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
