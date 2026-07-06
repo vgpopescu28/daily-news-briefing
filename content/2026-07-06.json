@@ -1,0 +1,318 @@
+{
+  "date": "2026-07-06",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Monday, July 6, 2026 opens with Kyiv under fresh Russian attack as NATO gathers in Ankara, Iran turning Ali Khamenei's funeral into a regime-strength display, and southern Europe sliding deeper into a fire emergency.",
+  "generated_at": "2026-07-06T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The central morning signal is the convergence of war and alliance politics: Russia hit Kyiv with another large missile and drone barrage hours before NATO leaders gather in Ankara, putting air defense, allied cohesion, and Donald Trump's demands back at the center of the Ukraine file. Around that lead, Iran is using Ali Khamenei's funeral to project continuity while the new supreme leader remains publicly absent, southern Europe is dealing with widening wildfires and lingering heat damage, and several democracies are entering visibly unstable political phases from Manila to Bucharest.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition prioritizes stories that most clearly shape geopolitical risk and state capacity this morning. Romania stays as a dedicated section because both the storm aftermath and the unresolved government crisis still matter locally, and Reddit is included only where it adds a clear public-attention signal on Iran, Ukraine, and the wider NATO mood."
+  },
+  "featured_story": {
+    "category": "nato-and-ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Russia struck Kyiv again just before the NATO summit, forcing the alliance back onto the questions of air defense, deterrence, and whether it can still act as one bloc",
+    "summary": "AP reported on July 6 that Russia launched another large missile and drone attack on Kyiv, killing at least seven people and damaging residential areas only hours before NATO leaders were due to gather in Ankara. The timing makes the summit's core problem harder to avoid because Ukraine is asking for more protection at the same moment that Donald Trump is pressing allies on spending, loyalty, and the future shape of the alliance.",
+    "why_it_matters": "When a major attack lands on the eve of a NATO summit, battlefield attrition and alliance credibility collapse into the same story.",
+    "countries": ["Ukraine", "Russia", "Turkey", "United States"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/0280e3d86022720fd5fa0236122ad90e"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/8d994efb518c6a8538cbe3c6ac539147"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "nato-and-ukraine",
+      "title": "NATO & Ukraine",
+      "description": "The summit in Ankara opens under direct pressure from a fresh attack on Kyiv, unresolved arguments over burden-sharing, and uncertainty about Washington's long-term posture.",
+      "kicker": "Summit Under Fire",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv Before Ankara",
+          "headline": "Russia's latest missile and drone strike on Kyiv is intensifying the pressure on NATO to show that summit communiques still translate into protection on the ground",
+          "summary": "AP reported on July 6 that at least seven people were killed after Russia hit Kyiv with ballistic missiles, cruise missiles, and drones, damaging homes and forcing residents into metro shelters. The strike follows another deadly attack last week and sharpens President Volodymyr Zelenskyy's case that Ukraine still needs more air defenses immediately rather than more abstract statements of support.",
+          "why_it_matters": "Civilian strikes like this test whether NATO's strategic language is backed by enough military capacity to change daily reality.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/0280e3d86022720fd5fa0236122ad90e"
+            }
+          ]
+        },
+        {
+          "label": "Trump's Demand",
+          "headline": "Trump is arriving in Ankara focused on enforcing last year's 5% defense-spending promise rather than smoothing over alliance anxieties",
+          "summary": "AP reported on July 6 that Trump plans to use the summit to press every ally toward spending 5% of GDP on defense over the coming decade, framing it as an overdue correction rather than a negotiable aspiration. The broader tension is that even higher European spending may not settle the deeper question of how much military and political commitment Washington is still willing to provide.",
+          "why_it_matters": "NATO becomes structurally less predictable when spending targets no longer answer the larger trust question inside the alliance.",
+          "countries": ["United States", "NATO", "Turkey"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8d994efb518c6a8538cbe3c6ac539147"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nato-summit-rutte-stoltenberg-trump-flattery-pitch-f8379b038dfbbf7afde80bb50a0bd96e"
+            }
+          ]
+        },
+        {
+          "label": "Summit Side Meetings",
+          "headline": "Trump's planned meetings with Zelenskyy, Erdogan, and Syria's al-Sharaa show how the Ankara summit is doubling as a wider regional power-broker stage",
+          "summary": "AP reported on July 6 that Trump is set to meet Zelenskyy and Syrian President Ahmad al-Sharaa during the summit while also holding bilateral talks with Turkish President Recep Tayyip Erdogan. That lineup matters because the gathering is no longer just about NATO's internal budget mechanics, but about how the United States now tries to manage Ukraine, Syria, and the alliance itself through tightly personalized diplomacy.",
+          "why_it_matters": "When summit diplomacy broadens into overlapping regional negotiations, the room for misalignment grows alongside the room for deals.",
+          "countries": ["United States", "Ukraine", "Turkey", "Syria"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1796d878f93e2fd9bcd1f63e1c619ebf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "iran-and-middle-east",
+      "title": "Iran & Middle East",
+      "description": "Iran is trying to turn Ali Khamenei's funeral into a message of continuity and defiance even as succession opacity and wider regional instability remain unresolved.",
+      "kicker": "Power Through Ritual",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Procession Politics",
+          "headline": "Iran's long funeral procession for Ali Khamenei is functioning as a mass political display as well as a mourning ritual",
+          "summary": "AP reported on July 6 that Khamenei's coffin moved through Tehran on a 12-hour route under heavy state choreography, with anti-U.S. and anti-Israeli messaging visible among mourners. The funeral is being staged not simply to honor the dead leader, but to show that the Islamic Republic can still impose a unified emotional script after war and succession shock.",
+          "why_it_matters": "The funeral is one of the few moments when Iran can publicly manufacture a picture of continuity at national scale.",
+          "countries": ["Iran", "United States", "Israel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/88b7f2e4902c18e2c1aa0eb91ad7bcfb"
+            }
+          ]
+        },
+        {
+          "label": "Absent Successor",
+          "headline": "The new supreme leader's continued public absence is still the most important unanswered detail in Iran's post-Khamenei transition",
+          "summary": "AP's funeral coverage and explainer material this week emphasized that Mojtaba Khamenei has remained out of public view even as other members of the family appeared in mourning events and burial plans moved toward Mashhad. That absence keeps feeding doubts about his physical condition, political control, and ability to embody the stability the regime wants the funeral to project.",
+          "why_it_matters": "A succession looks less settled when the person meant to symbolize continuity cannot yet safely or credibly appear in public.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-ayatollah-khamenei-funeral-us-war-what-to-know-5269a930c4a2263f788ebe893db86d61"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026-88b7f2e4902c18e2c1aa0eb91ad7bcfb"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Unresolved",
+          "headline": "Gaza remains a thousand-day war zone, underscoring how little of the wider Middle East crisis has actually been stabilized",
+          "summary": "AP reported on July 2 that Gaza has now crossed the 1,000-day mark with more than 73,000 Palestinians reported killed, mass displacement still entrenched, and reconstruction or political settlement still out of reach. Even as attention shifts toward Iran's funeral and summit diplomacy, Gaza remains the most visible example of the region's unresolved end-state problem.",
+          "why_it_matters": "Regional diplomacy remains fragile as long as Gaza's destruction has no credible path to durable recovery or governance.",
+          "countries": ["Gaza", "Israel", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f81c32c32a96cd7dd7952ef9b70b06b3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-energy-and-trade",
+      "title": "Climate, Energy & Trade",
+      "description": "Europe's heat shock is evolving into a cross-border wildfire emergency just as energy and trade rules continue to reset around the aftereffects of war and overcapacity.",
+      "kicker": "Stress Across Systems",
+      "stories": [
+        {
+          "label": "Mediterranean Fires",
+          "headline": "Portugal, Greece, and Spain are battling expanding wildfires as extreme heat turns into a sustained regional emergency",
+          "summary": "AP reported on July 5 that fires were spreading across southern Europe, with Greece warning of toxic smoke, Portugal fighting a massive blaze in Vouzela, and northeastern Spain struggling to contain a difficult fire in Girona. The main signal is that the heat story is no longer about records alone because it is now driving multi-country emergency operations, evacuations, and cross-border assistance.",
+          "why_it_matters": "When several countries face wildfire pressure at once, climate risk becomes a continental state-capacity problem rather than a local disaster.",
+          "countries": ["Portugal", "Greece", "Spain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f2ad8db8f37063ba0f06adb25fbd7a78"
+            }
+          ]
+        },
+        {
+          "label": "Oil Supply Reset",
+          "headline": "OPEC+ is nudging oil production higher as crude prices slide back from the Iran-war shock, but shipping risk has not fully normalized",
+          "summary": "AP reported on July 6 that seven OPEC+ countries agreed to add 188,000 barrels a day in August, marking a fifth straight monthly increase after prices fell back toward pre-war levels. The easing reflects improved crude movement after the interim U.S.-Iran arrangement, but the Strait of Hormuz is still operating below normal volumes and remains vulnerable to renewed disruption.",
+          "why_it_matters": "Energy markets are calmer than they were in March, but they are not yet back to a stable peacetime footing.",
+          "countries": ["Saudi Arabia", "Russia", "Iran", "OPEC+"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/bae40a1146cea569ddfdfc39d4867441"
+            }
+          ]
+        },
+        {
+          "label": "Europe vs. China Shock 2.0",
+          "headline": "The EU's new steel and small-parcel rules show Europe moving more openly to defend itself against Chinese overcapacity",
+          "summary": "AP reported on July 2 that Brussels introduced a new duty on low-value e-commerce parcels and tighter steel import limits as the EU's trade deficit with China widened to 360 billion euros in 2025. The measures are framed as competition and safety policy, but they also mark a clearer European willingness to accept friction with Beijing to protect domestic industry.",
+          "why_it_matters": "Trade defenses that once looked exceptional are becoming normal policy tools as governments adjust to prolonged industrial rivalry.",
+          "countries": ["European Union", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e181c15226f44d6a2f782d4800fa837e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "political-fault-lines",
+      "title": "Political Fault Lines",
+      "description": "Several political systems are entering visibly unstable phases, with impeachment, xenophobic unrest, and postwar realignment all rising at once.",
+      "kicker": "Volatile Domestic Files",
+      "stories": [
+        {
+          "label": "Philippines",
+          "headline": "Sara Duterte's impeachment trial is opening as one of Asia's most consequential political confrontations of the year",
+          "summary": "AP reported on July 6 that the Philippine Senate opened Vice President Sara Duterte's impeachment trial in a 92-day proceeding that could end her 2028 presidential ambitions and deepen her feud with President Ferdinand Marcos Jr. The case blends accusations over unexplained wealth and misuse of funds with a broader fight over the country's political future and foreign-policy orientation.",
+          "why_it_matters": "A vice-presidential impeachment in a major U.S. ally can reshape succession politics, governance stability, and regional alignment all at once.",
+          "countries": ["Philippines"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6052d854b78881b742e48732b9305509"
+            }
+          ]
+        },
+        {
+          "label": "South Africa",
+          "headline": "Nigeria says two of its citizens were killed during South Africa's anti-migrant violence, raising the diplomatic stakes of the unrest",
+          "summary": "AP reported on July 6 that the deaths came amid a broader wave of anti-immigrant protests tied to unemployment, crime fears, and pressure on public services. The violence is no longer only a domestic South African issue because it is now directly straining relations with other African states whose citizens have been targeted or repatriated.",
+          "why_it_matters": "Xenophobic unrest can quickly spill from street violence into a regional diplomatic problem that weakens labor mobility and political trust.",
+          "countries": ["South Africa", "Nigeria", "Ghana", "Malawi"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5448f808e7830b254de8c70038c08af7"
+            }
+          ]
+        },
+        {
+          "label": "Syria",
+          "headline": "Macron's planned visit to Syria would make him the first Western leader to go there since Assad's ouster",
+          "summary": "AP reported on July 6 that President Emmanuel Macron plans to visit Syria after the Ankara summit, with investors and business representatives expected to join him. The visit signals that parts of Europe are shifting from sanction-era isolation toward cautious reconstruction and influence-building around President Ahmad al-Sharaa's post-Assad government.",
+          "why_it_matters": "The first major Western leader visit can help define whether Syria is treated as a reconstruction file, a legitimacy gamble, or both.",
+          "countries": ["France", "Syria"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9d55fa7e31dce5fc9bcab8cd07ff1456"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania is still dealing with the overlap of climate stress, infrastructure strain, and an unsettled political center.",
+      "kicker": "Local Exposure",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Storm Damage",
+          "headline": "Romania is still assessing the scale of the Bucharest-area storm that followed the heat wave and flooded 20 counties",
+          "summary": "AP reported on July 2 that one person was killed after a tree fell on a car in Ilfov County and that emergency crews answered more than 2,200 calls as floodwater, downed trees, and damaged vehicles spread across the country. The event remains one of the clearest local examples of how fast heat stress can cascade into transport, drainage, and emergency-response failure.",
+          "why_it_matters": "Compound weather shocks expose whether urban infrastructure can cope when one climate extreme quickly hands off to another.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5081a17e7ba75c5c84bd183c800956c3"
+            }
+          ]
+        },
+        {
+          "label": "Government Deadlock",
+          "headline": "Romania's political crisis is still unresolved after lawmakers rejected Adrian Vestea's cabinet, leaving the country without a stable government",
+          "summary": "AP reported last week that Vestea's proposed cabinet won only 189 votes, well short of the 233 needed, deepening a deadlock that already followed the collapse of the previous government in May. The risk for Romania is that budget strain, inflation, and public distrust are all now being managed without a settled executive center.",
+          "why_it_matters": "Political drift is especially costly when fiscal pressure and regional-security uncertainty are already high.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cebfbe0963e1650edad381012fbeba95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit adds useful signal this morning where public attention is clustering around succession opacity in Iran, the emotional shock of Kyiv, and suspicion about Trump-Putin diplomacy.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Succession Speculation",
+          "headline": "A large r/worldnews thread kept treating Mojtaba Khamenei's absence as the single most revealing clue in Iran's succession story",
+          "summary": "The discussion around the thread on Mojtaba Khamenei skipping his father's funeral centered on whether the absence suggested real injury, fear, or a deeper power problem inside the regime rather than mere protocol. That mirrors the formal reporting focus on the gap between the state's unity theater and the public invisibility of the man meant to embody continuity.",
+          "why_it_matters": "Reddit is useful here because readers are zeroing in on the same visible succession anomaly that analysts and diplomats are watching.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1umswi7/irans_injured_supreme_leader_mojtaba_khamenei/"
+            }
+          ]
+        },
+        {
+          "label": "Kyiv Shock and Support",
+          "headline": "Ukraine threads stayed focused on the human reality of another mass attack and on whether allies are still matching Russia's strike tempo",
+          "summary": "The active Ukraine live thread and a separate Kyiv attack discussion both revolved around footage from the strike, sheltering civilians, and repeated calls to send more air-defense support. The public conversation is not only about the damage but about whether Western promises are keeping pace with the scale and frequency of Russian attacks.",
+          "why_it_matters": "Audience attention is landing on the credibility gap between solidarity language and the protection Ukrainians actually receive.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ul7lea/rworldnews_live_thread_russian_invasion_of/"
+            },
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1ulkdom/russia_launches_drone_and_missile_attack_on_kyiv/"
+            }
+          ]
+        },
+        {
+          "label": "Trump-Putin Optics",
+          "headline": "A fast-rising thread on the July 4 Trump-Putin call framed the conversation less as diplomacy than as a warning sign for NATO and Ukraine",
+          "summary": "The most common reactions in the r/worldnews thread cast the reported 90-minute call as evidence that many readers do not trust Trump's instincts toward Moscow on the eve of the NATO summit. That matters as an audience signal because skepticism about U.S. intentions is now part of the alliance story, not just a background opinion.",
+          "why_it_matters": "Public mistrust of summit diplomacy can harden quickly when it appears to favor personalized channels over transparent alliance commitments.",
+          "countries": ["United States", "Russia", "NATO"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uo3khj/putin_and_trump_held_businesslike_90minute_july_4/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
