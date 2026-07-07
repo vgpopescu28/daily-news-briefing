@@ -1,0 +1,343 @@
+{
+  "date": "2026-07-07",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Tuesday, July 7, 2026 opens with NATO meeting under the shadow of another mass strike on Kyiv, Iran turning funeral ritual into regime theater, and climate shocks stretching from southern Europe to Venezuela and the western Pacific.",
+  "generated_at": "2026-07-07T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The core morning signal is that alliance politics, war risk, and state stress are converging again. Russia hit Ukraine's capital just before NATO leaders gathered in Ankara, Iran is trying to project continuity while the succession remains visibly unsettled, and a growing set of disasters from European wildfires to Venezuela's quake aftermath is testing how much governments can still do under pressure.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition prioritizes stories that most directly shape geopolitical risk, state capacity, and cross-border security this morning. Romania is not a dedicated section today because there is no comparably fresh Romania-specific development worth forcing into the lineup, while Reddit is included only where it adds a clear public-attention signal around Iran, Gaza, and summit-era distrust."
+  },
+  "featured_story": {
+    "category": "nato-and-ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "NATO opens in Ankara with Kyiv still under fire, making alliance credibility harder to separate from the daily survival of Ukraine's cities",
+    "summary": "AP reported that Russia's latest missile and drone barrage killed at least 22 people in and around Kyiv only hours before NATO leaders gathered in Ankara. That timing turns the summit into more than a budgeting exercise because the alliance now has to talk about unity, spending, and deterrence while Ukraine is again showing the cost of delay in real time.",
+    "why_it_matters": "When a summit begins under direct evidence of battlefield attrition, rhetoric about alliance resolve is measured against civilian casualties rather than communiques.",
+    "countries": ["Ukraine", "Russia", "Turkey", "United States"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/nato-summit-turkey-trump-spending-forces-iran-1be2097870a203c28469246077da4fd1"
+      },
+      {
+        "name": "NATO",
+        "url": "https://www.nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "nato-and-ukraine",
+      "title": "NATO & Ukraine",
+      "description": "The Ankara summit is opening under pressure from fresh violence in Kyiv, unresolved burden-sharing fights, and widening uncertainty over Washington's long-term posture.",
+      "kicker": "Alliance Stress Test",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv Before The Summit",
+          "headline": "Russia's latest barrage on Kyiv is forcing NATO leaders to explain how summit promises will translate into actual protection for Ukrainian civilians",
+          "summary": "AP reported that Russia launched another large missile and drone attack on Kyiv, killing at least 22 people and damaging housing and infrastructure. The strike landed at the worst possible political moment for the alliance because it sharpened President Volodymyr Zelenskyy's argument that Ukraine needs more air defense now, not just support language.",
+          "why_it_matters": "Repeated mass strikes keep collapsing the distance between military logistics debates and visible civilian loss.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e"
+            }
+          ]
+        },
+        {
+          "label": "Trump's Summit Test",
+          "headline": "The alliance is entering Ankara focused less on abstract strategy than on whether Trump will accept a Europe-led version of NATO at all",
+          "summary": "AP and NATO's summit overview both frame Ankara around higher defense spending, industrial capacity, and long-term military support for Ukraine, but the political center of gravity remains Trump's demand for sharper burden-sharing and more loyalty. That makes the summit's real question less about whether Europe spends more and more about whether more spending is enough to stabilize the U.S. commitment.",
+          "why_it_matters": "An alliance can survive higher bills more easily than it can survive strategic ambiguity from its dominant military power.",
+          "countries": ["United States", "Turkey", "NATO", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nato-summit-turkey-trump-spending-forces-iran-1be2097870a203c28469246077da4fd1"
+            },
+            {
+              "name": "NATO",
+              "url": "https://www.nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye"
+            }
+          ]
+        },
+        {
+          "label": "Summit Side Meetings",
+          "headline": "Trump's planned talks with Zelenskyy and Syria's Ahmad al-Sharaa show how the NATO summit is doubling as a wider regional power-broker stage",
+          "summary": "AP reported that Trump plans to meet both Zelenskyy and Syrian President Ahmad al-Sharaa on the summit sidelines. That matters because Ankara is no longer just a NATO budget and posture meeting, but also a venue where Washington is trying to fold Ukraine, Syria, and Middle East spillover into one personalized diplomatic sequence.",
+          "why_it_matters": "When summit diplomacy expands into overlapping war files, the room for transactional deals and mixed signals rises fast.",
+          "countries": ["United States", "Ukraine", "Syria", "Turkey"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-zelenskyy-ukraine-syria-nato-1796d878f93e2fd9bcd1f63e1c619ebf"
+            }
+          ]
+        },
+        {
+          "label": "Russia's Fuel Vulnerability",
+          "headline": "Ukraine's strike on a St. Petersburg oil terminal shows that the war is still reaching into Russia's energy system even as Moscow keeps pressing civilian targets",
+          "summary": "AP reported that Ukrainian drones hit an oil terminal in St. Petersburg in the latest long-range attack on Russian fuel infrastructure. The signal is that Kyiv still has ways to impose cost behind the front line, even if that has not yet been enough to stop Russia from sustaining large strikes on Ukrainian cities.",
+          "why_it_matters": "Long-range infrastructure strikes matter because they test how expensive Russia's war machine can be made away from the battlefield.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-oil-st-petersburg-c95b97c0ab5ca8d06050f09e54ea69a9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "iran-gulf-and-gaza",
+      "title": "Iran, Gulf & Gaza",
+      "description": "Iran is using ritual and warning signals to project continuity while Gulf shipping risk and Gaza's unresolved governance crisis show how incomplete any regional stabilization remains.",
+      "kicker": "Unsettled Endgames",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Funeral As State Theater",
+          "headline": "The Tehran funeral procession for Ali Khamenei is operating as a national power display as much as a mourning event",
+          "summary": "AP reported that huge crowds filled Tehran for the funeral procession of Iran's late supreme leader as officials tried to present the ceremony as a display of continuity and defiance. The scale matters politically because the regime needs the procession to signal control after war, leadership loss, and widespread uncertainty about what comes next.",
+          "why_it_matters": "Mass ritual is one of the few tools a shaken authoritarian system can still use to manufacture a picture of cohesion.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026-88b7f2e4902c18e2c1aa0eb91ad7bcfb"
+            }
+          ]
+        },
+        {
+          "label": "The Missing Successor",
+          "headline": "The new supreme leader's absence is still the most revealing unresolved fact in Iran's attempted transition",
+          "summary": "AP's funeral coverage emphasized that other sons appeared publicly while the new supreme leader remained out of sight. That continuing absence undercuts the regime's continuity narrative because it keeps attention on the possibility that the succession is still politically or physically fragile.",
+          "why_it_matters": "A transition looks less settled when the figure meant to embody continuity cannot credibly appear in public.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-5-2026-9c2641e5bc540e5943dd39b95d4f02f8"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026-88b7f2e4902c18e2c1aa0eb91ad7bcfb"
+            }
+          ]
+        },
+        {
+          "label": "Hormuz Risk Returns",
+          "headline": "A tanker struck by a projectile in the Strait of Hormuz is a reminder that shipping risk remains elevated despite the calmer oil-price backdrop",
+          "summary": "AP reported that a tanker caught fire after being hit by a projectile off Oman in the Strait of Hormuz as Iran mourned Khamenei. Even if the wider war is not escalating openly at this moment, the incident shows how quickly commerce through the region can still be disrupted by ambiguous violence.",
+          "why_it_matters": "Partial calm in the Gulf is fragile as long as key shipping lanes can still be jolted by unattributed attacks.",
+          "countries": ["Oman", "Iran", "Gulf region"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-israel-war-oil-4732228810c9839a1258309ad43b8289"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Governance Shift",
+          "headline": "Hamas says it is dissolving its government in Gaza, but that move still leaves the territory's real postwar power structure unresolved",
+          "summary": "AP reported that Hamas has dissolved its government in Gaza and is preparing to transfer authority to a U.N.-backed technical committee under a U.S.-brokered ceasefire framework. The announcement is significant because it creates at least a theoretical path away from direct Hamas administration, but it does not yet solve the deeper questions of security control, reconstruction, and political legitimacy.",
+          "why_it_matters": "Governance announcements matter only if they can survive the gap between ceasefire paperwork and actual control on the ground.",
+          "countries": ["Gaza", "Israel", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/israel-gaza-palestinians-hamas-war-government-146f9a609580d4c8c42ab35fbe60d5b3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate & Disasters",
+      "description": "Wildfire, earthquake, and typhoon responses are all revealing the same thing: governments are being tested hardest when environmental shocks stack faster than institutions can absorb them.",
+      "kicker": "State Capacity Under Heat",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Southern Europe Burns",
+          "headline": "Wildfires and extreme heat are now disrupting both daily life and marquee events across southern Europe",
+          "summary": "AP reported that fires in Portugal, Greece, and Spain kept spreading as heat and dry conditions intensified, while another AP report said a major wildfire in southern France forced Tour de France organizers to ban spectators from a stage finale. The signal is that Europe's heat story is no longer only about records because it is now visibly interrupting transport, tourism, agriculture, and emergency services at the same time.",
+          "why_it_matters": "Climate stress becomes politically harder to ignore when it starts degrading major public events and cross-border emergency capacity together.",
+          "countries": ["Portugal", "Greece", "Spain", "France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/greece-portugal-wildfire-vouzela-thessaloniki-f2ad8db8f37063ba0f06adb25fbd7a78"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8b78a5d051273e24455357da63551fef"
+            }
+          ]
+        },
+        {
+          "label": "Venezuela After The Quakes",
+          "headline": "As rescue operations wind down in Venezuela, the country's earthquake disaster is turning more clearly into a test of state failure",
+          "summary": "AP reported that families in some of the worst-hit Venezuelan areas are still recovering bodies with little official help as international rescue teams start leaving. The coverage points to a deeper political problem because the disaster has exposed weak infrastructure, limited state capacity, and a widening gap between official reconstruction messaging and what survivors are actually facing.",
+          "why_it_matters": "Natural disasters become regime-defining events when citizens are left to do the most basic recovery work themselves.",
+          "countries": ["Venezuela"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/411e5608c47eda5385a6e13547cae7c9"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/097c0eab303b9b461419868c15fddecb"
+            }
+          ]
+        },
+        {
+          "label": "Typhoon Bavi",
+          "headline": "Western Pacific islands are bracing for Super Typhoon Bavi as another severe weather emergency builds over exposed U.S.-linked territories",
+          "summary": "AP reported that islands near Guam were preparing for Super Typhoon Bavi as powerful winds and dangerous surf threatened the western Pacific. The immediate issue is public safety, but the broader signal is how often small island systems and lightly buffered territories are now being pushed into repeated high-intensity disaster response.",
+          "why_it_matters": "Fast-moving storm threats reveal which governments can still protect exposed populations under increasingly extreme weather conditions.",
+          "countries": ["Guam", "Northern Mariana Islands", "Pacific region"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/typhoon-bavi-pacific-guam-us-territories-c82629ede1d7a62b7a2e4d9676a5a173"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "political-fault-lines",
+      "title": "Political Fault Lines",
+      "description": "Security signaling, sanctions, and domestic instability are all showing how fragile the political center has become across several regions at once.",
+      "kicker": "Pressure On Institutions",
+      "stories": [
+        {
+          "label": "France",
+          "headline": "Marine Le Pen's political future now hinges on a Paris court ruling that could reshape the 2027 French presidential field",
+          "summary": "AP reported that Le Pen's potential presidential bid is at stake in a court ruling tied to her graft case. The immediate legal question matters well beyond France's far right because any change to her candidacy would reorder succession planning, party strategy, and the wider balance between Macron's camp and nationalist opposition ahead of 2027.",
+          "why_it_matters": "French court rulings can become strategic European events when they alter the viability of a leading presidential contender.",
+          "countries": ["France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/france-le-pen-macron-bardella-verdict-election-dcd2a305d01a87f13f1d7c81dffeee90"
+            }
+          ]
+        },
+        {
+          "label": "United Kingdom vs. Russia",
+          "headline": "Britain's new sanctions over chemical weapons are reopening one of the darkest strands in its confrontation with Russia",
+          "summary": "AP reported that the U.K. sanctioned nine Russian people and entities tied to chemical weapons used against Alexei Navalny and Sergei Skripal. The move matters because it revives the chemical-weapons file as a live diplomatic and security issue at the same time NATO is already struggling with a broader Russia deterrence problem.",
+          "why_it_matters": "Sanctions tied to chemical weapons signal that some Russia disputes are still widening in legal and moral scope, not fading.",
+          "countries": ["United Kingdom", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/uk-russia-sanctions-chemical-weapons-90d45542e9f13bc3f5ddf419ce3224f7"
+            }
+          ]
+        },
+        {
+          "label": "China In The Pacific",
+          "headline": "China's submarine-launched ballistic missile test in the South Pacific is heightening regional concern about how openly Beijing now signals nuclear reach",
+          "summary": "AP reported that China's navy test-launched a long-range ballistic missile from a nuclear-powered submarine in the South Pacific, drawing protests from regional governments and the United States. The test is strategically important because it advertised a more mobile nuclear capability in a region that had hoped to remain insulated from that kind of signaling.",
+          "why_it_matters": "A rare submarine missile test shifts the Indo-Pacific conversation from gray-zone pressure back toward explicit strategic deterrence.",
+          "countries": ["China", "New Zealand", "Australia", "United States", "Pacific region"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-missile-test-submarine-36963889390c8a08079165d8a63e4960"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/australia-fiji-china-defense-alliance-7e9adc96413aecfc1307d6ab978998dd"
+            }
+          ]
+        },
+        {
+          "label": "South Africa",
+          "headline": "The killing of Nigerian nationals during South Africa's anti-immigrant violence is turning local unrest into a regional diplomatic problem",
+          "summary": "AP reported that Nigeria said two of its citizens were killed after anti-immigrant protests in South Africa targeted African workers. That pushes the story beyond domestic law and order because it now affects interstate relations, migrant protections, and confidence in labor mobility across the continent.",
+          "why_it_matters": "When xenophobic violence crosses into diplomatic fallout, the cost spreads well beyond the original protest zone.",
+          "countries": ["South Africa", "Nigeria"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nigeria-south-africa-antimigrant-violence-5448f808e7830b254de8c70038c08af7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is adding useful audience signal this morning where public attention is clustering around Iran's succession opacity, distrust of diplomatic staging, and arguments over who can govern Gaza after war.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Succession Reading",
+          "headline": "A fast-moving r/worldnews thread treated the absence of Iran's new supreme leader at the funeral as the single most revealing clue in the transition",
+          "summary": "The discussion around the thread on Khamenei's sons appearing without the new supreme leader kept returning to one question: whether the absence reflected injury, fear, or a deeper leadership problem rather than protocol. That public fixation closely matches the formal reporting emphasis on the gap between Iran's unity theater and the invisibility of the person supposed to embody continuity.",
+          "why_it_matters": "Reddit is useful here because large audiences are independently focusing on the same visible anomaly that analysts are watching.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uof6gu/three_sons_of_irans_slain_leader_khamenei_appear/"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Governance Skepticism",
+          "headline": "Readers in a large Gaza thread were less interested in Hamas's headline announcement than in whether any postwar authority could actually function",
+          "summary": "The active r/worldnews discussion on Hamas dissolving its government focused heavily on distrust, enforceability, and the question of who would really hold power if a technical committee were installed. The audience signal matters because public attention is already moving past the announcement itself and toward whether any transition mechanism has credible backing on the ground.",
+          "why_it_matters": "Online reaction can show how quickly headline diplomacy is filtered through realism about who actually controls territory and weapons.",
+          "countries": ["Gaza", "Israel", "Palestinian territories"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1up1fj5/hamas_dissolves_gaza_government_ahead_of_eventual/"
+            },
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uow042/hamas_says_it_will_dissolve_gaza_government_as/"
+            }
+          ]
+        },
+        {
+          "label": "Diplomacy Trust Gap",
+          "headline": "A rising Trump-Putin call thread showed how much public distrust now attaches to summit-era diplomacy around Russia and NATO",
+          "summary": "The r/worldnews thread on the July 4 Trump-Putin call was dominated by suspicion that private leader-to-leader channels could undercut NATO cohesion or Ukraine support. That is useful public-signal data because skepticism about opaque diplomacy is no longer background noise; it is becoming part of how audiences interpret the summit itself.",
+          "why_it_matters": "Public mistrust can harden fast when alliance politics appear to be shaped through informal personal channels rather than transparent commitments.",
+          "countries": ["United States", "Russia", "NATO"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uo3khj/putin_and_trump_held_businesslike_90minute_july_4/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
