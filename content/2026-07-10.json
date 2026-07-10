@@ -1,0 +1,280 @@
+{
+  "date": "2026-07-10",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday, July 10, 2026 opens with the Gulf crisis sliding further from ceasefire into open exchange, Ukraine pressing Russia's oil lifelines as NATO recalibrates, and climate disasters compounding from southern Europe to China.",
+  "generated_at": "2026-07-10T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The clearest morning signal is that several major crises are now feeding each other instead of staying contained. The U.S.-Iran exchange is again threatening shipping and oil stability, Ukraine is widening the economic cost of war for Russia, and climate shocks are arriving fast enough that governments are moving from response to triage.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that most directly change geopolitical risk, war trajectories, and disaster pressure this morning. Romania is not a dedicated section today because there is no fresh Romania-specific development strong enough to outrank the broader global shifts, while Reddit is included where it adds useful public-attention signal."
+  },
+  "featured_story": {
+    "category": "gulf-escalation",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S. and Iran are trading fire again across the Gulf, putting the ceasefire, commercial shipping, and oil stability back at immediate risk",
+    "summary": "AP reported that new U.S. airstrikes on Iranian targets were followed by Iranian attacks hitting Bahrain, Kuwait, and Qatar after earlier ship attacks in the Strait of Hormuz. That matters because the conflict has moved back to the precise chokepoints that most quickly turn a regional war into a global energy and security shock.",
+    "why_it_matters": "When Gulf bases, tankers, and maritime lanes are all under pressure together, the risk is no longer only military escalation but a rapid spillover into energy prices, insurance costs, and alliance politics.",
+    "countries": ["Iran", "United States", "Bahrain", "Kuwait", "Qatar", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/fee04dcea661c08de12c04914ff2751b"
+      },
+      {
+        "name": "AP Live",
+        "url": "https://apnews.com/article/efb01091bfb96c80c50ea77a11e3aa22"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "gulf-escalation",
+      "title": "Gulf Escalation",
+      "description": "The Hormuz corridor is unstable again, the ceasefire logic is weakening, and each exchange is widening the list of states directly exposed to the war.",
+      "kicker": "Shipping Shock",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Ceasefire Frays",
+          "headline": "Fresh U.S. strikes and Iranian retaliation show the Gulf ceasefire framework no longer contains serious military action",
+          "summary": "AP reported that Washington hit Iranian military and port targets after new attacks on commercial vessels, while Tehran answered by striking Bahrain, Kuwait, and Qatar. Both sides are still talking as if some diplomatic track exists, but the actual operating pattern now looks like active conflict with pauses rather than a ceasefire with violations.",
+          "why_it_matters": "Diplomacy loses stabilizing value once major strikes become routine exceptions instead of true breakdowns.",
+          "countries": ["Iran", "United States", "Bahrain", "Kuwait", "Qatar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/fee04dcea661c08de12c04914ff2751b"
+            }
+          ]
+        },
+        {
+          "label": "Regional Exposure",
+          "headline": "Netanyahu's call with Trump and new attacks on Gulf states underline how quickly the war is entangling more partners and proxies",
+          "summary": "AP's live coverage said Trump discussed the Gulf situation with Benjamin Netanyahu while Iran's response again hit U.S.-aligned Gulf states and revived pressure on the wider regional coalition. The practical signal is that outside powers are not just watching the conflict anymore; they are now deeper inside its political and military consequences.",
+          "why_it_matters": "The more states the war directly touches, the harder it becomes to de-escalate through one bilateral channel.",
+          "countries": ["United States", "Israel", "Iran", "Bahrain", "Kuwait", "Qatar"],
+          "sources": [
+            {
+              "name": "AP Live",
+              "url": "https://apnews.com/article/efb01091bfb96c80c50ea77a11e3aa22"
+            }
+          ]
+        },
+        {
+          "label": "Leadership Vacuum",
+          "headline": "Iran is confronting renewed war pressure while still absorbing Khamenei's burial and the uncertainty around who can impose strategic discipline",
+          "summary": "AP's live updates noted that Ayatollah Ali Khamenei has now been laid to rest while Iran faces intensified cross-border strikes and renewed questions about internal cohesion. That makes the military crisis harder to read because foreign governments are now dealing not only with Iranian retaliation, but also with a leadership system under exceptional stress.",
+          "why_it_matters": "A crisis becomes more dangerous when the chain of authority inside one of the main combatants is itself in transition.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "AP Live",
+              "url": "https://apnews.com/article/efb01091bfb96c80c50ea77a11e3aa22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-nato",
+      "title": "Ukraine & NATO",
+      "description": "Ukraine is pushing harder against Russia's fuel system just as NATO tries to show practical follow-through after an awkward but consequential summit.",
+      "kicker": "Alliance Stress",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Energy Pressure",
+          "headline": "Ukrainian drones are hitting more Russian oil sites and tankers, turning the fuel system itself into one of Kyiv's main pressure points",
+          "summary": "AP reported that Ukrainian drones struck multiple Russian oil facilities and set two tankers ablaze in the Sea of Azov, worsening an already serious fuel squeeze inside Russia. Kyiv is framing these attacks as long-range economic pressure rather than symbolic strikes, and the campaign is now visibly affecting how Russia supplies its own war machine.",
+          "why_it_matters": "If Ukraine can keep degrading refining and transport capacity, it raises the domestic cost of war inside Russia without needing a dramatic battlefield breakthrough.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6cb5602f1cf309533ed0cf5c734e19d8"
+            }
+          ]
+        },
+        {
+          "label": "Air Defense Shift",
+          "headline": "NATO's most concrete Ukraine outcome was Washington agreeing to let Kyiv produce Patriot systems under license",
+          "summary": "AP reported that Trump said the U.S. will allow Ukraine to manufacture Patriot air defense systems, a longstanding Ukrainian demand that could eventually reduce dependence on slow external deliveries. Production will still take time, but politically it marks a larger commitment than a one-off transfer and suggests NATO leaders wanted at least one durable summit deliverable for Kyiv.",
+          "why_it_matters": "Licensing production matters more than a headline promise because it can reshape Ukraine's long-term defensive capacity.",
+          "countries": ["Ukraine", "United States", "NATO", "Turkey"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d393e8ef6103e32c984c4337a82930b1"
+            }
+          ]
+        },
+        {
+          "label": "Summit Takeaways",
+          "headline": "Ankara ended with better optics for Ukraine, but the summit still showed how vulnerable NATO's agenda is to shocks from Iran and Trump-driven bargaining",
+          "summary": "AP's summit takeaways said Ukraine left with better rhetoric, a major air-defense concession, and a softer Trump tone, but the meeting also exposed how much alliance focus can be redirected by separate crises and transactional politics. NATO still looks capable of producing outcomes, but not of controlling the strategic tempo around them.",
+          "why_it_matters": "Alliance cohesion is weaker when meaningful support still depends on sudden mood shifts and external crises not overwhelming the agenda.",
+          "countries": ["NATO", "Ukraine", "United States", "Turkey"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4821e7c6f2ab0b8a729d0e798bfe6359"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate & Disasters",
+      "description": "Extreme weather is arriving in clusters rather than isolated events, forcing governments to manage overlapping death tolls, evacuations, and infrastructure strain.",
+      "kicker": "Compounding Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Typhoon Threat",
+          "headline": "China is preparing for Typhoon Bavi after a week of deadly storms that already killed dozens across several provinces",
+          "summary": "AP reported that more than 17,000 people have been evacuated in eastern China ahead of Typhoon Bavi, while rescue forces stand ready after a week of floods, tornadoes, and landslides that already caused at least 71 deaths nationwide. The signal is not just another storm, but a disaster system that is still absorbing one wave of damage as the next one approaches.",
+          "why_it_matters": "Recovery gets harder and more expensive when new extreme-weather events hit before earlier losses are stabilized.",
+          "countries": ["China", "Taiwan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/b24529aa2b014bf55a6d7fecc4172e6b"
+            }
+          ]
+        },
+        {
+          "label": "Flood Toll",
+          "headline": "Southern China flooding has killed 39 people, showing how quickly a tropical storm can turn into a wider infrastructure and rescue crisis",
+          "summary": "AP reported that Tropical Storm Maysak's rains killed 39 people in Guangxi after breaching reservoirs, trapping residents, and forcing about 130,000 evacuations. The damage moved beyond routine flood response once schools, transport, utilities, and local animal-control risks all became part of the same emergency picture.",
+          "why_it_matters": "Large evacuation numbers and damaged water systems turn a weather event into a broader governance and public-health test.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e0d8291a25627d8b62595739b51a569e"
+            }
+          ]
+        },
+        {
+          "label": "Europe Burns",
+          "headline": "Wildfires and extreme heat across southern Europe are still producing deaths, toxic smoke, and emergency strain days after the first alarms",
+          "summary": "AP reported that wildfires continued to burn in Portugal, Greece, and Spain, while France's health agency said deaths surged 29% during the worst heat week. The key morning takeaway is that the story is no longer just temperature records; it is the downstream mortality, toxic air, and firefighting burden now spreading across multiple countries at once.",
+          "why_it_matters": "Heat becomes a strategic public-risk story once it starts reshaping health systems, transport, tourism, and cross-border emergency capacity.",
+          "countries": ["Spain", "Portugal", "Greece", "France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f2ad8db8f37063ba0f06adb25fbd7a78"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/86e0a05e49a6ca7317e86b16b4296453"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "political-and-security-shifts",
+      "title": "Political & Security Shifts",
+      "description": "Several major political systems are sending the same message in different ways: internal legal or administrative transitions are unfolding under heavy strategic pressure.",
+      "kicker": "Power Realignment",
+      "stories": [
+        {
+          "label": "China's Signal",
+          "headline": "China's submarine-launched ballistic missile test is being read as a deliberate message that its nuclear deterrent is becoming more visible and more ambitious",
+          "summary": "AP's analysis said Beijing's rare missile launch into the South Pacific was meant to demonstrate the sea-based leg of its nuclear triad and signal strategic maturity to the United States. The backlash from Pacific governments also showed that the test landed in a region where memory of nuclear trauma and anxiety about Chinese military opacity are both still strong.",
+          "why_it_matters": "Visible nuclear signaling changes regional behavior because it forces neighbors to treat capability growth as an active political message, not just a long-term trend.",
+          "countries": ["China", "United States", "Australia", "New Zealand", "Japan", "Fiji"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/434cc050331f9278f1c4eb6011bd6111"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/36963889390c8a08079165d8a63e4960"
+            }
+          ]
+        },
+        {
+          "label": "South Korea",
+          "headline": "South Korea's Supreme Court has upheld Yoon Suk Yeol's prison sentence, hardening the legal legacy of the martial-law crisis",
+          "summary": "AP reported that the court upheld a seven-year sentence for former president Yoon in the first martial-law-related case to reach the country's highest court. The ruling does not end his other cases, but it locks in the principle that his December 2024 emergency power grab was not just politically disastrous, but criminally punishable at the highest judicial level.",
+          "why_it_matters": "A top-court ruling turns a contested political episode into a more durable legal precedent for future presidential power limits.",
+          "countries": ["South Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4ffb1755625b7578a92d17a648ed783e"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Governance",
+          "headline": "Hamas says it will dissolve its government in Gaza, but the transition plan still leaves core questions about force and control unresolved",
+          "summary": "AP reported that Hamas announced it would transfer governance to a U.N.-backed technocratic committee as part of the ceasefire framework, without clearly committing to disarm or hand over security control. That makes the move more than symbolic, but still far short of a settled political end state for Gaza.",
+          "why_it_matters": "Administrative change alone will not stabilize Gaza if the question of who controls armed power remains unanswered.",
+          "countries": ["Gaza", "Israel", "Egypt"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/146f9a609580d4c8c42ab35fbe60d5b3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is most useful this morning as a public-attention gauge for how readers are processing escalation, climate shock, and economic warfare rather than as a primary reporting source.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Escalation Fatigue",
+          "headline": "A fast-moving Gulf thread showed readers treating the new Iran retaliation less as a surprise than as proof that the ceasefire was never durable",
+          "summary": "The active r/worldnews post on Tehran's retaliation in Kuwait and Bahrain drew readers into a familiar pattern of escalation fatigue, with many comments framing the latest exchange as an expected resumption rather than a new shock. That reaction is useful because it shows how little calming power public audiences now assign to ceasefire headlines in this conflict.",
+          "why_it_matters": "When audiences assume renewed strikes are inevitable, official claims of de-escalation lose more of their credibility.",
+          "countries": ["Iran", "United States", "Bahrain", "Kuwait"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1urf67u/tehran_retaliates_in_kuwait_and_bahrain_after/"
+            }
+          ]
+        },
+        {
+          "label": "Climate Alarm",
+          "headline": "The Spain wildfire thread was a reminder that heat disaster stories now trigger immediate discussion about habitability, travel risk, and state preparedness",
+          "summary": "In the r/worldnews discussion on the deadly Spain wildfire, the conversation quickly expanded from one fire into a wider argument about whether southern Europe is entering a more structurally dangerous summer pattern. That is a meaningful audience signal because readers were reacting to the cumulative climate context as much as to the immediate death toll.",
+          "why_it_matters": "Public response matters when recurring disaster coverage starts shifting how people judge the viability of whole regions, not just isolated incidents.",
+          "countries": ["Spain", "Europe"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1usbdn9/twelve_die_in_wildfire_in_spain_as_heatwave/"
+            }
+          ]
+        },
+        {
+          "label": "Economic Warfare",
+          "headline": "A prominent Ukraine oil-terminal thread showed readers focusing less on territory and more on whether fuel disruption can bend Russia faster than front-line movement can",
+          "summary": "The r/worldnews post on a Ukrainian strike against a major Russian oil terminal produced detailed discussion about refinery capacity, sanctions by damage, and the strategic logic of targeting the war's energy backbone. That makes it a useful signal that online attention is increasingly tracking industrial attrition and domestic pressure inside Russia, not only map changes at the front.",
+          "why_it_matters": "Audience focus on fuel infrastructure suggests the war's economic dimension is becoming easier for non-specialists to follow and harder for Moscow to dismiss.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1unibip/ukraine_hits_major_oil_terminal_in_russias_st/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
