@@ -1,0 +1,308 @@
+{
+  "date": "2026-07-12",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Sunday, July 12, 2026 opens with the U.S.-Iran fight around Hormuz widening again, Ukraine pushing harder on Russian fuel logistics, and climate and infrastructure shocks compounding from Spain to China to Cuba.",
+  "generated_at": "2026-07-12T09:06:05+03:00",
+  "summary": {
+    "spotlight": "The strongest morning signal is that hard-security and system-stress stories are reinforcing each other. The Strait of Hormuz is back at the center of global risk, Ukraine is still trying to turn refinery and tanker damage into strategic leverage, and climate and power disruptions are hitting populations already stretched by heat, fuel stress, and weak infrastructure.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that most clearly move global security, shipping, energy, and public-safety risk today. Romania is not a dedicated section this morning because no fresh Romania-specific development outranks the global lead stories, while Reddit is included only where it adds useful public-attention signal."
+  },
+  "featured_story": {
+    "category": "hormuz-and-middle-east",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S. has hit Iran again after a civilian vessel was attacked in the Strait of Hormuz, putting the world's most important oil chokepoint back into full crisis mode",
+    "summary": "AP reported that U.S. forces struck about 140 targets in Iran early Sunday after an attack on a civilian ship in the Strait of Hormuz, while Tehran lashed out at Gulf Arab states including Bahrain, Qatar, and the UAE. The immediate issue is no longer just the survival of a ceasefire framework, but whether commercial shipping can function without another military or energy shock.",
+    "why_it_matters": "When Washington and Tehran are fighting over control and security in Hormuz again, the risk to oil flows, freight insurance, and wider regional escalation rises immediately.",
+    "countries": ["Iran", "United States", "Bahrain", "Qatar", "United Arab Emirates", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-usa-united-arab-emirates-attack-0764d17c09370a8c5cf1e8197a8878ab"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "hormuz-and-middle-east",
+      "title": "Hormuz & Middle East",
+      "description": "Shipping insecurity, retaliation risk, and unresolved political control are driving the region's most consequential developments this morning.",
+      "kicker": "Global Chokepoint",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Airstrikes",
+          "headline": "Washington says the latest strikes on Iran were a response to an attack on a civilian vessel in the Strait of Hormuz",
+          "summary": "AP reported that U.S. Central Command struck roughly 140 Iranian targets, a larger round than the previous waves, after the hit on a commercial ship. Tehran then expanded the confrontation by lashing out at Gulf Arab states, showing how easily a maritime incident is now spilling into a wider regional conflict.",
+          "why_it_matters": "Once retaliation spreads beyond ships and into aligned states, the crisis becomes harder to contain diplomatically and more dangerous economically.",
+          "countries": ["Iran", "United States", "Bahrain", "Qatar", "United Arab Emirates"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-usa-united-arab-emirates-attack-0764d17c09370a8c5cf1e8197a8878ab"
+            }
+          ]
+        },
+        {
+          "label": "Shipping Shock",
+          "headline": "Traffic through the Strait of Hormuz has plunged again as U.S.-Iran fighting resumes",
+          "summary": "Al Jazeera reported that shipping in the strait has fallen sharply amid renewed U.S.-Iran hostilities, adding fresh strain to energy markets even with oil prices not yet spiraling. The dispute over who controls access to the waterway remains the core unresolved issue behind the latest escalation.",
+          "why_it_matters": "Even if prices stay temporarily contained, prolonged shipping disruption in Hormuz can quickly cascade into fuel, freight, and inflation stress worldwide.",
+          "countries": ["Iran", "United States", "Qatar", "Saudi Arabia", "Oman"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon Risk",
+          "headline": "A push to disarm Hezbollah is deepening Lebanese divisions and reviving fears of civil war",
+          "summary": "AP reported that a U.S.-brokered Lebanon-Israel arrangement ties Israeli withdrawal to Hezbollah's disarmament, a condition that has enraged Hezbollah and its allies. The agreement is being sold as a sovereignty step by Beirut, but in practice it is exposing how fragile Lebanon's internal balance still is.",
+          "why_it_matters": "A deal meant to stabilize a border can instead destabilize a state if it forces the core question of who is allowed to hold force without political consensus.",
+          "countries": ["Lebanon", "Israel", "Iran", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/lebanon-israel-hezbollah-iran-3b8f85b214c3a603224a888e8882dad6"
+            }
+          ]
+        },
+        {
+          "label": "West Bank Tension",
+          "headline": "U.S. Representative Ro Khanna says settlers and Israeli soldiers detained his group in the occupied West Bank",
+          "summary": "AP reported that Khanna said he was held by armed settlers and then by Israeli soldiers before being released after calls to the U.S. Embassy in Jerusalem. The incident lands as criticism of Israeli policy is rising among U.S. Democrats and as settler violence in the West Bank keeps drawing more international scrutiny.",
+          "why_it_matters": "When an incident in the West Bank directly involves a U.S. lawmaker, it raises the political cost of treating settler violence as a peripheral issue.",
+          "countries": ["Israel", "Palestine", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/khanna-israel-military-west-bank-settlers-detained-59c6233f5b8935a62fd87b90696e6821"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-hard-security",
+      "title": "Ukraine & Hard Security",
+      "description": "The war in Ukraine is increasingly centered on fuel systems and industrial timelines while maritime and alliance tensions remain high elsewhere.",
+      "kicker": "Attrition Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Fuel Warfare",
+          "headline": "Ukrainian drones are still battering Russian oil facilities and tankers, keeping pressure on the fuel system behind Moscow's war effort",
+          "summary": "AP reported that Ukrainian strikes set more tankers ablaze and hit additional oil facilities, reinforcing Kyiv's effort to turn refinery and shipping losses into a strategic pressure campaign. The pattern suggests Ukraine is trying to raise Russia's military and domestic costs through logistics attrition as much as through battlefield gains.",
+          "why_it_matters": "If Ukraine can keep degrading fuel throughput, it can impose costs on Russia that are easier to sustain politically than a constant search for dramatic front-line breakthroughs.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-oil-trump-zelenskyy-putin-6cb5602f1cf309533ed0cf5c734e19d8"
+            }
+          ]
+        },
+        {
+          "label": "Patriot Timeline",
+          "headline": "A U.S. license for Ukraine to produce Patriot systems would be important, but it still looks like a slow solution to a fast problem",
+          "summary": "AP reported that the Patriot production license discussed at the NATO summit would likely take many months to turn into real output because the bottlenecks are technical documentation, training, suppliers, and setup time. It is a strong political signal, but not a near-term fix for Ukraine's air-defense shortage.",
+          "why_it_matters": "Long-term defense capacity helps only if Ukraine can survive the current pace of Russian drone and missile attacks first.",
+          "countries": ["Ukraine", "United States", "Germany"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-oil-trump-zelenskyy-putin-6cb5602f1cf309533ed0cf5c734e19d8"
+            }
+          ]
+        },
+        {
+          "label": "South China Sea",
+          "headline": "The U.S., UK and 12 other countries have restated that China's South China Sea claims were invalidated by the 2016 ruling",
+          "summary": "AP reported that the countries reaffirmed the arbitration ruling and stressed that freedom of navigation under international law must be upheld. Beijing continues to reject the decision even as the sea remains one of the world's most sensitive trade and military flashpoints.",
+          "why_it_matters": "A multistate legal restatement matters because it keeps the China dispute framed as an international rules issue rather than a bilateral quarrel Manila must manage alone.",
+          "countries": ["China", "Philippines", "United States", "United Kingdom", "Vietnam", "Malaysia", "Brunei", "Taiwan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/philippines-south-china-sea-disputes-arbitration-6ca48fecb19b61901b05a3f86f70be54"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disruptions",
+      "title": "Climate & Disruptions",
+      "description": "Fire, storm, accident, and grid failures are hitting multiple regions at once, often on top of existing heat or infrastructure stress.",
+      "kicker": "Compounding Damage",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Spain Wildfire",
+          "headline": "A deadly wildfire in southern Spain has killed at least 12 people and forced a major firefighting response",
+          "summary": "AP reported that hundreds of firefighters and helicopters were battling the blaze in a heat-stricken part of southern Spain after it tore through a remote community. The severity of the fire shows how quickly heat, wind, and dry terrain are turning local ignition risk into mass-casualty events.",
+          "why_it_matters": "Europe's wildfire threat is no longer background seasonal risk when whole communities can be overrun this quickly under heatwave conditions.",
+          "countries": ["Spain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-spain-wildfires-heatwave-1bc964a58201bbba8a2fcb309e3ec6e6"
+            }
+          ]
+        },
+        {
+          "label": "Typhoon Bavi",
+          "headline": "Typhoon Bavi is still forcing large evacuations and transport disruption in eastern China even as it weakens",
+          "summary": "AP reported that Shanghai evacuated more than 290,000 people, Zhejiang moved about 2.2 million residents, and hundreds of flights were expected to be canceled as Bavi crossed eastern China. The scale of preparation shows how much strain a single storm can still place on dense population and transport systems even after peak intensity fades.",
+          "why_it_matters": "Weakening storms can still do major damage when they are moving through highly populated coastal corridors and large logistics hubs.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/typhoon-bavi-taiwan-china-japan-27518e742d51de72fdd13f1a33c858af"
+            }
+          ]
+        },
+        {
+          "label": "Vietnam Accident",
+          "headline": "A tourist speedboat capsized off southern Vietnam, killing 15 Indian visitors shortly after leaving an island",
+          "summary": "AP reported that the boat overturned less than half a kilometer from shore near Phu Quoc with 32 Indian tourists and four crew on board. Witnesses said nearby boats rushed to help, but the accident still produced a heavy toll almost immediately.",
+          "why_it_matters": "Mass-fatality transport accidents remain a major regional risk even in areas built around high-volume tourism and short-distance marine travel.",
+          "countries": ["Vietnam", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/vietnam-indian-tourists-boat-966811c42ef3038ba4084391e2d83d37"
+            }
+          ]
+        },
+        {
+          "label": "Cuba Grid",
+          "headline": "Cuba has suffered its second islandwide blackout in one week as the grid keeps buckling under fuel and infrastructure stress",
+          "summary": "AP reported that the latest collapse hit a country of nearly 10 million people as it grapples with a crumbling power grid and fuel shortages. Repeated nationwide outages are turning Cuba's energy problem from chronic hardship into a sharper governance and humanitarian crisis.",
+          "why_it_matters": "When blackouts become nationwide and recurrent, they stop being a utility issue and become a test of state resilience and public stability.",
+          "countries": ["Cuba"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cuba-blackout-power-outage-1a812d96a36c301cba6214767a87630f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy-tech-and-aid",
+      "title": "Economy, Tech & Aid",
+      "description": "China demand weakness, tech regulation, labor safety, and aid retrenchment are all showing how economic stress is landing unevenly across sectors and populations.",
+      "kicker": "Structural Strain",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "China Demand",
+          "headline": "German carmakers are taking steep sales hits in China as domestic competition and weak demand intensify",
+          "summary": "AP reported that Volkswagen, Mercedes-Benz, BMW, and Porsche all saw April-June China sales drop by roughly 30% to 41% from a year earlier, with first-half declines above 20% across the group. The pullback is significant because China had been a core profit engine for Europe's automakers and now looks like a deeper vulnerability.",
+          "why_it_matters": "A sustained China slowdown for major industrial exporters can spill into European profits, employment decisions, and investment plans well beyond the auto sector.",
+          "countries": ["China", "Germany"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cars-china-economy-europe-sales-d156bfb9548c6d1c7e08ccb906963959"
+            }
+          ]
+        },
+        {
+          "label": "Platform Rules",
+          "headline": "EU regulators want Meta to dismantle addictive Facebook and Instagram features such as infinite scrolling",
+          "summary": "AP reported that the European Union accused Meta of breaching its digital rules by designing Facebook and Instagram to keep users hooked, especially younger users. The action shows that European regulators are still trying to turn social-media harm arguments into enforceable platform design limits.",
+          "why_it_matters": "If the EU can force design changes rather than just levy fines, it could materially reshape how major platforms optimize for attention.",
+          "countries": ["European Union", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/facebook-instagram-eu-regulators-teens-addictive-b2f0ffd5ffc90721cacef7937e5909d2"
+            }
+          ]
+        },
+        {
+          "label": "Aid Retrenchment",
+          "headline": "UN Women says at least 1 million women and girls have lost access to support because of funding cuts",
+          "summary": "AP reported from Geneva that women-focused organizations in 52 countries are being forced to turn people away as humanitarian support contracts. The U.N. agency said this is only the visible edge of a wider rollback in protection, health, and crisis-response capacity.",
+          "why_it_matters": "Aid cuts become geopolitically important when they hollow out local institutions that absorb conflict, displacement, and gender-based violence.",
+          "countries": ["United Nations", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/un-women-support-budget-cuts-6125b7f05614ef455967704edfbeb711"
+            }
+          ]
+        },
+        {
+          "label": "Worker Safety",
+          "headline": "A factory fire that killed 28 in China is renewing scrutiny of persistent workplace safety failures",
+          "summary": "AP reported that the deadly shoe-factory fire in Fujian has become the latest reminder that worker safety problems remain entrenched despite years of regulatory attention. The story cuts through because it ties industrial competitiveness directly to enforcement gaps that still cost lives.",
+          "why_it_matters": "Repeated factory disasters undermine confidence that growth and export pressure are being balanced with basic labor protection.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-fire-shoe-factory-safety-f6999ee3e299294f62e36668b0414302"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is most useful this morning as a live signal for where public attention is clustering around shipping disruption, Ukraine's economic warfare, and weather shocks.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Kerch Attention",
+          "headline": "A fast-rising r/worldnews thread is focusing on Russia halting Don-Azov shipping and closing the Kerch Strait after Ukrainian tanker strikes",
+          "summary": "The thread is drawing attention not just because of battlefield drama, but because readers are instinctively connecting tanker attacks to broader Russian logistics vulnerability. The discussion treats shipping interruptions as a meaningful war metric rather than as a side detail.",
+          "why_it_matters": "Public attention is following the same industrial-pressure story that policymakers increasingly have to track in the war.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uttdbw/russia_halts_donazov_channel_shipping_closes/"
+            }
+          ]
+        },
+        {
+          "label": "Typhoon Thread",
+          "headline": "Another active r/worldnews post is tracking Typhoon Bavi landfall and the scale of sheltering in China",
+          "summary": "The early discussion is centered on the sheer size of the storm and how many people need to move or shelter because of it. That response is a useful reminder that large weather events now break into global conversation quickly when they hit dense urban and industrial regions.",
+          "why_it_matters": "Audience reaction shows how weather disasters in major economic corridors are increasingly understood as global supply and safety stories.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uu4pg2/typhoon_makes_landfall_in_china_as_millions_of/"
+            }
+          ]
+        },
+        {
+          "label": "Hormuz Fatigue",
+          "headline": "A current r/worldnews thread on another reported Hormuz closure is showing a mix of alarm and public exhaustion with repeated open-close brinkmanship",
+          "summary": "Commenters are reacting less with surprise than with frustration that the strait keeps swinging between nominal reopening and renewed closure or restriction. That is a meaningful signal that the public now reads the Gulf crisis as chronic instability with real economic stakes rather than as a short-lived headline spike.",
+          "why_it_matters": "Once audiences start assuming repeat disruption, political leaders and markets lose the benefit of treating each new closure threat as a one-off event.",
+          "countries": ["Iran", "United States", "Oman"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1utyqo4/strait_of_hormuz_closed_until_further_notice/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
