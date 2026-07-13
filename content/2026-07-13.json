@@ -1,0 +1,321 @@
+{
+  "date": "2026-07-13",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Monday, July 13, 2026 opens with the U.S.-Iran fight around Hormuz broadening again, Ukraine mixing political reshuffle with continued pressure on Russian logistics, and Asia facing both security friction and deadly public-safety shocks.",
+  "generated_at": "2026-07-13T09:25:00+03:00",
+  "summary": {
+    "spotlight": "The clearest morning signal is that coercion over transport, energy, and civilian vulnerability is spreading across multiple regions at once. Hormuz remains the most important immediate global-risk story, but the day also brings a meaningful Indo-Pacific legal front against China, a new Ukrainian government reshuffle under wartime strain, and several lethal disaster and infrastructure events across Asia and Europe.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories most likely to move security, shipping, energy, governance, and public-safety risk today. Romania is not a dedicated section this morning because no fresh Romania-specific development outranks the global lead stories, while Reddit is included only where it adds clear public-attention signal."
+  },
+  "featured_story": {
+    "category": "hormuz-and-middle-east",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S. has launched another major wave of strikes on Iran after attacks linked to the Hormuz crisis, keeping the world's most important oil chokepoint in open confrontation",
+    "summary": "AP reported that U.S. Central Command struck about 140 targets in Iran in a new round of attacks after Tehran lashed out at Gulf states and the standoff over the Strait of Hormuz deepened again. The immediate question is no longer whether the crisis is episodic, but whether commercial shipping, regional deterrence, and oil flows can function under repeated military escalation.",
+    "why_it_matters": "When Washington and Tehran are fighting over security and control around Hormuz again, the risk to oil flows, freight costs, and wider regional escalation rises immediately.",
+    "countries": ["Iran", "United States", "Qatar", "United Arab Emirates", "Bahrain", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-usa-united-arab-emirates-attack-0764d17c09370a8c5cf1e8197a8878ab"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "hormuz-and-middle-east",
+      "title": "Hormuz & Middle East",
+      "description": "Shipping insecurity, state retaliation, and unresolved political authority are still driving the region's most consequential developments this morning.",
+      "kicker": "Global Chokepoint",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Airstrikes",
+          "headline": "Washington says the latest strikes on Iran were meant to answer attacks tied to the Strait of Hormuz crisis",
+          "summary": "AP reported that U.S. Central Command hit roughly 140 targets in Iran, a larger round than the previous waves, after the maritime and Gulf-state confrontation widened again. The pattern shows how quickly the standoff is moving from episodic exchange into a rolling campaign with direct implications for commercial navigation.",
+          "why_it_matters": "Once retaliation keeps scaling up around a critical shipping lane, the crisis becomes harder to contain diplomatically and more dangerous economically.",
+          "countries": ["Iran", "United States", "Qatar", "United Arab Emirates", "Bahrain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-usa-united-arab-emirates-attack-0764d17c09370a8c5cf1e8197a8878ab"
+            }
+          ]
+        },
+        {
+          "label": "Shipping",
+          "headline": "Shipping through the Strait of Hormuz has ground down again as U.S.-Iran fighting resumes",
+          "summary": "Al Jazeera reported that commercial traffic through the strait has fallen sharply as the renewed fighting revives uncertainty over who can safely move cargo through the waterway. Even without a full closure, the effect is to keep insurers, traders, and ship operators pricing in persistent disruption.",
+          "why_it_matters": "Prolonged friction in Hormuz can quickly cascade into fuel, freight, and inflation stress well beyond the Gulf.",
+          "countries": ["Iran", "United States", "Oman", "Qatar", "Saudi Arabia"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting"
+            }
+          ]
+        },
+        {
+          "label": "Qatar",
+          "headline": "Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at 74",
+          "summary": "AP reported that Sheikh Hamad, the former emir who transformed Qatar into a major regional and diplomatic actor, died on Sunday at age 74. His death lands at a moment when Gulf states are already under pressure from the Hormuz escalation and watching closely for any shift in regional coordination.",
+          "why_it_matters": "Leadership transitions or symbolic losses in the Gulf matter more when the region is simultaneously dealing with live military and energy risk.",
+          "countries": ["Qatar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/qatar-sheikh-hamad-khalifa-al-thani-dies-43c1d0e86698967d4809f0dbfc2b39c1"
+            }
+          ]
+        },
+        {
+          "label": "Gaza",
+          "headline": "Israeli fire in Gaza has killed more civilians again, including a young girl, as the war keeps grinding on",
+          "summary": "AP reported that Israeli fire killed six people in Gaza, including a little girl, according to local health officials. The deaths reinforce how the Gaza war remains a live humanitarian and political pressure point even while attention is pulled toward Hormuz and broader regional escalation.",
+          "why_it_matters": "Gaza continues to shape regional legitimacy, alliance politics, and the overall volatility of the Middle East crisis.",
+          "countries": ["Israel", "Palestine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/gaza-israel-palestinians-hamas-ceasefire-18dda139302048a5d7f2f69acaf597b0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-strategic-competition",
+      "title": "Ukraine & Strategic Competition",
+      "description": "The Ukraine war, Indo-Pacific legal pressure, and African conflict spillovers are all pointing to a wider contest over endurance, logistics, and international rules.",
+      "kicker": "Strategic Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv Reshuffle",
+          "headline": "Ukraine's prime minister has stepped down as Zelenskyy launches another wartime government reshuffle",
+          "summary": "AP reported that Prime Minister Yulia Svyrydenko stepped down as President Volodymyr Zelenskyy announced fresh changes aimed at giving his administration new momentum under martial law. The move suggests Kyiv is still trying to tighten political management even as battlefield and fiscal pressures remain intense.",
+          "why_it_matters": "Wartime reshuffles matter because political coherence is part of Ukraine's capacity to sustain foreign backing and domestic resilience.",
+          "countries": ["Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-strike-f0bab8086a84705db07c74b3b1b99c49"
+            }
+          ]
+        },
+        {
+          "label": "Fuel Warfare",
+          "headline": "Ukraine is still pairing political change with long-range strikes on Russian fuel and shipping infrastructure",
+          "summary": "AP's Ukraine coverage said the same reshuffle came as Ukrainian strikes continued to target a refinery and tanker tied to Russia's war logistics. The pattern reinforces Kyiv's attempt to turn industrial disruption and energy losses into strategic leverage against Moscow.",
+          "why_it_matters": "If Ukraine can keep raising Russia's fuel and transport costs, it can impose pressure that does not depend on immediate front-line breakthroughs.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-strike-f0bab8086a84705db07c74b3b1b99c49"
+            }
+          ]
+        },
+        {
+          "label": "South China Sea",
+          "headline": "Fourteen countries and the EU have reaffirmed the 2016 ruling rejecting China's South China Sea claims",
+          "summary": "AP reported that the United States, the United Kingdom, a dozen other countries, and separately the European Union, restated that China's expansive claims in the South China Sea have no legal basis under the 2016 arbitration ruling. The statement is a reminder that maritime competition in Asia is still being fought through legal framing as well as coercive presence at sea.",
+          "why_it_matters": "A coordinated legal restatement matters because it keeps the dispute framed as an international-rules issue rather than a bilateral problem for the Philippines alone.",
+          "countries": ["China", "Philippines", "United States", "United Kingdom", "European Union", "Vietnam", "Malaysia", "Brunei", "Taiwan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/philippines-south-china-sea-disputes-arbitration-6ca48fecb19b61901b05a3f86f70be54"
+            }
+          ]
+        },
+        {
+          "label": "Sahel Conflict",
+          "headline": "Mali's junta says it broke a rebel blockade around a strategic northern base after heavy fighting",
+          "summary": "AP reported that Mali's military said it had broken the blockade around the base at Anefis as separatists and al-Qaida-linked militants pressed a renewed offensive. The episode shows how unstable the Sahel remains even after repeated promises that military rule and outside security partnerships would restore control.",
+          "why_it_matters": "The Sahel matters well beyond Mali because repeated state weakness there keeps feeding regional insecurity, migration pressure, and foreign power competition.",
+          "countries": ["Mali", "Russia", "Niger", "Burkina Faso"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/mali-army-anefis-russia-africa-corps-6eb947f7385171ae1abc637e0f1aa729"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-public-safety",
+      "title": "Climate & Public Safety",
+      "description": "Weather shocks, fire, and transport failures are piling up across Asia and Europe in ways that keep turning local emergencies into broader resilience stories.",
+      "kicker": "System Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Bangkok Fire",
+          "headline": "A huge fire at a Bangkok pub has killed at least 27 people",
+          "summary": "AP reported that a fire engulfed a pub in Bangkok early Monday, killing at least 27 people as investigators looked into the cause. It is the kind of high-casualty urban safety disaster that immediately raises questions about emergency access, crowd management, and enforcement standards.",
+          "why_it_matters": "Mass-casualty urban fires quickly become governance stories because they expose how well cities actually enforce basic safety under commercial pressure.",
+          "countries": ["Thailand"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/thailand-bangkok-fire-pub-0869e3d356d4be11c5633f9ceb3dc329"
+            }
+          ]
+        },
+        {
+          "label": "Typhoon Bavi",
+          "headline": "Typhoon Bavi has weakened but is still forcing massive evacuations and transport disruption in eastern China",
+          "summary": "AP reported that more than 2.2 million people were evacuated in Zhejiang, while Shanghai and Fujian also moved large numbers of residents as Bavi pushed heavy rain and strong winds inland. The scale of the response shows how even a weakening storm can still put dense urban and logistics systems under major strain.",
+          "why_it_matters": "Large storms remain globally important when they hit population centers and manufacturing corridors that sit inside critical supply chains.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/typhoon-bavi-taiwan-china-japan-27518e742d51de72fdd13f1a33c858af"
+            }
+          ]
+        },
+        {
+          "label": "Vietnam Accident",
+          "headline": "Vietnam has detained a speedboat captain after a capsizing killed 15 Indian tourists near Phu Quoc",
+          "summary": "AP reported that police detained the captain after the boat carrying Indian tourists capsized near Phu Quoc, leaving 15 dead. The accident shows how quickly leisure travel infrastructure can turn into a mass-fatality story when marine safety standards fail close to shore.",
+          "why_it_matters": "Tourism-heavy regions remain vulnerable when high traffic and thin enforcement turn routine transport into a sudden disaster.",
+          "countries": ["Vietnam", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/vietnam-tourist-boat-capsizes-indian-eebc56ca6b1434bd513daa395e4b03ab"
+            }
+          ]
+        },
+        {
+          "label": "Spain Wildfire",
+          "headline": "A deadly wildfire in southern Spain has underscored how lethal Europe's fire season is becoming",
+          "summary": "AP reported that a wildfire devastated an expatriate community in southern Spain, killing at least 12 people and leaving others missing after spreading in extreme heat and dry conditions. The fire is part of a wider pattern in which Europe's hottest conditions are turning local blazes into fast-moving mass-casualty events.",
+          "why_it_matters": "Europe's wildfire threat is no longer background seasonal risk when whole communities can be overrun under heatwave conditions.",
+          "countries": ["Spain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/760ecfff1316d56837888de4ab9efa21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy-tech-and-governance",
+      "title": "Economy, Tech & Governance",
+      "description": "Markets, AI infrastructure, platform accountability, and democratic erosion are all showing how economic and institutional stress is being redistributed rather than resolved.",
+      "kicker": "Structural Strain",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil Markets",
+          "headline": "Oil prices and Asian equities have jolted again as the U.S.-Iran exchange widens",
+          "summary": "AP reported that oil prices jumped and Asian shares slipped as investors reacted to fresh U.S. and Iranian strikes. The market move is a straightforward signal that traders still see Gulf escalation as a real threat to supply, shipping costs, and inflation risk.",
+          "why_it_matters": "Energy markets are one of the fastest channels through which military escalation in the Gulf becomes a global economic problem.",
+          "countries": ["Iran", "United States", "South Korea", "Japan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stocks-markets-iran-trump-ai-2d6744b09c68b5473d0bc8584b89e60e"
+            }
+          ]
+        },
+        {
+          "label": "AI Power Demand",
+          "headline": "The AI buildout is driving such intense power demand that gas and coal are getting a second life",
+          "summary": "AP reported that the race to build data centers is moving faster than renewable deployment can keep up, helping trigger a major boom in natural gas generation and extensions for older coal plants. The result is a growing collision between AI infrastructure ambitions and climate targets.",
+          "why_it_matters": "AI's economic upside is now directly colliding with energy policy, emissions goals, and the politics of who pays for grid expansion.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/data-centers-ai-artificial-intelligence-renewable-energy-7995717f506914fc181a07d32d1867a5"
+            }
+          ]
+        },
+        {
+          "label": "Platform Liability",
+          "headline": "Meta is appealing a landmark verdict that found its platforms harmed a young user through social media addiction",
+          "summary": "AP reported that Meta appealed the Los Angeles verdict holding Instagram and Facebook responsible for designing products that hooked a young user without sufficient regard for her well-being. The appeal ensures that one of the most consequential tests of platform-design liability is moving into a longer legal phase rather than ending with a one-off jury decision.",
+          "why_it_matters": "If courts begin sustaining product-design liability in social media cases, platform incentives and moderation arguments could shift materially.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/meta-verdict-appeal-social-media-addiction-f2fc62210b02f1945bfd416f5554dd5c"
+            }
+          ]
+        },
+        {
+          "label": "Authoritarian Drift",
+          "headline": "Nicaragua has stripped large numbers of lawyers of their licenses in the latest move against dissent",
+          "summary": "AP reported that lawyers in Nicaragua found their licenses quietly removed from the court registry in what a U.N. expert described as a purge of the legal profession. The move extends a long-running campaign in which the Ortega-Murillo government has shut civic space, exiled critics, and hollowed out remaining checks on power.",
+          "why_it_matters": "When a government starts disabling the legal profession itself, it signals that institutional self-correction is being deliberately stripped away.",
+          "countries": ["Nicaragua"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nicaragua-lawyers-crackdown-ortega-murillo-9ec6d0b6096eb96edf4a686fd5b80880"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is most useful this morning as a live signal for where public attention is clustering around shipping risk, Ukrainian political change, and a sudden mass-casualty event in Bangkok.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Hormuz Alarm",
+          "headline": "A fast-rising r/worldnews thread is centering on Iran's reported attacks on Gulf states and the renewed Hormuz closure threat",
+          "summary": "The discussion is focused less on surprise than on how normalized repeat brinkmanship around Hormuz now feels to readers. That reaction is useful because it shows the public increasingly treating Gulf shipping disruption as a recurring structural risk rather than a one-off spike.",
+          "why_it_matters": "When audiences start assuming repeated chokepoint disruption, leaders and markets lose the ability to frame each incident as temporary noise.",
+          "countries": ["Iran", "United States", "Qatar", "United Arab Emirates", "Bahrain", "Oman"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uucedk/iran_attacks_five_gulf_nations_shuts_hormuz_after/"
+            }
+          ]
+        },
+        {
+          "label": "Kyiv Watch",
+          "headline": "Another active r/worldnews post is tracking what Zelenskyy's government reshuffle means for Ukraine's war management",
+          "summary": "Commenters are treating the resignation less as palace drama than as a question about whether Kyiv is tightening decision-making for a harder phase of the war. That is a useful signal because the public is reading bureaucratic moves through the lens of military endurance and Western support.",
+          "why_it_matters": "Audience attention is following the same question policymakers face: whether Ukraine's internal political reset strengthens or distracts from wartime capacity.",
+          "countries": ["Ukraine"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uuk2q2/ukrainian_prime_minister_to_step_down_as/"
+            }
+          ]
+        },
+        {
+          "label": "Bangkok Shock",
+          "headline": "A rapidly shared r/worldnews thread on the Bangkok pub fire is drawing the familiar global reaction to nightclub and venue disasters",
+          "summary": "The early conversation is centered on how often fatal venue fires trace back to preventable safety failures rather than freak accidents. That makes the thread a useful public-signal supplement to the reporting because it shows how quickly people connect such events to governance and enforcement gaps.",
+          "why_it_matters": "Public reaction reinforces that mass-casualty safety failures are interpreted globally as accountability stories, not only local tragedies.",
+          "countries": ["Thailand"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uuoqjm/fire_breaks_out_at_a_pub_in_bangkok_killing_at/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
