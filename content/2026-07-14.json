@@ -1,0 +1,321 @@
+{
+  "date": "2026-07-14",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Tuesday, July 14, 2026 opens with the U.S.-Iran fight around the Strait of Hormuz widening again, Europe hardening its missile-defense posture around Ukraine, and climate and safety shocks stretching public systems from Paris to Bangkok.",
+  "generated_at": "2026-07-14T09:05:00+03:00",
+  "summary": {
+    "spotlight": "The main morning signal is that military coercion, transport vulnerability, and public-safety stress are all converging again. Hormuz is the clearest immediate global-risk story, but the day also matters for Europe's security architecture, Asia's mass-casualty and storm response, and a widening policy fight over social media, AI power demand, and scientific capability.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories most likely to shape energy risk, alliance behavior, logistics, public safety, and policy response today. Romania is not a dedicated section this morning because no same-day Romania development clearly outranks the global lead stories, while Reddit is included only where it adds visible audience-signal value."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S. has struck Iran again after declaring it is reinstating a blockade on Iran in the Strait of Hormuz, and Tehran has answered with attacks on Bahrain, Jordan, and UAE-linked tankers",
+    "summary": "AP reported on July 14 that Washington hit Iranian coastal defense, missile, drone, and maritime sites hours after President Donald Trump said the United States was reinstating a blockade on Iran and would seek reimbursement from commercial traffic for security. Iran responded with attacks on Bahrain and Jordan and with missile strikes on two UAE-linked tankers in the strait, killing one mariner and wounding eight others.",
+    "why_it_matters": "When the world’s most important oil chokepoint moves deeper into open U.S.-Iran confrontation, the effects can reach energy prices, shipping costs, alliance politics, and wider regional escalation almost immediately.",
+    "countries": ["Iran", "United States", "United Arab Emirates", "Bahrain", "Jordan", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The region's core risk this morning is the spread of maritime conflict into a broader contest over deterrence, access, and political alignment.",
+      "kicker": "Global Chokepoint",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz",
+          "headline": "Washington and Tehran are escalating again around Hormuz after new U.S. strikes and Iranian attacks on Gulf-linked shipping",
+          "summary": "AP reported on July 14 that the U.S. struck Iranian coastal and maritime targets after Trump announced a renewed blockade posture, while Iran retaliated against Bahrain, Jordan, and two UAE-linked tankers. The confrontation is now centered on who can actually control transit and security in a waterway that once carried roughly a fifth of globally traded crude oil and natural gas in peacetime.",
+          "why_it_matters": "The more the conflict shifts from symbolic retaliation to control of shipping access, the more likely it is to generate sustained economic and diplomatic fallout.",
+          "countries": ["Iran", "United States", "United Arab Emirates", "Bahrain", "Jordan", "Oman"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be"
+            }
+          ]
+        },
+        {
+          "label": "Yemen",
+          "headline": "The Houthis have struck Saudi Arabia's Abha airport with missiles and drones as the wider regional confrontation keeps widening",
+          "summary": "AP reported that Yemen's Houthi rebels targeted Saudi Arabia's Abha airport while blasts were also reported around Sanaa airport in what the rebels described as Saudi airstrikes. The exchange reinforces how quickly Gulf escalation spills into multiple fronts once Iran-aligned groups and regional governments re-enter direct military action.",
+          "why_it_matters": "A wider regional conflict raises the odds that aviation, tourism, and civilian infrastructure become repeated pressure points rather than isolated targets.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/yemen-houthis-airport-saudi-strikes-7bddae3006304df8bf7f89e980006b33"
+            }
+          ]
+        },
+        {
+          "label": "Iraq",
+          "headline": "Iraq's new prime minister is heading to the White House as Washington tries to shape a more reliable regional partner",
+          "summary": "AP reported from Washington that President Trump is welcoming Iraqi Prime Minister Ali al-Zaidi after strongly backing his rise as a consensus candidate in Baghdad. The visit lands at a moment when the U.S. needs regional governments to manage spillover from the Iran fight without letting Iraq become another arena of paralysis or proxy pressure.",
+          "why_it_matters": "Iraq matters because its political stability, security alignment, and energy position can either buffer or amplify a broader Gulf crisis.",
+          "countries": ["Iraq", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/donald-trump-alzaidi-iraq-iran-770f66fdda96ebfa7f45f32165e2b009"
+            }
+          ]
+        },
+        {
+          "label": "Qatar",
+          "headline": "Qatar is marking the death of former ruler Sheikh Hamad bin Khalifa Al Thani, a leader who helped define the Gulf's modern diplomatic map",
+          "summary": "AP reported that Sheikh Hamad, who ruled Qatar from 1995 to 2013 and transformed it into a major diplomatic, media, and investment power, has died at 74. His death is not the day's lead story, but it matters more because Gulf states are simultaneously navigating live military and shipping stress around Hormuz.",
+          "why_it_matters": "Moments of elite transition or national symbolism matter more when the surrounding region is under acute security pressure.",
+          "countries": ["Qatar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/qatar-sheikh-hamad-khalifa-al-thani-dies-43c1d0e86698967d4809f0dbfc2b39c1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-strategic-competition",
+      "title": "Ukraine & Strategic Competition",
+      "description": "Europe's security posture, maritime law in Asia, and democratic repair in Central Europe are all moving in ways that point to a harder strategic environment.",
+      "kicker": "Strategic Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Missile Defense",
+          "headline": "Ukraine and nine European countries have announced a coalition to build a shared ballistic-missile defense capability",
+          "summary": "AP reported from Paris that Ukraine, France, Germany, the U.K., and other partners said their goal is to create a shared European ballistic-missile defense capability, drawing directly on wartime lessons from Russian strikes. The initiative shows that support for Kyiv is still evolving from weapons deliveries toward longer-term regional defense architecture.",
+          "why_it_matters": "If Europe starts building common missile-defense capacity around Ukraine's experience, that changes the continent's security baseline beyond the current war.",
+          "countries": ["Ukraine", "France", "Germany", "United Kingdom", "Italy", "Netherlands", "Norway", "Spain", "Sweden", "Denmark"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d813eb18fba24a57f7cb2000b302ef4d"
+            }
+          ]
+        },
+        {
+          "label": "Bastille Day",
+          "headline": "European troops and warplanes joined France's Bastille Day parade in a symbolic show of unity for Ukraine",
+          "summary": "AP reported that France used the July 14 parade in Paris to stage a visible demonstration of European solidarity for Ukraine, with President Volodymyr Zelenskyy and about 30 world leaders present. The imagery matters because it signals that public alliance messaging is now part of deterrence and coalition maintenance, not just ceremony.",
+          "why_it_matters": "Symbolic demonstrations of unity matter when allies are trying to show Russia that support for Ukraine still has political depth and public form.",
+          "countries": ["France", "Ukraine", "Germany", "United Kingdom", "Poland", "Sweden", "Italy"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d78621ef18de51b16c8ab99e2bf43f4b"
+            }
+          ]
+        },
+        {
+          "label": "South China Sea",
+          "headline": "Fourteen countries and the European Union have reaffirmed the ruling that rejects China's sweeping South China Sea claims",
+          "summary": "AP reported from Manila that the United States, the United Kingdom, and a dozen other countries, alongside a separate EU statement, reasserted that the 2016 arbitration ruling invalidates Beijing's expansive maritime claims. China again rejected the ruling as void, underscoring that maritime competition in Asia remains a legal and strategic contest rather than a settled dispute.",
+          "why_it_matters": "A coordinated reaffirmation keeps pressure on China by framing the dispute as an international-rules issue instead of a narrow bilateral quarrel.",
+          "countries": ["China", "Philippines", "United States", "United Kingdom", "European Union", "Vietnam", "Malaysia", "Brunei", "Taiwan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/philippines-south-china-sea-disputes-arbitration-6ca48fecb19b61901b05a3f86f70be54"
+            }
+          ]
+        },
+        {
+          "label": "Hungary",
+          "headline": "Hungary's parliament has passed a constitutional amendment aimed at removing the Orbán-era president and dismantling parts of the old political system",
+          "summary": "AP reported that Prime Minister Péter Magyar's governing majority passed an amendment to force President Tamás Sulyok from office while also advancing judicial and anti-corruption reforms. The move is part of a rapid effort to unwind Viktor Orbán's institutional legacy after April's power shift.",
+          "why_it_matters": "Hungary matters because reversing democratic erosion inside the EU is both a domestic test and a European credibility question.",
+          "countries": ["Hungary"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/59620a0313e402be3b2cb6db2668f2ee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-public-safety",
+      "title": "Climate & Public Safety",
+      "description": "Deadly fire, heat, and storm stories this morning all point to the same underlying theme: local emergencies are turning into wider resilience tests.",
+      "kicker": "System Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Bangkok Fire",
+          "headline": "The death toll from the Bangkok music bar fire has risen to 30, with dozens still in hospital",
+          "summary": "AP reported that many victims of the Rong Beer Na Ladprao fire were found trapped in windowless bathrooms where they may have fled the flames, and more than 70 people were hospitalized. The scale of the loss is turning the disaster from a tragic fire into a broader accountability story about venue design, emergency exits, and enforcement.",
+          "why_it_matters": "Mass-casualty venue fires quickly become governance stories because they expose whether safety systems actually function under commercial pressure.",
+          "countries": ["Thailand"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/thailand-fire-bar-bangkok-dd1d309ea2c1f91f9991ebf8d24e5e09"
+            }
+          ]
+        },
+        {
+          "label": "Europe Wildfires",
+          "headline": "Wildfires near Paris, in Spain, and across Britain are showing how Europe's heat emergency is turning into a multi-country public-safety crisis",
+          "summary": "AP reported that the Fontainebleau forest fire near Paris triggered evacuations and transport disruption while Spain's Los Gallardos wildfire death toll rose to 13 and the U.K. faced fresh evacuations amid record heat. The combination of repeated red-alert heat waves and spreading fires is now stressing transport, health, and emergency systems at once.",
+          "why_it_matters": "When extreme heat repeatedly feeds mass-casualty fires in dense, wealthy countries, climate risk stops looking seasonal and starts looking structural.",
+          "countries": ["France", "Spain", "United Kingdom"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/france-fire-fontainebleau-heat-9231f354a12af0d1fd40aff4f759240b"
+            }
+          ]
+        },
+        {
+          "label": "Typhoon Bavi",
+          "headline": "Typhoon Bavi has weakened but is still driving strong winds, heavy rain, and transport disruption across eastern China",
+          "summary": "AP reported on July 13 that Bavi weakened after landfall in Zhejiang but continued to push strong winds and heavy rain deeper inland across eastern China. Even as the storm loses strength, the scale of evacuations and logistics disruption keeps it relevant because China's coastal population and industrial density amplify the economic effect of major weather events.",
+          "why_it_matters": "Weather does not need to remain at peak intensity to keep disrupting manufacturing corridors, transport nodes, and local recovery systems.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/typhoon-bavi-taiwan-china-japan-27518e742d51de72fdd13f1a33c858af"
+            }
+          ]
+        },
+        {
+          "label": "China Flood Relief",
+          "headline": "China has allocated new disaster-relief funds after deadly storms and a landslide exposed the scale of this month's weather damage",
+          "summary": "AP reported that Chinese authorities sent new relief money to Hubei, Gansu, and Guangxi after storms, tornadoes, flooding, and a landslide killed dozens and damaged infrastructure. The funding response underlines how successive disasters are compounding rather than arriving as isolated shocks.",
+          "why_it_matters": "Repeated disaster spending is an indicator that extreme-weather losses are becoming a recurring state-capacity problem, not just an emergency-services challenge.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/18959154a068bf186f04fe6dea882c16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "policy-tech-and-science",
+      "title": "Policy, Tech & Science",
+      "description": "Markets, digital regulation, and scientific milestones are all showing how today's crises are also reorganizing longer-term policy choices.",
+      "kicker": "Structural Strain",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Markets",
+          "headline": "Oil prices have jumped and Asian stocks have slipped as the Gulf fighting intensifies again",
+          "summary": "AP reported that Brent crude climbed above $84 a barrel early Tuesday while Asian shares fell, with traders reacting to the latest U.S.-Iran exchange around Hormuz and to weakness in AI-related stocks. The move is a fast market signal that investors still see Gulf disruption as a live inflation and supply risk.",
+          "why_it_matters": "Energy is one of the quickest channels through which military escalation turns into a global economic problem.",
+          "countries": ["Iran", "United States", "Japan", "South Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-ai-6807d21c72974fbac48356f83eeebbce"
+            }
+          ]
+        },
+        {
+          "label": "Youth Safety",
+          "headline": "The European Commission is weighing stricter age restrictions for children's use of social media",
+          "summary": "AP reported that Commission President Ursula von der Leyen endorsed phased, age-based access to social media after a panel recommended keeping children under 13 off platforms unless companies can prove they are safe. The debate is widening from content moderation into product-design limits, age verification, and the burden platforms should bear for addictive features.",
+          "why_it_matters": "If Europe moves toward tougher child-access rules, it could reshape how global platforms design feeds, defaults, and identity checks.",
+          "countries": ["European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/eu-social-media-leyen-children-restrictions-tech-d543e0cdb24a9c8fd7fe8f04b97943e6"
+            }
+          ]
+        },
+        {
+          "label": "Spaceflight",
+          "headline": "NASA astronaut Anil Menon is launching to the International Space Station today aboard Soyuz MS-29",
+          "summary": "NASA said Anil Menon will launch on July 14 from Baikonur with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina for a mission to the International Space Station. The flight is a reminder that even amid geopolitical tension, space operations remain one of the few high-profile areas where U.S.-Russian technical cooperation still persists.",
+          "why_it_matters": "Civil space cooperation still functions as a rare channel of continuity between major powers that are otherwise in sharper conflict.",
+          "countries": ["United States", "Russia", "Kazakhstan"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/"
+            }
+          ]
+        },
+        {
+          "label": "Astronomy",
+          "headline": "Astronomers have identified a sugar molecule in interstellar space, adding to evidence that life's building blocks may be widespread",
+          "summary": "AP reported that researchers detected erythrulose, a relatively complex sugar, in the interstellar medium using radio telescopes, with the work published in Nature Astronomy. The finding adds to the broader scientific picture that prebiotic chemistry may be active well before planets and living systems fully form.",
+          "why_it_matters": "Discoveries like this matter because they strengthen the case that chemistry relevant to life is not rare or uniquely Earth-bound.",
+          "countries": ["Spain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/erythrulose-interstellar-medium-sugar-357144f4d69449b29dff17271ccd0dcd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful this morning mostly as a pressure gauge for where highly engaged audiences are clustering around war escalation and rules-based disputes.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Thread",
+          "headline": "A heavily used r/worldnews discussion thread is functioning as a live audience monitor for the latest U.S.-Iran escalation",
+          "summary": "The active discussion thread on r/worldnews is centered on whether the Hormuz fight now looks like a rolling regional war rather than a containable standoff. That signal is useful because readers are reacting less to any single strike than to the accumulation of attacks, tanker risk, and the possibility that Gulf escalation has become durable.",
+          "why_it_matters": "When public attention shifts from shock to assumption of persistence, leaders and markets lose the ability to dismiss each round as temporary noise.",
+          "countries": ["Iran", "United States", "United Arab Emirates", "Bahrain", "Jordan"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine Live",
+          "headline": "The r/worldnews Ukraine live thread remains one of the clearest audience-signal hubs for how readers are processing Europe's security response",
+          "summary": "The long-running live thread continues to bundle battlefield updates, alliance signaling, and debate over Ukraine's ability to keep imposing costs on Russia. Its usefulness this morning is that the conversation is tracking the same broader question policymakers face: whether Europe is finally moving from support rhetoric toward more durable defense integration.",
+          "why_it_matters": "Audience focus on long-horizon security capacity mirrors the real strategic issue behind daily Ukraine headlines.",
+          "countries": ["Ukraine", "Russia", "France", "Germany", "United Kingdom"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/"
+            }
+          ]
+        },
+        {
+          "label": "Maritime Law Debate",
+          "headline": "A fresh r/geopolitics discussion on the South China Sea ruling shows continued high-interest engagement with legal rather than purely military competition",
+          "summary": "The thread on the renewed South China Sea ruling is not as emotionally intense as the Iran discussion, but it is a meaningful signal because commenters are engaging with maritime law, alliance signaling, and China's long-term strategic posture. That makes it a useful supplement to headline reporting on how rules-based disputes are being interpreted by policy-minded audiences.",
+          "why_it_matters": "Reddit is most useful when it shows not just what people notice, but which disputes they think will keep shaping the international order.",
+          "countries": ["China", "Philippines", "United States", "European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/geopolitics",
+              "url": "https://www.reddit.com/r/geopolitics/comments/1uu7bfx/nations_reaffirm_ruling_invalidating_chinas/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
