@@ -1,0 +1,312 @@
+{
+  "date": "2026-07-15",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Wednesday, July 15, 2026 opens with the U.S.-Iran confrontation widening around global energy routes, Europe using Ukraine's Statehood Day to harden its security message, and climate, safety, and platform-governance pressures colliding across several regions at once.",
+  "generated_at": "2026-07-15T09:05:00+03:00",
+  "summary": {
+    "spotlight": "The clearest morning signal is that the global system is being stressed through chokepoints, alliances, and public resilience at the same time. Hormuz remains the fastest-moving risk, but the day also matters for Europe's security architecture, China's economic and geopolitical posture, and how states are responding to heat, transport safety, and social-media harms.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories most likely to shape energy flows, military positioning, state capacity, and regulatory direction today. Romania is not a dedicated section this morning because the strongest same-day domestic signal remains secondary to the broader global lead stories, while Reddit is included only where it adds clear audience-signal value."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S. has reimposed a naval blockade on Iran as Tehran threatens to halt all Middle East energy exports",
+    "summary": "AP reported on July 15 that the United States reimposed a naval blockade on Iranian ports and intensified airstrikes after Tehran attacked ships trying to pass through the Strait of Hormuz. Iranian officials said the latest strikes killed at least seven troops and wounded more than 260 people, while the Revolutionary Guard warned it could widen disruption to energy exports across the region.",
+    "why_it_matters": "When the conflict around the world's most important oil chokepoint deepens again, the effects can quickly spread into energy prices, shipping costs, inflation pressure, and wider regional escalation.",
+    "countries": ["Iran", "United States", "United Arab Emirates", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The morning's core geopolitical risk remains the spread of military coercion from one waterway into a wider contest over energy, access, and allied positioning.",
+      "kicker": "Global Chokepoint",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz",
+          "headline": "Washington and Tehran are escalating again around Hormuz after the U.S. restored its blockade posture and Iran threatened broader energy disruption",
+          "summary": "AP reported that the U.S. reimposed a naval blockade on Iranian ports and stepped up strikes after attacks on commercial shipping, while Tehran signaled it may try to halt all Middle East energy exports in response. The confrontation is moving beyond symbolic retaliation and back toward a direct struggle over whether shipping can move normally through the region.",
+          "why_it_matters": "A conflict that starts to redefine access to maritime trade routes can turn into a sustained global economic problem rather than a short military shock.",
+          "countries": ["Iran", "United States", "United Arab Emirates", "Oman"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25"
+            }
+          ]
+        },
+        {
+          "label": "Yemen",
+          "headline": "Yemen is at risk of being dragged back into full war after the Houthis and Saudi Arabia exchanged major strikes",
+          "summary": "AP reported that Houthi forces struck Saudi Arabia's Abha airport with missiles and drones after airstrikes on Sanaa airport that they blamed on Riyadh. No casualties were reported, but analysts told AP it was the most serious confrontation in years and a sign that regional restraint is fraying under pressure from the broader Iran fight.",
+          "why_it_matters": "If Yemen's fragile truce breaks down again, the wider Middle East conflict gains another active front with consequences for civilians, transport, and regional diplomacy.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/yemen-houthis-saudi-arabia-iran-war-united-states-66967bb51155f0594a1138cba2b5dab5"
+            }
+          ]
+        },
+        {
+          "label": "Iraq",
+          "headline": "The U.S. says its military will leave Iraq by the end of September, closing a 23-year chapter",
+          "summary": "AP reported that Washington and Baghdad said remaining U.S. forces will leave Iraq by September 30, ending the military presence that began with the 2003 invasion and later narrowed into operations against Islamic State. The announcement came as President Donald Trump hosted Prime Minister Ali al-Zaidi and emphasized a shift toward economic ties instead of a continued troop role.",
+          "why_it_matters": "Iraq's transition matters because a reduced U.S. footprint changes the regional security map at the same moment the wider Gulf is under acute pressure.",
+          "countries": ["Iraq", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iraq-trump-islamic-state-group-military-45e64c99d07939951c86308f95dd02ef"
+            }
+          ]
+        },
+        {
+          "label": "Gaza",
+          "headline": "Israeli strikes in Gaza are rising again despite the ceasefire, including a deadly attack on a police station in Jabaliya",
+          "summary": "AP reported that about a dozen people were killed in Israeli strikes over two days, including police officers and a woman at the Jabaliya station, as Israel said some of those hit were Hamas militants without providing evidence. The renewed pattern of strikes is adding to doubts about how durable the October 2025 ceasefire really is on the ground.",
+          "why_it_matters": "When violence keeps climbing under a nominal truce, the political value of the ceasefire erodes and the risk of a wider return to war grows.",
+          "countries": ["Israel", "Palestinian Territories"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/israel-gaza-hamas-strikes-casualties-265d48b73dedab69cf3b100947d17f58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-strategic-competition",
+      "title": "Ukraine & Strategic Competition",
+      "description": "Europe's security message, Asian maritime rules, China's coercive behavior, and Sahel diplomacy all point to a harder strategic environment rather than a calmer one.",
+      "kicker": "Strategic Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv Summit",
+          "headline": "Von der Leyen used Ukraine's Statehood Day in Kyiv to promise deeper military and industrial support",
+          "summary": "AP reported that European Commission President Ursula von der Leyen traveled to Kyiv for Statehood Day and pledged continued military and financial backing while leaders discussed Black Sea and regional security. The visit came as Russian attacks killed civilians and as Europe tried to show that support for Ukraine is moving from emergency aid toward more integrated defense planning.",
+          "why_it_matters": "The more Europe shifts from symbolic solidarity to shared defense production and air-defense planning, the more durable Ukraine's external support becomes.",
+          "countries": ["Ukraine", "European Union", "Romania", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-europe-leyen-vukic-support-3d6de7a70a87f0a3cc9f4f7f0317c9b2"
+            }
+          ]
+        },
+        {
+          "label": "South China Sea",
+          "headline": "Fourteen countries and the EU have reaffirmed the 2016 ruling that rejects China's sweeping South China Sea claims",
+          "summary": "AP reported that the United States, the United Kingdom, the Philippines, and other governments, alongside a separate EU statement, again backed the Hague ruling that found no legal basis for Beijing's expansive maritime claims. China rejected the judgment as void, keeping one of Asia's most persistent flashpoints anchored in an unresolved legal and strategic dispute.",
+          "why_it_matters": "Repeated multilateral reaffirmation matters because it frames the dispute as a test of international rules and freedom of navigation, not just a local quarrel.",
+          "countries": ["China", "Philippines", "United States", "United Kingdom", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6ca48fecb19b61901b05a3f86f70be54"
+            }
+          ]
+        },
+        {
+          "label": "China Detention",
+          "headline": "A U.S. seismologist's detention in China is emerging as a new pressure point ahead of Xi's expected U.S. visit",
+          "summary": "AP reported that the family of Youlin Chen, a China-born American seismologist from Boston, said he has been held without trial in China for nearly two years on espionage-related accusations. The timing matters because it adds a human and scientific-security dimension to already strained U.S.-China ties just months before Xi Jinping is expected to visit the United States.",
+          "why_it_matters": "Detentions like this deepen mistrust between major powers and widen the range of issues that can complicate diplomacy beyond trade and military rivalry.",
+          "countries": ["China", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/wrongful-detention-xi-trump-chen-youlin-8a77ac4776cf1c88005f65e6c331b7a0"
+            }
+          ]
+        },
+        {
+          "label": "Sahel Diplomacy",
+          "headline": "Mali and Algeria have reopened airspace and restored ambassadors, ending a yearlong diplomatic rift",
+          "summary": "AP reported that Bamako and Algiers agreed to restore ties after a year of tension that followed Algeria's downing of a Malian armed drone and accusations that Algeria backed rebels near the border. The thaw is notable because it comes while Mali also says it has broken a blockade around a strategic northern base with support from Russian Africa Corps allies and local militias.",
+          "why_it_matters": "A diplomatic reset in the Sahel matters when insurgency, junta rule, and outside military influence are all reshaping regional stability at once.",
+          "countries": ["Mali", "Algeria", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/49e525be7ce3a1f93b2c5af556697863"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-public-safety",
+      "title": "Climate & Public Safety",
+      "description": "Heat, fire, and transport safety stories this morning all point to the same broader pattern: emergency response systems are being asked to absorb more frequent and more complex shocks.",
+      "kicker": "System Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Spain Wildfire",
+          "headline": "Spanish authorities have identified all 13 victims of the Los Gallardos wildfire as Europe's heat and fire risk stays elevated",
+          "summary": "AP reported that the southern Spain fire killed 13 adults, including seven British citizens, three Belgians, one Frenchwoman, one American, and one Spaniard, after scorching about 70 square kilometers of forest and farmland. The identification work has ended uncertainty for families, but the wider signal is that extreme heat, wind, and drought are still creating conditions for mass-casualty fires across Europe.",
+          "why_it_matters": "When wealthy countries keep suffering deadly climate-amplified fires, the issue shifts from seasonal anomaly to structural public-safety failure.",
+          "countries": ["Spain", "United Kingdom", "Belgium", "France", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/spain-fire-victims-identified-climate-change-bd2e57363665a66e18b73ea5806501d0"
+            }
+          ]
+        },
+        {
+          "label": "Vietnam Boat",
+          "headline": "Vietnam has detained a speedboat captain after a capsizing killed 15 Indian tourists near Phu Quoc",
+          "summary": "AP reported that the captain of the boat carrying 32 Indian tourists and four Vietnamese crew members is under investigation after the vessel overturned shortly after leaving Hon May Rut Ngoai island. The case is turning from a tragic accident into a scrutiny of transport safety, preparedness, and enforcement in one of Southeast Asia's fast-growing tourism markets.",
+          "why_it_matters": "Public-safety failures in high-volume tourism corridors can quickly become international trust and governance issues, not just local accidents.",
+          "countries": ["Vietnam", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/vietnam-tourist-boat-capsizes-indian-eebc56ca6b1434bd513daa395e4b03ab"
+            }
+          ]
+        },
+        {
+          "label": "Heat Dome",
+          "headline": "NASA says a heat dome is broiling the western United States after record-breaking temperatures in Montana, Utah, and Wyoming",
+          "summary": "NASA Earth Observatory's July 15 image of the day said a ridge of high pressure fueled record-breaking temperatures across parts of the western U.S. on July 12. The reading is geographically separate from Europe's fires, but it reinforces the same global pattern of prolonged extreme heat stressing infrastructure, health, and emergency planning.",
+          "why_it_matters": "Parallel heat shocks across major regions make climate risk look less like isolated weather and more like a persistent systems problem.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "NASA Earth Observatory",
+              "url": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy-tech-and-science",
+      "title": "Economy, Tech & Science",
+      "description": "Markets, digital regulation, Chinese growth, and space operations are all showing how today's shocks are feeding into longer-horizon policy and capability decisions.",
+      "kicker": "Structural Shift",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Markets",
+          "headline": "Oil prices are climbing and world shares are mixed as traders react to Iran's latest energy threat",
+          "summary": "AP reported that oil prices rose again and global markets were mixed on Wednesday after Tehran threatened to block Middle East energy exports in response to the resumed U.S. blockade. The move is a fast signal that traders still see Gulf instability as a direct transmission channel into inflation, freight, and broader risk pricing.",
+          "why_it_matters": "Energy is one of the fastest ways a military escalation becomes an economic story for households, companies, and central banks worldwide.",
+          "countries": ["Iran", "United States", "China", "Japan", "South Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stock-markets-iran-inflation-oil-3544bd70e0f767404d2de91fd116d68e"
+            }
+          ]
+        },
+        {
+          "label": "China Growth",
+          "headline": "China's economy grew at a 4.3% annual pace in the second quarter, its slowest rate since late 2022",
+          "summary": "AP reported that China's second-quarter growth slowed from 5% in the first quarter to 4.3% even as exports stayed strong, with weak consumption, soft investment, and falling housing prices still weighing on confidence. The numbers suggest Beijing is still struggling to convert industrial and export strength into healthier domestic demand.",
+          "why_it_matters": "China's growth mix matters because weakness at home and strength in subsidized exports can reshape trade tensions, commodity demand, and global manufacturing politics.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-economy-trade-exports-ai-95136222f87d5a1e62918f41efab00be"
+            }
+          ]
+        },
+        {
+          "label": "Youth Safety",
+          "headline": "Britain is planning a voluntary overnight social-media curfew for older teenagers while Brussels pushes for stricter child access rules",
+          "summary": "AP reported that the U.K. government wants 16- and 17-year-olds to face an optional midnight-to-6 a.m. social-media curfew, while a separate AP report said Ursula von der Leyen is pressing for phased, age-based restrictions across the EU. Together the moves show that the debate is shifting from moderation alone toward product design, age verification, and limits on addictive platform features.",
+          "why_it_matters": "If major European governments move from warnings to design restrictions, global social-media companies may have to change defaults, feeds, and youth-access rules well beyond Europe.",
+          "countries": ["United Kingdom", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/britain-social-media-teenagers-curfew-d5381f128b29f4ef62b0d2485ed3b4e0"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/eu-social-media-leyen-children-restrictions-tech-d543e0cdb24a9c8fd7fe8f04b97943e6"
+            }
+          ]
+        },
+        {
+          "label": "Spaceflight",
+          "headline": "NASA astronaut Anil Menon has launched to the International Space Station aboard Soyuz MS-29",
+          "summary": "NASA said Anil Menon launched on July 14 from Baikonur with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina and docked at the station the same day for a roughly eight-month mission. The flight is a reminder that even in a period of sharp geopolitical tension, U.S.-Russian civil space cooperation still persists in one of the world's most visible technical partnerships.",
+          "why_it_matters": "Space cooperation remains one of the few arenas where operational continuity between rivals still carries strategic and symbolic value.",
+          "countries": ["United States", "Russia", "Kazakhstan"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful this morning as a live audience barometer for which global stories people expect to persist, not just flash and disappear.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Focus",
+          "headline": "r/worldnews is clustering heavily around the renewed U.S.-Iran energy confrontation and what it means for oil and shipping",
+          "summary": "The strongest Reddit attention this morning is still concentrated on Iran, Hormuz, and the possibility that the latest blockade fight becomes a durable supply and cost shock rather than another short spike in tension. That signal is useful because engaged readers appear to be reacting less to one strike than to the growing assumption that disruption may last.",
+          "why_it_matters": "When public discussion shifts from surprise to expectation of persistence, leaders and markets lose some room to dismiss the crisis as temporary noise.",
+          "countries": ["Iran", "United States", "United Arab Emirates", "Oman"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/"
+            }
+          ]
+        },
+        {
+          "label": "Front Page Mix",
+          "headline": "The new queue on r/worldnews shows readers splitting attention between Iran, Ukraine, and broader state-fragility stories",
+          "summary": "The live feed on r/worldnews is functioning as a rapid public-signal dashboard, with conflict, energy, and strategic-security stories still outranking softer feature coverage. That matters because it shows where highly attentive readers think the next wave of real-world consequences is most likely to come from.",
+          "why_it_matters": "Reddit is most informative when it reveals which global stories people treat as forward-looking risks instead of isolated headlines.",
+          "countries": ["Iran", "Ukraine", "China", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/new/"
+            }
+          ]
+        },
+        {
+          "label": "Heat Signal",
+          "headline": "A heavily used r/europe climate thread is keeping extreme heat and wildfire risk visible as a lived public-safety problem",
+          "summary": "The active r/europe discussion around the hottest June on record in Western Europe remains a strong audience signal because users are connecting official climate data to immediate daily experience, from sleepless nights to wildfire fear. That complements headline reporting by showing how climate stress is being normalized by the public rather than treated as a one-off anomaly.",
+          "why_it_matters": "Audience engagement matters when it shows that climate stories are being absorbed as recurring governance and quality-of-life issues, not just weather updates.",
+          "countries": ["France", "Spain", "United Kingdom", "Portugal"],
+          "sources": [
+            {
+              "name": "Reddit r/europe",
+              "url": "https://www.reddit.com/r/europe/comments/1urhjhr/western_europe_records_hottestever_june_as/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
