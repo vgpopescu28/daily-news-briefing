@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-17",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday, July 17, 2026 opens with the U.S.-Iran war expanding around the Strait of Hormuz, Ukraine absorbing a destabilizing leadership shakeup, and climate, markets, and public attention all reflecting a broader rise in systemic strain.",
+  "generated_at": "2026-07-17T09:04:11+03:00",
+  "summary": {
+    "spotlight": "The clearest signal this morning is that several high-impact systems are under stress at the same time. Gulf escalation is again threatening shipping and oil stability, Ukraine is dealing with a politically risky wartime reshuffle, and market and climate shocks are moving quickly into daily life rather than staying abstract.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories most likely to reshape war risk, energy expectations, democratic stability, and public-safety pressure today. Romania is not a dedicated section this morning because there is no fresh Romania-specific development strong enough to outrank the broader global lead stories, while Reddit is included only where it adds clear audience-signal value."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S. has widened its Iran campaign by striking bridges and a key port tower, pushing the Strait of Hormuz crisis further away from containment",
+    "summary": "AP reported on July 17 that U.S. strikes hit bridges in southern Iran and collapsed a surveillance tower at Chabahar port as the sixth consecutive night of attacks ended. Iran responded with missile fire toward U.S.-aligned states including Qatar, Bahrain, Kuwait, and parts of Iraq, reinforcing that the fight over Hormuz is again broadening into a regional and energy-security crisis.",
+    "why_it_matters": "When bridges, ports, allied bases, and shipping routes are all under pressure together, the conflict stops being a narrow military exchange and becomes a direct threat to global energy flows, insurance costs, and regional diplomacy.",
+    "countries": ["Iran", "United States", "Qatar", "Bahrain", "Kuwait", "Iraq"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-17-2026-2ad0cfe592eb258cb15a9eb04411d58a"
+      },
+      {
+        "name": "U.S. Central Command",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4548433/us-successfully-completes-new-strikes-in-iran/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The biggest global risk this morning remains the spread of military escalation from the Hormuz chokepoint into a wider regional contest over access, deterrence, and control.",
+      "kicker": "Shipping Shock",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Escalation",
+          "headline": "U.S. strikes on bridges and port infrastructure show Washington is now targeting the logistics around Iran's Gulf position, not just discrete military sites",
+          "summary": "AP reported that the latest wave of U.S. attacks hit bridges near Bandar Abbas and damaged a surveillance tower at Chabahar, while Iranian officials reported civilian casualties and outages. The operating logic has shifted from signaling to attrition, with Washington trying to complicate Iranian movement and maritime control around the strait.",
+          "why_it_matters": "Infrastructure strikes widen the conflict's economic consequences because they directly affect transport confidence, port access, and the timeline for any de-escalation.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-17-2026-2ad0cfe592eb258cb15a9eb04411d58a"
+            }
+          ]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Talks are still being described as possible, but the Gulf fighting now looks more like active war with intermittent diplomacy than a real ceasefire process",
+          "summary": "AP reported that hopes for U.S.-Iran diplomacy remain formally alive even as fighting intensifies over Hormuz and both sides continue making incompatible claims about control of the waterway. The practical morning signal is that diplomacy still exists, but it is no longer providing meaningful operational restraint.",
+          "why_it_matters": "A negotiation track matters far less once military escalation keeps setting the real tempo on the ground and at sea.",
+          "countries": ["Iran", "United States", "Qatar", "Oman"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-war-trump-strait-hormuz-negotiations-476de0b0c341ead38126e617234d0939"
+            }
+          ]
+        },
+        {
+          "label": "Regional Map",
+          "headline": "The U.S. and Iraq say the American military will be out of Iraq by September 30, closing one longstanding footprint during a new Gulf emergency",
+          "summary": "AP reported that Washington and Baghdad confirmed a full U.S. military exit from Iraq by September 30, ending a 23-year presence that began with the 2003 invasion. The timing matters because one major U.S. regional deployment is winding down just as another part of the Middle East is becoming more dangerous.",
+          "why_it_matters": "Security architecture changes are more consequential when they happen in parallel with a live regional war rather than in a calmer environment.",
+          "countries": ["Iraq", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/45e64c99d07939951c86308f95dd02ef"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-europe",
+      "title": "Ukraine & Europe",
+      "description": "Ukraine's wartime cohesion is under political strain just as Europe is trying to make its military support more industrial, durable, and less improvised.",
+      "kicker": "Alliance Strain",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Protests",
+          "headline": "Zelenskyy's decision to oust Defense Minister Mykhailo Fedorov has triggered rare wartime protests across Ukraine",
+          "summary": "AP reported that thousands of Ukrainians protested after Zelenskyy removed the popular defense minister, who had been closely associated with drone modernization and procurement reform. Critics see the move as politically risky because it interrupts a leadership arrangement that many Ukrainians believed was helping the country adapt faster than Russia.",
+          "why_it_matters": "A wartime leadership shakeup is dangerous when it creates fresh doubts about military direction, reform momentum, and political unity at the top.",
+          "countries": ["Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/88083e4381b1690f5048088d75954d3a"
+            }
+          ]
+        },
+        {
+          "label": "Government Shift",
+          "headline": "Ukraine's new prime minister is taking office under protest pressure and with a difficult winter already in view",
+          "summary": "AP reported that Serhii Koretskyi, a business executive and crisis manager, has taken office as prime minister while Kyiv faces renewed energy and infrastructure risk. His appointment may help with administrative discipline, but it is starting under a cloud because the broader reshuffle is being judged through the controversy around Fedorov's removal.",
+          "why_it_matters": "New leadership is harder to stabilize when it arrives during war, public protest, and a looming winter energy threat all at once.",
+          "countries": ["Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/474e53d5e7494a6ca2b2afdf88b53c61"
+            }
+          ]
+        },
+        {
+          "label": "Industrial Support",
+          "headline": "The EU and Ukraine are trying to turn military support into joint weapons production rather than relying only on transfers",
+          "summary": "AP reported that Brussels and Kyiv signed a Defense Industrial Partnership aimed at scaling drone, anti-drone, and later anti-ballistic-missile production. Europe is signaling that support for Ukraine should be built as industrial capacity with long-term strategic value, not only as a sequence of emergency deliveries.",
+          "why_it_matters": "Shared production matters because it makes support more durable and harder to reverse than one-off pledges or politically fragile stockpile transfers.",
+          "countries": ["Ukraine", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3d6de7a70a87f0a3cc9f4f7f0317c9b2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-and-policy",
+      "title": "Markets & Policy",
+      "description": "Trade law, AI valuation, and democratic trust are all moving together this morning as geopolitical stress feeds directly into policy and market pricing.",
+      "kicker": "Policy Spillover",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Tariffs",
+          "headline": "The Trump administration is rushing to rebuild its tariff regime after the Supreme Court knocked down a central legal pillar",
+          "summary": "AP reported that the White House is trying to replace sweeping tariffs invalidated by the Supreme Court before a key July 24 deadline, turning to narrower trade authorities that are slower and more legally exposed. The episode highlights how much of Washington's trade posture now depends on legal improvisation rather than settled framework.",
+          "why_it_matters": "Trade policy becomes more unstable for businesses and allies when major tariff tools are being rebuilt under time pressure after a court defeat.",
+          "countries": ["United States", "Brazil", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-tariffs-supreme-court-trade-deficit-ec2bd8d8d928baafc619a161670d7725"
+            }
+          ]
+        },
+        {
+          "label": "AI Selloff",
+          "headline": "Asian markets are dropping sharply as investors punish AI and chip stocks that had been carrying much of the global risk appetite",
+          "summary": "AP reported that Tokyo, Taiwan, and other major Asian markets fell hard, led by semiconductor and AI names as investors questioned whether spending and valuations have outrun realistic returns. Gulf escalation also kept oil elevated, making the selloff part technology repricing and part geopolitical stress reaction.",
+          "why_it_matters": "When AI leadership weakens at the same time energy risk rises, two of the market's biggest optimism pillars start eroding together.",
+          "countries": ["Japan", "Taiwan", "South Korea", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/65449e9565fba441a617f9517e097f5a"
+            }
+          ]
+        },
+        {
+          "label": "Democratic Norms",
+          "headline": "Trump used a primetime address to recycle unproven election claims, putting democratic legitimacy back at the center of U.S. political risk",
+          "summary": "AP reported that Trump again used a national address to question past election outcomes without producing evidence that votes had been altered, while major broadcasters split over whether to air him live. The speech matters beyond domestic politics because it keeps the world's largest democracy in a self-inflicted legitimacy fight during multiple external crises.",
+          "why_it_matters": "Political systems look less resilient when leaders use official platforms to deepen mistrust in the electoral process rather than close it.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/live/trump-address-elections-updates-07-16-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-science",
+      "title": "Climate & Science",
+      "description": "This morning's weather and space stories point in opposite directions: emergency systems are being stretched by climate shocks while high-risk engineering still keeps advancing through visible setbacks.",
+      "kicker": "Stress Test",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Wildfire Smoke",
+          "headline": "Canadian wildfire smoke is making air unhealthy across a large swath of the U.S. Midwest and East Coast",
+          "summary": "AP reported that smoke from fires in Canada and northern Minnesota pushed air quality in cities including New York, Chicago, Detroit, and Philadelphia into unhealthy or hazardous ranges. The immediate story is public health, but the broader one is how cross-border climate pressure is disrupting ordinary urban life at scale.",
+          "why_it_matters": "Smoke episodes matter more when they stop looking exceptional and start functioning like recurring regional infrastructure failures.",
+          "countries": ["Canada", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ae4b2bd09a97919a081e26ede6a6d355"
+            }
+          ]
+        },
+        {
+          "label": "Flooding",
+          "headline": "Texas is facing another round of destructive flooding, reinforcing how repeated extreme-weather hits are straining the same vulnerable regions",
+          "summary": "AP reported that severe rains again pushed parts of Texas Hill Country into dangerous flooding, with rescues, road losses, and fatalities as rivers surged above major flood levels. The pattern is increasingly less about one disaster and more about whether recovery systems can keep absorbing repeat shocks.",
+          "why_it_matters": "Repeated flooding changes the risk from episodic emergency to structural exposure for communities, insurers, and state capacity.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e3e46b001ea1bf687d909134e80ed7e3"
+            }
+          ]
+        },
+        {
+          "label": "Space",
+          "headline": "SpaceX aborted Starship at the last moment, delaying a key test for the launch system NASA is counting on for future lunar missions",
+          "summary": "AP reported that four of Starship's 33 engines failed to ignite, triggering an automatic shutdown just before liftoff in Texas and postponing the mission until at least next week. The setback does not change the strategic role of Starship, but it does underline how much of NASA's lunar timeline still sits on an experimental system with little tolerance for routine failure.",
+          "why_it_matters": "A launch abort is not a disaster, but it is a reminder that the hardware expected to support Artemis remains operationally immature.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is most useful this morning as a fast signal for which stories readers expect to keep generating second-order consequences rather than fade after one headline cycle.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Ukraine Reaction",
+          "headline": "The strongest Reddit reaction this morning is to Ukraine's removal of Fedorov, with readers treating it as a potentially strategic self-inflicted wound",
+          "summary": "A heavily active r/worldnews thread on Zelenskyy's ouster of Mykhailo Fedorov shows readers focusing less on palace intrigue and more on what the change could do to Ukraine's reform speed and battlefield adaptation. That is a useful public-attention signal because commenters are clearly treating the reshuffle as a war-capacity issue, not a routine personnel story.",
+          "why_it_matters": "Audience focus on wartime competence rather than personality suggests the political cost of this move could persist well beyond one protest cycle.",
+          "countries": ["Ukraine"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uxw30y/utterly_baffling_ukrainians_outraged_call_for/"
+            }
+          ]
+        },
+        {
+          "label": "Iran Attention",
+          "headline": "A new Iran bridge-strike thread shows readers treating U.S. infrastructure targeting as another step up rather than a temporary shock",
+          "summary": "The current r/worldnews post about a bridge connecting Bandar Abbas to Shiraz being attacked is drawing attention because users read it as evidence that the U.S.-Iran fight is moving deeper into transport and logistics infrastructure. The reaction is notable because readers are no longer debating whether escalation is real, only how far it is likely to go.",
+          "why_it_matters": "Once audiences normalize escalation, official claims that the conflict is contained become less persuasive and less stabilizing.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uyepkb/iran_bridge_connecting_bandar_abbas_to_shiraz/"
+            }
+          ]
+        },
+        {
+          "label": "U.S. Politics",
+          "headline": "Reddit's large live discussion around Trump's election speech shows that institutional trust remains a central public anxiety, not a background issue",
+          "summary": "The active r/politics discussion thread for Trump's primetime address is drawing thousands of comments around election legitimacy, media carriage decisions, and what counts as state-backed misinformation. That makes it a meaningful public-signal lane because the reaction is about institutional trust and democratic guardrails, not just partisanship.",
+          "why_it_matters": "High-engagement civic discussion matters when it shows audiences still reading democratic legitimacy itself as a live risk variable.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "Reddit r/politics",
+              "url": "https://www.reddit.com/r/politics/comments/1uygeg1/discussion_thread_president_trump_gives_national/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
