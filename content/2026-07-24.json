@@ -1,0 +1,316 @@
+{
+  "date": "2026-07-24",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday, July 24, 2026 opens with a broader Gulf war footprint, fresh pressure on energy and shipping, and visible spillover into Europe, Asia, and Romania.",
+  "generated_at": "2026-07-24T09:42:00+03:00",
+  "summary": {
+    "spotlight": "The strongest signal this morning is that the Iran war is no longer a narrow military story. It is now shaping oil prices, alliance diplomacy, shipping routes, legal institutions, and domestic politics well beyond the Gulf. Secondary signals from Ukraine, the South China Sea, climate stress, and Romania all point in the same direction: state capacity is being tested across multiple systems at once.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories most likely to affect conflict risk, trade costs, energy flows, alliance behavior, and political stability over the next several days. Romania remains a dedicated section because both its domestic government deadlock and a Black Sea shipping incident matter locally, and Reddit is included only as a public-attention signal rather than primary reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The U.S.-Iran war has reached a 13th straight night of strikes, and Bahrain's air-raid sirens show the conflict is spreading further across the Gulf",
+    "summary": "AP reported on July 24 that Bahrain activated emergency sirens after detecting incoming fire only hours after the U.S. military completed another overnight round of strikes on Iran. The immediate significance is regional spillover: the war is no longer being measured only by damage inside Iran, but by how directly Gulf states, shipping lanes, and civilian warning systems are being pulled into the fight.",
+    "why_it_matters": "Once Gulf partner states begin sounding air defenses and shelter warnings, the risk of wider escalation, broader civilian disruption, and sharper energy-market reactions rises materially.",
+    "countries": ["Bahrain", "Iran", "United States", "Saudi Arabia"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The Gulf remains the main global risk lane because military escalation, maritime control, and diplomatic bargaining are now reinforcing one another.",
+      "kicker": "Escalation Map",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Shipping",
+          "headline": "Washington is telling Asian governments that any Iranian toll system in Hormuz would turn a regional war into a global navigation precedent",
+          "summary": "AP reported from the ASEAN meetings in Manila that Secretary of State Marco Rubio warned Iran's push to control and charge passage through the Strait of Hormuz would threaten the world economy and the principle of freedom of navigation. The United States is clearly trying to frame the issue not only as a Gulf dispute, but as a systemic challenge to open trade routes.",
+          "why_it_matters": "Once major Asian trading states start viewing Hormuz as a precedent-setting coercion case, diplomatic pressure and market fear can accelerate together.",
+          "countries": ["Iran", "United States", "Philippines", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/asean-rubio-south-china-sea-iran-war-12b3a257be0b6af9d96356dd78be3cfd"
+            }
+          ]
+        },
+        {
+          "label": "Saudi Arabia",
+          "headline": "Trump has added Israel normalization as a condition for the new U.S.-Saudi nuclear deal, deepening uncertainty around a contentious regional pact",
+          "summary": "AP reported on July 24 that President Donald Trump said the newly announced U.S.-Saudi civilian nuclear agreement is subject to Riyadh joining the Abraham Accords and recognizing Israel. That adds a second layer of instability to an already controversial deal because the arrangement was already raising proliferation concerns while the U.S. is fighting Iran over regional security.",
+          "why_it_matters": "Linking nuclear cooperation, Arab-Israeli normalization, and an active regional war increases the chance of policy whiplash and strategic miscalculation.",
+          "countries": ["Saudi Arabia", "United States", "Israel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6d498a1e851f226c04831bbedf979ec9"
+            }
+          ]
+        },
+        {
+          "label": "Red Sea",
+          "headline": "The Houthis are threatening Saudi shipping at Bab el-Mandeb, putting a second major energy chokepoint under stress",
+          "summary": "AP reported that Yemen's Houthi movement is trying to pressure Saudi shipping through the Bab el-Mandeb gateway, where more than 7 million barrels of petroleum a day transited in June. Even if shipping reroutes remain possible, the added travel time and insurance costs would compound the strain already coming from the Hormuz crisis.",
+          "why_it_matters": "Simultaneous pressure on Hormuz and Bab el-Mandeb would create a much wider energy and trade shock than either chokepoint alone.",
+          "countries": ["Yemen", "Saudi Arabia", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/yemen-saudi-houthis-attack-shipping-red-sea-iran-6ee98d611669dc84953d2f2e15958bf9"
+            }
+          ]
+        },
+        {
+          "label": "Gaza",
+          "headline": "Famine conditions in Gaza have eased, but food insecurity is still severe enough to keep the humanitarian situation at crisis level",
+          "summary": "AP reported on July 24 that the world's leading food-insecurity authority no longer classifies Gaza as being in famine, while warning that conditions remain at crisis levels. That is an improvement worth noting, but it is still a reminder that the humanitarian baseline remains dangerously weak even as diplomatic attention shifts toward the wider Iran war.",
+          "why_it_matters": "Reduced famine risk is not the same as recovery, and fragile humanitarian gains can reverse quickly when regional conflict widens.",
+          "countries": ["Gaza", "Israel", "Palestine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/gaza-food-insecurity-war-palestinian-israel-6570d65b767c7018e3929416ea475778"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-europe",
+      "title": "Ukraine & Europe",
+      "description": "Europe's pressure points this morning combine wartime political strain, economic targeting, and institutional legitimacy tests.",
+      "kicker": "Continental Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Ukraine Politics",
+          "headline": "Ukraine's fired defense minister is refusing a fallback government role, keeping a domestic wartime dispute alive",
+          "summary": "AP reported that former Defense Minister Mykhailo Fedorov rejected President Volodymyr Zelenskyy's effort to keep him inside government after his dismissal. The refusal matters because the personnel shake-up has already become a public legitimacy issue, not just a bureaucratic reshuffle, during a difficult phase of the war.",
+          "why_it_matters": "Visible fractures inside wartime leadership can affect military reform, public trust, and how allies read Kyiv's internal resilience.",
+          "countries": ["Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-fedorov-defense-minister-fired-ed6749fb32359ae4d9281676da32eaf0"
+            }
+          ]
+        },
+        {
+          "label": "Economic War",
+          "headline": "Ukraine's strikes on Wildberries are pushing the war deeper into Russia's everyday commercial infrastructure",
+          "summary": "AP reported that attacks on facilities linked to Wildberries, Russia's biggest online marketplace, are disrupting sellers, logistics, and consumer behavior while Kyiv says the sites supplied gear and components useful to the Russian military. That makes the story notable as both economic warfare and a message to Russians that ordinary commerce is no longer insulated from the conflict.",
+          "why_it_matters": "When a war starts damaging the platforms small businesses depend on, domestic economic pain becomes harder for the target state to compartmentalize.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-wildberries-attacks-d69c6db025a0ff779db9606b9982b1d9"
+            }
+          ]
+        },
+        {
+          "label": "International Justice",
+          "headline": "The ICC is facing an unprecedented vote on whether to permanently remove chief prosecutor Karim Khan",
+          "summary": "AP reported that diplomats are gathering in New York on July 24 to decide whether International Criminal Court chief prosecutor Karim Khan should be permanently removed after misconduct allegations. The vote matters beyond one official because the court is already under pressure from U.S. sanctions tied to its Gaza work, making this a credibility test for international legal institutions under geopolitical strain.",
+          "why_it_matters": "A weakened or internally divided ICC would struggle more to project legitimacy in major war and atrocity cases.",
+          "countries": ["Netherlands", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/993921d128b11cfd15119e872b2a24f8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-and-society",
+      "title": "Asia & Society",
+      "description": "Asia's morning picture mixes maritime coercion, mass protest pressure, and the social fallout from abrupt aid withdrawal.",
+      "kicker": "Regional Stress",
+      "stories": [
+        {
+          "label": "South China Sea",
+          "headline": "A Chinese Coast Guard ship fired a water cannon at a Philippine government vessel near Scarborough Shoal",
+          "summary": "AP video and reporting released on July 24 showed a Chinese Coast Guard vessel blasting water at a Philippine government ship near Scarborough Shoal. The timing matters because it reinforces that the South China Sea remains an active coercion zone even while U.S. attention is heavily absorbed by the Middle East.",
+          "why_it_matters": "Repeated low-level maritime confrontations raise the odds of a sudden crisis, especially when great-power attention is divided.",
+          "countries": ["China", "Philippines"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/video/chinese-coast-guard-fires-water-cannon-at-philippines-government-ship-in-south-china-sea-1c9549e907d744019369eb04b8113fc7"
+            }
+          ]
+        },
+        {
+          "label": "India",
+          "headline": "Sonam Wangchuk has ended his 26-day hunger strike, but India's 'Cockroach' protest movement says it will keep pushing",
+          "summary": "AP reported that activist Sonam Wangchuk ended a 26-day hunger strike that had become a focal point for one of India's biggest youth protest waves in years. The demonstrations are now larger than one individual campaign and have turned into a broader test of how the Indian state responds when a protest movement starts framing itself as a durable national challenge.",
+          "why_it_matters": "Large sustained protest movements matter when they force governments to choose between concession, delay, and coercion in public view.",
+          "countries": ["India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/india-cockroach-protests-sonam-wangchuk-e2f114b6cf6568bb8f5d739fe36349ed"
+            }
+          ]
+        },
+        {
+          "label": "Nepal",
+          "headline": "Former aid workers in Nepal are falling into extreme precarity after USAID cuts erased tens of thousands of jobs",
+          "summary": "AP reported that roughly 35,000 aid workers in Nepal lost their jobs after U.S. foreign-aid cuts, with some transgender former workers turning to sex work to survive. The story is brutal but important because it shows how abstract budget decisions in Washington can quickly become a social-protection collapse in already fragile labor markets.",
+          "why_it_matters": "Aid cuts reshape real human vulnerability fastest where marginalized workers were already living close to the edge.",
+          "countries": ["Nepal", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/usaid-nepal-sex-workers-trump-budget-cuts-d8ea21ca4d43f1598ea54499123d46e0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-and-climate",
+      "title": "Markets, Energy & Climate",
+      "description": "Conflict spillover is now showing up directly in prices, supply-route planning, and climate-linked emergency response.",
+      "kicker": "System Spillover",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Markets",
+          "headline": "Asian stocks slid as Brent crude pushed above $100, showing that traders are now pricing prolonged Gulf risk",
+          "summary": "AP reported that shares fell across Asia on July 24 while Brent crude briefly climbed above $102 a barrel before settling around $100.69. The move matters because energy markets are no longer reacting only to isolated strike headlines; they are pricing in a more durable disruption risk to oil and gas flows.",
+          "why_it_matters": "Higher energy prices feed into transport, inflation, and political stress well beyond the immediate combat zone.",
+          "countries": ["Japan", "China", "South Korea", "Australia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97"
+            }
+          ]
+        },
+        {
+          "label": "Energy Routes",
+          "headline": "Gulf producers are accelerating pipelines and bypass routes to reduce reliance on the Strait of Hormuz",
+          "summary": "AP reported that Saudi Arabia, the UAE, Iraq, and others are stepping up projects designed to move more oil around Hormuz, with analysts estimating that new routes could eventually let around 60% of prewar Gulf exports bypass the strait. The practical lesson is that governments are acting as if disruption may persist long enough to justify expensive structural workarounds.",
+          "why_it_matters": "When states start redesigning export infrastructure, the conflict has already moved from short-term shock into medium-term strategic adjustment.",
+          "countries": ["Saudi Arabia", "United Arab Emirates", "Iraq", "Jordan", "Turkey", "Syria"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/oil-strait-of-hormuz-iran-896c02f0c978986fff0ae7fc389ea51f"
+            }
+          ]
+        },
+        {
+          "label": "Wildfire",
+          "headline": "More than 20,000 people have been evacuated near Bordeaux as another major French wildfire spreads",
+          "summary": "AP reported that a wildfire on France's Atlantic coast forced mass evacuations near Lege-Cap-Ferret as firefighters tried to keep flames from homes after more than 31 square kilometers had burned. The story stands out because it fits a broader Southern European pattern of heat, drought, and repeated large-fire emergencies stretching response systems.",
+          "why_it_matters": "Climate-linked fire seasons become governance and economic stories when tourism zones, housing, and emergency capacity are all hit at once.",
+          "countries": ["France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/28b44eff7d7d8e435175bcb546440ed0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's local signal is split between Black Sea security exposure and another failure to restore a functioning government.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Black Sea",
+          "headline": "A sailor has died after a Ukraine-bound tanker caught fire off Romania's coast, and officials are probing a war link",
+          "summary": "AP reported that a sailor injured aboard the Liberian-flagged Gas Lisbon died after the tanker was struck off Romania's Black Sea coast while heading toward Ukraine. The incident matters because it underlines how close Romania remains to the operational edge of the wider Russia-Ukraine war even when the blast occurs offshore.",
+          "why_it_matters": "Maritime incidents near Romania's coast are not only local accidents; they can become alliance and shipping-security signals on NATO's eastern flank.",
+          "countries": ["Romania", "Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-sailor-dies-tanker-fire-ukraine-war-5bd58676987e0f8a0cb0bd79a59964eb"
+            }
+          ]
+        },
+        {
+          "label": "Government",
+          "headline": "Romanian lawmakers have rejected a new government, extending the country's political crisis",
+          "summary": "AP reported that lawmakers rejected the proposed government led by prime minister-designate Adrian Vestea, prolonging the deadlock after repeated efforts to stabilize the executive. The bigger issue is not one failed vote by itself, but the continued inability to restore durable governing capacity during a period of fiscal and regional pressure.",
+          "why_it_matters": "Extended political paralysis weakens Romania's ability to manage budgets, reforms, and external-security demands at the same time.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-parliament-adrian-vestea-prime-minister-cabinet-rejected-cebfbe0963e1650edad381012fbeba95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful this morning as a rough audience-attention map around visible military embarrassment, economic strain, and European political anxiety.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Russia/Ukraine",
+          "headline": "A top r/worldnews attention signal is the claim that Russia's flagship Su-57 may have crashed outside Moscow",
+          "summary": "One of the most visible posts on r/worldnews today centers on reporting that Russia's Su-57 stealth fighter may have crashed near Moscow. The thread is useful less as confirmed primary reporting than as a signal that readers are highly sensitive to any story implying Russian military prestige or capability damage.",
+          "why_it_matters": "Audience attention often spikes around events that make a long war look suddenly embarrassing or unstable for one side.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/"
+            }
+          ]
+        },
+        {
+          "label": "Russia Economy",
+          "headline": "Another strong Reddit signal is concern over claims that Russians are pulling cash as banking stress grows",
+          "summary": "A prominent r/worldnews thread focuses on reports of significant problems in Russia's banking system and public cash withdrawals. Even when the underlying reporting needs separate verification, the engagement is a useful signal that audiences are looking for economic-fragility indicators behind the Kremlin's wartime posture.",
+          "why_it_matters": "Public fascination with banking stress reflects a broader search for signs that war pressure is reaching everyday financial stability.",
+          "countries": ["Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/"
+            }
+          ]
+        },
+        {
+          "label": "France Politics",
+          "headline": "Reddit is also heavily engaging with Elon Musk's endorsement of Marine Le Pen as a foreign-influence flashpoint",
+          "summary": "A top r/worldnews post highlights Elon Musk backing Marine Le Pen for the French presidency and the backlash that followed. The value here is not as core global-news importance, but as a strong public-attention signal around foreign influence, platform power, and far-right normalization in Europe.",
+          "why_it_matters": "High engagement around cross-border political endorsements points to public anxiety about who gets to shape democratic contests from outside the country.",
+          "countries": ["France", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
