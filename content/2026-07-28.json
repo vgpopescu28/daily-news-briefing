@@ -1,0 +1,351 @@
+{
+  "date": "2026-07-28",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Tuesday, July 28, 2026 opens with a fragile U.S.-Iran off-ramp, climate emergencies across multiple regions, and sharper geopolitical pressure from Europe to the South China Sea.",
+  "generated_at": "2026-07-28T09:05:12+03:00",
+  "summary": {
+    "spotlight": "The main global signal this morning is that conflict risk has not disappeared; it has shifted from pure escalation into a more unstable mix of negotiation, proxy attacks, and political strain. At the same time, Europe, South Asia, and the Pacific are all dealing with climate or weather shocks large enough to become governance stories, while Asia and Latin America continue to show how quickly regional tensions can harden into broader strategic disputes.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition prioritizes the stories most likely to affect war risk, energy flows, alliance behavior, climate resilience, and public attention over the next several days. Romania remains a dedicated section because repeated Russian drone incursions directly affect local security, and Reddit is included only as a public-signal map rather than primary reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Mediators say the United States and Iran are moving back toward talks, but regional drone attacks show the war still lacks a stable off-ramp",
+    "summary": "AP reported on July 28 that regional officials see progress in getting Washington and Tehran back into negotiations after both sides paused direct attacks. The pause matters, but it is not peace: armed groups are still launching attacks around the region, which means the conflict has shifted into a more fragile phase where diplomacy and escalation can advance at the same time.",
+    "why_it_matters": "When a major war enters a pause-with-proxies phase, the immediate danger becomes miscalculation by a partner or militia that neither main side fully controls.",
+    "countries": ["Iran", "United States", "Qatar", "Pakistan"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-hormuz-strait-war-qatar-pakistan-d57e675a7be6dbdd34561909ced240d0"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The region’s main story is not resolution but a tense overlap of negotiations, proxy strikes, and political repositioning.",
+      "kicker": "Fragile Pause",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Talks",
+          "headline": "Regional mediators say Washington and Tehran have made enough progress to resume negotiations after a pause in direct strikes",
+          "summary": "AP reported that mediators see real movement toward renewed U.S.-Iran talks after both sides paused attacks following a rapid escalation cycle. That is the strongest de-escalation signal on the board this morning, but the atmosphere remains unstable because allied armed groups are still active across the region.",
+          "why_it_matters": "Even limited diplomatic traction can reduce immediate market panic, but only if regional proxies do not sabotage the process first.",
+          "countries": ["Iran", "United States", "Qatar", "Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-hormuz-strait-war-qatar-pakistan-d57e675a7be6dbdd34561909ced240d0"
+            }
+          ]
+        },
+        {
+          "label": "Red Sea",
+          "headline": "Yemen’s Houthis say they fired missiles and drones at Saudi energy sites after strikes on Hodeida",
+          "summary": "AP reported that the Houthis targeted Aramco-linked facilities in Yanbu and Jizan after Saudi strikes on Hodeida, while civil-defense alerts sounded in both Saudi cities. The attack matters because it broadens the shipping and energy risk map beyond Hormuz into the Red Sea corridor.",
+          "why_it_matters": "Pressure on both Hormuz and Red Sea routes would raise the cost of any diplomatic failure by turning a regional war into a wider trade shock.",
+          "countries": ["Yemen", "Saudi Arabia", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-hormuz-strait-war-25-july-2026-df3790320c595f3e599fb1dd69423e77"
+            }
+          ]
+        },
+        {
+          "label": "Israel",
+          "headline": "Netanyahu’s first White House visit since the Iran war began is aimed at repairing a visibly strained relationship with Trump",
+          "summary": "AP reported that Benjamin Netanyahu is meeting Donald Trump after open disagreements emerged over whether to keep pressing the war with Iran or move toward a deal. The visit is less about ceremony than about whether Israel can still shape U.S. decisions now that Washington is pursuing a negotiated track.",
+          "why_it_matters": "If Washington and Jerusalem diverge publicly during an active regional crisis, allies and markets will start pricing in a looser and less predictable coalition.",
+          "countries": ["Israel", "United States", "Iran", "Lebanon"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-netanyahu-meeting-iran-war-2d9ade01d2977dee5555f24daee30482"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon",
+          "headline": "The U.N. human rights chief is pressing Israel to end its southern Lebanon occupation and stop house demolitions",
+          "summary": "AP reported that U.N. High Commissioner for Human Rights Volker Turk urged Israel to end its military presence in southern Lebanon and halt demolitions there. The intervention stands out because it shows the broader regional conflict is also becoming a legitimacy and legal-pressure story, not only a military one.",
+          "why_it_matters": "Human-rights pressure does not stop wars by itself, but it shapes diplomatic leverage, alliance politics, and the durability of ceasefire arrangements.",
+          "countries": ["Lebanon", "Israel", "United Nations"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/lebanon-israel-hezbollah-un-human-rights-66fba686f73dbbb01e0abe23c388cc0e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-and-security",
+      "title": "Europe & Security",
+      "description": "Europe’s pressure points combine war diplomacy, domestic security shocks, and the strategic spillover from Ukraine.",
+      "kicker": "Continental Strain",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Ukraine Diplomacy",
+          "headline": "Zelenskyy is heading to Washington for another Trump meeting as Congress re-centers sanctions and air defense support",
+          "summary": "AP reported that Volodymyr Zelenskyy will meet Trump at the White House before Lindsey Graham’s funeral, with sanctions on buyers of Russian exports and Patriot cooperation back in focus. The trip matters because it suggests Kyiv still sees room to shape U.S. policy at a moment when Washington is juggling both Ukraine and Iran.",
+          "why_it_matters": "High-level access in Washington matters most when U.S. strategic attention is divided and every foreign crisis is competing for the same political bandwidth.",
+          "countries": ["Ukraine", "United States", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/fc0dc04777dc7a1d2a3fd88502e8365b"
+            }
+          ]
+        },
+        {
+          "label": "Berlin",
+          "headline": "Questions are mounting over how a known extremist was free before the deadly Berlin Pride attack",
+          "summary": "AP reported that scrutiny is intensifying after a fatal attack at Berlin’s Pride festival exposed gaps in how Germany handled a 21-year-old suspect with prior Islamic State links. The story matters beyond one city because it is already feeding wider debate over public safety, radicalization, and the state’s capacity to manage high-risk cases.",
+          "why_it_matters": "Security failures tied to known extremists often carry a political afterlife far beyond the attack itself.",
+          "countries": ["Germany", "Poland"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e364b80d141376beb47fafc89f11c5c0"
+            }
+          ]
+        },
+        {
+          "label": "Britain",
+          "headline": "Zelenskyy and Britain’s new prime minister are expanding drone and missile-defense cooperation",
+          "summary": "AP reported that Zelenskyy met new U.K. Prime Minister Andy Burnham to discuss joint drone projects, ballistic missile defense, and defense manufacturing. That is a concrete sign that allies are moving from short-term aid toward more integrated military production relationships.",
+          "why_it_matters": "Wars become more durable when partner states move from emergency supply to shared industrial planning.",
+          "countries": ["Ukraine", "United Kingdom", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/505af356645b8ecd779454ce0e02051a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate & Disasters",
+      "description": "Climate-linked emergencies are now large enough to test evacuation systems, emergency logistics, and public confidence across several regions at once.",
+      "kicker": "Stress Test",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "France",
+          "headline": "Macron says France is facing its worst fire crisis since World War II as the Bordeaux-area megafire keeps spreading",
+          "summary": "AP reported that Emmanuel Macron visited the firefighting command center near Bordeaux as a wildfire burned an area four times the size of Paris and forced 220,000 people to flee. The scale matters because this is no longer a routine summer fire story but a national-capacity emergency.",
+          "why_it_matters": "When a wildfire becomes a state-level crisis, it stops being only an environmental event and becomes a test of infrastructure, trust, and preparedness.",
+          "countries": ["France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-wildfires-france-spain-bordeaux-01d41aae7a3c835b270306288023f8e3"
+            }
+          ]
+        },
+        {
+          "label": "Pakistan",
+          "headline": "Pakistan’s monsoon death toll has passed 100, with more heavy rain forecast this week",
+          "summary": "AP reported that at least 109 people have died in Pakistan since June 26 as monsoon rains and flash floods continue, with many deaths caused by collapsing homes and roofs. The story stands out because the casualty count is still rising and the system is not yet finished delivering rain.",
+          "why_it_matters": "Recurring monsoon disasters become long-term state-capacity problems when fatal housing vulnerability remains widespread.",
+          "countries": ["Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/pakistan-monsoon-rains-related-casualties-c5d2ca693cfb1d207a8caee0ae2115ff"
+            }
+          ]
+        },
+        {
+          "label": "Pacific",
+          "headline": "Major Hurricane Genevieve is roaring through the Pacific while Fausto weakens near Hawaii",
+          "summary": "AP reported late July 27 that Genevieve briefly reached Category 5 strength and is generating dangerous surf along Mexico’s coast, while Fausto is weakening but still affecting Hawaii’s east-facing shores. Even without a direct landfall, the storm pair is a reminder of how quickly Pacific systems can turn into cross-border coastal hazards.",
+          "why_it_matters": "Large offshore storms still matter when they create dangerous surf, transport disruption, and emergency-preparedness demands across several coastlines.",
+          "countries": ["Mexico", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/158b8d651c09f90145efdfad09cd099d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-pacific",
+      "title": "Asia-Pacific",
+      "description": "Maritime disputes, diplomatic mistrust, and disaster response are all reinforcing the sense that the region remains strategically unsettled.",
+      "kicker": "Regional Friction",
+      "stories": [
+        {
+          "label": "Philippines",
+          "headline": "Marcos used his state of the nation speech to reaffirm the 2016 South China Sea ruling and reject Beijing’s pressure",
+          "summary": "AP reported that Ferdinand Marcos Jr. pledged to defend the arbitration ruling that invalidated China’s sweeping South China Sea claims and rebuked recent racist Chinese state-media imagery aimed at Filipinos. The speech matters because Manila is hardening both its legal and political posture instead of looking for rhetorical compromise.",
+          "why_it_matters": "When a frontline state frames a maritime dispute as both sovereign and civilizational, de-escalation becomes harder and domestic backing for a tougher line grows.",
+          "countries": ["Philippines", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/philippine-president-ferdinand-marcos-jr-state-of-nation-speech-8556820a6c0b75656b1da62ed971c9c3"
+            }
+          ]
+        },
+        {
+          "label": "South China Sea",
+          "headline": "A multinational search is underway after a cargo ship sank off a Chinese-occupied shoal in disputed waters",
+          "summary": "AP reported that Vietnamese, Philippine, and Chinese rescuers were searching for 17 missing crew members after a cargo ship sank in bad weather near a contested South China Sea shoal. The rescue effort is humanitarian first, but it is unfolding in one of the world’s most politically sensitive waterways.",
+          "why_it_matters": "Even non-military emergencies in disputed seas can become geopolitical events when rival claimants must cooperate under pressure.",
+          "countries": ["Vietnam", "Philippines", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/vietnam-cargo-ship-sinks-missing-search-4e27cd95cc89d173c530da04b4195b76"
+            }
+          ]
+        },
+        {
+          "label": "Japan-China",
+          "headline": "China and Japan are publicly disputing whether their foreign ministers even spoke at ASEAN",
+          "summary": "AP reported that Beijing and Tokyo are offering different accounts of whether their foreign ministers held talks on the sidelines of ASEAN in Manila. The disagreement is small on its face, but it signals how thin trust remains even around basic diplomatic choreography.",
+          "why_it_matters": "When major regional powers cannot align on whether a meeting happened, it is a sign that symbolic friction is now part of the strategic contest.",
+          "countries": ["China", "Japan", "Philippines"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-japan-foreign-ministers-wang-motegi-asean-6c20754abd5462e59ec15cdfa1b249d1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-and-power",
+      "title": "Markets & Power",
+      "description": "Energy prices, industrial policy, and regional politics are all reacting to the same broader instability.",
+      "kicker": "System Effects",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil",
+          "headline": "Wall Street steadied and crude fell sharply as traders priced a temporary cooling of U.S.-Iran tensions",
+          "summary": "AP reported that Brent crude fell 6.3% to $85.87 and U.S. stocks finished mixed as the pause in Middle East fighting cut immediate supply fears. The move matters because it shows how much of last week’s price shock was driven by war-premium expectations rather than a settled physical disruption.",
+          "why_it_matters": "When oil swings this hard on diplomacy headlines, energy markets are signaling how thin the margin for policy error has become.",
+          "countries": ["United States", "Iran", "Saudi Arabia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/2b81f0e01bb318ae8d4281964f89f2f1"
+            }
+          ]
+        },
+        {
+          "label": "Nuclear Power",
+          "headline": "Italy is moving toward a legal framework for next-generation nuclear power as younger voters prioritize energy security",
+          "summary": "AP reported that Giorgia Meloni’s government expects Parliament to back legislation setting a framework for new nuclear technologies, even though older voters still associate atomic power with Chernobyl. The shift is notable because it reflects how war-driven energy anxiety is changing the politics of previously taboo infrastructure.",
+          "why_it_matters": "Energy-security shocks can reopen policy paths that looked politically closed for decades.",
+          "countries": ["Italy"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/italy-nuclear-power-law-eu-chernobyl-plant-small-reactors-0ac9e59bd9f227ddceafeb48e9d1a701"
+            }
+          ]
+        },
+        {
+          "label": "South America",
+          "headline": "Brazil has recalled its ambassador after Milei insulted Lula and a Supreme Court justice on Brazilian soil",
+          "summary": "AP reported that Brazil recalled Ambassador Julio Bitelli for consultations after Argentine President Javier Milei called Lula a thief and attacked a top Brazilian judge. The diplomatic clash matters because it hardens the political divide between South America’s two largest economies at a moment of wider trade and ideological tension.",
+          "why_it_matters": "Personalized leader-to-leader feuds can spill into trade, regional coordination, and investor confidence faster than formal policy disputes do.",
+          "countries": ["Brazil", "Argentina"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/brazil-ambassador-milei-argentina-bolsonaro-43f2f81a3f51ccb35d5b143ae59ba756"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania’s strongest local signal this morning is direct airspace pressure from Russia’s war next door.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Airspace",
+          "headline": "Romania has shot down a third suspected Russian drone in three days after another airspace incursion",
+          "summary": "AP reported that Romania intercepted and downed a suspected Russian drone after it crossed into national airspace near the Danube Delta, marking the third such incident in three days. This is the clearest local security signal today because it shows the Ukraine war’s spillover risk is no longer theoretical for a NATO member on the Black Sea flank.",
+          "why_it_matters": "Repeated drone incursions raise the odds that a routine interception could become a larger alliance incident.",
+          "countries": ["Romania", "Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-drone-nato-jets-91a70ccfe31d0efd11ca57309281c1f4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful this morning as an audience-attention map around perceived Russian weakness, economic fragility, and foreign influence in Europe.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Russia/Ukraine",
+          "headline": "One of the strongest r/worldnews attention spikes is around claims that Russia’s Su-57 may have crashed outside Moscow",
+          "summary": "A top r/worldnews thread centers on reports that Russia’s most prestigious fighter program may have suffered a crash near Moscow. The thread is useful less as primary confirmation than as a signal that readers are highly engaged by stories that suggest symbolic or technological embarrassment for Russia.",
+          "why_it_matters": "Audience attention often concentrates on moments that seem to puncture the image of military competence or prestige.",
+          "countries": ["Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v4aa2m/russias_crownjewel_su57_may_have_crashed_outside/"
+            }
+          ]
+        },
+        {
+          "label": "Russia Economy",
+          "headline": "Another high-engagement Reddit signal is concern over reports of Russian banking stress and cash withdrawals",
+          "summary": "A separate top r/worldnews post focuses on claims that Russians are pulling cash as confidence in the banking system weakens. Even when underlying reports require separate verification, the public reaction is a useful signal that audiences are searching for signs that wartime pressure is reaching everyday financial life.",
+          "why_it_matters": "Economic-fragility stories gain traction when people think battlefield pressure may finally be showing up in ordinary domestic systems.",
+          "countries": ["Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v4lm8d/significant_problems_in_russian_banking_system_as/"
+            }
+          ]
+        },
+        {
+          "label": "France Politics",
+          "headline": "Reddit is also heavily engaging with Elon Musk’s backing of Marine Le Pen as a foreign-influence flashpoint",
+          "summary": "One of the most visible r/worldnews posts highlights Elon Musk endorsing Marine Le Pen and the accusations of outside interference that followed in France. The value here is not as the day’s core global story but as a clear public-attention signal around platform power, elite influence, and democratic vulnerability.",
+          "why_it_matters": "High engagement around cross-border endorsements shows how quickly voters interpret tech power as political power.",
+          "countries": ["France", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uyaxwe/billionaire_elon_musk_has_thrown_his_support/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
