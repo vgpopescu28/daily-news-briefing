@@ -1,0 +1,350 @@
+{
+  "date": "2026-07-29",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Wednesday, July 29, 2026 opens with the Iran war flaring again, Japan and southern Europe facing major disaster response tests, and a sharper mix of security and energy stress from Romania to the South China Sea.",
+  "generated_at": "2026-07-29T09:04:46+03:00",
+  "summary": {
+    "spotlight": "The clearest global signal this morning is that the recent pause in the Iran war has broken down into a more dangerous hybrid phase of missile launches, proxy strikes, and hurried diplomacy. At the same time, Japan's deadly earthquake and the France-Spain wildfire emergency show how quickly natural hazards are becoming national-capacity stories, while Europe and Asia remain focused on deterrence, maritime pressure, and energy resilience.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition prioritizes stories that move war risk, alliance behavior, evacuation pressure, shipping and energy expectations, and public attention. Romania stays separate because Russian drone incursions now directly affect local security, and Reddit is used only as a public-signal map rather than primary reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Jordan intercepted missiles from Iran after US and Saudi strikes in Iraq showed the regional war pause has effectively ended",
+    "summary": "AP reported on July 29 that Jordan shot down five missiles launched from Iran after U.S. and Saudi forces struck Iran-aligned militias in Iraq, while Al Jazeera reported the strikes were framed as retaliation for a month of drone attacks. The main signal is that the conflict is no longer in a stable de-escalation channel; it has shifted into a looser pattern where formal talks, partner retaliation, and air-defense incidents can all happen in the same day.",
+    "why_it_matters": "Once missile interceptions spread across third countries, the risk is no longer only direct war between the principal actors but a wider regional chain of miscalculation.",
+    "countries": ["Iran", "Jordan", "Iraq", "Saudi Arabia", "United States"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-war-us-hormuz-strait-july-29-2026-e31d249ba6443decdd3e63cd00f0fb84"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The region's core story is renewed cross-border fire despite continued attempts to keep the war politically contained.",
+      "kicker": "Pause Broken",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Escalation",
+          "headline": "Jordan intercepted Iranian missiles after US and Saudi Arabia struck Iran-aligned militias in Iraq",
+          "summary": "AP said Jordan's air defenses brought down five missiles early Wednesday, while the United States said it had also blunted an Iranian missile barrage after a brief lull in fighting. Al Jazeera reported that Washington and Riyadh cast their strikes in Iraq as retaliation for repeated IRGC-directed drone attacks, underscoring how fast the conflict has widened beyond direct US-Iran exchanges.",
+          "why_it_matters": "A war becomes harder to stabilize when allied states are simultaneously intercepting missiles, launching retaliatory strikes, and trying to preserve diplomatic room.",
+          "countries": ["Iran", "Jordan", "Iraq", "Saudi Arabia", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-war-us-hormuz-strait-july-29-2026-e31d249ba6443decdd3e63cd00f0fb84"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks"
+            }
+          ]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Netanyahu and Trump used their first meeting since the Iran war began to show unity, but the need for the visit revealed visible strain",
+          "summary": "AP reported that Benjamin Netanyahu met Donald Trump in Washington for the first time since the war with Iran began, with both leaders stressing alignment after weeks of friction over how hard to keep pressing Tehran. The meeting matters because coalitions often look strongest precisely when they feel the need to publicly reassert that they are still coordinated.",
+          "why_it_matters": "If US and Israeli war aims drift apart in public, every regional actor will test the gap.",
+          "countries": ["Israel", "United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-netanyahu-meeting-iran-war-2d9ade01d2977dee5555f24daee30482"
+            }
+          ]
+        },
+        {
+          "label": "Domestic Repression",
+          "headline": "Iran publicly executed two men accused of killing police officers during January protests",
+          "summary": "AP reported that Iran hanged two men convicted over killings during this year's anti-government protests. The executions stand out because they show Tehran trying to project internal control even as it faces external military pressure and renewed diplomatic uncertainty.",
+          "why_it_matters": "Governments under wartime stress often use harsh internal punishment to signal regime durability at home and abroad.",
+          "countries": ["Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-hangs-men-january-nationwide-protests-a740c368587fcddf4762eca14a29157c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-security",
+      "title": "Ukraine & Security",
+      "description": "Europe's eastern flank is combining battlefield support, sanctions pressure, and more direct responses to spillover from Russia's war.",
+      "kicker": "Hardening Posture",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Britain",
+          "headline": "Zelenskyy and Britain's new prime minister expanded drone and missile-defense cooperation",
+          "summary": "AP reported that Volodymyr Zelenskyy met U.K. Prime Minister Andy Burnham to discuss joint drone projects, missile defense, and defense manufacturing. The signal is that Ukraine's most committed partners are still moving away from ad hoc resupply and toward longer-horizon industrial integration.",
+          "why_it_matters": "Wars become structurally harder for aggressors to win when partner states start planning shared production instead of temporary aid.",
+          "countries": ["Ukraine", "United Kingdom", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-burnham-iran-araghchi-505af356645b8ecd779454ce0e02051a"
+            }
+          ]
+        },
+        {
+          "label": "Sanctions",
+          "headline": "The US Senate took its first major step on a Russia sanctions bill while Zelenskyy watched from the gallery",
+          "summary": "AP reported that the Senate advanced a sanctions package aimed at buyers of Russian energy and other enablers of Moscow's war, with Zelenskyy present during the vote. Even though the bill is American legislation, it matters internationally because it targets the trade flows that keep Russia financed.",
+          "why_it_matters": "Sanctions start to matter strategically when they go after third-country demand rather than only punishing Russia symbolically.",
+          "countries": ["United States", "Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1d5b6ee3082e409422ace0993becdd54"
+            }
+          ]
+        },
+        {
+          "label": "Romania",
+          "headline": "Romania has shifted from monitoring Russian drones to shooting them down after repeated incursions from the Ukraine war",
+          "summary": "AP reported that Romania downed three drones in three days and has now openly moved to a more direct interception posture after years of spillover incidents. That change matters because a NATO state on the Black Sea flank is treating incursions less as anomalies and more as a recurring operational problem.",
+          "why_it_matters": "A tactical rule change by a frontline NATO member can alter how Moscow calculates risk around future drone attacks near alliance territory.",
+          "countries": ["Romania", "Russia", "Ukraine", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-europe-russia-ukraine-war-drones-nato-ee9775ba338f5408bfa9ab3cb5f2ad1d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate & Disasters",
+      "description": "Large-scale emergencies in Japan and southern Europe are testing rescue systems, evacuation logistics, and public resilience at the same time.",
+      "kicker": "Emergency State",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Japan",
+          "headline": "Japan's Kyushu earthquake death toll rose to 13 as rescuers kept searching damaged industrial and retail sites",
+          "summary": "AP reported that the 7.1 magnitude earthquake in southern Japan killed at least 13 people and left rescuers searching collapsed buildings, including a mall and a factory. The disaster is significant not only because of the casualties, but because it has disrupted power, transport, and shelter systems during summer heat.",
+          "why_it_matters": "A major quake becomes a national systems story when rescue, cooling, transport, and shelter capacity all come under pressure at once.",
+          "countries": ["Japan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/japan-earthquake-kumamoto-kagoshima-mall-factory-6b0fe69d44fa5c82ac4765a8ad82ebf6"
+            }
+          ]
+        },
+        {
+          "label": "France & Spain",
+          "headline": "Wildfires across France and Spain displaced roughly a third of a million people, with more evacuations ordered near Bordeaux",
+          "summary": "AP reported that authorities ordered thousands more evacuations as fires in southwest Europe pushed the regional displacement total to roughly 330,000. This is no longer a conventional summer wildfire story; it is a combined climate, housing, transport, and civil-protection emergency.",
+          "why_it_matters": "Once evacuations reach this scale, wildfire risk becomes a governance problem as much as an environmental one.",
+          "countries": ["France", "Spain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-wildfires-france-spain-bordeaux-0880421447ebd9ad4d2e505b37c54181"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-wildfires-france-spain-evacuees-shelter-13b3173c427388881108c58510312993"
+            }
+          ]
+        },
+        {
+          "label": "Pacific Storms",
+          "headline": "Hurricane Genevieve strengthened in the Pacific while Fausto still sent hazardous surf toward Hawaii",
+          "summary": "AP reported that Genevieve roared in the Pacific as Fausto weakened but continued to affect Hawaii's east-facing shores. Even without a direct catastrophic landfall, the storm pattern matters because it is producing multi-country coastal risk and repeated emergency-readiness demands.",
+          "why_it_matters": "Offshore storms still become high-value stories when they stress transport, tourism, and coastal protection across several places at once.",
+          "countries": ["Mexico", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/tropical-weather-hurricane-genevieve-fausto-158b8d651c09f90145efdfad09cd099d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-pacific",
+      "title": "Asia-Pacific",
+      "description": "The region's pressure points continue to revolve around contested waters, diplomatic mistrust, and military safety risks.",
+      "kicker": "Maritime Friction",
+      "stories": [
+        {
+          "label": "Philippines",
+          "headline": "Marcos used his state of the nation speech to reaffirm the South China Sea ruling and reject pressure from Beijing",
+          "summary": "AP reported that Ferdinand Marcos Jr. pledged to uphold the 2016 arbitration ruling that rejected China's sweeping South China Sea claims. The speech signals that Manila is hardening its legal and political line rather than searching for rhetorical accommodation.",
+          "why_it_matters": "A frontline state's public refusal to soften its position narrows the room for tactical de-escalation in disputed waters.",
+          "countries": ["Philippines", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/philippine-president-ferdinand-marcos-jr-state-of-nation-speech-8556820a6c0b75656b1da62ed971c9c3"
+            }
+          ]
+        },
+        {
+          "label": "ASEAN",
+          "headline": "China and Japan are publicly disputing whether their foreign ministers even spoke at ASEAN",
+          "summary": "AP reported that Beijing and Tokyo gave conflicting accounts about whether their foreign ministers held talks in Manila. The disagreement looks minor on the surface, but it is a useful sign of how thin trust remains even around basic diplomatic choreography.",
+          "why_it_matters": "When two major powers cannot agree on whether a meeting happened, symbolic friction has become part of the strategic contest.",
+          "countries": ["China", "Japan", "Philippines"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-japan-foreign-ministers-wang-motegi-asean-6c20754abd5462e59ec15cdfa1b249d1"
+            }
+          ]
+        },
+        {
+          "label": "South Korea",
+          "headline": "Residents near a US base in South Korea were told to evacuate after reports of a white phosphorus leak",
+          "summary": "AP reported that South Korean authorities briefly evacuated residents near a U.S. air base after reports of a white phosphorus leak before later lifting the order. The episode matters because it shows how quickly a local military-safety event can become a civil-defense issue in a heavily militarized region.",
+          "why_it_matters": "Even noncombat incidents around US bases can feed public scrutiny over alliance risk and emergency preparedness.",
+          "countries": ["South Korea", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/south-korea-us-air-base-white-phosphorus-33085a09c2a1b06e7dd310250a4ef72f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-and-power",
+      "title": "Markets & Power",
+      "description": "Energy, industrial policy, and investor behavior are all reacting to the same wider mix of war risk and strategic uncertainty.",
+      "kicker": "System Effects",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Italy",
+          "headline": "Italy is laying the groundwork for next-generation nuclear power as younger voters prioritize energy security",
+          "summary": "AP reported that Italy is moving toward a legal framework for new nuclear technologies nearly four decades after Chernobyl drove the issue into political taboo. The shift is notable because it shows how prolonged energy insecurity is reopening policy options that were closed for a generation.",
+          "why_it_matters": "When energy shocks alter what voters consider acceptable infrastructure, the policy map changes for years, not weeks.",
+          "countries": ["Italy"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/italy-nuclear-power-law-eu-chernobyl-plant-small-reactors-0ac9e59bd9f227ddceafeb48e9d1a701"
+            }
+          ]
+        },
+        {
+          "label": "Oil & Equities",
+          "headline": "Oil prices eased and most of Wall Street rose as traders priced a temporary reduction in immediate war-premium stress",
+          "summary": "AP reported that oil kept easing while most stocks rose, even as technology shares remained weak. The move suggests traders still see the Middle East crisis as unstable, but no longer assume the worst-case shipping and supply shock is imminent every hour.",
+          "why_it_matters": "Markets are effectively pricing geopolitics in real time, which makes each military headline matter beyond the battlefield.",
+          "countries": ["United States", "Iran", "Saudi Arabia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stock-markets-ai-chips-oil-a880057323bd065c325ad19b23de0cf3"
+            }
+          ]
+        },
+        {
+          "label": "Turkey-Iraq",
+          "headline": "Turkey says an energy deal with Iraq could eventually unlock up to 1 million barrels a day of oil flows",
+          "summary": "AP reported that Ankara and Baghdad are discussing a broader energy cooperation deal that Turkey says could eventually support up to 1 million barrels a day. The proposal matters because every alternative route or supply arrangement now carries extra strategic value in a market shaped by war disruption.",
+          "why_it_matters": "In unstable energy markets, future route flexibility can matter almost as much as current production.",
+          "countries": ["Turkey", "Iraq"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/turkey-iraq-prime-minister-alzaidi-visit-facc45078b547e096e96547dc093588d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's strongest local signal this morning remains direct spillover from Russia's war next door.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Airspace",
+          "headline": "Romania's decision to shoot down Russian drones marks a real shift from passive monitoring to active deterrence",
+          "summary": "AP reported that Romanian forces brought down three drones over three days and that authorities are treating the incursions as a pattern rather than isolated accidents. For local readers, the main point is that the security environment on Romania's eastern edge has become more operational and less theoretical.",
+          "why_it_matters": "Routine interceptions can normalize a higher-alert posture, but they also narrow the room for future ambiguity if an incident causes casualties.",
+          "countries": ["Romania", "Russia", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-europe-russia-ukraine-war-drones-nato-ee9775ba338f5408bfa9ab3cb5f2ad1d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful this morning as a map of where global audience attention is clustering around war escalation, climate shock, and Russia's strategic position.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Middle East",
+          "headline": "One of the strongest r/worldnews spikes is around renewed drone and missile attacks hitting Israel, Saudi Arabia, Jordan, and Iraq",
+          "summary": "A high-traffic Reddit thread is focused on reports that the regional fighting resumed across several countries despite the earlier lull. The value here is not primary verification but the clear signal that readers are tracking whether the conflict has tipped back from negotiation talk into broad regional escalation.",
+          "why_it_matters": "Public attention rises fastest when a conflict appears to expand geographically rather than merely intensify where it already was.",
+          "countries": ["Iran", "Israel", "Saudi Arabia", "Jordan", "Iraq"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v8lha9/israel_saudi_arabia_jordan_iraq_attacked_by/"
+            }
+          ]
+        },
+        {
+          "label": "Climate",
+          "headline": "Reddit is also heavily engaging with the argument that Europe's extreme heat would have been impossible without climate change",
+          "summary": "A visible r/worldnews thread built around an AP climate study is drawing strong engagement and emotionally direct reactions from European users living through the heat. That makes it a useful audience signal for how climate attribution is moving from abstract debate into lived daily experience.",
+          "why_it_matters": "When public discussion shifts from curiosity to exhaustion and recognition, climate risk is becoming socially legible as a present-tense problem.",
+          "countries": ["France", "Spain", "Italy", "United Kingdom"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1uidjkw/europes_extreme_heat_would_be_impossible_without/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine/Russia",
+          "headline": "Another strong Reddit signal is sustained enthusiasm around claims that Russia has effectively lost control of the Black Sea contest",
+          "summary": "A high-engagement r/worldnews post centered on Zelenskyy's claim that Russia has lost the Black Sea is pulling the usual mix of humor, strategic commentary, and celebration of Russian naval losses. The thread is useful because it shows how strongly online audiences gravitate to stories that frame the war in terms of symbolic reversals rather than only attrition.",
+          "why_it_matters": "Public attention often consolidates around moments that appear to puncture an adversary's prestige, not just its capabilities.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1unz81t/russia_has_lost_the_black_sea_zelenskyy_says/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
