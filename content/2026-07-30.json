@@ -1,0 +1,310 @@
+{
+  "date": "2026-07-30",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Thursday, July 30, 2026 opens with the U.S.-Iran war widening again, Ukraine pressing Russia's oil system, and climate-driven disruption hitting Japan, southern Europe, and the Danube basin at the same time.",
+  "generated_at": "2026-07-30T09:04:37+03:00",
+  "summary": {
+    "spotlight": "The strongest global signal this morning is that the U.S.-Iran conflict has moved back out of its brief pause and into a broader regional phase involving Jordan, Iraq, Saudi Arabia, shipping, and hurried diplomacy. At the same time, Ukraine is still targeting Russia's refining backbone, while Japan's earthquake response and Europe's drought-and-fire emergency show how physical disasters are now colliding directly with energy systems, transport, and public capacity.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that change war risk, sanctions pressure, energy expectations, evacuation burdens, or regional security posture. Romania stays separate because the Danube drought now has direct local power and transport implications, and Reddit is used only as a public-attention signal."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Jordan intercepted five missiles launched from Iran after new U.S. strikes, confirming that the regional war pause has broken down again",
+    "summary": "AP reported on July 30 that Jordan shot down five missiles launched from Iran shortly after the United States carried out a new wave of retaliatory strikes, while Al Jazeera reported explosions across southern Iran after Washington threatened a hard response to the earlier attack on U.S. forces in Jordan. The important shift is that the conflict is no longer behaving like a contained exchange between principals; it is again pulling in neighboring airspace, Iraqi militias, Saudi security interests, and shipping risk at the same time.",
+    "why_it_matters": "Once missile interceptions, proxy strikes, and retaliatory diplomacy all happen in parallel, the odds of a wider miscalculation rise sharply.",
+    "countries": ["Iran", "Jordan", "Iraq", "Saudi Arabia", "United States"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/8dc77ed6a65f389ea4af84635d2473bd"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The main global lead is a renewed cycle of missile interception, proxy retaliation, and coalition strain around the widening U.S.-Iran war.",
+      "kicker": "Escalation Returns",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Jordan",
+          "headline": "Jordan shot down five missiles launched from Iran after the U.S. hit dozens of Iranian-linked targets",
+          "summary": "AP said Jordan intercepted five missiles early Thursday after the United States launched what it described as a heavy retaliatory strike package. Al Jazeera reported explosions in Qeshm, Bandar Abbas, Abadan, Bushehr, and central Kazerun, showing how quickly the battlefield has spread back across air-defense zones and populated infrastructure.",
+          "why_it_matters": "When third countries are forced into active interception roles, the war's geography expands faster than formal diplomacy can keep up.",
+          "countries": ["Iran", "Jordan", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8dc77ed6a65f389ea4af84635d2473bd"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan"
+            }
+          ]
+        },
+        {
+          "label": "Saudi Arabia",
+          "headline": "AP says Saudi Arabia's help striking Iran-backed proxies marks a new phase in the conflict and another failed diplomatic reset",
+          "summary": "AP reported that Saudi Arabia has now publicly helped hit Tehran-backed militias while U.S.-Iran diplomacy stalled again after a short lull. The practical meaning is that the war is no longer only about direct retaliation; it is also about which regional states now see active participation as safer than passivity.",
+          "why_it_matters": "Saudi involvement raises the strategic stakes for oil security, Gulf deterrence, and the survival of any future ceasefire channel.",
+          "countries": ["Saudi Arabia", "Iran", "Iraq", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cbb2c3f49f3072c542fc6395468b64b5"
+            }
+          ]
+        },
+        {
+          "label": "Iraq",
+          "headline": "Iraq is being squeezed harder as U.S.-Saudi strikes on Tehran-backed militias collide with Baghdad's disarmament promises",
+          "summary": "AP reported that Iraq's government is under increasing pressure to rein in militias that are formally tied to the state but closely aligned with Iran, even as some of the strongest factions refuse to disarm. Baghdad is trying to avoid becoming the war's default battlefield while also preventing a direct break with Washington or Tehran.",
+          "why_it_matters": "If Iraq cannot contain militia autonomy, it becomes a structural escalation point rather than a buffer.",
+          "countries": ["Iraq", "Iran", "Saudi Arabia", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1b5396ca87f33baa4d5cf44869aaae73"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-security",
+      "title": "Ukraine & Security",
+      "description": "Ukraine's current edge is showing up in long-range strikes, sanctions momentum, and a harder security posture along NATO's eastern flank.",
+      "kicker": "Pressure on the System",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Refineries",
+          "headline": "Ukraine says it hit two major Russian oil refineries hours after Zelenskyy's meetings in Washington",
+          "summary": "AP reported that Ukrainian drones and missiles struck the Ryazan and Perm refineries, adding more pressure to a Russian fuel system already under strain. The attacks came just after Zelenskyy's meetings with Trump, senators, and U.S. defense firms, reinforcing Kyiv's argument that its long-range strike campaign is strategically effective.",
+          "why_it_matters": "Sustained attacks on refining capacity hurt Russia beyond the front line by degrading revenue, logistics, and domestic fuel stability.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4275c2280107aedba37df8704f226ce6"
+            }
+          ]
+        },
+        {
+          "label": "Sanctions",
+          "headline": "The U.S. Senate advanced a Russia sanctions bill as Zelenskyy watched from the gallery",
+          "summary": "AP reported that senators moved forward on a sanctions package aimed at countries and networks helping finance Russia's war, with Zelenskyy present during the vote. The bill matters because it shifts pressure beyond Russia itself and toward the buyers, shippers, and institutions that keep its wartime economy functioning.",
+          "why_it_matters": "Sanctions become strategically sharper when they target the demand and logistics chain instead of only the sanctioned state.",
+          "countries": ["United States", "Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1d5b6ee3082e409422ace0993becdd54"
+            }
+          ]
+        },
+        {
+          "label": "Romania",
+          "headline": "Romania's move to shoot down repeated drone incursions is turning spillover from the war into a standing NATO-border security issue",
+          "summary": "AP reported on July 29 that Romania downed three drones in three days and has shifted from mostly monitoring incursions to active interception. That matters because the Black Sea flank is now treating cross-border drone events less as rare accidents and more as recurring operational risk.",
+          "why_it_matters": "A frontline NATO state's rules-of-engagement change can alter Russian risk calculations even without a formal alliance escalation.",
+          "countries": ["Romania", "Russia", "Ukraine", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-europe-russia-ukraine-war-drones-nato-ee9775ba338f5408bfa9ab3cb5f2ad1d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate & Disasters",
+      "description": "Japan, southern Europe, and the Danube basin are all showing how disasters now hit housing, transport, agriculture, power, and evacuation systems simultaneously.",
+      "kicker": "Capacity Test",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Japan",
+          "headline": "Rescue hopes are fading in southwestern Japan as the earthquake death toll climbed past 20 and heat slowed recovery",
+          "summary": "AP reported that the Kumamoto quake has killed at least 23 people and left thousands without power and water as aftershocks and summer heat complicate rescue work. The damage has reached malls, factories, older homes, and shelter systems, making this more than a casualty count story.",
+          "why_it_matters": "A major earthquake becomes a national systems test when rescue, cooling, utilities, and displacement all come under stress together.",
+          "countries": ["Japan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/80b525f6a271a0b3aecd708342b09294"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reutersconnect.com/item/death-toll-from-powerful-japan-quake-rises-to-13-dozens-missing/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQU5BQ0FBVklERU8yMDI2MDcyOTQyMDkwODg3"
+            }
+          ]
+        },
+        {
+          "label": "Southern Europe",
+          "headline": "Southern Europe is still burning, with France's fire zone four times the size of Paris and firefighter deaths in Greece",
+          "summary": "AP reported that the Gironde blaze in France remains vast, more evacuations are still being ordered, and multiple firefighters have died battling separate fires in Greece. The scale of the emergency now spans tourism, housing, civil protection, and labor capacity across several countries at once.",
+          "why_it_matters": "Once wildfire seasons start displacing hundreds of thousands and killing responders, the story is no longer seasonal but structural.",
+          "countries": ["France", "Spain", "Greece", "Turkey"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c3d9c45cdbf57d19bbec46d49e5237de"
+            }
+          ]
+        },
+        {
+          "label": "Danube Basin",
+          "headline": "Record-low Danube water levels are disrupting shipping, tourism, and reactor cooling across Central Europe",
+          "summary": "AP reported that drought and heat drove the Danube to record lows in places, stranding vessels, exposing wrecks, and forcing reactor shutdowns tied to cooling-water shortages. The story cuts across Hungary, Serbia, Bulgaria, Croatia, and Romania, where the river is now an economic and energy infrastructure problem, not only an environmental one.",
+          "why_it_matters": "When a major river system can no longer reliably support transport and power operations, climate stress becomes an immediate growth and resilience issue.",
+          "countries": ["Romania", "Hungary", "Serbia", "Bulgaria", "Croatia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/05103b433efb46990d9664ba4d155834"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-and-tech",
+      "title": "Asia & Tech",
+      "description": "Asia's morning signals mix maritime rivalry, alliance friction, and the continued financial aftershocks of the AI chip boom.",
+      "kicker": "Strategic Competition",
+      "stories": [
+        {
+          "label": "South China Sea",
+          "headline": "Marcos used his state of the nation speech to refuse Chinese pressure and reaffirm the 2016 South China Sea ruling",
+          "summary": "AP reported that Philippine President Ferdinand Marcos Jr. again anchored Manila's position in the arbitration ruling that rejected Beijing's sweeping claims. The significance is that the Philippines is signaling strategic persistence, not tactical rhetorical softening, even while the region is juggling Iran war energy concerns and ASEAN diplomacy.",
+          "why_it_matters": "A frontline claimant that refuses to soften its public line narrows Beijing's room for quiet coercion.",
+          "countries": ["Philippines", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8556820a6c0b75656b1da62ed971c9c3"
+            }
+          ]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "China and Japan are publicly disputing whether their foreign ministers even spoke at ASEAN",
+          "summary": "AP reported that Tokyo says the foreign ministers exchanged words in Manila while Beijing denies any such interaction took place. On the surface it looks procedural, but it is a clean signal of how little trust now exists even around simple diplomatic choreography.",
+          "why_it_matters": "When major powers cannot agree on whether contact happened, symbolic friction has become part of the strategic contest.",
+          "countries": ["China", "Japan", "Philippines"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6c20754abd5462e59ec15cdfa1b249d1"
+            }
+          ]
+        },
+        {
+          "label": "AI Economy",
+          "headline": "Samsung posted record profit from AI-chip demand even as investors kept selling chipmakers and regional markets stayed shaky",
+          "summary": "AP reported that Samsung booked record quarterly profit on AI memory demand, while a separate AP market dispatch said Asian equities still sold off as investors questioned how sustainable the AI spending cycle will be. The combined message is that the sector's operating boom remains real, but confidence about long-duration returns is getting more selective.",
+          "why_it_matters": "When profits surge but market confidence weakens, investors are starting to distinguish between AI revenue now and AI economics later.",
+          "countries": ["South Korea", "United States", "Japan", "Taiwan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/10c2c548a392988862d8c7bd3f6fae05"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/99b5702d93a2b5c6e513fb952ccdcc92"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's strongest local signal this morning is that climate stress on the Danube is now colliding with energy and transport reliability.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Danube & Power",
+          "headline": "The Danube drought is directly affecting Romania through river logistics and reduced cooling water at Cernavoda",
+          "summary": "AP reported that record-low Danube levels have disrupted cargo and cruise traffic across the basin and have already forced reactor shutdowns linked to cooling-water shortages, including at Romania's Cernavoda plant. For local readers, the point is that extreme heat is no longer an abstract climate warning; it is beginning to touch core infrastructure.",
+          "why_it_matters": "When drought reaches power generation and freight corridors, Romania's resilience challenge becomes economic as well as environmental.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/05103b433efb46990d9664ba4d155834"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful this morning as a public-attention map for which international stories readers see as symbols of escalation, attrition, and climate stress.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran War",
+          "headline": "r/worldnews is heavily centered on the open-ended Iran war discussion thread and renewed reporting about U.S. strikes and Iranian retaliation",
+          "summary": "Reddit's world-news front page and standing discussion thread are still dominated by the U.S.-Iran conflict, with users clustering around whether the latest missile exchanges mean another failed de-escalation attempt. The value here is not primary verification but a clear signal that public attention treats this war as the morning's organizing headline.",
+          "why_it_matters": "Online attention becomes a real signal when one conflict starts crowding out almost every other international topic.",
+          "countries": ["Iran", "United States", "Jordan", "Saudi Arabia", "Iraq"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/"
+            },
+            {
+              "name": "Reddit r/worldnews Discussion Thread",
+              "url": "https://www.reddit.com/r/worldnews/comments/1rzz3v2/rworldnews_discussion_thread_us_and_israel_launch/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine",
+          "headline": "A visible Reddit spike is following Ukraine's continued refinery strikes as readers frame them as proof that Russia's war machine can still be hit deep at home",
+          "summary": "A current r/worldnews post on Ukraine striking Russian oil infrastructure is drawing the familiar mix of tactical discussion, celebration, and debate about how much damage the campaign can sustain. It is useful as an audience signal because infrastructure hits generate more engagement than routine battlefield attrition.",
+          "why_it_matters": "Public attention consolidates fastest around stories that make strategic pressure feel measurable and concrete.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v9shzu/ukraine_says_it_hit_a_major_russian_oil_refinery/"
+            }
+          ]
+        },
+        {
+          "label": "Climate",
+          "headline": "Another meaningful Reddit signal is the strong reaction to Danube low-water imagery and the broader sense that Europe's heat damage is becoming visibly abnormal",
+          "summary": "A current r/worldnews thread built around Reuters imagery from the record-low Danube is pulling wide engagement because the story compresses drought, archaeology, commerce, and climate anxiety into one striking visual. The thread is useful because audiences respond strongly when slow climate trends become easy to see and narrate.",
+          "why_it_matters": "Climate stories gain traction when they shift from forecast language to undeniable physical evidence.",
+          "countries": ["Bulgaria", "Croatia", "Hungary", "Romania", "Serbia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v9y67m/mammoth_remains_revealed_in_bulgaria_after_danube/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
