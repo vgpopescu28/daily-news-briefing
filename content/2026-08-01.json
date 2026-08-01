@@ -1,0 +1,342 @@
+{
+  "date": "2026-08-01",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Saturday, August 1, 2026 opens with a fragile Gaza disarmament push, widening U.S.-Iran escalation, harsher Russian strikes on Kyiv, and growing evidence that disaster pressure is becoming structural across Europe, Asia, and Africa.",
+  "generated_at": "2026-08-01T09:04:04+03:00",
+  "summary": {
+    "spotlight": "The main signal this morning is that diplomacy and escalation are now advancing together in dangerous ways. Washington says Hamas has accepted a disarmament roadmap, but the same regional system is still absorbing Iranian drone attacks, tanker strikes, Red Sea militarization, deeper Russian attacks on Kyiv, a severe Ceuta migration shock, and climate-linked disaster stress from Japan to southern Europe.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that shift war risk, humanitarian pressure, shipping security, public-health strain, or economic confidence. Romania stays separate because repeated Russian drone incursions have become a direct local NATO-border security issue, and Reddit is used only as a public-attention signal."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The Gaza disarmament breakthrough looks real enough to matter, but not stable enough to calm a region still sliding deeper into war",
+    "summary": "AP reported on August 1 that Hamas has agreed in principle to a phased disarmament roadmap tied to an Israeli withdrawal from Gaza, civilian governance changes, and international oversight. The opening matters because it is the first serious sign in months that the war in Gaza could move toward a political endgame, but it is unfolding while the White House is openly weighing new strikes on Iran after attacks on Kuwait and commercial shipping.",
+    "why_it_matters": "A partial diplomatic opening in Gaza will not reduce global risk if the surrounding U.S.-Iran conflict keeps widening faster than implementation can begin.",
+    "countries": ["Gaza", "Israel", "Palestine", "United States", "Iran", "Kuwait"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/7f412f84185deb8f8e409413aaed3e50"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/9304893b474a48d18913d6f70fae4a8e"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The core story remains a Gaza framework emerging inside a regional war that is still generating new military and maritime fronts.",
+      "kicker": "Diplomacy Under Fire",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Gaza",
+          "headline": "AP says Hamas accepted a phased disarmament framework, but the timetable and enforcement questions are still large enough to threaten the deal",
+          "summary": "AP reported that the roadmap would pair disarmament with an Israeli withdrawal, a new civilian administration in Gaza, and outside monitoring. That is strategically important because it gives negotiators a real structure to work with, but key sequencing disputes and long implementation timelines still leave ample room for collapse.",
+          "why_it_matters": "Frameworks announced before verification, sequencing, and enforcement are settled often become another trigger for mistrust rather than a path to peace.",
+          "countries": ["Gaza", "Israel", "Palestine", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7f412f84185deb8f8e409413aaed3e50"
+            }
+          ]
+        },
+        {
+          "label": "U.S.-Iran War",
+          "headline": "The White House signaled Trump is weighing new strikes on Iran after drone attacks on Kuwait and reported tanker attacks in Hormuz",
+          "summary": "AP reported that Iran said it targeted Kuwaiti military sites and oil tankers in the Strait of Hormuz, while Kuwait said it shot down drones and reported material damage but no casualties. The practical signal is that the truce logic has broken down again and the war is still expanding through energy chokepoints and U.S.-aligned Gulf territory.",
+          "why_it_matters": "Once Gulf infrastructure and shipping lanes are drawn directly into retaliation cycles, the conflict becomes harder to contain and more expensive for the world economy.",
+          "countries": ["Iran", "United States", "Kuwait", "Saudi Arabia", "Strait of Hormuz"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9304893b474a48d18913d6f70fae4a8e"
+            }
+          ]
+        },
+        {
+          "label": "Shipping Security",
+          "headline": "Saudi Arabia announced a 14-nation Red Sea defense alliance as war pressure spread from Hormuz toward another major trade corridor",
+          "summary": "An AP live update reported that Riyadh proposed a 14-country coalition to protect maritime security, freedom of navigation, and energy routes in the Red Sea region. The move shows governments are now treating spillover into shipping lanes as a sustained regional-security problem rather than a short-lived side effect of the Iran war.",
+          "why_it_matters": "New ad hoc security coalitions are a sign that states expect the shipping disruption risk to persist, not fade quickly.",
+          "countries": ["Saudi Arabia", "Red Sea", "Egypt", "Turkey", "Pakistan", "United Arab Emirates"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/live/trump-news-hamas-gaza-camp-david-updates-07-31-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-nato-border",
+      "title": "Ukraine & NATO Border",
+      "description": "Russia's missile campaign is still intensifying against Ukrainian cities while spillover risk on NATO's eastern edge keeps growing.",
+      "kicker": "Escalation Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv",
+          "headline": "Russia hit Kyiv with ballistic missiles and drones again, killing at least nine people and renewing pressure for more Patriot defenses",
+          "summary": "AP reported that overnight strikes killed civilians in multiple districts of the capital and damaged homes and infrastructure. The broader meaning is that Russia is keeping urban pressure high enough to make air defense, not front-line maneuver, one of the central determinants of Ukraine's near-term resilience.",
+          "why_it_matters": "Repeated high-casualty strikes on the capital show that Ukraine's biggest strategic gap remains protection of cities and essential infrastructure.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/eb62397d10bca2d6db4269a3bcfc9dc6"
+            }
+          ]
+        },
+        {
+          "label": "Poland",
+          "headline": "A Russian missile crossed into Poland during a wider barrage, forcing NATO aircraft into the air again",
+          "summary": "AP reported that a missile from a deadly Russian strike crossed Ukraine's western border into Poland, where allied aircraft were scrambled. Even if Warsaw does not believe it was the intended target, the operational fact remains that battlefield attacks are repeatedly bleeding into NATO territory.",
+          "why_it_matters": "NATO escalation risk does not require intent if cross-border violations become frequent enough to normalize armed responses.",
+          "countries": ["Ukraine", "Russia", "Poland", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-63ab11e0ebe6a9aefdb547fe442bef3f"
+            }
+          ]
+        },
+        {
+          "label": "Missile Supply",
+          "headline": "Reuters says Russia likely used a North Korean missile in the family-killing strike near Kryvyi Rih, the first such use this year",
+          "summary": "Reuters reported that preliminary source-based assessments point to North Korean missile use in the July 29 strike. That matters because it suggests Moscow may have refreshed outside missile supply just as its long-range strike tempo against civilians is intensifying again.",
+          "why_it_matters": "Evidence of renewed foreign missile sourcing implies Russia's capacity for sustained urban bombardment may be more durable than recent attrition suggested.",
+          "countries": ["Ukraine", "Russia", "North Korea"],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/russia-likely-used-nkorean-missile-deadly-ukraine-strike-first-time-this-year-2026-07-30/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate & Disasters",
+      "description": "Japan, southern Europe, and the global climate system are all showing how repeated shocks are straining response capacity at scale.",
+      "kicker": "Capacity Strain",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Japan",
+          "headline": "Japan's Kumamoto earthquake death toll climbed to 34 as thousands of survivors remained in shelters and cars in punishing heat",
+          "summary": "AP reported that rescuers were still working after the 7.1 quake triggered a mall explosion, toppled a factory chimney, and flattened homes while water, fuel, and power shortages persisted. The disaster is now combining humanitarian need with industrial disruption and heat stress in ways that make recovery harder every day.",
+          "why_it_matters": "Large disasters become national economic shocks when they simultaneously damage supply chains, housing, and public-health capacity.",
+          "countries": ["Japan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/japan-earthquake-kumamoto-mall-factory-b0d6e9cd8f27b09590bbe49f4a701eb6"
+            }
+          ]
+        },
+        {
+          "label": "France Wildfires",
+          "headline": "Volunteers and firefighters are still battling France's worst fires in years after mass evacuations and 42,000 hectares burned",
+          "summary": "AP reported that drought, heat, and persistent underground burning are keeping the southwest France emergency alive even after some evacuees were allowed to return. The wider signal is that southern Europe's summer fire season is increasingly becoming a recurring civil-protection stress test rather than a contained seasonal event.",
+          "why_it_matters": "Repeated evacuation at this scale turns wildfire from a local emergency into a structural test of state capacity and public confidence.",
+          "countries": ["France", "Greece", "United Kingdom", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e9d86be61ca9538b910a78e5cd87553e"
+            }
+          ]
+        },
+        {
+          "label": "Attribution",
+          "headline": "Scientists calculate that human-caused climate change made the recent Spanish and French fire conditions far more likely",
+          "summary": "AP reported that rapid attribution work found climate change made the Spanish fire conditions 20 times more likely and doubled the likelihood of the French conditions. That takes the current wildfire story beyond anecdote and ties it to a measurable shift in background risk.",
+          "why_it_matters": "Attribution evidence turns extreme weather from a debated pattern into a quantified planning problem for governments and insurers.",
+          "countries": ["Spain", "France"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8077d4611308af593805a3d54321ea59"
+            }
+          ]
+        },
+        {
+          "label": "Global Outlook",
+          "headline": "The U.N. warned a strengthening El Nino is adding fuel to climate extremes that could run into 2027",
+          "summary": "AP reported that a key Pacific temperature measure has held record warmth for 15 consecutive weeks, prompting warnings of more heat, drought, wildfire, and flood risk across multiple regions. The implication is that current disasters may be part of a longer and harsher weather cycle rather than a brief spike.",
+          "why_it_matters": "When near-term disasters line up with a stronger climate driver, governments need to plan for compounding shocks instead of isolated crises.",
+          "countries": ["Global", "Australia", "South America", "Southern Africa", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/554b976f05fa0a5583ab73c9d57467ff"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "borders-and-humanitarian-strain",
+      "title": "Borders & Humanitarian Strain",
+      "description": "Ceuta, Sudan, and Congo all point to systems buckling under conflict, displacement, and weak institutional capacity.",
+      "kicker": "Human Cost",
+      "stories": [
+        {
+          "label": "Ceuta",
+          "headline": "About 60,000 migrants crossed into Ceuta and at least 57 died, turning the enclave into a humanitarian and political shock point overnight",
+          "summary": "AP reported that most entrants soon returned to Morocco, but only after the surge overwhelmed local capacity, triggered military deployment, and ignited new border restrictions from neighboring European states. The crisis stands out because it compressed migration pressure, border policy, and visible mass casualty risk into a single day.",
+          "why_it_matters": "A border system that can be overwhelmed this quickly is a warning about how migration, rumor, and state capacity can collide under stress.",
+          "countries": ["Spain", "Morocco"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/66839d113f24ba80d08b36d2b337201c"
+            }
+          ]
+        },
+        {
+          "label": "Sudan",
+          "headline": "AP found Sudanese child soldiers saying Colombian mercenaries trained them for the RSF war effort",
+          "summary": "AP's investigation described children forced into combat roles and trained by Colombians allegedly working for forces aligned with the Rapid Support Forces. The report matters because it reveals both the brutality and the internationalization of a war that already receives too little sustained attention.",
+          "why_it_matters": "Foreign mercenary involvement and child recruitment both signal a conflict that is deepening while accountability remains weak.",
+          "countries": ["Sudan", "Colombia", "United Arab Emirates"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/sudan-war-child-soldiers-colombia-mercenaries-uae-rsf-9730de7a24a28895b2c2c500e7c1fd6b"
+            }
+          ]
+        },
+        {
+          "label": "Congo",
+          "headline": "Congo's Ebola outbreak has passed 1,500 deaths in the fastest-growing Ebola emergency on record",
+          "summary": "AP reported that more than 3,400 cases and 1,500 deaths have been recorded, with violence, distrust, and limited treatment options hampering the response. The broader problem is that high-fatality outbreaks remain especially dangerous where health systems are already fragile and global attention is diverted elsewhere.",
+          "why_it_matters": "Outbreaks become much harder to reverse once deaths are rising faster than containment and treatment capacity.",
+          "countries": ["Democratic Republic of the Congo"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/269eac4d8a93be912459486428ef2f94"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy-and-energy",
+      "title": "Economy & Energy",
+      "description": "Global markets are absorbing weaker Chinese factory data at the same time that war risk keeps pushing energy and shipping concerns higher.",
+      "kicker": "Fragile Confidence",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "China Manufacturing",
+          "headline": "China's factory activity slipped back into contraction in July, adding another warning sign to the global growth outlook",
+          "summary": "AP reported that the official manufacturing PMI fell to 49.2, dropping below the expansion threshold for the first time in five months. The signal matters because China still sits near the center of global shipping demand, commodity pricing, and export-linked industrial expectations.",
+          "why_it_matters": "When Chinese manufacturing weakens again, assumptions about global demand and industrial recovery usually need to be revised downward.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a9a5016ca01d4f65e0491ff5327c0a11"
+            }
+          ]
+        },
+        {
+          "label": "Oil Shock",
+          "headline": "Major U.S. oil companies reported huge profit jumps as the Iran war kept energy prices elevated",
+          "summary": "An AP live update reported that Exxon and Chevron posted sharp profit gains while conflict-driven market stress kept fuel costs high for consumers and importers. The broader point is that the economic burden of war is being distributed unevenly, with producers benefiting while households and trade networks absorb the volatility.",
+          "why_it_matters": "Energy-price spikes driven by conflict do not stay in the Middle East; they ripple into inflation, fiscal pressure, and political frustration elsewhere.",
+          "countries": ["United States", "Iran", "Global"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/live/trump-news-hamas-gaza-camp-david-updates-07-31-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's clearest local signal remains the Ukraine war spilling physically into NATO airspace often enough that interception is now routine policy.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Airspace",
+          "headline": "Romania's new pattern of shooting down intruding drones shows Black Sea spillover is now a standing security reality, not a one-off anomaly",
+          "summary": "AP reported this week that Romania shifted from mostly monitoring incursions to actively downing suspected Russian drones after repeated violations and injuries in May. For local readers, the practical change is that the state is now treating drone spillover from Ukraine as a recurring operational problem on Romanian territory.",
+          "why_it_matters": "When interceptions become normalized on a NATO frontier, the threshold for what counts as routine wartime spillover has already changed.",
+          "countries": ["Romania", "Russia", "Ukraine", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ee9775ba338f5408bfa9ab3cb5f2ad1d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful this morning as a map of where readers see escalation, spillover, and humanitarian stress converging most clearly.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Iran Thread",
+          "headline": "r/worldnews is still running dedicated Iran-war discussion megathreads, a sign users continue to treat the conflict as the day's main organizing story",
+          "summary": "The current discussion thread shows sustained comment volume around Gulf escalation, shipping risk, and speculation about the next U.S. move. That attention pattern matters because it suggests users still see the Iran war as the story most capable of reshaping everything else on the board.",
+          "why_it_matters": "Public attention becomes informative when one conflict keeps absorbing discussion even as multiple other crises compete for space.",
+          "countries": ["Iran", "United States", "Israel", "Gulf"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews discussion thread",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v4rbjf/rworldnews_discussion_thread_us_and_israel_launch/"
+            }
+          ]
+        },
+        {
+          "label": "Gaza Deal",
+          "headline": "A Reuters-linked Reddit post on the Gaza disarmament agreement is drawing attention because users sense the diplomacy may be real but still highly fragile",
+          "summary": "The post's early comments center on whether the parties actually share the same understanding of the deal and whether the broader war can stop long enough for implementation to start. That makes it a useful signal of how quickly audience skepticism rises when a breakthrough is announced without much visible enforcement detail.",
+          "why_it_matters": "Readers react most strongly to diplomatic headlines when the gap between announced success and practical enforceability is obvious.",
+          "countries": ["Gaza", "Israel", "Palestine", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vbyzui/trump_says_israel_very_happy_with_an_agreement/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine Thread",
+          "headline": "The Ukraine live thread remains a second major attention anchor as users react to Kyiv strikes and the North Korean missile angle",
+          "summary": "The running thread is still consolidating discussion around Russia's urban bombardment, NATO-border spillover, and whether outside missile resupply is helping Moscow sustain strike intensity. That blend of human cost and strategic implication is exactly the kind of story mix that drives durable audience attention.",
+          "why_it_matters": "Public focus is strongest when a battlefield update also signals a bigger supply, alliance, or escalation shift.",
+          "countries": ["Ukraine", "Russia", "Poland", "North Korea"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews live thread",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vaisgk/rworldnews_live_thread_russian_invasion_of/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
