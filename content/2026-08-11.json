@@ -1,0 +1,345 @@
+{
+  "date": "2026-08-11",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Tuesday, August 11, 2026 opens with the Strait of Hormuz still unresolved, a deadly Ukraine strike deep inside Russia, Colombia's earthquake rescue emergency, and widening climate and power stress from Romania to western Europe.",
+  "generated_at": "2026-08-11T09:10:00+03:00",
+  "summary": {
+    "spotlight": "The clearest signal this morning is that several systems are still being tested at once. The Gulf remains the top global risk because Hormuz is still being used as leverage, Ukraine is showing it can impose real pain far from the front while the war keeps spilling toward NATO infrastructure, and climate-linked shocks are now disrupting rescue operations, electricity security, transport, and public safety across multiple continents.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that materially change war risk, energy and shipping conditions, disaster response, infrastructure resilience, or regional alignment. Romania stays a dedicated lane because the Danube emergency is an immediate electricity-security story for the region, and Reddit is used only where live public attention is clearly clustering around genuine geopolitical signal."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran is still holding the Strait of Hormuz hostage to broader demands, keeping the world's most important energy chokepoint politically unstable",
+    "summary": "The Associated Press reports that Iran says the Strait of Hormuz will not reopen until the United States lifts pressure, releases frozen assets, and addresses war damage, while Washington is publicly hardening its own stance in response. That leaves the core problem unchanged: even without a new direct clash, the waterway remains a bargaining chip with global economic consequences.",
+    "why_it_matters": "A chokepoint that carries a major share of traded oil does not need to be fully closed to keep energy prices, shipping decisions, and diplomatic risk under constant strain.",
+    "countries": ["Iran", "United States", "Oman", "Strait of Hormuz"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/yemen-houthis-turkey-kurdish-peace-mideast-roundup-aug-8-2026-feb75871fb82c44b3f7fd0ee02bb24b4"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Hormuz remains the morning's main risk signal because shipping leverage, political escalation, and vulnerable side fronts are all moving together.",
+      "kicker": "Chokepoint Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz Demands",
+          "headline": "Iran issued new conditions for reopening Hormuz, including sanctions relief and compensation demands, showing the strait is still being treated as coercive leverage",
+          "summary": "AP reports that Iran's security leadership said the strait will stay shut until the U.S. changes course, lifts sanctions, and releases frozen assets. That pushes negotiations away from a narrow shipping arrangement and back into a much larger confrontation over the terms of the war's aftermath.",
+          "why_it_matters": "The wider Iran makes the bargain, the harder it becomes to restore predictable energy flows without major geopolitical concessions.",
+          "countries": ["Iran", "United States", "Oman", "Strait of Hormuz"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/yemen-houthis-turkey-kurdish-peace-mideast-roundup-aug-8-2026-feb75871fb82c44b3f7fd0ee02bb24b4"
+            }
+          ]
+        },
+        {
+          "label": "U.S. Response",
+          "headline": "Trump rejected Iran's reparations demand and responded with his own compensation claims, hardening the political standoff around any Hormuz deal",
+          "summary": "AP reports that Trump dismissed Tehran's demand for payment over war damage and instead said Iran should compensate for decades of U.S. deaths blamed on Iran-backed groups. The public exchange matters because it makes a transactional reopening of the strait look politically harder on both sides.",
+          "why_it_matters": "When both sides escalate their public demands, even limited de-escalation becomes harder to sell domestically.",
+          "countries": ["United States", "Iran", "Strait of Hormuz"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897"
+            }
+          ]
+        },
+        {
+          "label": "Yemen Front",
+          "headline": "A blocked Iranian flight to Yemen helped trigger a fresh Houthi-Saudi spiral that now threatens to reopen another major Middle East front",
+          "summary": "AP reports that a Saudi strike preventing an Iranian flight from landing in Sanaa set off renewed exchanges between the Houthis and Saudi Arabia, prompting a U.N. warning that Yemen faces its biggest risk of large-scale conflict since the 2022 truce. The practical effect is to widen regional instability beyond the Gulf itself.",
+          "why_it_matters": "A second active escalation track in Yemen would make Middle East shipping and energy security even harder to stabilize.",
+          "countries": ["Yemen", "Saudi Arabia", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/yemen-houthis-saudi-arabia-red-sea-iran-a8a0e282a17c13a1e528e7ca73f17c5e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "war-and-spillover",
+      "title": "War And Spillover",
+      "description": "Ukraine's war still turns on attrition, but the wider signal is how often it now brushes major industrial and NATO-adjacent infrastructure.",
+      "kicker": "Deeper Reach",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Deep Strike",
+          "headline": "Ukraine's drone strike on Nizhnekamsk killed 13 people and showed Kyiv can still inflict painful damage deep inside Russia's energy system",
+          "summary": "AP reports that the strike hit the petroleum hub of Nizhnekamsk in Tatarstan, about 1,200 kilometers from Ukraine, in one of the deadliest attacks on Russian soil in the war. The attack also underlined how central oil and petrochemical targets have become to Ukraine's strategy of pressuring Moscow beyond the front line.",
+          "why_it_matters": "Long-range strikes on Russia's energy base can reshape both wartime logistics and the political sense of vulnerability inside Russia.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-drones-oil-d0e7dc74936cf153e8e473444cc09366"
+            }
+          ]
+        },
+        {
+          "label": "NATO Edge",
+          "headline": "A drone that crossed from Romania exploded near a Bulgarian gas pipeline, showing again how easily the war can brush strategic NATO infrastructure",
+          "summary": "AP reports that a likely Ukrainian drone entered Bulgarian airspace from Romania and detonated close to the Trans-Balkan gas pipeline without causing casualties or damage. Officials believe the blast was accidental, but the incident still highlights how thin the margin is around cross-border airspace and energy assets.",
+          "why_it_matters": "Even unintended incidents near critical infrastructure can force alliance governments into harder surveillance and escalation decisions.",
+          "countries": ["Bulgaria", "Romania", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/bulgaria-romania-drone-explosion-gas-pipeline-427dcc0875f5e416dadfee0c022f1cb4"
+            }
+          ]
+        },
+        {
+          "label": "German Security",
+          "headline": "Drones over a German military base just after an explosives drone was found at Leipzig airport added a sharper sabotage warning in Europe",
+          "summary": "AP reports that two drones were spotted over a Bundeswehr base in Mechernich two days after a drone carrying explosives was found at Leipzig/Halle Airport, a key freight and Ukraine-support hub. German authorities are investigating, while the sequence fits a broader European pattern of concern about covert disruption linked to the war.",
+          "why_it_matters": "When suspicious drone activity reaches logistics hubs and military sites, the war's rear-area security burden rises across Europe.",
+          "countries": ["Germany", "Ukraine", "Russia", "NATO"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/germany-drones-bd27c9c8e08c8a02ad2f06e49be99478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate And Disasters",
+      "description": "Disasters matter most this morning where they are overwhelming rescue capacity, transport systems, or the basic ability of states to keep infrastructure working.",
+      "kicker": "Capacity Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Colombia Quake",
+          "headline": "Colombia is searching for thousands of missing people after a 7.4 magnitude earthquake killed at least 111 and damaged around 1,600 buildings",
+          "summary": "AP reports that rescue operations are underway across western Colombia after the quake hit cities and towns from Cali to Quibdo and Pereira, with more than 2,700 people reported missing by Monday night. The disaster is also the first major governing test for Colombia's new president.",
+          "why_it_matters": "Large quakes become national political and economic crises when they hit multiple cities and expose weak access to poorer regions.",
+          "countries": ["Colombia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/colombia-choco-earthquake-rescue-e6afe31239c0deae34ab944014464399"
+            }
+          ]
+        },
+        {
+          "label": "Europe Heat",
+          "headline": "France and the U.K. are preparing for another heat wave as western Europe keeps setting records and extending drought and wildfire pressure",
+          "summary": "AP reports that France is bracing for temperatures near 40 C while England enters another heat-health alert after months of repeated extremes. The broader European picture now includes wildfire activity, drought, low rivers, and mounting projected heat deaths.",
+          "why_it_matters": "Persistent heat becomes a structural governance problem when it repeatedly damages health systems, transport, rivers, and agriculture over a single season.",
+          "countries": ["France", "United Kingdom", "Germany", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-weather-climate-change-f4f6ecf0953d423e0a70b74cd477c81a"
+            }
+          ]
+        },
+        {
+          "label": "China Typhoon",
+          "headline": "Typhoon Dolphin forced mass relocations and more than 1,300 flight cancellations around Shanghai as it hit China's eastern coast",
+          "summary": "AP reports that more than 300,000 people were moved before landfall, with heavy rain and landslide risk extending across eastern China and related impacts spilling into Taiwan and the Philippines. The scale of the response shows authorities are treating the storm as a logistics and flood emergency, not just a weather headline.",
+          "why_it_matters": "When major Chinese transport corridors shut down, the effects can ripple quickly into ports, aviation, manufacturing, and supply expectations.",
+          "countries": ["China", "Taiwan", "Philippines"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/typhoon-dolphin-d40f4d49b0d89935366f360f1f13afd8"
+            }
+          ]
+        },
+        {
+          "label": "Canada Fires",
+          "headline": "British Columbia declared a state of emergency after wildfires forced more than 20,000 people to flee around Okanagan Lake",
+          "summary": "AP reports that explosive fire conditions, hot weather, and prolonged drought pushed evacuations across communities in western Canada and caused significant structure loss. The emergency also showed how quickly roads, emergency centers, and local authorities can themselves be forced to evacuate.",
+          "why_it_matters": "Repeated large wildfire evacuations are no longer isolated seasonal events but recurring tests of state capacity and public resilience.",
+          "countries": ["Canada"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/wildfire-canada-evacuation-british-columbia-okanagan-61002c95f641a4060b78195b016fbea3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-and-power-politics",
+      "title": "Asia And Power Politics",
+      "description": "Asia's key signal this morning is harder preparation for contested security and more explicit use of technology controls as statecraft.",
+      "kicker": "Deterrence And Controls",
+      "stories": [
+        {
+          "label": "U.S. Allies",
+          "headline": "A Pentagon official told Asian allies to invest more in defense while insisting Washington is still digging in rather than stepping back",
+          "summary": "AP reports that Elbridge Colby used a Manila forum to tell regional partners the U.S. wants partners rather than protectorates and remains committed to Asia despite the Iran war. The message was meant to reassure allies while also pressing them to carry more of the burden.",
+          "why_it_matters": "Security guarantees are more credible when they are paired with visible burden-sharing rather than rhetorical reassurance alone.",
+          "countries": ["United States", "Philippines", "China", "Asia-Pacific"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/elbridge-colby-pentagon-philippines-6de1e9cb4ffea1665d5d199a68dc0b78"
+            }
+          ]
+        },
+        {
+          "label": "Taiwan Drills",
+          "headline": "Taiwan's annual Han Kuang drills are testing urban resilience, reserve mobilization, and warfighting autonomy against a possible Chinese attack",
+          "summary": "AP reports that the latest exercises include gray-zone scenarios, throttled internet service in major cities, reserve call-ups, and U.S.-style backbrief methods alongside Abrams tank trials. The drill design shows Taiwan is emphasizing societal endurance as much as conventional firepower.",
+          "why_it_matters": "Deterrence depends not just on weapons but on whether a society can keep functioning under cyber, communications, and civil disruption.",
+          "countries": ["Taiwan", "China", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d68aeb21dc7394a6e6fc9c6dc7364e3c"
+            }
+          ]
+        },
+        {
+          "label": "Drone Controls",
+          "headline": "China added drone export controls and other countermeasures against the United States, widening the technology retaliation cycle",
+          "summary": "AP reports that Beijing announced new restrictions on drone-related exports to the U.S. alongside trade penalties on several American entities. That matters because drones now sit at the center of military adaptation, supply chains, and security politics rather than in a narrow consumer-tech category.",
+          "why_it_matters": "Export controls become strategically important when the products involved are dual-use tools with both commercial and battlefield value.",
+          "countries": ["China", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ad0b637298e9608c5351bca84debeb25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's strongest local signal remains that drought and war spillover are now directly intersecting with electricity and border security.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Danube Emergency",
+          "headline": "Romania is still improvising around the Danube to keep Cernavoda's remaining reactor online as record-low water levels threaten power security",
+          "summary": "AP reports that authorities rushed to sink barges and redirect cooling water toward the nuclear plant after one reactor already went offline and the second came under pressure. The story is local, but it also reflects a wider eastern European energy system being squeezed by drought at the same time as the region faces war-adjacent insecurity.",
+          "why_it_matters": "When emergency river engineering becomes necessary to preserve nuclear output, climate stress has become a direct national security and grid reliability issue.",
+          "countries": ["Romania", "Hungary", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-europe-nuclear-danube-drought-1ddb89604f06026c938363d57da53071"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-and-sky",
+      "title": "Science And Sky",
+      "description": "The science lane matters this morning because Europe is about to get a rare celestial double feature with strong public visibility and official coverage.",
+      "kicker": "Look Up",
+      "stories": [
+        {
+          "label": "Eclipse",
+          "headline": "NASA says Wednesday's total solar eclipse will cross Iceland, Spain, Greenland, northern Russia, and part of Portugal, with broad partial visibility elsewhere",
+          "summary": "NASA says it will stream the Aug. 12 eclipse live and run scientific campaigns in the path of totality, while AP notes the event will be the first total eclipse in mainland Spain in more than a century. For many readers in Europe, this is one of the most visible non-political shared events of the week.",
+          "why_it_matters": "Rare, well-covered scientific events can cut through the broader news cycle and still carry real educational and observational value.",
+          "countries": ["Spain", "Iceland", "Greenland", "Portugal", "Russia"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/total-solar-eclipse-sun-moon-0757e313d90c684f87163318ada5cf03"
+            }
+          ]
+        },
+        {
+          "label": "Perseids",
+          "headline": "The Perseid meteor shower peaks Wednesday night into Thursday morning, with dark-sky conditions expected to make viewing unusually strong",
+          "summary": "AP reports that as many as 50 to 100 meteors per hour may be visible under ideal conditions, with the best viewing after midnight and the new moon helping keep skies dark. The timing, immediately after the eclipse, makes this an unusually dense week for public skywatching.",
+          "why_it_matters": "A widely visible meteor peak paired with a new moon makes an annual event significantly more accessible to non-specialist audiences.",
+          "countries": ["Northern Hemisphere"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/perseid-meteor-shower-2026-where-to-see-b8b8679bb5baed6461e012b8c8fa4634"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending On Reddit",
+      "description": "Reddit is useful this morning mainly as a map of where public attention is clustering around ongoing geopolitical and infrastructure risk.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Hormuz Thread",
+          "headline": "A fresh r/worldnews thread on Iran keeping Hormuz closed is drawing the usual mix of fatigue, market anxiety, and suspicion that the standoff still has room to worsen",
+          "summary": "The discussion is less about surprise than about endurance, with commenters treating the Gulf crisis as a grinding structural risk rather than a short-lived headline. That matters because sustained attention tends to persist longest when readers think a chokepoint story can still hit prices and policy.",
+          "why_it_matters": "Audience attention is informative when it stays fixed on an unresolved leverage point with obvious economic consequences.",
+          "countries": ["Iran", "United States", "Strait of Hormuz"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vkojmx/iran_insists_strait_of_hormuz_will_stay_closed/"
+            }
+          ]
+        },
+        {
+          "label": "Nizhnekamsk Post",
+          "headline": "The Nizhnekamsk strike post is getting traction because readers see it as a notable escalation in Ukraine's ability to hit costly targets deep inside Russia",
+          "summary": "The comments are focusing on the distance of the strike, the refinery angle, and the civilian toll, which together make it feel more consequential than a routine overnight exchange. That combination is why the post is functioning as more than a battlefield update.",
+          "why_it_matters": "Public engagement rises when a war story signals both strategic reach and harder moral or civilian tradeoffs.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vkey6w/ukrainian_drone_attack_on_the_russian_city_of/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine Live Thread",
+          "headline": "The standing r/worldnews Ukraine live thread remains one of the clearest attention anchors on the site, showing the war still organizes a large share of global news discussion",
+          "summary": "The live thread format keeps readers consolidating updates about strikes, air defenses, sanctions, and alliance reactions in one place rather than dispersing across isolated links. That continuing habit is a useful signal in itself about which conflict still shapes the broader conversation.",
+          "why_it_matters": "Persistent live-thread attention suggests a conflict is still functioning as a primary frame for interpreting other security news.",
+          "countries": ["Ukraine", "Russia", "Europe"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews live thread",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vkadys/rworldnews_live_thread_russian_invasion_of/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
