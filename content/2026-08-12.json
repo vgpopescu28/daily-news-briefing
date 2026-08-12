@@ -1,0 +1,333 @@
+{
+  "date": "2026-08-12",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Wednesday, August 12, 2026 opens with Hormuz still distorting energy and shipping risk, Colombia's quake rescue window narrowing, Russia escalating pressure on Ukraine with North Korean support, and climate stress disrupting infrastructure from the Danube to eastern China.",
+  "generated_at": "2026-08-12T09:17:36+03:00",
+  "summary": {
+    "spotlight": "The clearest signal this morning is that global strain is showing up in both hard-security and state-capacity systems at once. The Gulf remains the main market-moving risk because Hormuz is still unresolved and Red Sea violence is rising again, while Colombia's earthquake, Ukraine's worsening missile pressure, and infrastructure stress across Europe and Asia show how quickly a crisis becomes bigger when institutions are already stretched.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that materially affect war risk, shipping, energy, disaster response, or political resilience. Romania stays a dedicated lane because Danube drought and cross-border drone risk are still unusually direct local signals, and Reddit is used only for visible public-attention clusters around demographic, border, and AI-governance stories."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The Hormuz crisis is still unresolved, and the latest Yemen shipping deaths show the wider regional war risk is not contained",
+    "summary": "AP reports that President Donald Trump is looking for a way out of the Iran war even as Tehran keeps using the Strait of Hormuz as leverage and Houthi attacks are again killing people on commercial routes. The practical signal is that the region's most important energy chokepoint is still politically unstable while side fronts in Yemen and the Red Sea are becoming more lethal.",
+    "why_it_matters": "Shipping and oil markets do not need a formal escalation to stay under pressure when the core chokepoint remains unsettled and adjacent maritime lanes are turning deadlier.",
+    "countries": ["Iran", "United States", "Yemen", "Saudi Arabia", "Strait of Hormuz", "Bab el-Mandeb"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/84ee037681e5455587a4273eb777709e"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/91e4efdfe1ac035b2065127550377289"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The main Middle East signal is still unresolved shipping leverage layered with a widening Yemen front and a U.S. strategy that looks costlier by the week.",
+      "kicker": "Shipping Under Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz Standoff",
+          "headline": "Trump is seeking an exit from the Iran war, but Hormuz remains tied up in coercive bargaining and military enforcement",
+          "summary": "AP reports that Trump is trying to find a path out of the conflict while Iran keeps the Strait of Hormuz bound to broader conditions and U.S. naval enforcement remains intense. That means the morning's core Gulf story is not a breakthrough but a prolonged standoff that still distorts shipping, fuel, and diplomacy.",
+          "why_it_matters": "A war can remain economically disruptive even without a new battlefield shock if the key trade corridor is still being used as political leverage.",
+          "countries": ["United States", "Iran", "Strait of Hormuz"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/84ee037681e5455587a4273eb777709e"
+            }
+          ]
+        },
+        {
+          "label": "Red Sea Violence",
+          "headline": "Houthi missiles killed six people in the Bab el-Mandeb, turning maritime disruption back into a fatal shipping story",
+          "summary": "AP reports that Iran-backed Houthis killed four crew members and two pro-government fighters in an attack on a vessel, the first deadly shipping strike of this latest escalation. The attack also deepens concern that Yemen's conflict is reopening just as Gulf traffic is already strained.",
+          "why_it_matters": "When commercial routes start producing fatalities again, insurers, shipowners, and states must price in a wider zone of instability rather than a single chokepoint problem.",
+          "countries": ["Yemen", "Saudi Arabia", "Iran", "Bab el-Mandeb"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/91e4efdfe1ac035b2065127550377289"
+            }
+          ]
+        },
+        {
+          "label": "Economic Pressure",
+          "headline": "Washington is pivoting back toward sanctions on Iran, a sign that military and diplomatic approaches have not produced a fast exit",
+          "summary": "AP reports that Trump has revived an aggressive sanctions-first strategy as weapons inventories, oil pressure, and stalled diplomacy complicate the U.S. position. The move reads less like a resolution than an attempt to regain leverage after more direct approaches failed to settle the crisis.",
+          "why_it_matters": "A return to sanctions signals that the conflict is settling into a longer contest of endurance with continued spillover into energy and domestic politics.",
+          "countries": ["United States", "Iran"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d96e3bf53eb4050097e6cab128db82cb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "Ukraine's strongest signal this morning is escalation by depth and endurance: harder Russian strikes, deeper Ukrainian reach, and a war that is absorbing more foreign support and more civilian abuse.",
+      "kicker": "Escalation By Attrition",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "North Korean Missiles",
+          "headline": "Russian attacks killed 10 in Ukraine as Zelenskyy said Moscow is relying on more North Korean missiles and likely more troops",
+          "summary": "AP reports that Russian strikes killed civilians in Zaporizhzhia, Dnipropetrovsk, and Kyiv while Zelenskyy said Pyongyang is expanding its support to Moscow with ballistic missiles and additional manpower. The battlefield message is that Russia is looking to sustain pressure rather than move toward de-escalation.",
+          "why_it_matters": "External resupply and troop support from North Korea make the war more internationalized and harder to exhaust on Moscow's side.",
+          "countries": ["Ukraine", "Russia", "North Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7aff38d17dd195e63b7c55fc5a008c22"
+            }
+          ]
+        },
+        {
+          "label": "Civilian Detentions",
+          "headline": "The U.N. says more than 16,000 Ukrainian civilians detained by Russia are still being held, many incommunicado",
+          "summary": "AP reports that U.N. officials described a large system of unlawful detention, torture, sexual violence, and deaths in custody affecting Ukrainian civilians and prisoners. The story matters because it widens the war's human-rights ledger far beyond front-line casualty counts.",
+          "why_it_matters": "Mass detention on this scale turns the war into a longer-term legal, humanitarian, and political reckoning even if battlefield lines move slowly.",
+          "countries": ["Ukraine", "Russia", "United Nations"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6687451c1d1170e57ac2db32695e3d61"
+            }
+          ]
+        },
+        {
+          "label": "Deep Strike",
+          "headline": "Ukraine's attack on a Russian oil hub showed Kyiv can still impose painful costs deep inside Russia's industrial base",
+          "summary": "AP reports that a Ukrainian drone strike killed 13 people at the Nizhnekamsk petroleum hub in Tatarstan, far from the front, underscoring Kyiv's continued focus on energy and petrochemical infrastructure. It is another reminder that rear-area vulnerability remains part of the war's economics.",
+          "why_it_matters": "Long-range attacks on Russian energy assets shape both wartime logistics and the political perception that the war is not geographically containable.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d0e7dc74936cf153e8e473444cc09366"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "disasters-and-climate",
+      "title": "Disasters And Climate",
+      "description": "This lane matters most where extreme weather or geological shock is overwhelming rescue windows, transport networks, power systems, or emergency capacity.",
+      "kicker": "Capacity Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Colombia Quake",
+          "headline": "Colombia's earthquake response is straining rescuers and a new government as the survival window narrows",
+          "summary": "AP reports that the 7.4 magnitude earthquake has killed at least 181 people, injured thousands, and left up to 4,000 missing while rescuers race against the clock across several badly hit cities. The disaster is also the first major governing test for Colombia's new president.",
+          "why_it_matters": "Major earthquakes become wider national crises when they hit multiple urban centers and force a new administration to prove state capacity immediately.",
+          "countries": ["Colombia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a35440647cc3efed1bbce935d223565e"
+            }
+          ]
+        },
+        {
+          "label": "Europe Heat",
+          "headline": "Western Europe is preparing for yet another heat wave as the summer's record-setting extremes keep compounding public-health and infrastructure strain",
+          "summary": "AP reports that the U.K. and France are bracing for another intense heat episode after months of drought, wildfire pressure, and thousands of excess deaths across Europe. The wider picture is that the emergency is no longer episodic but cumulative.",
+          "why_it_matters": "Repeated heat waves do more systemic damage than a single hot spell because each round lands on drier ground, weaker rivers, and more fatigued public systems.",
+          "countries": ["France", "United Kingdom", "Spain", "Europe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f4f6ecf0953d423e0a70b74cd477c81a"
+            }
+          ]
+        },
+        {
+          "label": "Danube Emergency",
+          "headline": "Record-low Danube levels are pushing parts of eastern Europe toward an energy emergency, not just a drought story",
+          "summary": "AP reports that collapsing river levels are hitting nuclear, hydro, freight, and industrial systems across countries including Hungary, Romania, and Serbia. The key morning signal is that water stress is now visibly constraining regional energy security.",
+          "why_it_matters": "When a major river stops supporting power generation and transport at normal levels, climate stress becomes a hard economic and security problem.",
+          "countries": ["Romania", "Hungary", "Serbia", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/229e089c30821889548354d7da289084"
+            }
+          ]
+        },
+        {
+          "label": "China Flooding",
+          "headline": "Tropical Storm Dolphin is still disrupting eastern China after mass evacuations, flooding, and hundreds more flight cancellations",
+          "summary": "AP reports that heavy rain and flooding continued after Dolphin made landfall, leaving Shanghai and surrounding regions with major aviation and transport disruption and forcing large evacuations. The storm is also a reminder that coastal and inland impacts now unfold as one logistics problem rather than separate weather events.",
+          "why_it_matters": "Large shutdowns in eastern China matter globally because they hit population centers, transport corridors, and supply expectations at the same time.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8d9e687f8599d12f050daeca261d7fa2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "asia-and-society",
+      "title": "Asia And Society",
+      "description": "The sharper Asia signal today is political and social regulation: sovereignty symbolism is hardening while governments are more openly deciding what kinds of digital life they will permit.",
+      "kicker": "Identity And Control",
+      "stories": [
+        {
+          "label": "Taiwan In Japan",
+          "headline": "Taiwan's representative in Japan boycotted the Nagasaki ceremony over seating he said denied Taiwan's sovereignty and dignity",
+          "summary": "AP reports that Taipei's top representative in Tokyo skipped the Nagasaki memorial after objecting to how the delegation was seated relative to diplomatic missions. The dispute is small on its face, but it reflects how symbolic protocol around Taiwan now carries real diplomatic weight.",
+          "why_it_matters": "Status disputes matter because repeated symbolic downgrades or protests can harden alignment choices even outside formal security crises.",
+          "countries": ["Taiwan", "Japan", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/19ab601ed82fd0989fc7dd653ad185f4"
+            }
+          ]
+        },
+        {
+          "label": "China AI Rules",
+          "headline": "China's crackdown on AI companions shows how aggressively Beijing is moving to police intimate and emotionally dependent uses of AI",
+          "summary": "AP reports that new Chinese rules pushed major companies to shut down or rework AI companion services that had become emotionally important to many users. The story is less about one product category than about a state deciding that some kinds of human-machine attachment are now a governance problem.",
+          "why_it_matters": "AI regulation becomes more consequential when it reaches daily emotional behavior rather than just industrial competition or abstract safety language.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/22c4247031092c37b61b537dd809b658"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "The science lane earns space today because the August 12 eclipse is one of the year's rare genuinely global shared sky events, with NASA also flagging the Perseids under dark skies.",
+      "kicker": "Look Up",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Eclipse Day",
+          "headline": "NASA says today's total solar eclipse crosses Greenland, Iceland, Spain, northern Russia, and part of Portugal, with many more regions seeing a partial eclipse",
+          "summary": "NASA says the August 12 eclipse will sweep across limited land areas in the Northern Hemisphere, while its August skywatching guide also highlights the Perseid peak under a new moon tonight. For readers across Europe and beyond, this is one of the year's clearest examples of a public science event unfolding in real time.",
+          "why_it_matters": "Rare visible sky events cut through the news cycle because they are both scientifically meaningful and widely accessible without specialized equipment.",
+          "countries": ["Greenland", "Iceland", "Spain", "Portugal", "Russia"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/"
+            },
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania remains a strong local lane because drought, electricity security, and war spillover are now interacting directly rather than as separate risks.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Cernavoda",
+          "headline": "Romania is still reshaping the Danube to protect Cernavoda's remaining reactor, making drought a direct power-security issue",
+          "summary": "AP reports that Romania rushed to sink barges and redirect river flow toward the Cernavoda plant after one reactor had already gone offline and the second remained at risk. This is no longer just a climate headline for Romania; it is a live electricity-security problem.",
+          "why_it_matters": "Emergency river engineering to preserve nuclear output is a clear sign that environmental stress is now testing core national infrastructure.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1ddb89604f06026c938363d57da53071"
+            }
+          ]
+        },
+        {
+          "label": "Border Airspace",
+          "headline": "The Bulgaria pipeline drone incident showed how easily the Ukraine war can transit Romanian airspace and brush strategic infrastructure nearby",
+          "summary": "AP reports that a likely Ukrainian drone crossed from Romania into Bulgaria and exploded near the Trans-Balkan gas pipeline without causing damage. Even if accidental, the event is a serious reminder that eastern NATO infrastructure sits close to messy low-altitude spillover.",
+          "why_it_matters": "Near-misses matter because they expose how quickly routine airspace ambiguity can become an alliance security and energy-infrastructure issue.",
+          "countries": ["Romania", "Bulgaria", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/427dcc0875f5e416dadfee0c022f1cb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful today as a rough map of what broad English-language audiences are clustering around in demographics, border security, and AI policy.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Japan Demographics",
+          "headline": "A Reddit thread on Japan falling below 120 million people is drawing attention because readers see long-term demographic decline as a strategic problem, not just a census fact",
+          "summary": "The discussion treats Japan's population threshold as evidence that labor, growth, welfare, and security challenges are becoming harder to separate from each other. That makes the thread a useful public-attention signal around how demographic stories are being interpreted geopolitically.",
+          "why_it_matters": "Audience attention is meaningful when a population story is being read as a state-capacity problem rather than a narrow social statistic.",
+          "countries": ["Japan"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v9vtop/japans_population_falls_below_120_million_for/"
+            }
+          ]
+        },
+        {
+          "label": "Belarus Border",
+          "headline": "A Reddit post on Lithuania finding a suspected migrant tunnel from Belarus is getting traction because it compresses migration pressure and hybrid-border tactics into one vivid image",
+          "summary": "The thread treats the tunnel discovery as a concrete example of the wider eastern European fear that migration routes can be used as a political weapon. Even without being a top global headline on its own, it is a strong audience-signal story about border insecurity.",
+          "why_it_matters": "Public attention often sharpens around stories that make abstract hybrid-pressure claims feel physically tangible and easy to visualize.",
+          "countries": ["Lithuania", "Belarus"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vamfkh/lithuania_finds_unfinished_tunnel_for_suspected/"
+            }
+          ]
+        },
+        {
+          "label": "EU AI Labels",
+          "headline": "A Reddit thread on mandatory AI-generated labels in the EU is resonating because readers see content provenance moving from niche compliance into everyday information hygiene",
+          "summary": "The discussion clusters around whether labels will reduce online slop or merely formalize it, which is a useful signal of public skepticism about enforceability. That makes the post a worthwhile snapshot of how ordinary users are processing AI governance now.",
+          "why_it_matters": "Audience reactions matter because adoption and trust are shaped not only by regulation itself but by whether people think the rules will change real behavior.",
+          "countries": ["European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vf1hap/aigenerated_label_becomes_mandatory_in_the_eu_for/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
