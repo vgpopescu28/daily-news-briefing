@@ -1,0 +1,325 @@
+{
+  "date": "2026-08-13",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Thursday, August 13, 2026 opens with Black Sea escalation, Hormuz still shaping energy risk, Colombia and Nepal exposing state-capacity strain, and climate pressure disrupting power and transport from the Danube to eastern China.",
+  "generated_at": "2026-08-13T09:45:00+03:00",
+  "summary": {
+    "spotlight": "The clearest signal this morning is that global risk is spreading across chokepoints, logistics, and basic state capacity at the same time. Ukraine's strike on Novorossiysk, Russia's retaliation rhetoric, unresolved Hormuz bargaining, Colombia's rescue race, Nepal's aid collapse, and Danube-driven power stress all point to a world where security and infrastructure failures are increasingly overlapping.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that materially affect war risk, energy, shipping, disaster response, governance capacity, or regional resilience. Romania stays a dedicated lane because Danube drought and nearby drone spillover remain unusually direct local signals, and Reddit is used only for broad audience-attention clusters around demography, borders, and AI regulation."
+  },
+  "featured_story": {
+    "category": "black-sea-and-ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Ukraine's overnight strike on Novorossiysk and Putin's retaliation warning make the Black Sea look more like the next global chokepoint",
+    "summary": "AP reports that Ukraine hit Russia's Black Sea naval stronghold at Novorossiysk overnight, damaging port infrastructure and reinforcing Kyiv's ability to threaten a core naval and export hub. Hours later, Putin threatened retaliation over Western seizures of Russian commercial vessels, widening the signal from one strike into a broader maritime escalation story.",
+    "why_it_matters": "A less secure Black Sea raises pressure on grain flows, oil logistics, shipping insurance, and the risk of miscalculation well beyond the battlefield.",
+    "countries": ["Ukraine", "Russia"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/9eadff0d7590923e3d98c99e2b61150b"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/0c184bfe95397fae3b7093139453d1cb"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "black-sea-and-ukraine",
+      "title": "Black Sea And Ukraine",
+      "description": "The sharpest hard-security signal today is a widening maritime war in and around the Black Sea, with deeper strike reach and louder retaliation threats.",
+      "kicker": "Maritime Escalation",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Novorossiysk Strike",
+          "headline": "Ukraine says its overnight blitz damaged Russia's Black Sea naval stronghold and disrupted a key port complex",
+          "summary": "AP reports that Ukrainian drones and anti-ship missiles hit Novorossiysk, damaging piers, air defenses, and nearby grain infrastructure while killing civilians in the region. The attack underscored Kyiv's ability to reach one of Russia's most important naval and export hubs even after Moscow shifted assets away from Crimea earlier in the war.",
+          "why_it_matters": "The more vulnerable Novorossiysk looks, the more the Black Sea starts to resemble a live global trade risk rather than a contained military theater.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9eadff0d7590923e3d98c99e2b61150b"
+            }
+          ]
+        },
+        {
+          "label": "Retaliation Threat",
+          "headline": "Putin is threatening retaliation over Western seizures of Russian commercial vessels and calling them piracy",
+          "summary": "AP reports that Putin said Moscow could respond in kind to Western detentions of Russian-linked commercial ships and signaled that such responses need not stay in the same waters. The messaging broadens the shipping dispute from sanctions enforcement into a more openly coercive maritime contest.",
+          "why_it_matters": "When sanctions enforcement begins to draw explicit naval retaliation threats, commercial shipping and insurers must price in a higher risk environment.",
+          "countries": ["Russia", "United Kingdom", "France", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/0c184bfe95397fae3b7093139453d1cb"
+            }
+          ]
+        },
+        {
+          "label": "War Endurance",
+          "headline": "Russia's recent attacks and North Korean support still point to a war of endurance rather than a path to de-escalation",
+          "summary": "AP reported yesterday that Russian strikes killed civilians in Ukraine while President Volodymyr Zelenskyy said Moscow is drawing on more North Korean missiles and manpower. That remains the underlying military context for today's Black Sea escalation: both sides are still seeking ways to impose costs at scale.",
+          "why_it_matters": "A war sustained by external resupply and deeper strike capacity is harder to stabilize and easier to internationalize.",
+          "countries": ["Ukraine", "Russia", "North Korea"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7aff38d17dd195e63b7c55fc5a008c22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-and-shipping",
+      "title": "Middle East And Shipping",
+      "description": "The Gulf's core signal is still unresolved shipping leverage around Hormuz, with regional diplomacy advancing slowly and no clean reset yet in sight.",
+      "kicker": "Chokepoint Politics",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz Negotiations",
+          "headline": "Iran and Oman have made progress on a Hormuz reopening deal, but the strategic terms are still contested",
+          "summary": "AP reports that Tehran and Muscat have advanced talks on shipping lanes through the Strait of Hormuz, with Iran and Oman potentially managing different routes under a new security arrangement. The diplomatic motion matters, but it still leaves open whether Washington would accept any setup that formalizes Iranian leverage over the passage.",
+          "why_it_matters": "Any deal that reopens traffic but embeds coercive leverage can reduce immediate disruption while preserving long-term market risk.",
+          "countries": ["Iran", "Oman", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6587f90f2ab5beec373ce5fabf637541"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon Amnesty",
+          "headline": "Lebanon's new amnesty law shows how regional governments are still trading justice for stability under strain",
+          "summary": "AP reports that Lebanon's parliament passed a broad amnesty law after abolishing the death penalty, triggering sectarian arguments over who benefits and who remains excluded. It is not the day's biggest military headline, but it is a useful signal of how brittle states in the region are managing internal pressure.",
+          "why_it_matters": "When governments lean on politically selective amnesties, they may reduce immediate pressure while deepening longer-term legitimacy problems.",
+          "countries": ["Lebanon"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c28161795512a8d93864688b5a9fa9fa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "humanitarian-and-governance",
+      "title": "Humanitarian And Governance",
+      "description": "The deeper humanitarian stories today are also governance stories, because rescue windows and health systems are being tested where institutional slack is already thin.",
+      "kicker": "State Capacity",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Colombia Quake",
+          "headline": "Colombia's rescue effort is racing the clock while a new government absorbs its first major governing test",
+          "summary": "AP reports that the earthquake in western Colombia has killed hundreds, left many more missing, and displaced tens of thousands as rescuers keep searching collapsed urban areas. The disaster is also becoming a state-capacity test for President Abelardo de la Espriella's new administration.",
+          "why_it_matters": "A major quake becomes a political event as well as a humanitarian one when it forces a new government to prove competence immediately.",
+          "countries": ["Colombia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a35440647cc3efed1bbce935d223565e"
+            }
+          ]
+        },
+        {
+          "label": "Nepal Aid Collapse",
+          "headline": "AP's Nepal reporting shows U.S. aid cuts are now translating into preventable maternal and infant deaths",
+          "summary": "AP reports that the dismantling of USAID-backed maternal and child health programs in Nepal has left clinics under-equipped, outreach workers gone, and vulnerable women without basic prenatal support. The human signal is stark because the story is no longer about abstract budget choices but about deaths that health workers believe were avoidable.",
+          "why_it_matters": "Aid-system retrenchment matters geopolitically when it visibly reverses basic health gains and erodes U.S.-linked development credibility.",
+          "countries": ["Nepal", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/43fb5e8aff8a4f65b7f18781455c3f91"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-infrastructure",
+      "title": "Climate And Infrastructure",
+      "description": "This lane matters where heat, drought, or storms are no longer just weather stories and are now directly disrupting electricity, transport, and public systems.",
+      "kicker": "Systems Under Heat",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Hungary Nuclear Risk",
+          "headline": "Hungary is planning Danube interventions to keep its Paks nuclear plant running as drought pushes the river toward crisis levels",
+          "summary": "AP reports that record-low Danube levels have forced Hungary to prepare emergency works to preserve cooling water at its nuclear plant, with output already sharply reduced. The story matters because drought is now directly constraining baseload electricity, not just agriculture or river freight.",
+          "why_it_matters": "When a major river can no longer support normal nuclear operations, climate stress has become an energy-security problem in plain view.",
+          "countries": ["Hungary"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/b77673cd90df9cd7435726fc9c5f2c9e"
+            }
+          ]
+        },
+        {
+          "label": "Western Europe Heat",
+          "headline": "Britain is heading into another severe heat burst as drought and wildfire pressure keep compounding across Europe",
+          "summary": "AP reports that the U.K. is sweltering through its fifth heat wave of the summer and may be on track for a record-hot season, with hospitals, water systems, and wildfire response already strained. The broader European pattern remains cumulative rather than episodic.",
+          "why_it_matters": "Repeated heat events do more systemic damage than isolated ones because they land on weaker water systems, drier land, and more fatigued institutions.",
+          "countries": ["United Kingdom", "France", "Spain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1efa65679bd29770e3b7ea4a9ca839a4"
+            }
+          ]
+        },
+        {
+          "label": "China Flooding",
+          "headline": "Flooding tied to Tropical Storm Dolphin is still disrupting eastern China after mass evacuations and major flight cancellations",
+          "summary": "AP reports that eastern China is still dealing with flooding, transit disruption, and landslide risk after Dolphin forced hundreds of thousands of people to relocate and shuttered large parts of air travel around Shanghai. The impact is regional, but the logistics signal is global because eastern China concentrates population and supply-chain infrastructure.",
+          "why_it_matters": "Weather disruption in eastern China matters well beyond China when it hits major transport and manufacturing corridors at scale.",
+          "countries": ["China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/8d9e687f8599d12f050daeca261d7fa2"
+            }
+          ]
+        },
+        {
+          "label": "Indonesia Ferry Fire",
+          "headline": "The Bali ferry fire is another reminder that transport safety failures can turn routine regional mobility into a mass-casualty risk",
+          "summary": "AP reports that rescuers evacuated more than 200 people from a ferry fire near Bali, with at least one confirmed death and discrepancies around the vessel manifest. The accident is not a strategic headline on its own, but it is a meaningful public-safety and infrastructure-governance signal in a major archipelago that depends on maritime links.",
+          "why_it_matters": "Repeated ferry disasters point to institutional enforcement problems that directly shape mobility, tourism, and public trust.",
+          "countries": ["Indonesia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ab527cf29730147f86c4c82f341584eb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "The science lane earns space today because the eclipse and Perseids create a rare shared global sky event that many readers can still act on immediately.",
+      "kicker": "Look Up",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Perseids Peak",
+          "headline": "NASA says the Perseids are peaking under dark skies just after the August 12 eclipse window, making this one of the year's best skywatching nights",
+          "summary": "NASA says the Perseid meteor shower peaks the night of August 12 into the early morning of August 13, with a new moon improving visibility, after the total solar eclipse crossed parts of Europe and the North Atlantic region on August 12. For readers in the Northern Hemisphere, it is one of the year's clearest public-science moments still unfolding this morning.",
+          "why_it_matters": "Rare visible sky events cut through the news cycle because they are both scientifically meaningful and broadly accessible without specialized equipment.",
+          "countries": ["Spain", "Portugal", "Iceland", "Greenland", "Russia", "United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+            },
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania remains a strong local lane because drought-driven power stress and nearby drone spillover are both unusually direct risks rather than abstract regional stories.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Cernavoda Risk",
+          "headline": "Romania's Danube interventions to protect Cernavoda still show how drought is testing core national power infrastructure",
+          "summary": "AP reported last week that Romania was rushing to sink barges and redirect Danube water to protect cooling access at the Cernavoda nuclear plant. That remains a high-value local signal this morning because neighboring Hungary is now confronting a related nuclear-water crisis of its own.",
+          "why_it_matters": "What looks like a river-management story is really an electricity-security story for Romania and the wider region.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1ddb89604f06026c938363d57da53071"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/b77673cd90df9cd7435726fc9c5f2c9e"
+            }
+          ]
+        },
+        {
+          "label": "Border Spillover",
+          "headline": "The drone explosion near Bulgaria's pipeline after crossing from Romania is still a live reminder of how the Ukraine war can brush NATO infrastructure",
+          "summary": "AP reports that a likely Ukrainian drone crossed from Romania into Bulgaria and exploded near the Trans-Balkan gas pipeline without causing damage. Even if accidental, the event remains a sharp regional warning about how low-altitude spillover can affect nearby energy infrastructure and alliance territory.",
+          "why_it_matters": "Near misses matter because they show how easily airspace ambiguity can turn into an infrastructure and security problem for Romania's neighborhood.",
+          "countries": ["Romania", "Bulgaria", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/427dcc0875f5e416dadfee0c022f1cb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful today as a rough map of which international stories broad English-language audiences are clustering around and reframing as longer-term structural risks.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Japan Demographics",
+          "headline": "A Reddit thread on Japan falling below 120 million people is resonating because readers see demography as a strategic issue, not just a census update",
+          "summary": "The discussion treats Japan's population threshold as evidence that labor, welfare, growth, and security pressures are getting harder to separate from each other. That makes the thread a useful audience-signal story about how demographic decline is being read geopolitically.",
+          "why_it_matters": "Public attention is meaningful when a population story is being interpreted as a state-capacity problem rather than a narrow social statistic.",
+          "countries": ["Japan"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v9vtop/japans_population_falls_below_120_million_for/"
+            }
+          ]
+        },
+        {
+          "label": "Belarus Border Tunnel",
+          "headline": "A Reddit post on Lithuania finding a tunnel from Belarus is drawing interest because it makes hybrid border pressure unusually concrete",
+          "summary": "The thread frames the tunnel discovery as a vivid example of how migration pressure, smuggling, and state-backed border tactics can blur together in northeastern Europe. Even without being the world's biggest headline, it is a strong audience signal about perceived border insecurity.",
+          "why_it_matters": "Audience clusters matter when they reveal which kinds of security stories ordinary readers find immediately legible and politically salient.",
+          "countries": ["Lithuania", "Belarus"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vamfkh/lithuania_finds_unfinished_tunnel_for_suspected/"
+            }
+          ]
+        },
+        {
+          "label": "EU AI Labels",
+          "headline": "A Reddit thread on mandatory AI-generated labels in the EU is getting traction because readers see provenance rules moving into everyday life",
+          "summary": "The discussion clusters around whether disclosure rules will meaningfully reduce AI slop or merely formalize it, which is a useful public-attention signal about trust and enforceability. That makes it a worthwhile snapshot of how users are processing AI governance right now.",
+          "why_it_matters": "Regulation matters politically not just when it passes, but when ordinary users start deciding whether they believe it will change real behavior.",
+          "countries": ["European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vf1hap/aigenerated_label_becomes_mandatory_in_the_eu_for/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
