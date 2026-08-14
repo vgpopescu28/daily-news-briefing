@@ -1,0 +1,299 @@
+{
+  "date": "2026-08-14",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday, August 14, 2026 opens with Romania's nuclear shutdown under drought pressure, Ukraine widening the cost of war inside Russia, and Gulf shipping risk turning from military crisis into environmental damage.",
+  "generated_at": "2026-08-14T09:03:20+03:00",
+  "summary": {
+    "spotlight": "The clearest signal this morning is that climate, war, and trade are no longer separate lanes. Romania's reactor shutdown, Ukrainian strikes on Russian energy infrastructure, oil spilling off Oman, Colombia's rescue race, and Brazil's worsening dispute with Washington all show systems stress spreading across energy, shipping, and governance at the same time.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that materially affect war risk, energy supply, maritime security, state capacity, or regional resilience. Romania remains a dedicated lane because the Danube drought has crossed from climate story into electricity and border-security risk, and Reddit is used only where broad audience attention adds a useful public-signal layer."
+  },
+  "featured_story": {
+    "category": "romania",
+    "tone": "romania",
+    "label": "Top Story",
+    "headline": "Romania is shutting down Cernavoda's second reactor as the Danube falls below cooling thresholds, turning drought into an immediate energy-security shock",
+    "summary": "AP reports that Romania began a controlled shutdown of Cernavoda's second reactor on Thursday after record-low Danube levels made normal cooling operations untenable. With the first reactor already offline, the story moves beyond adaptation theater and into a direct national and regional power-supply test.",
+    "why_it_matters": "When a drought can force nuclear generation offline, climate stress is no longer a background risk and becomes a hard energy-security constraint for Romania and its neighbors.",
+    "countries": ["Romania", "Moldova", "Hungary"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/romania-europe-drought-energy-weather-4239b119af1153fc0a57093b04df555b"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "ukraine-and-russia",
+      "title": "Ukraine And Russia",
+      "description": "The main war signal today is Kyiv's continued ability to hit Russian logistics and energy assets while civilian detention and abuse remain central to the conflict's long-term moral and political cost.",
+      "kicker": "War Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Deep Strike",
+          "headline": "Ukrainian drones set a major refinery ablaze deep inside Russia, extending the campaign against Moscow's oil-and-war base",
+          "summary": "AP reports that Ukrainian drones hit the Gazprom Neftekhim Salavat refinery in Bashkortostan, roughly 1,300 kilometers from Ukraine, marking another strike on a high-value Russian energy asset. The attack reinforces Kyiv's strategy of imposing direct economic and psychological costs inside Russia rather than only contesting the front.",
+          "why_it_matters": "Sustained refinery strikes can tighten fuel logistics, raise repair bottlenecks, and make Russia's war economy feel more vulnerable at home.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-8050b4afb5bfd6f4d93c76b4d9795dfa"
+            }
+          ]
+        },
+        {
+          "label": "Black Sea Risk",
+          "headline": "Ukraine's overnight blitz on Novorossiysk shows that Russia's Black Sea fallback hub is still exposed",
+          "summary": "AP reported that Ukrainian strikes damaged infrastructure around Novorossiysk, Russia's key Black Sea naval and export hub, underscoring that Moscow's attempt to shift critical assets away from Crimea has not produced safety. The port's role in energy and grain logistics keeps the strategic effect wider than the immediate blast radius.",
+          "why_it_matters": "A more vulnerable Novorossiysk raises pressure on shipping, insurance, grain flows, and the wider perception of Black Sea stability.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-black-sea-attack-9eadff0d7590923e3d98c99e2b61150b"
+            }
+          ]
+        },
+        {
+          "label": "Detention System",
+          "headline": "The U.N. says more than 16,000 Ukrainian civilians are still detained by Russia, with abuse described as systemic",
+          "summary": "AP reports that U.N. officials estimate more than 16,000 Ukrainian civilians remain held by Russia, often incommunicado and in conditions tied to torture, sexual violence, and deaths in custody. The figure is a reminder that the war's core crimes are not limited to bombardment and territorial control.",
+          "why_it_matters": "Mass civilian detention deepens the war's long-tail political and legal consequences and narrows the space for any shallow peace narrative.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6687451c1d1170e57ac2db32695e3d61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-and-shipping",
+      "title": "Middle East And Shipping",
+      "description": "The Gulf and Red Sea story today is less about one front line and more about how military tension is degrading commercial shipping, cleanup capacity, and force posture at the same time.",
+      "kicker": "Maritime Stress",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Oman Oil Spill",
+          "headline": "Containment crews are racing to control a spreading spill off Oman from a sanctioned tanker tied to Russia's shadow fleet",
+          "summary": "AP reports that British salvage crews have started work on the grounded tanker Caroline Bezengi off Oman after crude spread across a large marine area and began threatening sensitive shoreline habitats. The case links sanctions evasion, maritime insecurity, and ecological damage in one of the world's most important shipping regions.",
+          "why_it_matters": "A shadow-fleet spill near Hormuz-adjacent routes turns geopolitical shipping risk into a slower-moving environmental and insurance problem.",
+          "countries": ["Oman", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/54d301367464a4169037fb6f9c7a0529"
+            }
+          ]
+        },
+        {
+          "label": "Bab el-Mandeb Attack",
+          "headline": "A Houthi missile attack that killed six on a vessel shows Red Sea shipping remains deadly even amid wider Gulf diplomacy",
+          "summary": "AP reports that Houthis killed six people in a missile strike on a Yemeni commercial vessel in the Bab el-Mandeb strait, with the dead including crew members and allied fighters. The attack signals that even as attention remains fixed on Hormuz, another chokepoint is still highly unstable.",
+          "why_it_matters": "Commercial routes do not need full closure to become strategically disruptive; persistent deadly attacks are enough to raise costs and reshape traffic.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-strait-hormuz-august-11-2026-91e4efdfe1ac035b2065127550377289"
+            }
+          ]
+        },
+        {
+          "label": "Force Posture",
+          "headline": "AP's regional roundup says the USS George Washington is heading to the Middle East as Washington stretches naval posture across overlapping crises",
+          "summary": "AP reports in its Middle East roundup that the USS George Washington is moving in to replace the long-deployed USS Abraham Lincoln while oil spills, Yemen fighting, and stalled diplomacy all continue. The deployment is a signal that U.S. force management is becoming part of the story, not just the background.",
+          "why_it_matters": "When replacement carriers and stretched deployments become headline material, the region's instability is beginning to tax deterrence capacity itself.",
+          "countries": ["United States", "Yemen", "Iran", "Saudi Arabia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/42eb6af678a8f16d3a2cb14bd7918a12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania remains a strong local lane because the Danube crisis is now directly affecting both electricity security and the risk calculus on the eastern flank.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Danube Crunch",
+          "headline": "The wider Danube drought is still squeezing Romania's energy, water, and river-transport margin with no quick relief in sight",
+          "summary": "AP reported last week that record-low Danube levels across Romania and neighboring states were already straining electricity generation, shipping, and water systems, with forecasts offering little immediate relief. Today's Cernavoda shutdown confirms that the broader warning has now become a realized operating crisis.",
+          "why_it_matters": "Romania's local drought story matters because it now sits at the junction of electricity supply, transport friction, and regional economic resilience.",
+          "countries": ["Romania", "Hungary", "Serbia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/danube-drought-energy-crisis-hungary-romania-serbia-229e089c30821889548354d7da289084"
+            }
+          ]
+        },
+        {
+          "label": "Border Spillover",
+          "headline": "The drone explosion near Bulgaria's gas pipeline after crossing from Romania remains a sharp reminder of eastern-flank exposure",
+          "summary": "AP reported this week that a likely Ukrainian drone crossed from Romania into Bulgaria and exploded near the Trans-Balkan gas pipeline without causing damage. It is not today's newest local development, but it remains one of the clearest recent signals of how quickly nearby war can brush NATO infrastructure and Romanian airspace management.",
+          "why_it_matters": "Near misses matter because they show how infrastructure, alliance territory, and air-defense decisions can converge with little warning.",
+          "countries": ["Romania", "Bulgaria", "Ukraine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/427dcc0875f5e416dadfee0c022f1cb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "governance-and-politics",
+      "title": "Governance And Politics",
+      "description": "Several of today's political stories matter less for spectacle than for what they reveal about state capacity, public legitimacy, and the durability of existing alignments.",
+      "kicker": "Political Strain",
+      "stories": [
+        {
+          "label": "Colombia Rescue",
+          "headline": "Colombia's earthquake response is shifting toward a tighter rescue window and a larger test of state coordination",
+          "summary": "AP reports that rescuers in western Colombia are calling for silence around rubble as the chance of finding survivors narrows after the 7.4 quake, with the death toll above 280 and hundreds still missing. The operation is increasingly a test of whether a new administration can sustain competence as the emergency moves from rescue into humanitarian management.",
+          "why_it_matters": "Disaster response becomes politically defining when the first hard measure of a government is whether it can move fast, coordinate well, and stay credible under grief.",
+          "countries": ["Colombia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/99bea7b7eae8778e9e6729556c855369"
+            }
+          ]
+        },
+        {
+          "label": "Brazil-U.S. Tension",
+          "headline": "Graffiti on the U.S. Embassy wall in Brasilia shows how the tariff dispute is hardening into a broader political rupture",
+          "summary": "AP reports that anti-American graffiti appeared on the wall of the U.S. Embassy in Brazil's capital as tensions remain elevated over Trump's tariffs and the diplomatic fallout surrounding Brazil's ambassador. The vandalism is symbolically small, but it reflects a relationship that is moving from trade friction into public confrontation.",
+          "why_it_matters": "Trade fights matter more when they start corroding bilateral legitimacy and public sentiment rather than staying contained to negotiators and markets.",
+          "countries": ["Brazil", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/aaee36297c7141b17b17932d3cfb01df"
+            }
+          ]
+        },
+        {
+          "label": "Farage Returns",
+          "headline": "Nigel Farage has won back his seat in a mocked Clacton election, but the underlying ethics scrutiny has not gone away",
+          "summary": "AP reports that Farage regained his parliamentary seat after the special election he triggered, defeating comic candidate Count Binface in a contest many major parties treated as a stunt. The result confirms his personal staying power while leaving the donation investigation that prompted the race unresolved.",
+          "why_it_matters": "Farage still matters because even narrow or theatrical wins can keep a disruptive political figure at the center of Britain's migration and anti-establishment debate.",
+          "countries": ["United Kingdom"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/16f5c7deff9de672c1c9b1950513b52f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-systems",
+      "title": "Climate And Systems",
+      "description": "This lane matters where drought and heat are no longer only environmental stories and are instead cutting directly into food output, transport reliability, and public-system slack.",
+      "kicker": "Systemic Heat",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "European Drought",
+          "headline": "AP's Europe-wide drought reporting shows the crisis is now hitting crops, river freight, and rural income at continental scale",
+          "summary": "AP reports that drought is shrinking harvests from Dutch potatoes to Bosnian corn while low rivers and irrigation limits spread losses across multiple farm systems. Romania appears in that wider picture as part of a continental stress pattern rather than an isolated edge case.",
+          "why_it_matters": "Food, freight, and water stress become macro stories when the same heat pattern starts degrading several European production systems at once.",
+          "countries": ["Netherlands", "Bosnia and Herzegovina", "Romania", "Hungary", "United Kingdom"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/b44ab4a0d37c1ef7c4f66de8effe567b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "The science lane earns space today because an unusually strong public skywatching window still gives readers something immediate, concrete, and globally shared outside the crisis cycle.",
+      "kicker": "Look Up",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Perseids Window",
+          "headline": "NASA says the Perseids remain one of the best immediate skywatching opportunities of the month after this week's eclipse",
+          "summary": "NASA's August skywatching guide says the Perseid meteor shower peaks under especially dark skies this year thanks to the new moon, with visibility still strong in the days around the peak. Coming just after the August 12 eclipse over parts of Europe and the North Atlantic, it remains a rare public-science moment many readers can still act on.",
+          "why_it_matters": "Shared visible science events matter because they cut across borders and remind readers that not every high-signal morning story has to be a disaster or confrontation.",
+          "countries": ["Spain", "Portugal", "Iceland", "Greenland", "Russia", "United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful today as a rough guide to which stories broader English-language audiences are personalizing, arguing over, or reframing into longer-term anxieties.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Eclipse Afterglow",
+          "headline": "A Reddit thread on Europe's eclipse is resonating because users are treating it as a rare shared experience rather than just a science clip",
+          "summary": "The discussion around the eclipse coverage centers on wonder, viewing conditions, and how unusual it felt to have so much of Europe focused on the same sky event at once. That makes it a useful audience signal about how quickly non-political stories can still dominate attention when they feel collective and immediate.",
+          "why_it_matters": "Public attention matters when it shows what can still briefly pull people out of crisis-only consumption.",
+          "countries": ["United Kingdom", "Spain", "Iceland", "Portugal"],
+          "sources": [
+            {
+              "name": "Reddit r/news post",
+              "url": "https://www.reddit.com/r/news/comments/1vmq32n/millions_in_uk_and_europe_wowed_by/"
+            }
+          ]
+        },
+        {
+          "label": "AI Labels",
+          "headline": "A Reddit thread on mandatory AI-generated labels in the EU is gaining traction because users are testing whether disclosure rules will change anything real",
+          "summary": "The comments cluster around whether the new labels will reduce obvious AI slop or simply formalize it with weak enforcement and large carve-outs. That makes the thread a useful public-signal snapshot of how ordinary users are processing AI governance rather than just reading headlines about it.",
+          "why_it_matters": "Regulation matters politically when users start deciding whether they believe compliance will meaningfully change behavior.",
+          "countries": ["European Union"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vf1hap/aigenerated_label_becomes_mandatory_in_the_eu_for/"
+            }
+          ]
+        },
+        {
+          "label": "Carrier Fatigue",
+          "headline": "A Reddit post on the USS George Washington deployment is drawing heavy reaction because users see force strain and Pacific tradeoffs behind the move",
+          "summary": "The thread treats the carrier redeployment not as routine rotation but as evidence that overlapping crises are stretching U.S. naval posture and leaving other theaters exposed. That makes it a useful public-attention signal about how readers are interpreting military logistics as strategic weakness or overextension.",
+          "why_it_matters": "Audience clusters matter when they reveal which deployments people interpret as signs of structural strain rather than simple power projection.",
+          "countries": ["United States", "Iran", "Yemen", "Taiwan"],
+          "sources": [
+            {
+              "name": "Reddit r/news post",
+              "url": "https://www.reddit.com/r/news/comments/1vngz65/uss_george_washington_headed_to_middle_east_to/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
