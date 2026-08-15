@@ -1,0 +1,334 @@
+{
+  "date": "2026-08-15",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Saturday, August 15, 2026 opens with drone attacks on Gulf tankers, widening climate stress across Europe and Asia, and Romania's drought crossing further into hard energy-security territory.",
+  "generated_at": "2026-08-15T09:03:51+03:00",
+  "summary": {
+    "spotlight": "The strongest signal this morning is that logistics stress is spreading across several systems at once. Shipping in the Gulf, civilian safety in Ukraine, flood and fire disruption in Asia and Europe, Congo's Ebola response, and Romania's reactor shutdown all point to a world where transport, energy, health, and governance shocks are no longer staying in separate boxes.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that materially affect shipping lanes, war risk, electricity supply, disaster response, election credibility, or state resilience. Romania remains a dedicated lane because the Danube drought is still directly shaping national power security, and Reddit is included only where audience attention adds a useful public-signal layer."
+  },
+  "featured_story": {
+    "category": "middle-east-and-shipping",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Two UAE tankers were attacked in the Strait of Hormuz, turning a tense shipping corridor back into an immediate global energy-security story",
+    "summary": "AP reports that two ADNOC-linked tankers were attacked by drones while transiting the Strait of Hormuz on Friday, with the UAE blaming Iran and calling the incident piracy and a direct threat to freedom of navigation. Even without fatalities, the attack matters because it shifts Gulf risk from blockade rhetoric back into concrete damage against commercial energy traffic.",
+    "why_it_matters": "A drone attack on tankers in Hormuz sharpens insurance, shipping, and oil-price risk for the entire world economy rather than only the regional military balance.",
+    "countries": ["United Arab Emirates", "Iran", "United States", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/e8565c608ac5283ec8103c85df924b13"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-and-shipping",
+      "title": "Middle East And Shipping",
+      "description": "The Gulf story today is about commercial vulnerability: peace diplomacy is stalled while tanker attacks, Houthi strikes, and crew trauma keep proving that shipping lanes remain one of the conflict's most exposed systems.",
+      "kicker": "Maritime Stress",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Gaza Diplomacy",
+          "headline": "Jared Kushner is heading to Israel and Egypt as Washington tries to keep its Gaza plan alive after Israeli rejection",
+          "summary": "AP reports that Kushner will travel with Board of Peace officials to Israel and Egypt next week to push a ceasefire and transition plan for Gaza after Prime Minister Benjamin Netanyahu rejected the current U.S.-backed framework. The trip matters less as a breakthrough than as a sign that Washington is still spending political capital to keep the file from collapsing completely.",
+          "why_it_matters": "When a peace plan survives only through repeated emergency diplomacy, it signals how fragile both ceasefire hopes and the wider regional reset still are.",
+          "countries": ["United States", "Israel", "Egypt", "Palestine"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cebcf8dfa28edd0ddcc61d28e5bf4488"
+            }
+          ]
+        },
+        {
+          "label": "Red Sea Violence",
+          "headline": "Survivors from the Houthi missile attack in the Bab el-Mandeb say the rescue itself turned chaotic under repeated strikes",
+          "summary": "AP reports that crew members from a Yemeni commercial vessel described panic, fire, and further chaos during rescue efforts after a Houthi missile attack killed six people earlier this week. The firsthand account reinforces that Red Sea disruption remains not just a routing problem but a direct human-security and labor-risk story for commercial crews.",
+          "why_it_matters": "Shipping risk becomes more structurally disruptive when crews, insurers, and operators start treating transit itself as a lethal exposure.",
+          "countries": ["Yemen", "Saudi Arabia", "Pakistan", "Indonesia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/29115cc1fbc209ed4be2d2f80eabc1bf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-russia",
+      "title": "Ukraine And Russia",
+      "description": "The war signal today is a mix of deep-strike pressure inside Russia and rising civilian losses inside Ukraine, showing both Kyiv's reach and Moscow's continued ability to impose pain on towns far from the main front.",
+      "kicker": "War Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Civilian Toll",
+          "headline": "Russian drone attacks killed a mother and her 9-year-old son as U.N. data shows Ukraine's civilian casualties sharply worsening",
+          "summary": "AP reports that a Russian drone strike in Ukraine's Sumy region killed a 29-year-old woman and her child on Friday, while the U.N. says July was the deadliest month for civilians in more than four years. The story underscores that Russia's campaign is not only about battlefield pressure but also about grinding down daily life and local morale.",
+          "why_it_matters": "Rising civilian casualties make the war harder to normalize diplomatically and harder for Ukraine to sustain socially even when the front line appears static.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/66f000409c6648239936b628a9eae0f5"
+            }
+          ]
+        },
+        {
+          "label": "Black Sea Reach",
+          "headline": "Ukraine's recent strike on Novorossiysk still stands out because Russia's fallback Black Sea hub is proving vulnerable too",
+          "summary": "AP reported that Ukrainian drones and missiles damaged infrastructure around Novorossiysk, a key naval and export hub that Moscow has treated as safer than Crimea. The broader significance is that Russian fallback logistics in the Black Sea still look exposed even after years of adaptation.",
+          "why_it_matters": "A more vulnerable Novorossiysk raises strategic pressure on grain flows, naval basing, energy exports, and the wider perception of Black Sea stability.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9eadff0d7590923e3d98c99e2b61150b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate And Disasters",
+      "description": "Heat, flood, and quake stories all earn space this morning because they are testing transport, emergency response, and infrastructure resilience across several regions at once.",
+      "kicker": "System Stress",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "European Fires",
+          "headline": "Wildfires and record heat are hitting multiple European countries at once, adding another layer to the continent's drought shock",
+          "summary": "AP reports that France, Spain, Germany, Greece, Croatia, Albania, and the U.K. are all dealing with major wildfire or extreme-heat impacts as temperatures keep climbing and drought deepens. The scale matters because the story is no longer one national emergency at a time and instead looks like a continent-wide resilience test.",
+          "why_it_matters": "When fires, heat, water shortages, and grid strain arrive together across Europe, the climate story becomes an operating-capacity problem for governments rather than only an environmental warning.",
+          "countries": ["France", "Spain", "Germany", "Greece", "Croatia", "Albania", "United Kingdom"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/bb9926465acf98a7790a7bf01294f604"
+            }
+          ]
+        },
+        {
+          "label": "Japan Floods",
+          "headline": "Record rainfall east of Tokyo killed at least five people and stranded thousands during a peak travel period",
+          "summary": "AP reports that severe flooding in Chiba Prefecture killed at least five people, injured dozens, and disrupted transport near Narita and the Tokyo Disney corridor at the end of the Bon holiday period. It is a reminder that even advanced urban systems remain vulnerable when short bursts of extreme rain overwhelm drainage and rail networks.",
+          "why_it_matters": "Flood disruption near one of Japan's biggest metro and travel corridors shows how quickly weather extremes can cascade into transport and power problems.",
+          "countries": ["Japan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d37730f09557f9cce4948754fcef673c"
+            }
+          ]
+        },
+        {
+          "label": "Colombia Rescue",
+          "headline": "Signs of life under collapsed buildings are keeping Colombia's earthquake response in rescue mode for a little longer",
+          "summary": "AP reports that rescuers in Colombia detected possible survivors beneath rubble in two hard-hit cities as the critical post-quake survival window narrows, with at least 287 dead and many more still missing. The emotional importance is obvious, but so is the institutional test for a new administration trying to show competence under national shock.",
+          "why_it_matters": "Moments of possible rescue can reset public expectations and political pressure because they extend the window in which governments are judged on speed, coordination, and credibility.",
+          "countries": ["Colombia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/fd8948bee8acf98009e60615fc62694d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania stays a dedicated lane because the Danube drought is still directly reshaping energy security, river operations, and the country's margin for absorbing wider regional stress.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Reactor Shutdown",
+          "headline": "Romania has begun shutting down Cernavoda's second reactor as the Danube remains too low for normal cooling operations",
+          "summary": "AP reports that Romania started a controlled shutdown of Cernavoda's second reactor on Thursday after record-low Danube levels left the plant without enough cooling water to operate normally. With one reactor already offline, the story is now plainly an electricity-security issue rather than a distant drought warning.",
+          "why_it_matters": "A drought that knocks nuclear capacity offline turns climate stress into an immediate supply and price problem for Romania and the wider region.",
+          "countries": ["Romania", "Hungary", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4239b119af1153fc0a57093b04df555b"
+            }
+          ]
+        },
+        {
+          "label": "Emergency River Engineering",
+          "headline": "Romania's earlier attempt to redirect Danube water with sunken rock barges now looks less like overreaction and more like a failed last buffer",
+          "summary": "AP reported last week that Romania sank four rock-filled barges to redirect Danube flow toward Cernavoda in hopes of buying time before another reactor shutdown. With the second reactor now going offline anyway, that intervention reads as a clear measure of how severe the hydrological crisis has become.",
+          "why_it_matters": "Emergency engineering on a major river is a strong signal that normal water-management margins are breaking down under prolonged heat and drought.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1ddb89604f06026c938363d57da53071"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "politics-and-trade",
+      "title": "Politics And Trade",
+      "description": "Several political stories matter today because they show how legitimacy fights are now mixing with trade pressure, election security, and anti-establishment campaigning across very different systems.",
+      "kicker": "Political Strain",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Brazil Tariffs",
+          "headline": "Brazil's Lula triggered a reciprocity process against U.S. tariffs to show this dispute is now about sovereignty as well as exports",
+          "summary": "AP reports that Lula invoked Brazil's reciprocity law in response to U.S. tariffs, framing the move as a defense of national respect while still leaving room for negotiation. The dispute matters because it is blending trade friction with election timing, diplomatic retaliation, and wider geopolitical realignment pressure.",
+          "why_it_matters": "Trade fights become harder to defuse when leaders sell them domestically as tests of sovereignty rather than ordinary bargaining disputes.",
+          "countries": ["Brazil", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1d00c49488ea803e05c17980f10a250d"
+            }
+          ]
+        },
+        {
+          "label": "Zambia Vote Count",
+          "headline": "Zambia resumed presidential vote counting after attacks on polling staff and ballot theft shook confidence in the process",
+          "summary": "AP reports that ballot counting in Zambia was briefly suspended and then restarted under heightened security after attacks at polling stations, the killing of a party official, and the theft of marked ballot papers. The election is being watched closely because it tests both President Hakainde Hichilema's recovery narrative and the country's institutional durability.",
+          "why_it_matters": "Election violence matters beyond one vote because it can quickly turn an economic referendum into a credibility crisis for the state itself.",
+          "countries": ["Zambia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9978128100cfd22e2715d884030ab728"
+            }
+          ]
+        },
+        {
+          "label": "Farage Returns",
+          "headline": "Nigel Farage won back his seat in a stunt-heavy Clacton contest, but the ethics questions that triggered it still remain",
+          "summary": "AP reports that Farage regained his parliamentary seat after a special election boycotted by major parties and crowded with fringe candidates, including Count Binface. The spectacle obscures the more important point that Britain's anti-establishment lane remains influential even when the contest itself looks unserious.",
+          "why_it_matters": "Farage still matters because he keeps shaping the migration and anti-establishment conversation even through theatrical elections and unresolved scrutiny.",
+          "countries": ["United Kingdom"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/16f5c7deff9de672c1c9b1950513b52f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "security-and-health",
+      "title": "Security And Health",
+      "description": "This lane matters because both military readiness and epidemic control are moving closer to ordinary civilian life, whether through network slowdowns in Taiwan or overwhelmed contact tracing in Congo.",
+      "kicker": "Preparedness",
+      "stories": [
+        {
+          "label": "Taiwan Drill",
+          "headline": "Taiwan slowed parts of its mobile internet to near text-only speed as part of a defense drill built around invasion conditions",
+          "summary": "AP reports that Taiwan briefly throttled mobile internet access across Taipei and several other areas during the final phase of the Han Kuang exercises, folding civilian digital experience into wartime preparedness. The significance is that defense drills are now testing how ordinary people would function under degraded connectivity, not only how troops would respond.",
+          "why_it_matters": "A society rehearsing for slower, degraded communications is a society taking blockade and invasion risk more seriously at the civilian-system level.",
+          "countries": ["Taiwan", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/0d1d2fdd870aee3eb141fab385e88cb1"
+            }
+          ]
+        },
+        {
+          "label": "Congo Ebola",
+          "headline": "Congo's Ebola outbreak has reached a sixth province, stretching an already underfunded response against a harder virus strain",
+          "summary": "AP reports that the Democratic Republic of Congo's fast-growing Ebola outbreak has now spread to Bas-Uele, with more than 2,100 deaths and no approved vaccine or treatment for the Bundibugyo strain. Strikes by unpaid health workers and weak contact tracing make the outbreak important not just as a medical event but as a state-capacity warning.",
+          "why_it_matters": "An outbreak grows more dangerous when logistics, salaries, trust, and clinical tools all fail at the same time.",
+          "countries": ["Democratic Republic of the Congo"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ba8daf530f48c495fb54dbf36c542d81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "The science lane stays in because August still offers an unusually accessible run of visible sky events that give readers something concrete and shared outside the crisis cycle.",
+      "kicker": "Look Up",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Skywatching Window",
+          "headline": "NASA says the mid-August skywatching window is still strong with Perseids lingering and Venus at peak evening visibility",
+          "summary": "NASA's August skywatching guide notes that the Perseid meteor shower peaks under dark skies this year and that Venus is reaching its greatest eastern elongation from August 14 to 16. That makes the science lane unusually immediate because readers can still act on it over the next several nights rather than only read about it after the fact.",
+          "why_it_matters": "Visible sky events matter because they offer a rare, low-cost shared experience that cuts across borders and crisis-driven attention.",
+          "countries": ["United States", "Spain", "Portugal", "Iceland", "Greenland", "Russia"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful today as a public-signal layer because the loudest threads are not just reposting headlines; they are showing which global stories people are turning into arguments about state capacity, escalation, and strategic drift.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Outbreak Anxiety",
+          "headline": "A Reddit thread on Congo's Ebola surge is drawing heavy reaction because users are turning a distant outbreak into a debate about state failure and global spillover",
+          "summary": "The discussion around the Congo Ebola thread quickly moved from case counts to arguments about health-system collapse, aid cuts, and whether outside powers will pay attention before the crisis worsens further. That makes it a useful audience signal about how readers map a regional outbreak onto broader fears about global institutional failure.",
+          "why_it_matters": "Audience response matters when it shows which crises people interpret as contained local tragedies and which they see as warnings of larger breakdown.",
+          "countries": ["Democratic Republic of the Congo", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vmn6d5/who_says_congos_ebola_outbreak_is_on_track_to/"
+            }
+          ]
+        },
+        {
+          "label": "Taiwan Tension",
+          "headline": "Taiwan drill threads are gaining traction because users treat communications slowdowns as proof that gray-zone pressure is becoming more real",
+          "summary": "The current Taiwan discussion is less about the mechanics of one drill and more about what people think it says regarding blockade risk, Chinese intent, and the plausibility of a future civilian disruption scenario. That makes the thread a good read on how online audiences are converting defense exercises into a barometer of regional escalation risk.",
+          "why_it_matters": "Public attention matters when it shows which military preparations people interpret as routine signaling and which they treat as early-warning evidence.",
+          "countries": ["Taiwan", "China"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vmpaqe/taiwan_condemns_dangerous_planned_chinese_navy/"
+            }
+          ]
+        },
+        {
+          "label": "Brazil Realignment",
+          "headline": "Reddit reaction to the Brazil tariff fight centers on whether U.S. pressure is pushing Lula faster toward China",
+          "summary": "The Brazil thread clusters around a simple question: whether Washington's tariff and diplomatic pressure is just punishing Brazil or actively helping Beijing deepen influence in Latin America. That gives the post real signal value because users are framing a bilateral trade dispute as part of a larger alignment shift.",
+          "why_it_matters": "Audience framing matters when it shows that trade policy is being read as alliance-building or alliance-damaging rather than merely economic coercion.",
+          "countries": ["Brazil", "United States", "China"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1v7yyg4/xi_tells_lula_china_backs_brazil_in_rejecting/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
