@@ -1,0 +1,334 @@
+{
+  "date": "2026-08-17",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Monday, August 17, 2026 opens with Indonesia's quake relief crunch, a dangerous Gaza-Lebanon middle ground, and Europe's drought pushing deeper into energy, food, and fire stress.",
+  "generated_at": "2026-08-17T09:11:00+03:00",
+  "summary": {
+    "spotlight": "The clearest pattern this morning is that governments are being tested by overlapping physical and political shocks at once. Indonesia's quake, the Gaza-Lebanon diplomacy gap, Ukraine's expanding drone war, Europe's drought, Congo's Ebola response, and election or transport failures in Africa all point to thinner margins for resilience than leaders would like to admit.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that materially affect civilian safety, shipping lanes, electricity systems, food and water security, outbreak control, or state credibility. Romania remains a dedicated lane because the Danube drought is still directly shaping national power security, and Reddit appears only where public attention adds a useful signal layer."
+  },
+  "featured_story": {
+    "category": "disaster-response",
+    "tone": "environment",
+    "label": "Top Story",
+    "headline": "Thousands in Indonesia are still waiting for aid after the Flores earthquake killed at least 54 people and displaced entire communities",
+    "summary": "AP reports that a state of emergency is in effect after the powerful earthquake on Flores killed at least 54 people, injured more than 130, and damaged or destroyed over 1,300 homes. The death toll and destruction already make this a major disaster, but the larger signal is how quickly a quake becomes a logistics crisis when roads, terrain, and aftershocks slow delivery of food, water, medicine, and shelter.",
+    "why_it_matters": "Large post-quake aid bottlenecks are a direct test of whether disaster-prone states can keep a natural shock from turning into a longer humanitarian failure.",
+    "countries": ["Indonesia"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/ec45607ccc22d9df2d5cfe4ab82d33eb"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "disaster-response",
+      "title": "Disaster Response",
+      "description": "The lead disaster stories today are not only about death tolls. They are about whether authorities can sustain credible rescue and recovery operations once the first shock has passed.",
+      "kicker": "After The Shock",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Indonesia Aid",
+          "headline": "Indonesia's emergency response is shifting from immediate rescue into a harder test of getting enough aid to remote quake-hit communities",
+          "summary": "AP reports that nearly 5,000 people have been displaced on Flores and that hundreds of tons of aid and thousands of security personnel have been mobilized after the earthquake. The scale of the response is significant, but so are the access problems, because remote terrain and repeated aftershocks make a fast, orderly recovery much harder.",
+          "why_it_matters": "Early relief logistics often determine whether a disaster remains a tragic emergency or becomes a wider governance failure.",
+          "countries": ["Indonesia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ec45607ccc22d9df2d5cfe4ab82d33eb"
+            }
+          ]
+        },
+        {
+          "label": "Colombia Recovery",
+          "headline": "Colombia's president asked Trump to suspend tariffs temporarily to ease pressure on an economy already hit by a deadly earthquake",
+          "summary": "AP reports that Colombia's president requested a temporary suspension of U.S. tariffs as the country struggles with the aftermath of a 7.4-magnitude earthquake that has killed at least 289 people and injured thousands. The request matters because it turns disaster recovery into a trade and fiscal resilience story, not only a humanitarian one.",
+          "why_it_matters": "Recovery efforts become harder when governments must stabilize damaged communities while also protecting export income and fiscal room.",
+          "countries": ["Colombia", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d5472db0c7b2f929b43a4c190dc0d41b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-and-shipping",
+      "title": "Middle East And Shipping",
+      "description": "The region's signal today is the unstable middle ground between diplomacy and renewed escalation, where ceasefire talk, Lebanon strikes, and maritime insecurity are all active at the same time.",
+      "kicker": "Fragile Corridor",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Gaza Talks",
+          "headline": "Jared Kushner held a rare meeting with Hamas' leader in Cairo, keeping a Gaza road map alive even as Netanyahu rejects key parts",
+          "summary": "AP reports that Kushner met Khalil al-Hayya in Cairo to push a U.S.-backed Gaza framework built around disarmament, Israeli withdrawal, and technocratic governance. It does not look like a breakthrough yet, but the meeting matters because mediators are still treating collapse of the current track as materially worse than the costs of continued emergency diplomacy.",
+          "why_it_matters": "When talks continue despite public rejection from key actors, it usually means outside powers still think the alternative is broader instability.",
+          "countries": ["United States", "Palestine", "Egypt", "Israel"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/321e254af26a0fff1b3ec2b8c00412a2"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon Truce",
+          "headline": "The deadliest Israeli strikes since June's truce killed 11 people in southern Lebanon and sharply tested the idea that this front is contained",
+          "summary": "AP reports that Israeli airstrikes killed at least 11 people in southern Lebanon, including civilians, in the most lethal episode since the June 20 truce with Hezbollah. That matters because it shows how quickly a supposedly quieter front can swing back toward high-casualty escalation while negotiators remain focused on Gaza.",
+          "why_it_matters": "A truce that repeatedly survives only in name keeps the region one miscalculation away from broader war.",
+          "countries": ["Israel", "Lebanon"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1124fd2bd0b7ed76b0e97683dddbcaad"
+            }
+          ]
+        },
+        {
+          "label": "Oman Spill",
+          "headline": "Oil from a grounded shadow-fleet tanker off Oman has reached the coastline, widening environmental and shipping risk in an already tense corridor",
+          "summary": "AP reports that crude from the tanker Caroline Bezengi has reached Oman's mainland coast after spreading over hundreds of square kilometers. The spill matters not just ecologically but strategically because it adds another layer of disruption and cleanup risk to a maritime region already strained by conflict and sanctions evasion.",
+          "why_it_matters": "Environmental damage in a critical energy corridor can deepen the economic consequences of regional conflict even without a new military strike.",
+          "countries": ["Oman", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9e41eccb841c68e074f16274307d3b89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-russia",
+      "title": "Ukraine And Russia",
+      "description": "The war signal this morning remains two-sided: Ukraine is proving it can keep hitting deep inside Russia, while Moscow is still imposing sustained civilian pain inside Ukraine.",
+      "kicker": "Mutual Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Largest Drone Assaults",
+          "headline": "Ukraine launched one of its largest aerial attacks of the war, killing at least six people in Russia and pushing the conflict's reach outward again",
+          "summary": "AP reports that Ukraine launched hundreds of drones across Russia, killing at least six people and damaging major sites including Wildberries facilities while a NATO jet also downed a drone in Romanian airspace. The attack matters because it reinforces Kyiv's strategy of turning distance and industrial depth into weaker buffers than Moscow wants them to be.",
+          "why_it_matters": "Deep attacks reshape the war by forcing Russia to defend logistics, morale, and airspace far beyond the front line.",
+          "countries": ["Ukraine", "Russia", "Romania", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/01294bf8744282086e8f76c8130e16ba"
+            }
+          ]
+        },
+        {
+          "label": "Civilian Toll",
+          "headline": "Russian strikes kept killing and injuring civilians across Ukraine even as attention shifted to Kyiv's deeper reach inside Russia",
+          "summary": "AP reports that Russian missile and drone attacks killed people in places including Kryvyi Rih, Sumy, and Zaporizhzhia while fires and infrastructure damage spread in Kyiv. The point is that Russia's campaign still centers on wearing down Ukrainian society, not only countering military pressure.",
+          "why_it_matters": "Rising civilian losses make the war harder to freeze politically and harder for Ukraine to absorb socially.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/01294bf8744282086e8f76c8130e16ba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-food-and-energy",
+      "title": "Climate Food And Energy",
+      "description": "Heat and drought deserve a large section again because they are now visibly hitting firefighting capacity, crop output, transport, and power systems across several regions at once.",
+      "kicker": "Hard Limits",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Europe Wildfires",
+          "headline": "Belgium and Greece joined the widening European wildfire map as heat and drought kept stretching emergency capacity",
+          "summary": "AP reports that major fires in Belgium and Greece led to evacuations, deaths, and the activation of EU support while other countries from France to the U.K. kept facing fire and heat stress. The continental scale matters because simultaneous emergencies leave less spare capacity and less room for clean sequential mutual aid.",
+          "why_it_matters": "Climate emergencies become harder to manage when governments are competing for firefighting and evacuation capacity at the same time.",
+          "countries": ["Belgium", "Greece", "France", "Germany", "United Kingdom", "Netherlands", "Sweden"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/66c6fb6801f5574fde2dfc07a610a4cb"
+            }
+          ]
+        },
+        {
+          "label": "Crop Damage",
+          "headline": "Europe's drought is still shrinking harvests from Dutch potatoes to Bosnian corn and widening the story from weather into food and income stress",
+          "summary": "AP reports that drought is damaging crops across the continent, straining irrigation systems, and threatening yields in several agricultural regions at once. It belongs near the top of the briefing because climate risk is now showing up directly in food production, transport economics, and household affordability.",
+          "why_it_matters": "When drought cuts across several major farming regions together, it becomes an inflation, trade, and political problem as much as an environmental one.",
+          "countries": ["Netherlands", "Bosnia and Herzegovina", "Romania", "Hungary", "United Kingdom", "Italy", "Czech Republic"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/b44ab4a0d37c1ef7c4f66de8effe567b"
+            }
+          ]
+        },
+        {
+          "label": "Somalia Hunger",
+          "headline": "Somalia's yearslong drought is still driving displacement and hunger just as aid is shrinking and flood risk is building again",
+          "summary": "AP reports that about 2 million Somalis face emergency-level food insecurity, with many displaced families arriving in settlements around Baidoa after exhausting what remained at home. The story matters because it shows how drought, conflict, and aid shortfalls can reinforce each other until even the next season's flood risk becomes another threat rather than relief.",
+          "why_it_matters": "Climate shocks become much harder to survive when humanitarian systems weaken at the same time that exposure keeps compounding.",
+          "countries": ["Somalia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/28d37013c290c3327b50911a9bcfc8c2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "africa-health-and-governance",
+      "title": "Africa Health And Governance",
+      "description": "This lane matters because public institutions are being tested at the same time by outbreak control, election credibility, and transport safety failures.",
+      "kicker": "State Capacity",
+      "stories": [
+        {
+          "label": "Congo Ebola",
+          "headline": "Congo's Ebola outbreak has reached a sixth province, stretching contact tracing and care further beyond an already exhausted response",
+          "summary": "AP reports that the fast-growing outbreak has spread to Bas-Uele while more than 2,100 people have died and many cases are still being discovered outside monitored contacts. The danger is not only the virus itself but the combination of unpaid workers, weak logistics, and widening geographic spread.",
+          "why_it_matters": "Outbreaks become much harder to contain once administrative weakness starts amplifying biological risk.",
+          "countries": ["Democratic Republic of the Congo"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ba8daf530f48c495fb54dbf36c542d81"
+            }
+          ]
+        },
+        {
+          "label": "Zimbabwe Ferry",
+          "headline": "Zimbabwe's ferry disaster death toll rose to 84, underlining how transport failure can turn remoteness into mass casualty risk",
+          "summary": "AP reports that more bodies were recovered from Lake Kariba after the overloaded ferry capsized, with children heavily represented among the dead. The story belongs in the global scan because disasters like this usually reflect not one bad wave but a chain of safety, oversight, and infrastructure failures.",
+          "why_it_matters": "Deadly transport accidents reveal where everyday state capacity and safety enforcement have already eroded.",
+          "countries": ["Zimbabwe"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/cfd6c6df88f0d72b3ab227d8f41214f4"
+            }
+          ]
+        },
+        {
+          "label": "Zambia Count",
+          "headline": "Zambia's presidential vote count resumed after attacks on polling stations and ballot theft shook confidence in the process",
+          "summary": "AP reports that counting was suspended and then restarted under heightened security after violence against election officials and theft of marked ballots. The election matters beyond one result because it tests whether Zambia can preserve procedural legitimacy while citizens remain under economic strain.",
+          "why_it_matters": "Once election administration looks physically insecure, trust in the result becomes harder to rebuild than the count itself.",
+          "countries": ["Zambia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/9978128100cfd22e2715d884030ab728"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania stays a dedicated lane because the drought is no longer abstract. It is visibly reshaping electricity supply, river management, and the country's vulnerability to wider regional heat stress.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Second Reactor Offline",
+          "headline": "Romania's drought has crossed further into operational power stress with Cernavoda's second reactor shutting down",
+          "summary": "AP reports that Romania began a controlled shutdown of the second reactor at Cernavoda after Danube water levels fell below normal operating thresholds for cooling. With one reactor already offline, the issue is now clearly about electricity security and regional dependence rather than a distant climate warning.",
+          "why_it_matters": "When hydrological stress directly cuts nuclear output, climate risk becomes a hard national security and affordability issue.",
+          "countries": ["Romania", "Hungary", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4239b119af1153fc0a57093b04df555b"
+            }
+          ]
+        },
+        {
+          "label": "Emergency Measures",
+          "headline": "Romania's earlier Danube diversion works now look less like a buffer and more like proof of how thin the country's water margin had already become",
+          "summary": "AP reported earlier this month that Romanian authorities blasted rock and sank barges to redirect more Danube flow toward Cernavoda in hopes of buying time. Because the reactor shutdown followed anyway, those steps now read as a vivid sign of how severe the drought already was before the latest decision.",
+          "why_it_matters": "Emergency river interventions are a strong signal that ordinary planning buffers are no longer enough.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1ddb89604f06026c938363d57da53071"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "The science lane stays in because August still offers a concrete shared skywatching moment that readers can act on immediately, even in a heavily crisis-driven cycle.",
+      "kicker": "Look Up",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Skywatching",
+          "headline": "NASA says the August skywatching window remains strong with the Perseids still active and Venus highly visible after sunset",
+          "summary": "NASA's August skywatching guide says the Perseid meteor shower remains active after its peak and that Venus is at peak evening visibility around mid-August. That gives readers a rare science story tied to something they can still go outside and see rather than only consume as a headline.",
+          "why_it_matters": "Visible sky events matter because they create a low-cost, cross-border shared experience outside the crisis cycle.",
+          "countries": ["United States", "Spain", "Portugal", "Iceland", "Greenland", "Russia", "Canada"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Reddit is useful today as a public-signal layer because the strongest threads are not random distractions. They show where online audiences are connecting disaster and war stories to larger fears about fragility and escalation.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Indonesia Shock",
+          "headline": "The Indonesia quake thread is drawing heavy attention because users are reacting to another sudden Pacific disaster as a wider resilience story",
+          "summary": "The r/worldnews discussion around the Indonesia earthquake quickly centered on aftershocks, tsunami fears, and how exposed coastal communities remain in the region. That makes it useful signal because people are reading the event as part of a larger pattern of recurring disaster vulnerability rather than as isolated bad luck.",
+          "why_it_matters": "Audience response matters when it shows which events the public already interprets through a broader systems-risk lens.",
+          "countries": ["Indonesia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vompmd/77_magnitude_earthquake_hits_indonesia/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine Reach",
+          "headline": "The Ukraine drone-attack thread is gaining traction because users treat deep strikes on Russia as a sign the war's geographic assumptions are changing",
+          "summary": "Current r/worldnews discussion around Ukraine's heavy drone barrage focuses less on one warehouse fire and more on whether Russia can still shield logistics and major cities from sustained pressure. That makes the thread a useful public-signal layer for how audiences are processing escalation risk and strategic adaptation.",
+          "why_it_matters": "Public framing matters when it shows which military developments people treat as routine attrition and which they see as real strategic change.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vpuhqu/ukraine_attacks_russia_with_hundreds_of_drones_in/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
