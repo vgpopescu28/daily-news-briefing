@@ -1,0 +1,355 @@
+{
+  "date": "2026-08-18",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Tuesday, August 18, 2026 opens with a stalled Gaza-Hormuz diplomacy track, Russia's renewed pressure on Ukraine's energy system, and Europe's drought turning climate stress into a harder infrastructure story.",
+  "generated_at": "2026-08-18T09:03:34+03:00",
+  "summary": {
+    "spotlight": "The clearest pattern this morning is that fragile systems are being stressed from several directions at once. Gaza diplomacy, Hormuz shipping, Ukraine's winter energy risk, Europe's drought, Indonesia's quake recovery, Congo's Ebola outbreak, and Zambia's contested election environment all point to thinner operating margins than governments would like to admit.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes stories that materially affect shipping lanes, energy and water systems, civilian safety, outbreak control, or political legitimacy. Romania remains a dedicated lane because the Danube drought is still directly shaping national power security, and Reddit appears only where public attention adds a useful signal layer."
+  },
+  "featured_story": {
+    "category": "middle-east-and-shipping",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "The Gaza road map and the Iran-Hormuz deadline are both slipping at once, leaving the region stuck between diplomacy and wider disruption",
+    "summary": "AP reports that Jared Kushner's long meeting with Benjamin Netanyahu produced no firm Israeli commitment to the latest Gaza proposal, while the 60-day U.S.-Iran deadline expired with the Strait of Hormuz still unsettled. The combined signal matters because it keeps both a war zone and a vital shipping corridor in an unstable middle ground where political delay still carries real economic and civilian costs.",
+    "why_it_matters": "When ceasefire diplomacy and energy-corridor diplomacy both stall together, regional instability becomes harder to contain and harder for markets to ignore.",
+    "countries": ["Israel", "Palestine", "United States", "Iran", "Oman", "Egypt"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/kushner-trump-netanyahu-board-of-peace-mladenov-18252d84c29658ca13ac3380743953be"
+      },
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-and-shipping",
+      "title": "Middle East And Shipping",
+      "description": "The region's signal today is the dangerous overlap between stalled diplomacy and the systems that still have to function anyway, especially trade routes, civilian survival, and deterrence.",
+      "kicker": "Stalled Corridor",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Gaza Road Map",
+          "headline": "Kushner's hourslong meeting with Netanyahu left the fate of the latest Gaza ceasefire road map unresolved",
+          "summary": "AP reports that Israel would not commit to withdrawing from the 60% of Gaza it still occupies, while Hamas says it already accepted the U.S.-backed plan. The meeting still mattered because the Board of Peace and Israel created working groups on disarmament and public health, showing mediators are still trying to keep the process from outright collapse.",
+          "why_it_matters": "A ceasefire process that keeps moving without a political breakthrough usually means outside powers still fear the alternative is broader instability.",
+          "countries": ["Israel", "Palestine", "United States", "Egypt"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/kushner-trump-netanyahu-board-of-peace-mladenov-18252d84c29658ca13ac3380743953be"
+            }
+          ]
+        },
+        {
+          "label": "Hormuz Deadline",
+          "headline": "The 60-day U.S.-Iran deadline expired with no settlement on the Strait of Hormuz and no visible path back to normal shipping",
+          "summary": "AP reports that Washington and Tehran are still far apart on reopening the strait and on the wider terms of a peace deal, even though the interim deadline has now passed. That matters because the unresolved dispute still sits on top of a waterway that handled roughly one-fifth of the world's traded oil before the war.",
+          "why_it_matters": "A prolonged standoff around Hormuz keeps fuel, freight, and geopolitical risk tied together in one of the world's most consequential chokepoints.",
+          "countries": ["Iran", "United States", "Oman"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6"
+            }
+          ]
+        },
+        {
+          "label": "Oman Track",
+          "headline": "Iran says it has reached an understanding with Oman on a transit route while Trump again threatens Muscat over the strait",
+          "summary": "AP reports that Tehran says a route plan for Hormuz traffic is close to finalization, but Trump publicly threatened Oman if it obstructs Washington's goals. The mix of negotiation and coercion is the signal, because it suggests the route may reopen only under arrangements that still leave the political dispute very much alive.",
+          "why_it_matters": "Shipping lanes are less stabilizing when every operational detail still depends on coercive politics rather than a durable settlement.",
+          "countries": ["Iran", "Oman", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-and-russia",
+      "title": "Ukraine And Russia",
+      "description": "The war signal remains two-sided: Ukraine is still reaching deeper into Russia, while Moscow keeps trying to wear down Ukraine's civilian resilience and winter readiness.",
+      "kicker": "Winter Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Energy Strikes",
+          "headline": "Russia hit Naftogaz facilities 13 times in a week, reinforcing Ukraine's fear that Moscow is preparing to weaponize winter again",
+          "summary": "AP reports that Russian attacks caused serious damage to Naftogaz equipment and production capacity, while a separate strike ignited a fire at a DTEK mine and killed one worker. The point is not only the latest damage but the cumulative pattern, because the campaign is clearly aimed at the systems civilians depend on most.",
+          "why_it_matters": "Repeated energy strikes turn military stalemate into a direct contest over whether a society can keep heat, power, and water flowing.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-energy-facilities-winter-strikes-8cec7f6dacd1bc0508b8365d62e0d436"
+            }
+          ]
+        },
+        {
+          "label": "Deep Drone Reach",
+          "headline": "Ukraine's recent mass drone strikes are still reshaping assumptions about how much distance protects Russian industry and logistics",
+          "summary": "AP reported Sunday that Ukraine launched one of its largest aerial assaults of the war, killing at least six people in Russia and forcing attention back onto Moscow's depth defenses. The story remains important this morning because it reinforces Kyiv's strategy of turning industrial geography into a weaker buffer than the Kremlin wants it to be.",
+          "why_it_matters": "Deep strikes force Russia to defend logistics, morale, and commercial infrastructure far beyond the front line.",
+          "countries": ["Ukraine", "Russia", "Romania", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-01294bf8744282086e8f76c8130e16ba"
+            }
+          ]
+        },
+        {
+          "label": "Civilian Attrition",
+          "headline": "Ukraine's biggest strategic problem is still the civilian toll that keeps rising even when the front line barely moves",
+          "summary": "AP notes that the roughly 1,250-kilometer front is increasingly defined by drones, robots, and long-range attacks rather than rapid territorial shifts. That matters because the war is being fought ever more directly against infrastructure, homes, and the ability of ordinary people to keep functioning under repeated attack.",
+          "why_it_matters": "A war that centers on civilian endurance becomes politically harder to freeze and socially harder to absorb.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-energy-facilities-winter-strikes-8cec7f6dacd1bc0508b8365d62e0d436"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-energy",
+      "title": "Climate And Energy",
+      "description": "Europe's heat and drought remain near the top because the story is no longer abstract weather. It is now visibly constraining firefighting, river transport, agriculture, and power supply.",
+      "kicker": "Hard Constraints",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Belgium Wildfire",
+          "headline": "One of Belgium's biggest wildfires is still burning out of control and may continue underground for months",
+          "summary": "AP reports that the fire in the High Fens has burned about 30 square kilometers and remains active in inaccessible peat, even after rain and cooler weather. That matters because underground fire in peat is a reminder that some climate-driven emergencies now outlast the headline cycle and keep threatening re-ignition.",
+          "why_it_matters": "Wildfires become harder to manage when the landscape itself keeps storing risk after the visible flames recede.",
+          "countries": ["Belgium", "Germany", "Greece", "France", "Netherlands", "Sweden", "Norway"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/wildfire-belgium-france-heat-europe-greece-cd5a8524ca3136b009422bd24eb4194e"
+            }
+          ]
+        },
+        {
+          "label": "Systemwide Drought",
+          "headline": "EU researchers say drought and record heat are now pressuring water, crops, transport, tourism, and energy systems across the continent at once",
+          "summary": "The European Commission's Joint Research Centre says worsening drought and record heat are intensifying wildfires and driving extremely low river flows across Europe. That belongs near the top of the briefing because it frames this as a multisector stress event rather than just another hot week.",
+          "why_it_matters": "When one climate pattern starts degrading several critical systems at the same time, resilience planning stops being sector-specific and becomes a national-security problem.",
+          "countries": ["Belgium", "France", "Spain", "Romania", "Hungary", "Serbia", "Italy", "Netherlands"],
+          "sources": [
+            {
+              "name": "European Commission JRC",
+              "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/worsening-drought-and-record-heat-grip-europe-fuelling-extraordinary-wildfires-and-extremely-low-2026-08-12_en"
+            }
+          ]
+        },
+        {
+          "label": "Global Heat Signal",
+          "headline": "The World Meteorological Organization says record heat, drought, wildfire, and flood extremes are still defining the global climate picture",
+          "summary": "The WMO said on August 12 that record land and sea temperatures, along with drought, fire, and flood extremes, are defining conditions in July and early August. The significance here is that Europe's emergency is part of a wider climate pattern, not an isolated regional anomaly.",
+          "why_it_matters": "Broad synchronized heat and weather extremes reduce the spare capacity countries usually count on from one another.",
+          "countries": ["Global"],
+          "sources": [
+            {
+              "name": "WMO",
+              "url": "https://wmo.int/media/news/record-breaking-heat-and-extreme-weather-continue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "disaster-recovery",
+      "title": "Disaster Recovery",
+      "description": "The disaster lane matters today because both response speed and social recovery are now part of the story, not just raw casualty counts.",
+      "kicker": "After The Shock",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Indonesia Aid",
+          "headline": "More than 19,000 people remain displaced in eastern Indonesia as quake recovery shifts from shock into sustained relief",
+          "summary": "AP reports that the Flores earthquake has damaged thousands of homes as well as schools, health facilities, and places of worship, leaving families in camps and makeshift shelters. The aid story matters because a disaster becomes harder to contain once education, healthcare, and local administration are all disrupted together.",
+          "why_it_matters": "Large displacement after a quake is a test of whether basic public systems can recover before temporary shelter becomes a longer-term crisis.",
+          "countries": ["Indonesia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/indonesia-flores-earthquake-displaced-traumatized-children-70f07f6bbaf611924b98594356f25b32"
+            }
+          ]
+        },
+        {
+          "label": "Child Trauma",
+          "headline": "The Indonesia quake response now includes a second emergency layer: children living with fear after thousands of aftershocks",
+          "summary": "AP reports that trauma-healing activities are underway for children affected by the Flores earthquake as aftershocks continue and families remain unsettled. This is worth highlighting because psychological recovery is often the first part of a disaster response to be undercounted and under-resourced.",
+          "why_it_matters": "The long tail of disaster damage includes trauma, and weak support there can slow wider community recovery.",
+          "countries": ["Indonesia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/indonesia-flores-earthquake-displaced-traumatized-children-70f07f6bbaf611924b98594356f25b32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "health-and-governance",
+      "title": "Health And Governance",
+      "description": "This lane matters because outbreak control and electoral credibility are both exposing how hard it is to maintain public trust under stress.",
+      "kicker": "State Capacity",
+      "stories": [
+        {
+          "label": "Congo Ebola",
+          "headline": "Congo's Ebola outbreak is now the country's deadliest and is still spreading faster than responders can comfortably track",
+          "summary": "AP reports that more than 2,300 people have died and that the Bundibugyo outbreak is still moving at an exceptional pace across six provinces, with new cases often appearing outside monitored contacts. The danger is not only the virus itself but the combination of unpaid workers, insecurity, misinformation, and weak transport access.",
+          "why_it_matters": "Outbreaks become much harder to contain once administrative weakness starts amplifying biological risk.",
+          "countries": ["Democratic Republic of the Congo", "Uganda"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/congo-ebola-disease-ituri-bundibugyo-outbreak-d4a5aac8a82a35144ebfe9de96bef7d2"
+            },
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615"
+            }
+          ]
+        },
+        {
+          "label": "Zambia Vote",
+          "headline": "Zambia reelected Hakainde Hichilema, but the election still leaves warnings about violence, arrests, and uneven political conditions",
+          "summary": "AP reports that Hichilema won outright with 61.4% after a vote count that was temporarily suspended following attacks on polling staff and ballot theft. The result settles the immediate contest, but the broader signal is that formal calm and deeper confidence in the process are not the same thing.",
+          "why_it_matters": "When an election is peaceful only after visible security strain, legitimacy becomes a slower and more political challenge than counting ballots.",
+          "countries": ["Zambia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/zambia-election-hichilema-victory-562c0ee56653c8dc835af7556c913aab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania stays a dedicated lane because the Danube is no longer just a climate story. It is directly shaping electricity security and how exposed the country is to wider regional stress.",
+      "kicker": "Local Signal",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Second Reactor Offline",
+          "headline": "Romania has begun shutting down Cernavoda's second reactor because Danube water levels remain too low for normal cooling operations",
+          "summary": "AP reports that Unit 2 entered a controlled shutdown after the first reactor had already gone offline in late July, reducing output from a plant that normally supplies about one-fifth of Romania's electricity. The significance is straightforward: drought is now directly constraining critical power infrastructure.",
+          "why_it_matters": "When hydrological stress cuts nuclear output, climate risk becomes a hard energy-security and affordability problem.",
+          "countries": ["Romania"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/romania-europe-drought-energy-weather-4239b119af1153fc0a57093b04df555b"
+            }
+          ]
+        },
+        {
+          "label": "Regional Energy Alert",
+          "headline": "Romania's reactor shutdown now looks even more serious in a Danube basin where neighboring states are also cutting output and conserving power",
+          "summary": "AP previously reported that Romania declared an energy-sector alert, diverted river flow toward Cernavoda, and coordinated demand reductions as Danube levels fell to less than a third of normal flow. Framed against Hungary's and Serbia's parallel problems, Romania's story reads less like an isolated malfunction and more like regional climate-linked energy stress.",
+          "why_it_matters": "National energy resilience looks weaker when several neighbors are drawing on the same strained river system at once.",
+          "countries": ["Romania", "Hungary", "Serbia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/danube-drought-energy-crisis-hungary-romania-serbia-229e089c30821889548354d7da289084"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "The science lane stays in because August still offers a concrete shared skywatching window that readers can act on immediately, even in a crisis-heavy news cycle.",
+      "kicker": "Look Up",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "August Sky",
+          "headline": "NASA says August still offers bright Venus, Perseid stragglers, and a late-month lunar eclipse after this month's solar-eclipse window",
+          "summary": "NASA's August skywatching guide highlights the recent total solar eclipse, the Perseid meteor shower under dark skies, bright evening Venus, and a partial lunar eclipse on August 27-28. The value of keeping this in the briefing is that it offers a genuinely global, low-cost shared experience outside the crisis cycle.",
+          "why_it_matters": "Visible sky events create one of the few cross-border stories people can still directly experience rather than only consume.",
+          "countries": ["Spain", "Portugal", "Iceland", "Greenland", "Russia", "United States", "Global"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending On Reddit",
+      "description": "Reddit is useful today as a public-signal layer because the strongest threads are not random distractions. They show where online audiences are connecting headline events to larger ideas about fragility, escalation, and institutional failure.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Indonesia Thread",
+          "headline": "The Indonesia earthquake thread is drawing attention because users are treating it as another warning about recurring disaster exposure in the Pacific",
+          "summary": "The active r/worldnews discussion around the Indonesia quake centers on the speed of the shaking, tsunami fears, and sympathy for communities facing repeated seismic risk. That makes it useful signal because readers are framing the event as part of a wider resilience problem rather than a one-day tragedy.",
+          "why_it_matters": "Audience response is useful when it shows which disasters people already interpret through a systems-risk lens.",
+          "countries": ["Indonesia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vompmd/77_magnitude_earthquake_hits_indonesia/"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine Reach",
+          "headline": "The Ukraine drone-attack thread is gaining traction because users see deep strikes inside Russia as a meaningful strategic shift",
+          "summary": "Current r/worldnews discussion around Ukraine's mass drone assault focuses on whether Russia can still shield logistics and major urban nodes from repeated pressure. That makes the thread a useful signal layer for how audiences are processing the war's widening geography.",
+          "why_it_matters": "Public framing matters when it shows which military developments people treat as routine attrition and which they see as real strategic change.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vpuhqu/ukraine_attacks_russia_with_hundreds_of_drones_in/"
+            }
+          ]
+        },
+        {
+          "label": "Ebola Alarm",
+          "headline": "The Congo Ebola thread is surfacing public anxiety about how fast a health emergency can outrun weak institutions",
+          "summary": "The r/worldnews conversation about Congo's Ebola outbreak is full of concern about underfunded response systems, cross-border risk, and how public-health failures scale once trust collapses. It is worth including because it reflects real reader attention to state capacity rather than only to the pathogen itself.",
+          "why_it_matters": "Health crises become politically larger when audiences start reading them as governance failures, not only medical events.",
+          "countries": ["Democratic Republic of the Congo", "Uganda"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vmn6d5/who_says_congos_ebola_outbreak_is_on_track_to/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
