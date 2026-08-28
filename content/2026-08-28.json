@@ -1,0 +1,320 @@
+{
+  "date": "2026-08-28",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Friday, August 28, 2026 opens with the Iran war settling into a costly long game, Ukraine and NATO confronting thinner air-defense margins, and climate and public-health shocks exposing weak points from the Himalayas to central Africa.",
+  "generated_at": "2026-08-28T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The main pattern this morning is prolonged stress rather than clean resolution. The Iran conflict is shifting from peak military action to coercive economic and shipping pressure, Ukraine's defenders are discovering how tightly global missile inventories are linked, and disasters in Nepal, Congo, Indonesia, and North America show how quickly already-fragile systems can be overwhelmed.",
+    "market_mood": "Volatile",
+    "reader_note": "Romania is not a standalone section today because there is no fresh domestic development with enough same-day weight to outrank the broader global picture. Reddit stays in because users are clustering around the same Nepal, missile-stockpile, and Canada trade stories that professional coverage is treating as structural signals."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Six months into the Iran war, Washington is no longer promising a fast finish and is instead trying to turn economic isolation into its main leverage",
+    "summary": "AP reports that President Donald Trump's posture on the Iran war has moved from claims of a quick end to an open-ended sanctions and pressure strategy. That shift matters because it signals the conflict is hardening into a contest over endurance, shipping access, and foreign compliance rather than moving toward a clear diplomatic or military endpoint.",
+    "why_it_matters": "When a major war loses its short-war assumptions, the economic and alliance costs usually spread faster than the battlefield gains.",
+    "countries": ["Iran", "United States", "Israel", "China"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/3c4d33b09fdbe19928781c678aa025c9"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The regional signal is that the war's second-order effects on shipping, trade, and diplomatic alignment now matter as much as the original strikes.",
+      "kicker": "Endurance Phase",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Regional Fallout",
+          "headline": "Six months on, the Iran war is leaving the Middle East more fragmented and less aligned with Washington than its architects expected",
+          "summary": "AP's regional overview says the campaign that was meant to weaken Iran and stabilize the region instead pushed Gulf states to rethink their security bets and left Tehran more entrenched in Hormuz leverage. The story is less about one day's fighting than about the strategic map shifting under U.S. influence.",
+          "why_it_matters": "Wars that fail to produce a durable political order often end up redistributing trust away from the power that started them.",
+          "countries": ["Iran", "United States", "Saudi Arabia", "Israel", "Pakistan", "Turkey"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1685cdc4e6ef330406e0ebe242b21e70"
+            }
+          ]
+        },
+        {
+          "label": "Off-Ramp Push",
+          "headline": "Qatar and Pakistan are trying to keep a diplomatic lane open even as Hormuz traffic and Gaza ceasefire politics remain unstable",
+          "summary": "AP reports that Qatar's foreign minister has been in Tehran and that Pakistan is also involved in de-escalation efforts while the Strait of Hormuz remains tense. The same report says Gaza and Lebanon violence is still undercutting wider regional stabilization efforts.",
+          "why_it_matters": "A crisis is still escalating in practical terms when mediators are active but commercial and civilian insecurity remain unresolved.",
+          "countries": ["Qatar", "Pakistan", "Iran", "Israel", "Palestine", "Lebanon"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c457cd178b05f6c39c8c2e33f0a565ba"
+            }
+          ]
+        },
+        {
+          "label": "Economic Squeeze",
+          "headline": "Iran is scrambling to keep trade channels alive as Washington threatens countries that refuse to cut commercial ties",
+          "summary": "AP reports that the UAE's suspension of trade and the threat of wider secondary sanctions are making Iran's already-stressed economy more dependent on a small number of reluctant or hard-to-replace partners. The pressure campaign is now testing whether third countries, especially China, will absorb the cost of resisting Washington.",
+          "why_it_matters": "Sanctions campaigns succeed or fail at the point where outside countries decide whether to keep doing business anyway.",
+          "countries": ["Iran", "United States", "United Arab Emirates", "China", "Turkey", "Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3afc1e8ac43768e1fd45eac3735b8e92"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "The Ukraine signal today is that air defense, sanctions politics, and NATO burden-sharing are converging into the same strategic bottleneck.",
+      "kicker": "Missiles, Votes, And Winter Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Air Defense Strain",
+          "headline": "A fresh Russian barrage on Kyiv and other cities is testing Ukraine's defenses just as Patriot shortages become harder to ignore",
+          "summary": "AP reports that Russia launched another broad missile-and-drone assault on August 27, 2026, hitting civilian and infrastructure targets while Ukraine warned again about shortages in ballistic-missile defense. The timing sharpens the sense that winter vulnerability is no longer hypothetical.",
+          "why_it_matters": "Sustained air attacks become strategically decisive when the defending side starts rationing the systems meant to stop them.",
+          "countries": ["Ukraine", "Russia", "Moldova"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c841f3aa849a38ddca94e2dd44556c3a"
+            }
+          ]
+        },
+        {
+          "label": "Stockpile Risk",
+          "headline": "AP reports that Patriot missile stocks in Europe are now described by officials as 'beyond critical' because of the Iran war",
+          "summary": "According to AP's exclusive reporting, the U.S. military's Patriot inventory in Europe has been drawn down by support to both Ukraine and the Middle East, complicating NATO's own defense posture. The issue is no longer just about whether Ukraine gets more interceptors, but whether the alliance can cover multiple theaters at once.",
+          "why_it_matters": "A munitions shortage becomes geopolitical when allies discover one war has quietly reduced their margin in another.",
+          "countries": ["United States", "Ukraine", "Russia", "Germany", "France", "Italy"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/09c7d8030a2e11fbd8ee3f7176b3f2d4"
+            }
+          ]
+        },
+        {
+          "label": "Sanctions Politics",
+          "headline": "Zelenskyy's Capitol Hill push helped move a major Russia sanctions bill through the Senate, but the House remains the real test",
+          "summary": "AP reports that President Volodymyr Zelenskyy's direct lobbying helped unlock a strong Senate vote for a sanctions package targeting Russian revenue and third-country buyers. The uncertainty now shifts to House Republicans and to how much enforcement power Washington is really willing to use.",
+          "why_it_matters": "Political support only changes battlefield economics if legislatures and executives both follow through.",
+          "countries": ["Ukraine", "United States", "Russia", "China", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5ed896360d926b920e2e9347343076aa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trade-and-alignment",
+      "title": "Trade And Alignment",
+      "description": "The economic lane matters today because tariff coercion is now clearly spilling into alliance behavior, political positioning, and defense planning.",
+      "kicker": "Allies Under Pressure",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Alliance Rupture",
+          "headline": "The U.S.-Canada trade fight is hardening into a broader rupture in one of the West's most integrated and dependable relationships",
+          "summary": "AP reports that Prime Minister Mark Carney is treating the collapse of trade talks and Trump's 50% tariffs as a structural break rather than a passing negotiation tactic. Canada is now planning for a longer period of economic retaliation and strategic diversification.",
+          "why_it_matters": "When a close alliance starts planning for reduced dependence instead of quick repair, markets and diplomats both take notice.",
+          "countries": ["Canada", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4d18583fe52134ca8550652ad9772d2c"
+            }
+          ]
+        },
+        {
+          "label": "European Pivot",
+          "headline": "Carney's planned address to the European Parliament shows Ottawa is actively building a post-crisis habit of deeper ties with Europe",
+          "summary": "AP reports that Carney will address lawmakers in Strasbourg in mid-September after the breakdown with Washington, underscoring that Canada is not just retaliating but also searching for durable alternative partnerships. That makes the story bigger than tariff lists alone.",
+          "why_it_matters": "Trade wars become geopolitical when governments start institutionalizing their exit ramps from dependence.",
+          "countries": ["Canada", "European Union", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c2b983947833578cc0c8d9c1d8578dcf"
+            }
+          ]
+        },
+        {
+          "label": "Burden Shift",
+          "headline": "The Pentagon is pressing NATO allies to prove they can take a larger lead in Europe's defense as Washington reassesses its role",
+          "summary": "AP reports that a U.S. defense review is asking allies to show how they will meet higher burden-sharing expectations while America keeps one eye on the Indo-Pacific and domestic priorities. Coming alongside the Patriot inventory strain, the message is sharper than a routine alliance reminder.",
+          "why_it_matters": "Defense reviews matter most when they coincide with shortages that make strategic retrenchment feel operationally real.",
+          "countries": ["United States", "NATO", "Germany", "Poland", "United Kingdom", "Canada"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ac87c55161469cc8957d0d2ebcf867d2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate And Disasters",
+      "description": "These stories belong together because they show disasters growing larger and more complicated when terrain, weather, and infrastructure all fail at once.",
+      "kicker": "Compound Shocks",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Himalayan Catastrophe",
+          "headline": "Satellite evidence suggests a glacier and bedrock collapse helped trigger the Nepal-Tibet floods, turning a mountain hazard into a mass-casualty cross-border disaster",
+          "summary": "AP reports that imagery shows a major collapse high on Langtang Lirung that sent ice, mud, and rock through narrow valleys and into settled areas along the Nepal-Tibet border. The analysis is pushing the story beyond immediate rescue counts toward a longer-term climate and infrastructure warning.",
+          "why_it_matters": "Disasters in the high Himalayas matter globally because warming and development are increasing the chance that remote hazards become international emergencies.",
+          "countries": ["Nepal", "China", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/b3eda9410f9941f69add384944047bc3"
+            }
+          ]
+        },
+        {
+          "label": "Regional Haze",
+          "headline": "Indonesia is intensifying firefighting as peat and forest fires spread smoke into Malaysia and Brunei",
+          "summary": "AP reports that extensive fires across Indonesia are driving a new haze episode that is already closing schools and straining public health in neighboring countries. The cross-border effect makes this a regional governance and climate story, not only a domestic land-management problem.",
+          "why_it_matters": "Environmental damage becomes a diplomatic problem when one country's fire season degrades another country's air and schools.",
+          "countries": ["Indonesia", "Malaysia", "Brunei"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/68c55926aa3f2615e57cd59f2449f802"
+            }
+          ]
+        },
+        {
+          "label": "Fire Season",
+          "headline": "Two wildfires along California's Big Sur coast are forcing evacuations and underscoring how little buffer remains in another severe fire year",
+          "summary": "AP reports that the Plaskett and Timber fires are burning in steep, hard-to-control terrain along Highway 1, closing roads and threatening isolated properties. Even without the largest national death toll, the story is a reminder that repeated U.S. fire emergencies are becoming part of the global climate-risk picture.",
+          "why_it_matters": "Persistent fire seasons matter because they erode transport, insurance, and emergency capacity long before any one blaze becomes the year's biggest headline.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ad389499cbf92fee022a3855ba08191d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "human-security-and-health",
+      "title": "Human Security And Health",
+      "description": "The common thread here is institutions trying to contain contagion, violence, and dangerous migration routes under severe strain.",
+      "kicker": "Protection Systems Under Stress",
+      "stories": [
+        {
+          "label": "Vaccination Push",
+          "headline": "Congo has begun vaccinations against the fastest-growing Ebola outbreak on record, but the wider response is still struggling to catch up",
+          "summary": "AP reports that Congo has started vaccinating frontline workers and trial participants even as the outbreak has already surged into a historic emergency. WHO's latest recommendations still classify the risk in the Democratic Republic of the Congo as very high and stress that core surveillance and care measures remain essential.",
+          "why_it_matters": "A vaccine rollout helps, but an outbreak this large is still fundamentally a race between transmission speed and state capacity.",
+          "countries": ["Democratic Republic of the Congo", "Uganda", "World Health Organization"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e7a52f96763d6e113b51eb97f9edc202"
+            },
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/news/item/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations"
+            }
+          ]
+        },
+        {
+          "label": "Containment Contrast",
+          "headline": "Uganda has officially ended its Ebola outbreak, highlighting how sharply outcomes can diverge when cross-border preparedness is stronger",
+          "summary": "WHO Africa and Africa CDC said on August 27, 2026 that Uganda completed the full 42-day countdown after its last imported case and detected no further transmission. The contrast with Congo's still-expanding emergency shows that the region's problem is not inevitability alone, but uneven response capacity.",
+          "why_it_matters": "Neighboring outcomes are often the clearest test of which parts of a crisis are biological and which are institutional.",
+          "countries": ["Uganda", "Democratic Republic of the Congo", "World Health Organization", "Africa CDC"],
+          "sources": [
+            {
+              "name": "WHO Africa",
+              "url": "https://afro.who.int/countries/uganda/news/uganda-ends-ebola-outbreak-following-completion-42-day-countdown"
+            }
+          ]
+        },
+        {
+          "label": "Migration Risk",
+          "headline": "Mauritania intercepted a migrant boat carrying 161 people, a fresh reminder that the Atlantic route to Europe remains lethal and heavily used",
+          "summary": "AP reports that the boat had been drifting for days with failing supplies after leaving Gambia toward Spain's Canary Islands. The episode fits a wider pattern of migrants taking longer and deadlier routes as legal options remain limited and economic pressures intensify.",
+          "why_it_matters": "Migration stories matter strategically when dangerous crossings keep rising despite years of deterrence and border funding.",
+          "countries": ["Mauritania", "Gambia", "Senegal", "Guinea", "Spain"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ef0d106df2aa1ceacf0a68fed573eb6f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending On Reddit",
+      "description": "Reddit adds value this morning because users are converging on the same bottlenecks and second-order risks that dominate the reported news.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Flood Anxiety",
+          "headline": "A rising Nepal barrier-lake thread is drawing attention because users immediately shifted from the death toll to the risk of a second disaster",
+          "summary": "A current r/worldnews post about the new barrier lake forming after the Nepal-Tibet floods is gaining traction around the danger of another burst and the scale of downstream exposure. That is a useful signal that public attention is landing on ongoing system risk, not only on the initial tragedy.",
+          "why_it_matters": "Audience reaction is meaningful when it quickly tracks the next-order hazard rather than stopping at the first headline.",
+          "countries": ["Nepal", "China"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1w00dgn/new_barrier_lake_in_nepal_raises_fresh_flood/"
+            }
+          ]
+        },
+        {
+          "label": "Missile Constraint",
+          "headline": "A Reddit thread on Europe's Patriot shortage is circulating because readers recognize that the Iran war and Ukraine are now competing inside the same inventory problem",
+          "summary": "A current r/worldnews discussion on AP's Patriot story is focusing on limited production, alliance priorities, and the cost of trying to cover multiple theaters at once. That mirrors the core strategic point in today's professional reporting.",
+          "why_it_matters": "Public discussion becomes informative when it centers on the material constraint that actually shapes state options.",
+          "countries": ["United States", "Ukraine", "Europe"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vzxlq0/us_patriot_missile_stocks_in_europe_are_beyond/"
+            }
+          ]
+        },
+        {
+          "label": "Trade-War Readthrough",
+          "headline": "A Canada trade-war thread is trending because commenters are treating tariff escalation as a sovereignty and alliance story, not just an economics story",
+          "summary": "A current r/geopolitics thread on the U.S.-Canada trade fight is drawing discussion about long-term dependence, North American bargaining power, and the reputational cost to Washington. That makes it a useful public-signal companion to AP's reporting on Ottawa's pivot.",
+          "why_it_matters": "Reddit is most useful when the crowd is reading the same structural shift that policymakers are now acting on.",
+          "countries": ["Canada", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/geopolitics post",
+              "url": "https://www.reddit.com/r/geopolitics/comments/1vx50z2/the_us_is_unlikely_to_win_its_dumb_trade_war_with/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
