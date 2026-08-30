@@ -1,0 +1,354 @@
+{
+  "date": "2026-08-30",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Sunday, August 30, 2026 opens with Nepal's flood catastrophe deepening, Russia and the Iran war pushing security systems harder, and trade, health, and climate shocks compounding the strain.",
+  "generated_at": "2026-08-30T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The clearest pattern this morning is overload. Rescue systems in Nepal, air defenses in Ukraine, hospitals in Pakistan, and public-health networks in central Africa are all being tested at once, while the Iran war and the U.S.-Canada trade rupture keep feeding energy and political risk across regions.",
+    "market_mood": "Volatile",
+    "reader_note": "Romania is not a standalone section today because the strongest Romania signal remains embedded in the wider Balkan and Danube drought story. Reddit stays in because user attention is clustering around the same trade, Iran-energy, and intelligence-security themes driving professional coverage."
+  },
+  "featured_story": {
+    "category": "climate-and-disasters",
+    "tone": "environment",
+    "label": "Top Story",
+    "headline": "Nepal is warning of more flooding even as the Himalayan disaster zone is still counting the dead and searching for thousands missing",
+    "summary": "AP reports that officials on Sunday, August 30, 2026 warned of fresh flooding along the Bhotekoshi River after this week's glacier-triggered catastrophe killed at least 734 people in Nepal and 16 in Tibet. With more than 3,000 people still missing, damaged roads and bridges, and constant evacuation alerts, the disaster is shifting from a rescue emergency into a prolonged regional recovery crisis.",
+    "why_it_matters": "This is a climate-linked border disaster large enough to disrupt transport, power, aid access, and regional confidence in mountain-risk preparedness all at once.",
+    "countries": ["Nepal", "China", "India"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/afec20e612514ca3598c65b29f485303"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate And Disasters",
+      "description": "Today's environmental signal is that climate shocks are no longer isolated weather stories; they are infrastructure and governance stress tests.",
+      "kicker": "System Overload",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Children At Risk",
+          "headline": "Aid agencies say Nepal's flood disaster has left 93,000 people in urgent need, including at least 17,000 children",
+          "summary": "AP reports that relief supplies are finally reaching some survivors in the Nepal-China border zone, but destroyed schools, displacement, and trauma are turning the emergency into a long-tail humanitarian crisis. UNICEF says 18 schools were destroyed and 20 more were damaged.",
+          "why_it_matters": "Large child caseloads usually mark the point when a disaster stops being only about rescue and becomes a broader social-recovery problem.",
+          "countries": ["Nepal", "China"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4501770e98a8d4974ae410430179b985"
+            }
+          ]
+        },
+        {
+          "label": "Drought Stress",
+          "headline": "Europe's summer drought is now visibly damaging fish farms and waterways from Serbia to Romania and Hungary",
+          "summary": "AP reports that low water levels and extreme heat are degrading rivers, lakes, and fish ponds across central and southeastern Europe, with Romanian producers still carrying losses from consecutive drought years. The picture is no longer just meteorological because livelihoods and food systems are being hit directly.",
+          "why_it_matters": "Climate risk becomes politically harder to sideline when it starts showing up in production losses and everyday food infrastructure.",
+          "countries": ["Romania", "Serbia", "Hungary", "Bosnia and Herzegovina", "Czech Republic", "Slovenia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/63129da8f5ab49c2b0c55b3352859033"
+            },
+            {
+              "name": "EU Joint Research Centre",
+              "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/worsening-drought-and-record-heat-grip-europe-fuelling-extraordinary-wildfires-and-extremely-low-2026-08-12_en"
+            }
+          ]
+        },
+        {
+          "label": "Preparedness Warning",
+          "headline": "The same drought story is now doubling as an energy and water-security warning for the Danube region",
+          "summary": "The EU Joint Research Centre says Europe's prolonged heat and rainfall deficits have pushed major rivers, including the Danube, to exceptionally low levels in August. That keeps pressure on cooling water, transport, agriculture, and fire risk even where today's headline is fish mortality rather than blackouts.",
+          "why_it_matters": "Once a river crisis hits multiple sectors at the same time, governments lose the option of treating it as a niche environmental issue.",
+          "countries": ["Romania", "Hungary", "Serbia", "European Union"],
+          "sources": [
+            {
+              "name": "EU Joint Research Centre",
+              "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/worsening-drought-and-record-heat-grip-europe-fuelling-extraordinary-wildfires-and-extremely-low-2026-08-12_en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The regional picture this morning is still defined by unresolved war: harder politics in Iran, fragile Gaza diplomacy, and visible strain on U.S. force posture.",
+      "kicker": "No Clean Exit",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Settler Violence",
+          "headline": "Netanyahu condemned West Bank settler rioters after another round of attacks exposed how fragile Gaza diplomacy remains",
+          "summary": "AP reports that Israeli settlers again clashed with Palestinians in Qusra while Israeli strikes killed four more Palestinians in Gaza. The story matters less as an isolated incident than as proof that ceasefire implementation is still being undercut by violence on the ground and by worsening diplomatic trust.",
+          "why_it_matters": "Ceasefire frameworks fail when day-to-day coercion and killings keep outrunning the institutions meant to stabilize them.",
+          "countries": ["Israel", "Palestine", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/5e7021c30aa5d6e327a3578282a7cb07"
+            }
+          ]
+        },
+        {
+          "label": "Harder Iran",
+          "headline": "Six months into the Iran war, AP says Tehran has come out more radicalized and regionally consequential rather than broken",
+          "summary": "AP's six-month look at the conflict says Iran survived the attempt to weaken it and instead emerged with greater leverage over Gulf security, Hormuz shipping, and the politics of U.S. alliances. That is the opposite of the cleaner strategic outcome Washington and Israel had hoped for.",
+          "why_it_matters": "Failed pressure campaigns often leave the target state more defiant and more structurally disruptive than before.",
+          "countries": ["Iran", "United States", "Israel", "Saudi Arabia", "Qatar"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1685cdc4e6ef330406e0ebe242b21e70"
+            }
+          ]
+        },
+        {
+          "label": "Force Strain",
+          "headline": "The USS Abraham Lincoln is finally heading home after a record Middle East deployment that exposed the cost of keeping pressure on Iran",
+          "summary": "AP reports that the carrier sailed past Singapore on Sunday on its way back to the United States after more than 250 consecutive days at sea. The long deployment became a visible symbol of how much operational stress the Iran war imposed even before counting the diplomatic and market fallout.",
+          "why_it_matters": "Military endurance becomes a political story when the cost of sustaining presence starts showing up in crews, readiness, and logistics.",
+          "countries": ["United States", "Iran", "Singapore", "Thailand"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/79d29834422823c3a5b52f3c01f5d050"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "The war in Ukraine is still being shaped by air-defense scarcity, infrastructure vulnerability, and the widening cost of urban survival.",
+      "kicker": "Urban Attrition",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Deadliest Strike",
+          "headline": "A Russian strike on a warehouse near Kyiv killed 37 people in the deadliest attack on Ukraine this year",
+          "summary": "AP reports that the strike on Myla triggered secondary explosions from stored munitions, killing residents of a nearby care home and prompting criminal inquiries into why explosives were so close to civilians. The incident shows how Russia is exploiting both Ukrainian vulnerabilities and the sheer density of wartime logistics.",
+          "why_it_matters": "Wars get harder to sustain when essential military storage and civilian safety start colliding in the same physical space.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4be42e27897bf45797a0cf3758be5eaf"
+            }
+          ]
+        },
+        {
+          "label": "Nuclear Risk",
+          "headline": "Zaporizhzhia's nuclear plant is relying on diesel generators after more than a week without external power",
+          "summary": "Al Jazeera reports, citing the IAEA, that the occupied plant has only about 10 days of diesel left to keep its shut-down reactors cool after losing outside power. Even without a radiation spike, the plant remains a reminder that this war can still create continental-scale risk through infrastructure failure alone.",
+          "why_it_matters": "A prolonged loss of off-site power at Europe's largest nuclear plant is one of the few battlefield developments that could rapidly become a cross-border emergency.",
+          "countries": ["Ukraine", "Russia", "International Atomic Energy Agency"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week"
+            },
+            {
+              "name": "IAEA",
+              "url": "https://www.iaea.org/interactive/timeline/169792"
+            }
+          ]
+        },
+        {
+          "label": "Defense Saturation",
+          "headline": "Kyiv's region is still taking repeated drone strikes as Ukraine warns its air defenses are being stretched by new attack patterns",
+          "summary": "AP reports that repeated Russian drone attacks damaged apartments, warehouses, and vehicles for a second straight day while officials warned again about power and heating vulnerability ahead of winter. The operational logic is straightforward: wear down normal life faster than the state can restore it.",
+          "why_it_matters": "Urban resilience becomes a battlefield variable when air attacks are designed to exhaust repair capacity instead of only destroying military targets.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e71dbed50bbdc710372f96deead36665"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trade-energy-and-power",
+      "title": "Trade, Energy And Power",
+      "description": "The economic signal today is that trade conflict, energy improvisation, and institutional fragility are feeding each other rather than staying separate.",
+      "kicker": "Pressure Politics",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "North American Rift",
+          "headline": "Canada's retaliation against new U.S. tariffs is turning a bilateral trade fight into a structural break in the North American relationship",
+          "summary": "AP reports that Ottawa's response covers roughly $20 billion of U.S. goods and is paired with financial support for affected domestic industries. The larger message is that both governments are now planning around a prolonged rupture, not a short negotiating drama.",
+          "why_it_matters": "Once close allies start building for separation, the costs spread beyond tariffs into supply chains, investment plans, and political trust.",
+          "countries": ["Canada", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/810649a0a4143d9042094626c4a36dad"
+            }
+          ]
+        },
+        {
+          "label": "Oil Statecraft",
+          "headline": "Washington's Venezuela oil arrangement shows how urgently the Iran war is reshaping energy policy",
+          "summary": "AP's latest explainer says the Trump administration's deal would give the United States access to a major share of untapped Venezuelan fields through a new joint structure. Even if implementation proves slow, the strategic signal is clear: fuel security has become important enough to justify unusually direct state intervention.",
+          "why_it_matters": "Emergency-style energy deals usually mean policymakers no longer trust normal markets or alliance systems to absorb the shock.",
+          "countries": ["United States", "Venezuela"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c229bc39b6e1a3d5dd16f7f9e67fef3f"
+            }
+          ]
+        },
+        {
+          "label": "Constitutional Risk",
+          "headline": "Guinea-Bissau is voting on a referendum that critics say would concentrate presidential and military-backed power ahead of elections",
+          "summary": "AP reports that Sunday's vote would shrink parliament and expand presidential authority in a country already shaped by coups and chronic instability. This is a governance story with wider relevance because institutional weakness and executive concentration remain a recurring pattern in fragile states.",
+          "why_it_matters": "Constitutional redesigns matter most when they happen in security-fragile states just before another national vote.",
+          "countries": ["Guinea-Bissau"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e3596d7ae2ad62f6f380af99d5bfe9ce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "human-security-and-health",
+      "title": "Human Security And Health",
+      "description": "These stories belong together because they show how protection systems succeed or fail under disease, migration stress, and basic infrastructure negligence.",
+      "kicker": "Protection Gaps",
+      "stories": [
+        {
+          "label": "Outbreak Pressure",
+          "headline": "Congo has started vaccinating against the fastest-growing Ebola outbreak on record even though the virus strain still lacks a licensed shot",
+          "summary": "AP reports that more than 50,000 Ervebo doses are being deployed under a compassionate-use approach as the Bundibugyo outbreak keeps spreading through insecure and highly mobile areas. The response is innovative, but it is also an admission that the outbreak is outrunning conventional containment tools.",
+          "why_it_matters": "When health systems start using imperfect tools at scale, it usually means the outbreak has become too dangerous to wait for ideal ones.",
+          "countries": ["Democratic Republic of the Congo", "World Health Organization"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e7a52f96763d6e113b51eb97f9edc202"
+            },
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/news/item/28-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo---meeting-report"
+            }
+          ]
+        },
+        {
+          "label": "Containment Contrast",
+          "headline": "Uganda has officially ended its Ebola outbreak, creating a sharp contrast with Congo's still-expanding emergency",
+          "summary": "WHO Africa says Uganda completed 42 days without a new confirmed case after discharging its last patient on July 16, 2026. The contrast with Congo shows that response speed, coordination, and border preparedness are shaping outcomes as much as the pathogen itself.",
+          "why_it_matters": "Neighboring countries facing the same threat provide the clearest real-world test of whether public-health systems are actually working.",
+          "countries": ["Uganda", "Democratic Republic of the Congo", "World Health Organization", "Africa CDC"],
+          "sources": [
+            {
+              "name": "WHO Africa",
+              "url": "https://www.afro.who.int/countries/uganda/news/uganda-ends-ebola-outbreak-following-completion-42-day-countdown"
+            }
+          ]
+        },
+        {
+          "label": "Safety Failure",
+          "headline": "Pakistan suspended eight officials after a nursery fire killed 14 newborns in Islamabad",
+          "summary": "AP reports that investigators found missing alarms, missing sprinklers, and absent supervisory staff in the maternity ward where the fire broke out. The follow-up matters because it reframes the tragedy from a freak accident into a governance and safety-enforcement failure.",
+          "why_it_matters": "Institutional negligence becomes nationally significant when it kills the most vulnerable people in a facility built to protect them.",
+          "countries": ["Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/aca4226e158a27b57ec21e3f76edbf4a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-and-space",
+      "title": "Science And Space",
+      "description": "One science story is enough today because the Roman telescope launch is a genuine global-scale research event rather than filler.",
+      "kicker": "Big Mission",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Roman Launch",
+          "headline": "NASA is targeting Sunday for the launch of the Nancy Grace Roman Space Telescope, its next major observatory for dark energy and exoplanet science",
+          "summary": "NASA's live mission coverage says Roman is scheduled to launch on Sunday, August 30, 2026 and will give astronomers a wide-field view designed to answer some of the biggest questions in cosmology. In a news release, NASA says the observatory is central to its next-generation science program.",
+          "why_it_matters": "Large science missions matter globally because they create shared infrastructure for discovery that shapes research priorities for years, not days.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/"
+            },
+            {
+              "name": "NASA News Release",
+              "url": "https://www.nasa.gov/2026-news-releases/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending On Reddit",
+      "description": "Reddit is useful this morning because the strongest threads are not random novelty; they are crowd reactions to the same structural pressure points in the news.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Trade-War Anger",
+          "headline": "A Canada trade thread is taking off because users are reading the tariff fight as a long-term sovereignty rupture, not a normal negotiating bluff",
+          "summary": "The current r/worldnews discussion around Trump's admission that he derailed trade talks is less about one quote than about the broader collapse of U.S.-Canada trust. That makes it a useful public-signal companion to today's AP tariff coverage.",
+          "why_it_matters": "Audience reaction is meaningful when it converges on the same structural shift that governments and firms now have to plan around.",
+          "countries": ["Canada", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vyhaj0/sounds_like_me_trump_confesses_to_cnn_that_he/"
+            }
+          ]
+        },
+        {
+          "label": "Security Readthrough",
+          "headline": "A thread on Iran's damage to U.S. intelligence sites is drawing attention because users are focusing on capability loss, not only rhetoric",
+          "summary": "The r/worldnews post built around NBC's reporting is producing the kind of discussion that treats the Iran war as an attrition problem for the United States rather than only a diplomatic embarrassment. That public framing lines up with the broader force-strain story in today's Middle East section.",
+          "why_it_matters": "Crowd attention adds value when it locks onto the material capacity issue underneath the headline.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vybyiw/iran_inflicted_billions_in_damage_to_us/"
+            }
+          ]
+        },
+        {
+          "label": "Energy Anxiety",
+          "headline": "A Reuters-linked oil-flow thread is trending because commenters are connecting Iran, Canada, and fuel vulnerability in the same argument",
+          "summary": "The active r/worldnews discussion on oil flows through war zones is notable because users are linking shipping risk, Canadian leverage, and household fuel pain without needing much prompting. That makes it a good audience-signal match for the professional trade-and-energy reporting today.",
+          "why_it_matters": "Reddit is most informative when public concern clusters around the same bottlenecks that are moving policy and markets.",
+          "countries": ["Iran", "Canada", "United States", "Germany"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vyfgzk/six_months_into_iran_war_almost_half_of_global/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
