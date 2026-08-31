@@ -1,0 +1,336 @@
+{
+  "date": "2026-08-31",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Monday, August 31, 2026 opens with renewed fighting around the Strait of Hormuz, Ukraine and Nepal both under severe infrastructure strain, and trade and alliance politics shifting in visible ways.",
+  "generated_at": "2026-08-31T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The clearest pattern this morning is spillover. The Iran war is again hitting shipping lanes and alliance management, Ukraine's war is stressing both civilian safety and European defense planning, and Nepal's flood disaster is showing how climate shocks now cascade into transport, power, and rescue failures. At the same time, trade conflict, Romanian political paralysis, and Congo's Ebola surge are all testing whether institutions can still absorb compound pressure.",
+    "market_mood": "Volatile",
+    "reader_note": "Romania stays as a standalone section because the EU funding deadline creates a concrete national cliff today. Reddit stays in because the strongest threads are clustering around the same Canada-trade and Ukraine-support signals that formal reporting is tracking."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "U.S. forces struck Iranian launchers in the Strait of Hormuz and Iran responded with missiles toward U.S. sites in Jordan",
+    "summary": "AP reports that on Sunday, August 30, 2026, U.S. forces hit Iranian rocket launchers near the Strait of Hormuz after saying Revolutionary Guard units were preparing to launch sea-mine-carrying rockets. Iran later said it fired missiles at U.S. sites in Jordan, which Jordan's military said it intercepted, ending a month-long lull and putting one of the world's most important shipping chokepoints back at the center of the war.",
+    "why_it_matters": "Any return to open fighting around Hormuz immediately raises global energy, shipping, insurance, and alliance risk well beyond the battlefield.",
+    "countries": ["Iran", "United States", "Jordan", "Oman"],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-strait-hormuz-strike-united-states-6b098da673ac3161a266ee459d5eff44"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The regional story is again about escalation management failing faster than diplomacy can catch up.",
+      "kicker": "Shipping And Sanctions",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Alliance Strain",
+          "headline": "Bessent is using the G20 to rally support on Iran even as tariffs and sanctions threats keep fraying ties with allies",
+          "summary": "AP reports that Treasury Secretary Scott Bessent arrived at the G20 finance ministers' meeting in Asheville trying to build backing for more economic pressure on Iran, including possible action tied to Chinese financial channels. The effort is complicated by the collapse of trade talks with Canada and wider concern that Washington is demanding coalition support while simultaneously alienating partners.",
+          "why_it_matters": "Sanctions work best when allies believe the coalition is durable, and that confidence is visibly weaker now.",
+          "countries": ["United States", "Iran", "China", "Canada"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6011cce3d5b5a6f898bb3a66dc9fa612"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/68d1bb0817c9f83eaa34e9ec643690fa"
+            }
+          ]
+        },
+        {
+          "label": "Regional Polarization",
+          "headline": "Iran's supreme leader called for Muslim unity against the U.S. and Israel as Gaza and West Bank violence kept grinding on",
+          "summary": "AP's regional roundup says Ayatollah Mojtaba Khamenei urged Muslim countries to confront the United States and Israel, while an Israeli strike in Deir al-Balah killed a 3-year-old and a man Israel said was a Hamas operative. The same roundup also documented new settler violence in the West Bank and a projectile strike on a tanker in Hormuz, showing how the war's pressure is diffusing across multiple fronts at once.",
+          "why_it_matters": "The conflict is becoming harder to localize because political mobilization, civilian harm, and maritime insecurity are now reinforcing each other.",
+          "countries": ["Iran", "Israel", "Palestine", "Jordan", "Oman"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/mideast-iran-israel-palestinians-august-30-2026-49cf07bcd4f9166f93f51136892d76a6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "Ukraine's signal this morning is not just battlefield attrition but the widening vulnerability of logistics, power, and deterrence architecture.",
+      "kicker": "Infrastructure Under Fire",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Deadliest Strike",
+          "headline": "The death toll from Russia's strike on a warehouse west of Kyiv rose to 38, making it Ukraine's deadliest attack of 2026 so far",
+          "summary": "AP reports that the Friday night attack on the warehouse in Myla triggered massive explosions and fires that swept into nearby homes and buildings, with four people still missing. Ukrainian officials said the site stored ammunition, forcing new scrutiny of wartime storage practices as Russia threatens larger energy strikes ahead of winter.",
+          "why_it_matters": "When military logistics and civilian neighborhoods overlap, one strike can inflict both battlefield and social damage at once.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-strikes-attacks-energy-oil-gas-drones-warehouse-5cfe71b2954a40489c070459ba82116e"
+            }
+          ]
+        },
+        {
+          "label": "Power Risk",
+          "headline": "Zaporizhzhia's nuclear plant is still relying on diesel generators after more than a week without external power",
+          "summary": "Al Jazeera, citing the IAEA, reports that the occupied Zaporizhzhia plant remains cut off from outside electricity and has only a limited diesel window left to keep reactors in cold shutdown safely cooled. Even without an immediate radiation release, the plant remains one of the few pieces of infrastructure in this war that could turn a regional conflict into a broader continental emergency.",
+          "why_it_matters": "A prolonged loss of off-site power at Europe's largest nuclear plant remains one of the war's highest-consequence failure scenarios.",
+          "countries": ["Ukraine", "Russia", "International Atomic Energy Agency"],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week"
+            },
+            {
+              "name": "IAEA",
+              "url": "https://www.iaea.org/topics/response/nuclear-safety-security-and-safeguards-in-ukraine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-disasters",
+      "title": "Climate And Disasters",
+      "description": "Climate shocks are leading the news when they also become transport, energy, and rescue-system failures.",
+      "kicker": "Compound Emergencies",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Himalayan Catastrophe",
+          "headline": "Nepal and Tibet's flood disaster has killed at least 900 people and left more than 4,700 missing",
+          "summary": "AP reports that rescue teams intensified their search on Monday, August 31 after the glacial-collapse-triggered floods destroyed roads, bridges, and settlements along the Nepal-China border. Nepal alone counted 903 deaths and 4,247 missing people, including 592 foreigners, while Chinese authorities had reported 16 dead and 546 missing on the Tibet side.",
+          "why_it_matters": "This is no longer just a disaster headline; it is a multinational infrastructure and humanitarian crisis with long recovery costs.",
+          "countries": ["Nepal", "China", "India"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/nepal-tibet-china-flash-floods-744fe6e15ae7751e15efcd6dff70170c"
+            }
+          ]
+        },
+        {
+          "label": "European Drought",
+          "headline": "Europe's drought is now visibly hitting rivers, fish farms, and the Danube corridor across central and southeastern Europe",
+          "summary": "AP reports that extreme summer heat and drought are damaging aquatic ecosystems and fisheries from Serbia and Bosnia to Romania, Hungary, and the Czech Republic. The EU Joint Research Centre separately warned earlier in August that the Danube, Rhine, Loire, and Po had all been pushed to record low levels, turning the season into a cross-sector stress test rather than a narrow weather story.",
+          "why_it_matters": "Once drought starts disrupting food production, river transport, and water systems together, it becomes an economic and governance problem, not only an environmental one.",
+          "countries": ["Romania", "Serbia", "Hungary", "Bosnia and Herzegovina", "Czech Republic", "European Union"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/63129da8f5ab49c2b0c55b3352859033"
+            },
+            {
+              "name": "EU Joint Research Centre",
+              "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/worsening-drought-and-record-heat-grip-europe-fuelling-extraordinary-wildfires-and-extremely-low-2026-08-12_en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "power-and-diplomacy",
+      "title": "Power And Diplomacy",
+      "description": "Several of today's political stories point to the same pattern: countries are reorganizing around security and leverage rather than old assumptions about alignment.",
+      "kicker": "Reordering",
+      "stories": [
+        {
+          "label": "Non-Western Signaling",
+          "headline": "China, Russia, India and Iran are gathering in Kyrgyzstan for an SCO summit meant to counter U.S. influence",
+          "summary": "AP reports that Xi Jinping, Vladimir Putin, and Narendra Modi are among the leaders expected in Bishkek, with Putin also set for side meetings with Xi and Iranian President Masoud Pezeshkian. The Shanghai Cooperation Organization is not a unified bloc, but the optics still matter because major non-Western powers are using it to show they can coordinate despite wars and sanctions pressure.",
+          "why_it_matters": "Even loose diplomatic groupings can reshape bargaining power when they offer a visible alternative to Western-led forums.",
+          "countries": ["China", "Russia", "India", "Iran", "Kyrgyzstan", "Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/shanghai-cooperation-organization-russia-china-india-cf543dfad0a20097ed4c2b415a26e8b4"
+            }
+          ]
+        },
+        {
+          "label": "European Choice",
+          "headline": "Icelandic voters rejected reopening EU accession talks after a campaign shaped by fisheries and Greenland security fears",
+          "summary": "AP reports that voters rejected the proposal 52.8% to 47.2%, shelving the issue for now despite arguments that closer European integration could offer extra geopolitical protection. The vote is a useful reminder that even in a more dangerous security environment, sovereignty and control over core domestic industries still carry decisive weight.",
+          "why_it_matters": "Security anxiety does not automatically translate into deeper integration when voters believe it could dilute economic control.",
+          "countries": ["Iceland", "European Union", "Greenland", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iceland-european-union-election-referendum-accession-fish-d29f8d4e140894fe22db17005e9c2a2e"
+            }
+          ]
+        },
+        {
+          "label": "North American Break",
+          "headline": "The U.S.-Canada trade war is hardening into a deeper political rupture after tariffs took effect and talks collapsed",
+          "summary": "AP reports that the United States imposed 50% tariffs on about $20 billion of Canadian goods on Saturday, prompting Mark Carney to say the countries would not return to their old relationship. Canada plans dollar-for-dollar retaliation beginning September 8, widening the dispute from trade mechanics into a test of alliance durability and supply-chain trust.",
+          "why_it_matters": "When one of the world's closest cross-border economic relationships starts being managed as coercion, businesses and governments both begin planning for separation.",
+          "countries": ["Canada", "United States"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/canada-us-trade-war-trump-carney-tariffs-4d18583fe52134ca8550652ad9772d2c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's clearest signal today is that political paralysis is beginning to convert directly into lost money and weaker fiscal room.",
+      "kicker": "Funding Cliff",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "EU Funds Loss",
+          "headline": "Romania is set to lose €770 million in EU recovery funding because its government crisis blocked required reforms before the August 31 deadline",
+          "summary": "The Financial Times reports that Bucharest failed to complete reforms tied to public-sector wages and state-owned enterprises after coalition breakdown left the country without enough political capacity to act. That missed funding now lands on top of already fragile public finances and the highest inflation rate in the euro area, which Eurostat estimated at 8.2% in July.",
+          "why_it_matters": "Losing EU money during a fiscal squeeze makes Romania's political deadlock more expensive and harder to contain.",
+          "countries": ["Romania", "European Union"],
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/9914f45e-4e5c-4f6e-990b-043a65fb7ebf"
+            },
+            {
+              "name": "Eurostat",
+              "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-19082026-ap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "human-security-and-health",
+      "title": "Human Security And Health",
+      "description": "These stories matter together because they show how weak systems fail under disease, violence, or basic safety negligence.",
+      "kicker": "Protection Gaps",
+      "stories": [
+        {
+          "label": "Outbreak Expansion",
+          "headline": "WHO says Congo's Bundibugyo Ebola outbreak has reached 5,815 confirmed cases and 2,788 deaths, with the risk of cross-border spread still high",
+          "summary": "In its August 28 update, WHO said the Democratic Republic of the Congo had 5,794 of those confirmed cases and 2,786 of the deaths, while Uganda and France completed their 42-day enhanced monitoring periods. The organization said continued transmission, insecurity, displacement, and informal border movement keep the outbreak at very high domestic risk and high cross-border risk for neighboring states.",
+          "why_it_matters": "An expanding Ebola outbreak in a conflict-affected region can move from a national health emergency to a regional stability problem quickly.",
+          "countries": ["Democratic Republic of the Congo", "Uganda", "France", "World Health Organization"],
+          "sources": [
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616"
+            }
+          ]
+        },
+        {
+          "label": "Accountability Test",
+          "headline": "Pakistan suspended eight officials after investigators tied a hospital fire that killed 14 newborns to basic safety failures",
+          "summary": "AP reports that the probe found no functional alarm or sprinkler systems in the Islamabad maternity ward and pointed to missing supervision. The suspensions matter because they shift the story from tragedy alone to whether public institutions will impose real consequences for preventable safety collapse.",
+          "why_it_matters": "When vulnerable patients die because basic safeguards were absent, the wider issue is state capacity and enforcement, not only one accident.",
+          "countries": ["Pakistan"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/pakistan-hospital-fire-sharif-investigation-pims-babies-aca4226e158a27b57ec21e3f76edbf4a"
+            }
+          ]
+        },
+        {
+          "label": "Gang Rule",
+          "headline": "A Haitian gang released women and children from a mass kidnapping, but more hostages remain after a deadly attack near Port-au-Prince",
+          "summary": "AP reports that UNICEF helped secure the release of six children and seven women after a gang attack on Kenscoff killed at least 47 people and abducted more than 50. The release is a rare positive development, but it also underlines how normalized mass abduction and territorial violence have become around the capital.",
+          "why_it_matters": "Partial hostage releases are a sign of negotiation space, but also of how far state control has eroded in Haiti.",
+          "countries": ["Haiti"],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/haiti-kidnapped-released-unicef-gang-kenscoff-201baf43dd8e8a281428d7afd42c0708"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science-and-space",
+      "title": "Science And Space",
+      "description": "One science story is enough today because Roman's launch is a genuine long-horizon event with global research significance.",
+      "kicker": "Long View",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Major Launch",
+          "headline": "NASA's Nancy Grace Roman Space Telescope launched successfully and is now beginning its million-mile journey to final orbit",
+          "summary": "NASA said Roman launched at 7:26 a.m. EDT on Sunday aboard a SpaceX Falcon Heavy from Kennedy Space Center and is now headed toward its operational orbit over a roughly three-month trip. The telescope is designed to probe dark energy, dark matter, and exoplanets with a wide field of view that complements existing observatories rather than duplicating them.",
+          "why_it_matters": "Flagship science missions reshape the global research agenda for years because they create new shared observing capability, not just a one-day spectacle.",
+          "countries": ["United States"],
+          "sources": [
+            {
+              "name": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending On Reddit",
+      "description": "The strongest Reddit threads this morning are useful because they are amplifying real public reaction to alliance strain and air-defense burden sharing.",
+      "kicker": "Audience Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Canada Backlash",
+          "headline": "A CBC-linked trade post is taking off because users are treating the U.S.-Canada dispute as a sovereignty rupture, not a normal tariff spat",
+          "summary": "The current r/worldnews thread about Canadians booing the U.S. anthem is full of comments describing the breakdown as coercion rather than bargaining. That public framing matches the harder language now appearing in official Canadian responses and helps explain why this dispute is resonating beyond economics alone.",
+          "why_it_matters": "Public sentiment matters when it hardens the political floor beneath retaliation and makes rapid reconciliation less likely.",
+          "countries": ["Canada", "United States"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vwnp3e/soccer_fans_boo_us_anthem_as_canadians_react_to/"
+            }
+          ]
+        },
+        {
+          "label": "Support Signaling",
+          "headline": "A Norway aid thread is drawing strong engagement because users read it as proof that some European backing for Ukraine is getting more durable, not less",
+          "summary": "The r/worldnews post on Norway's planned 2027 support package is attracting praise and debate about long-term European burden sharing. It is a useful signal because the conversation is less about one headline number than about whether partners are preparing for a prolonged war.",
+          "why_it_matters": "Audience attention adds value when it converges on the durability question that governments themselves are quietly answering through budgets.",
+          "countries": ["Norway", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vwa8i8/norway_pledges_92_billion_to_ukraine_for_2027/"
+            }
+          ]
+        },
+        {
+          "label": "Air Defense Focus",
+          "headline": "A Germany-Patriot post is trending because commenters are zeroing in on interceptor timelines and what Ukraine needs before winter",
+          "summary": "The current r/worldnews thread about Germany supplying Patriot interceptors has turned into a practical discussion about production speed, delivery timing, and whether Europe can replace waning U.S. reliability. That makes it a good public-signal companion to the formal reporting on Ukraine's growing infrastructure vulnerability.",
+          "why_it_matters": "Reddit is most useful when it starts tracking the same logistical bottlenecks that shape real wartime outcomes.",
+          "countries": ["Germany", "Ukraine"],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews post",
+              "url": "https://www.reddit.com/r/worldnews/comments/1vw6kcs/germany_to_supply_ukraine_with_600_patriot/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
