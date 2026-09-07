@@ -1,0 +1,333 @@
+{
+  "date": "2026-09-07",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Monday Morning Edition",
+  "edition_subtitle": "Hormuz shipping pressure, Germany's coalition puzzle, and Romania's first day of school.",
+  "generated_at": "2026-09-07T09:04:56+03:00",
+  "summary": {
+    "spotlight": "Iran is preparing another shipping restriction as Germany absorbs a decisive far-right state election victory without an outright majority. Renewed Ukraine talks, fuel costs and transport disruptions round out a consequential Monday morning.",
+    "market_mood": "Mixed",
+    "reader_note": "Reporting checked on September 7, Romania time, with major developments from the preceding day. Romania has three dedicated items. Two Reddit discussions are included as public reactions, not representative polling or verified reporting. Scheduled meetings and proposed laws are labeled accordingly."
+  },
+  "featured_story": {
+    "label": "Top Story",
+    "headline": "Iran plans a shipping exclusion zone near Hormuz",
+    "summary": "Iran's security chief said Sunday that Tehran plans to designate a zone targeting ships seeking passage through Hormuz. Its boundaries and enforcement remain unclear. The announcement follows U.S. strikes on three Iranian tankers.",
+    "why_it_matters": "Unclear transit rules add another obstacle for shipping companies already navigating military attacks and a U.S. blockade.",
+    "countries": [
+      "Iran",
+      "United States"
+    ],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/iran-us-war-strait-hormuz-ship-attack-a52beec77dc90af3d040d0553837ad20"
+      }
+    ],
+    "category": "security",
+    "tone": "conflict"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": "War & Security",
+      "description": "Diplomatic openings coexist with military pressure in Europe and Asia.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Ukraine diplomacy",
+          "headline": "U.S. envoys leave Kyiv talks hopeful, with no announced breakthrough",
+          "summary": "Steve Witkoff and Jared Kushner met Volodymyr Zelenskyy on Sunday after talks with Vladimir Putin. They said new negotiations could follow soon; Zelenskyy sought air defenses and energy support before winter. Territorial disputes remain unresolved.",
+          "why_it_matters": "The next test is whether renewed diplomacy produces security commitments and practical winter assistance.",
+          "countries": [
+            "Ukraine",
+            "Russia",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via MarketScreener",
+              "url": "https://www.marketscreener.com/news/us-envoys-hope-for-new-ukraine-russia-talks-soon-after-visits-to-both-capitals-ce785bdbdd8af021"
+            }
+          ]
+        },
+        {
+          "label": "Korean Peninsula",
+          "headline": "North Korea commissions a second destroyer",
+          "summary": "State media reported Monday that Kim Jong Un put another destroyer into service and called for a stronger nuclear deterrent. The announcement comes as the United States, South Korea and Japan conduct a joint military exercise.",
+          "why_it_matters": "The naval buildup adds pressure to a region where gestures toward talks have yet to ease confrontation.",
+          "countries": [
+            "North Korea",
+            "South Korea",
+            "Japan",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/north-korea-kim-destroyer-nuclear-trump-5c3ab31efd058e734ac645991fd22567"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "elections",
+      "title": "Elections & Public Safety",
+      "description": "Germany's result and U.S. campaign developments put democratic institutions under scrutiny.",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "German election",
+          "headline": "AfD wins Saxony-Anhalt but falls three seats short of a majority",
+          "summary": "Final results give the far-right AfD 39 seats in the 83-seat state parliament. Its opponents face difficult coalition arithmetic while maintaining their refusal to work with the party.",
+          "why_it_matters": "Government formation now tests both that political boundary and Chancellor Friedrich Merz's weakened standing.",
+          "countries": [
+            "Germany"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/germany-saxony-anhalt-election-far-right-afd-c538060710a2495c72425b6468df0d40"
+            }
+          ]
+        },
+        {
+          "label": "U.S. voting",
+          "headline": "White House asks Supreme Court again to allow mail-ballot restrictions",
+          "summary": "The administration renewed its appeal Sunday after a judge extended an order blocking Postal Service enforcement of Trump's executive order for November's elections. States have already begun mailing ballots.",
+          "why_it_matters": "A late change could complicate election administration while voters are already participating.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-65067233db6ebda8dedcdc3f6714a96c"
+            }
+          ]
+        },
+        {
+          "label": "Campaign security",
+          "headline": "Armed man arrested after pushing toward Ohio candidate Amy Acton",
+          "summary": "Ohio authorities said a man forced his way through a campaign crowd Sunday, injuring several people before troopers stopped him. The sheriff's office said recovered weapons were never drawn; the man was booked on assault and disorderly-conduct charges.",
+          "why_it_matters": "The incident raises immediate questions about protecting candidates and audiences at public campaign events.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/election-2026-ohio-acton-attack-92abb7d809134b43630e01e25b3b9125"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Energy & Travel",
+      "description": "War and trade tensions are reaching household budgets and tourism businesses.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Fuel costs",
+          "headline": "U.S. drivers face record Labor Day gasoline prices",
+          "summary": "AP reports regular gasoline averaged about $4.14 a gallon heading into the holiday, a Labor Day record rather than an all-time peak. Diesel reached a national record of $5.85 on Friday amid war-related supply strain.",
+          "why_it_matters": "Higher diesel costs can spread through freight charges into the price of everyday goods.",
+          "countries": [
+            "United States",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/labor-day-record-high-gas-prices-dffb7d3fa06ef930aaeebc380e5e4e0e"
+            }
+          ]
+        },
+        {
+          "label": "Trade fallout",
+          "headline": "U.S. tourism campaigns struggle to win Canadians back",
+          "summary": "American destinations are offering discounts and welcoming messages to Canadian visitors. AP reports that renewed trade friction threatens to reinforce a travel boycott that had shown some signs of easing.",
+          "why_it_matters": "The diplomatic dispute is affecting hotels, attractions and border communities as well as traded goods.",
+          "countries": [
+            "Canada",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/us-canada-travel-tourism-decline-trump-42ea6dd35e3ee24898f6a07495576435"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "aviation",
+      "title": "Aviation Disruptions",
+      "description": "A fatal runway overrun and volcanic ash disrupt two major air-travel hubs.",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Miami crash",
+          "headline": "Cargo jet overruns Miami runway, killing at least five",
+          "summary": "Authorities said an Amazon cargo aircraft struck vehicles and caught fire after landing Sunday. Five people were also injured. The crash interrupted airport operations; its cause was not established in the reporting reviewed.",
+          "why_it_matters": "The investigation must explain how the aircraft crossed into a road used by workers around the airport.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/amazon-cargo-plane-miami-airport-47411c751782887757922efa5f634aa5"
+            }
+          ]
+        },
+        {
+          "label": "Volcanic ash",
+          "headline": "Indonesia's airport closures affect 170,000 passengers",
+          "summary": "Anak Krakatau's eruption forced eight airports to close Sunday, including Jakarta's main international hub. AP reports 1,558 canceled flights by Sunday evening, with no reported casualties from the eruption.",
+          "why_it_matters": "This is a substantial regional transport disruption; Sunday's closure timetable does not establish that flights have since resumed.",
+          "countries": [
+            "Indonesia"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/indonesia-volcano-eruption-airport-flights-cancel-12c3cb67859b2c51054b378d60148d33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "Technology Policy",
+      "description": "Australia is preparing a new proposal on how social platforms deliver content.",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Platform regulation",
+          "headline": "Australia plans an option to switch off recommended social feeds",
+          "summary": "ABC reports that draft Digital Duty of Care laws will be unveiled this week. Platforms would have to offer a choice between recommended feeds and posts from followed accounts, alongside obligations to identify and reduce harm.",
+          "why_it_matters": "The proposal would put user control and platform responsibility into law, but it has not yet passed.",
+          "countries": [
+            "Australia"
+          ],
+          "sources": [
+            {
+              "name": "ABC News",
+              "url": "https://www.abc.net.au/news/2026-09-06/opt-out-laws-social-media-algorithm-parliament-government/107121192"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "School reopening, electricity offers and defense planning shape the local morning.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Back to school",
+          "headline": "Nearly three million children return to Romanian schools",
+          "summary": "Classes begin today under the 36-week national calendar. Libertatea reports that ninth graders face new curricula and delayed textbooks, while renovation work still displaces pupils from about 700 schools.",
+          "why_it_matters": "Families and teachers begin the year with changes in both classroom content and where lessons take place.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Libertatea",
+              "url": "https://www.libertatea.ro/educatie/aproape-3-milioane-de-elevi-si-prescolari-incep-anul-scolar-2026-2027-in-7-septembrie-5875620"
+            },
+            {
+              "name": "Romanian Education Ministry",
+              "url": "https://www.edu.ro/press_rel_10_2026"
+            }
+          ]
+        },
+        {
+          "label": "Electricity bills",
+          "headline": "Hidroelectrica raises offers for new and renewed contracts",
+          "summary": "TVR reports a quoted energy price of 0.515 lei per kWh, up from 0.45 lei, before network costs and taxes. The new offers apply to new customers and contract renewals, as drought constrains hydro generation.",
+          "why_it_matters": "The effect on a household's total bill differs from the energy-component increase and depends on its contract.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "TVR Info",
+              "url": "https://tvrinfo.ro/hidroelectrica-scumpeste-energia-pentru-consumatorii-casnici-specialistii-se-asteapta-ca-si-alti-furnizori-de-electricitate-sa-creasca-preturile/"
+            }
+          ]
+        },
+        {
+          "label": "Today's agenda",
+          "headline": "Defense council to discuss army equipment and U.S. troop presence",
+          "summary": "President Nicușor Dan has scheduled a CSAT meeting for 15:00 today. TVR reports that the agenda includes the 2027–2036 equipment plan, the SAFE defense program and strengthening the U.S. military presence in Romania.",
+          "why_it_matters": "These are planned discussions, with decisions still to come; their outcome could shape Romania's long-term defense spending.",
+          "countries": [
+            "Romania",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "TVR Info",
+              "url": "https://tvrinfo.ro/sedinta-csat-la-palatul-cotroceni-planurile-de-inzestrare-a-armatei-si-prezenta-militara-americana-in-romania-pe-agenda/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Two active discussions show public concerns; comments are reactions, not independent reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/europe",
+          "headline": "Germany's election sparks debate over governing with a divided parliament",
+          "summary": "A widely engaged September 6 thread debates the AfD result, economic dissatisfaction and the refusal of other parties to cooperate with it. The post began with exit polls; consult the linked AP report for final seat totals.",
+          "why_it_matters": "The discussion illustrates competing interpretations of the result, without measuring German public opinion.",
+          "countries": [
+            "Germany"
+          ],
+          "sources": [
+            {
+              "name": "Reddit · r/europe",
+              "url": "https://www.reddit.com/r/europe/comments/1w908qd/saxonyanhalt_farright_afd_secures_huge_lead_in/"
+            },
+            {
+              "name": "AP · verified result",
+              "url": "https://apnews.com/article/germany-saxony-anhalt-election-far-right-afd-c538060710a2495c72425b6468df0d40"
+            }
+          ]
+        },
+        {
+          "label": "r/news",
+          "headline": "Miami crash discussion highlights the gap between images and confirmed facts",
+          "summary": "A large September 6 thread mixes concern for the crew and people on the ground with speculation about the crash. Some participants explicitly caution that it is too early to assign a cause.",
+          "why_it_matters": "It is a useful example of how fast-moving accident coverage can outrun verified information; use the AP report for established facts.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reddit · r/news",
+              "url": "https://www.reddit.com/r/news/comments/1w94jqk/amazon_cargo_boeing_767_crashes_at_miami/"
+            },
+            {
+              "name": "AP · verified reporting",
+              "url": "https://apnews.com/article/amazon-cargo-plane-miami-airport-47411c751782887757922efa5f634aa5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
