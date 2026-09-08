@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-08",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Tuesday Morning Edition",
+  "edition_subtitle": "Saudi Arabia hit, Kyiv under renewed attack, and fresh economic signals from Asia and Romania.",
+  "generated_at": "2026-09-08T09:03:56+03:00",
+  "summary": {
+    "spotlight": "Attacks in Saudi Arabia and Kyiv put renewed pressure on regional security and diplomacy. China reports strong trade growth while Romania confirms a weak first half and approves long-term defense plans.",
+    "market_mood": "Mixed",
+    "reader_note": "Reporting checked September 8 in Romania, focusing on developments since yesterday's edition. Early casualty figures and military claims are attributed and may change. Reddit items summarize discussions, not verified battlefield reporting or representative public opinion. Why-it-matters notes are editorial analysis."
+  },
+  "featured_story": {
+    "label": "Top Story",
+    "headline": "Houthi attacks wound 73 in Saudi Arabia, coalition says",
+    "summary": "The Saudi-led coalition said Tuesday that Houthi attacks injured at least 73 people and targeted Abha, Khamis Mushait, Jazan and Najran. It pledged a firm response. Reuters could not verify a separate report of damage to Aramco facilities.",
+    "why_it_matters": "The escalation puts civilians and economic infrastructure at risk while threatening another round of Saudi-Yemeni fighting.",
+    "countries": [
+      "Saudi Arabia",
+      "Yemen"
+    ],
+    "sources": [
+      {
+        "name": "Reuters via Internazionale",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/08/saudi-led-coalition-in-yemen-says-73-injured-in-houthi-attacks-on-the-kingdom"
+      }
+    ],
+    "category": "middle-east",
+    "tone": "conflict"
+  },
+  "sections": [
+    {
+      "key": "middle-east",
+      "title": "Middle East Escalation",
+      "description": "Military warnings and civilian casualties accompany widening economic disruption.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Iran doctrine",
+          "headline": "Iran signals willingness to strike before a threat materializes",
+          "summary": "Iranian state media said Monday that an improved ballistic missile illustrates a doctrine permitting preemptive action. The announcement is a statement of Iran's position, not independent verification of the weapon's capabilities.",
+          "why_it_matters": "Preemptive rhetoric can make an already volatile confrontation harder to contain.",
+          "countries": [
+            "Iran",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/563212b3d68eb50ac3e16e18dd2e6e01"
+            }
+          ]
+        },
+        {
+          "label": "Lebanon",
+          "headline": "Lebanese ministry reports 12 killed in Israeli village strikes",
+          "summary": "Lebanon's Health Ministry said Monday's strikes on Kfar Rumman killed at least 12 people, including two children and a paramedic. Israel said it targeted Hezbollah members transferring weapons and was reviewing reports of civilian harm.",
+          "why_it_matters": "The deaths underline the civilian cost of renewed Israel-Hezbollah escalation.",
+          "countries": [
+            "Lebanon",
+            "Israel"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/691deb2ccb571ec83c552efb794568cd"
+            }
+          ]
+        },
+        {
+          "label": "Civilian economy",
+          "headline": "Bandar Abbas residents describe a waterfront economy running out of work",
+          "summary": "AP's reporting from the Iranian port city found quiet docks and growing anxiety about livelihoods under the U.S. blockade. Residents described severe losses of business after months of war.",
+          "why_it_matters": "Pressure intended to restrict Iran's revenues is also reaching households that depend on port activity.",
+          "countries": [
+            "Iran",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/552b1ebe9ae8a9628bad089c9e87493f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "security",
+      "title": "Ukraine & African Security",
+      "description": "Fresh attacks expose the gap between diplomatic activity and civilian protection.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv attack",
+          "headline": "Russian missiles strike Kyiv after U.S. peace envoys depart",
+          "summary": "Mayor Vitali Klitschko said Russian ballistic missile strikes injured six people early Tuesday and left people trapped in a residential building. Authorities reported damaged homes and fires. Poland activated military aviation to protect its airspace.",
+          "why_it_matters": "The attack shows that renewed negotiations have not brought relief from strikes on the capital.",
+          "countries": [
+            "Ukraine",
+            "Russia",
+            "Poland",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via MarketScreener",
+              "url": "https://www.marketscreener.com/news/russian-ballistic-missiles-hit-kyiv-as-us-envoys-leave-ce785bd8d889fe23"
+            }
+          ]
+        },
+        {
+          "label": "Mozambique abductions",
+          "headline": "South Africa confirms a citizen among abducted camp workers",
+          "summary": "South Africa's foreign ministry said Monday that one of its citizens was among up to 20 workers abducted during last week's attack on a hunting camp in Mozambique. Embassy officials are working with Mozambican authorities.",
+          "why_it_matters": "The case highlights insecurity affecting workers beyond the insurgency's established Cabo Delgado center.",
+          "countries": [
+            "Mozambique",
+            "South Africa"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/4d14c1f705b0d106dbaeec8cef2bf8d9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Trade & Economic Outlook",
+      "description": "Shipping disruption contrasts with stronger Asian headline data.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Shipping",
+          "headline": "Latest tracking data show only seven Monday commodity transits through Hormuz",
+          "summary": "Reuters cites Tuesday Kpler data showing seven commodity vessels crossed Hormuz on Monday, down from eight Sunday. Bab el-Mandeb traffic rose to 29 from 17. Ships with transponders switched off may be missing from these counts.",
+          "why_it_matters": "The figures show continued disruption but should not be read as a complete census of shipping.",
+          "countries": [
+            "Iran",
+            "Oman",
+            "Yemen"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/08/hormuz-traffic-slows-after-iran-threatens-retaliation-for-us-attacks"
+            }
+          ]
+        },
+        {
+          "label": "China trade",
+          "headline": "China reports a 25% annual rise in August exports",
+          "summary": "China's customs agency said Tuesday that exports rose 25% from a year earlier and imports increased 28.2%. The trade surplus reached $119.1 billion, with strong demand for vehicles and high-tech goods supporting shipments.",
+          "why_it_matters": "The numbers strengthen the trade backdrop ahead of a planned Trump-Xi meeting whose exact date Beijing has not confirmed.",
+          "countries": [
+            "China",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/77c208d1f62270bba66b8241b1b14a4c"
+            }
+          ]
+        },
+        {
+          "label": "Japan growth",
+          "headline": "Japan revises second-quarter growth upward, but consumption is flat",
+          "summary": "Revised data released Tuesday show Japan's economy grew 0.4% from the previous quarter, or 1.4% annualized, compared with the initial 1.1% annualized estimate. Business investment fell less than first reported, while private consumption remained flat.",
+          "why_it_matters": "The revision improves the growth picture without showing a recovery in household spending.",
+          "countries": [
+            "Japan"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Investing.com",
+              "url": "https://www.investing.com/news/economy-news/japan-revises-q2-gdp-up-to-annualised-14-expansion-4890749"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "politics",
+      "title": "Elections & Diplomacy",
+      "description": "Political leaders respond to electoral pressure and competition over sovereignty.",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "German aftermath",
+          "headline": "Merz vows to continue reforms after his party's state election defeat",
+          "summary": "Chancellor Friedrich Merz said Monday that his CDU was deeply shocked by the Saxony-Anhalt result but that he would continue pursuing economic reforms. AfD's victory short of a majority leaves government formation unresolved.",
+          "why_it_matters": "The response makes coalition negotiations and public acceptance of reforms the next tests for Germany's leadership.",
+          "countries": [
+            "Germany"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e9c2b1bb69a9dab1778b80866ffa4c4f"
+            }
+          ]
+        },
+        {
+          "label": "Greenland",
+          "headline": "EU announces €200 million for Greenland amid U.S. pressure",
+          "summary": "Ursula von der Leyen announced €200 million in investment plans during Monday's visit to Nuuk. Reuters reports a focus on critical minerals, satellite communications and renewable energy, alongside support for Greenland and Denmark.",
+          "why_it_matters": "The package gives practical economic weight to Europe's support for Greenland's political autonomy.",
+          "countries": [
+            "Greenland",
+            "Denmark",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via GV Wire",
+              "url": "https://gvwire.com/2026/09/07/eu-pledges-greenland-investments-amid-trumps-push-for-control/"
+            }
+          ]
+        },
+        {
+          "label": "U.S. midterms",
+          "headline": "Republicans enter the final campaign stretch facing public dissatisfaction",
+          "summary": "Reuters reports that the latest Reuters/Ipsos survey puts Trump's approval at an all-time low, with broad dissatisfaction over Iran and the economy. Republicans are defending narrow congressional majorities with roughly two months until voting day.",
+          "why_it_matters": "The polling identifies vulnerabilities for the governing party, but it is not an election result or forecast.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via MarketScreener",
+              "url": "https://ca.marketscreener.com/news/warning-signs-abound-for-trump-s-republicans-as-midterm-campaign-begins-final-sprint-ce785bdbde8bf426"
+            }
+          ]
+        },
+        {
+          "label": "Brazil campaign",
+          "headline": "Flavio Bolsonaro rallies supporters against Lula and Supreme Court justice",
+          "summary": "At Monday's Independence Day rally in São Paulo, presidential candidate Flavio Bolsonaro attacked Lula and Justice Alexandre de Moraes and promised to restore judicial credibility. Reuters reports recent polls put Lula ahead in the first round and the runoff within the margin of error.",
+          "why_it_matters": "The rally places the judiciary at the center of campaigning before the October 4 first round.",
+          "countries": [
+            "Brazil"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via UOL",
+              "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/07/em-ato-na-paulista-flavio-busca-vincular-lula-a-moraes-e-promete-recuperar-credibilidade-do-judiciario.amp.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Defense approvals and revised national accounts replace yesterday's meeting preview.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Defense planning",
+          "headline": "CSAT approves the 2027–2036 military equipment plan",
+          "summary": "Romania's defense council approved the army equipment plan for 2027–2036 and the transformation and development program through 2044 on Monday. Host-nation support for U.S. forces remains under interagency analysis ahead of concrete decisions.",
+          "why_it_matters": "The approvals establish a long-term planning framework; implementation and funding remain the practical tests.",
+          "countries": [
+            "Romania",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Digi24",
+              "url": "https://www.digi24.ro/stiri/actualitate/politica/sedinta-csat-astazi-la-ora-1500-care-sunt-temele-de-pe-agenda-intalnirii-3937295"
+            }
+          ]
+        },
+        {
+          "label": "GDP update",
+          "headline": "Romania's first-half GDP falls 0.7% on the unadjusted measure",
+          "summary": "Monday's provisional INS figures show second-quarter GDP unchanged from the previous quarter. First-half output fell 0.7% year on year on the unadjusted series and 1.6% after seasonal adjustment.",
+          "why_it_matters": "Stabilization between quarters has not yet reversed the economy's decline compared with last year.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Radio România",
+              "url": "https://www.radioromania.ro/economic/pib-ul-romaniei-a-scazut-in-primul-semestru-al-anului-cu-0-7-id215696.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Two substantive discussions add context about economic anxiety and military production.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/Romania",
+          "headline": "Romanian GDP discussion splits between recession fears and hopes of stabilization",
+          "summary": "A current r/Romania discussion of the INS release debates fiscal policy, job losses and whether the downturn is becoming less severe. The comments express competing interpretations rather than establishing a consensus.",
+          "why_it_matters": "The thread makes household concerns visible alongside the official GDP figures, without representing Romanian opinion as a whole.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Reddit · r/Romania",
+              "url": "https://www.reddit.com/r/Romania/comments/1wa05vx/sc%C4%83derea_economiei_rom%C3%A2niei_%C3%AEn_primele_6_luni/"
+            }
+          ]
+        },
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Defense discussion focuses on scaling drone interception and missile production",
+          "summary": "The September 7 megathread discusses reusable drone interceptors, missile manufacturing and Ukraine's capacity to turn prototypes into mass production. Participants also share reports about procurement and operations; their technical assessments remain commentary.",
+          "why_it_matters": "The useful question is how quickly equipment can be produced and fielded, not merely whether a prototype works.",
+          "countries": [
+            "Ukraine",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Reddit · r/CredibleDefense",
+              "url": "https://www.reddit.com/r/CredibleDefense/comments/1w9nyng/active_conflicts_news_megathread_september_07_2026/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
