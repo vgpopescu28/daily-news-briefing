@@ -1,0 +1,322 @@
+{
+  "date": "2026-09-09",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Wednesday Morning Edition",
+  "edition_subtitle": "Iran escalates against Jordan and shipping, trade barriers widen, and Romania investigates sabotage.",
+  "generated_at": "2026-09-09T09:04:59+03:00",
+  "summary": {
+    "spotlight": "Fresh military exchanges around the Gulf put shipping and energy supplies under renewed pressure. Import bans deepen the U.S.-Canada rupture, while Romania faces new security allegations and a parliamentary decision on allied planning.",
+    "market_mood": "Volatile",
+    "reader_note": "Checked on September 9 in Romania, with priority given to developments since yesterday. Military claims and early casualty reports remain attributed. The IAEA item concerns an earlier report receiving fresh coverage. Reddit selections show discussion themes, not representative opinion or independently verified battlefield facts. Why-it-matters notes are editorial analysis."
+  },
+  "featured_story": {
+    "label": "Top Story",
+    "headline": "Iran targets Jordan base and claims attacks on ships after U.S. tanker strikes",
+    "summary": "Iran said Wednesday it fired missiles at a base used by U.S. forces in Jordan and attacked 10 ships near Hormuz. Jordan reported intercepting 18 of 20 missiles, with no casualties; a U.S. official said American personnel were accounted for. Washington said it destroyed five Iranian tankers Tuesday after missile attacks on a Navy warship.",
+    "why_it_matters": "The exchange widens the immediate risk to regional bases and commercial shipping while raising the danger of further retaliation.",
+    "countries": [
+      "Iran",
+      "Jordan",
+      "United States"
+    ],
+    "sources": [
+      {
+        "name": "Reuters via Internazionale",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/iran-attacks-us-base-in-jordan-ships-near-hormuz-after-tankers-sunk"
+      }
+    ],
+    "category": "security",
+    "tone": "conflict"
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": "Conflict & Diplomacy",
+      "description": "New attacks and diplomatic restrictions intensify several security disputes.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Diplomatic rupture",
+          "headline": "Israel gives British consulate 30 days to close, sources say",
+          "summary": "An Israeli official and two sources told Reuters that the East Jerusalem consulate must close within 30 days. The move follows British sanctions on West Bank settlements; sources also described seven-day departure deadlines for some other British representatives.",
+          "why_it_matters": "The dispute could reduce diplomatic access to Palestinian institutions and complicate Gaza coordination.",
+          "countries": [
+            "Israel",
+            "United Kingdom",
+            "Palestine"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/israel-tells-british-consulate-in-east-jerusalem-to-close-within-30-days-sources-say"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine border",
+          "headline": "Ukraine reports deadly drone strike at Moldova border crossing",
+          "summary": "Ukraine's border guard said an overnight Russian drone attack caused deaths, injuries and fires at a crossing with Moldova. Emergency services separately reported fires in Kyiv without casualties in the initial account.",
+          "why_it_matters": "Border infrastructure attacks threaten civilian travel and links between Ukraine and its neighbors.",
+          "countries": [
+            "Ukraine",
+            "Moldova",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/russian-drones-kill-injure-people-at-ukraine-moldova-border-crossing"
+            }
+          ]
+        },
+        {
+          "label": "Nuclear monitoring",
+          "headline": "IAEA identifies expanded North Korean enrichment capacity",
+          "summary": "Reuters reports that an IAEA assessment dated August 28 identifies a new Yongbyon enrichment building and indications of operations in an expanded Kangson annex. The agency relied on satellite images and public material; it has had no inspectors in North Korea since 2009.",
+          "why_it_matters": "The assessment points to additional nuclear-material production capacity, with substantial limits on direct verification.",
+          "countries": [
+            "North Korea"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/north-korea-builds-new-yongbyon-uranium-enrichment-facility-iaea-says"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Trade & Energy",
+      "description": "New trade restrictions meet renewed pressure on fuel supplies.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Canada trade",
+          "headline": "U.S. announces Canadian import bans starting September 29",
+          "summary": "Washington announced bans covering motorcycles, many alcoholic drinks and selected dairy products after Canadian counter-tariffs took effect Tuesday. Other products face expanded tariffs, while officials remain in contact about a possible alternative path.",
+          "why_it_matters": "Outright import restrictions deepen disruption for suppliers already adjusting to a deteriorating trade relationship.",
+          "countries": [
+            "United States",
+            "Canada"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/canada-s-retaliatory-tariffs-take-effect-as-us-trade-talks-stall"
+            }
+          ]
+        },
+        {
+          "label": "Chip supply chains",
+          "headline": "Japan protests Chinese deposits on chipmaking chemical imports",
+          "summary": "China imposed provisional anti-dumping measures on Japanese dichlorosilane Tuesday, requiring import deposits of up to 99.2%. Japan protested and said it was assessing the impact on its companies.",
+          "why_it_matters": "The dispute creates another barrier in a strategically sensitive semiconductor supply chain.",
+          "countries": [
+            "China",
+            "Japan"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-japan-chips-chemical-dumping-ea58c95c47481c5c822a3a544e6b68cc"
+            }
+          ]
+        },
+        {
+          "label": "Oil markets",
+          "headline": "Brent approaches $100 as Asian markets trade cautiously",
+          "summary": "AP reported mixed Asian shares early Wednesday as the Iran war pushed crude prices higher. Investors were also watching the outlook for interest rates.",
+          "why_it_matters": "Higher energy costs can feed inflation and make monetary-policy decisions harder.",
+          "countries": [
+            "Japan",
+            "Iran",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP via Yahoo Finance",
+              "url": "https://ca.finance.yahoo.com/news/asian-shares-mixed-brent-crude-042250149.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "policy",
+      "title": "Politics & Digital Rules",
+      "description": "Governments face disputes over elections, wages and platform regulation.",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Platform regulation",
+          "headline": "Australia defends algorithm opt-out plan after U.S. criticism",
+          "summary": "Australia said Wednesday that proposed social-media reforms pose no threat to U.S. ties. The draft would let users opt out of recommendation algorithms, with substantial fines for companies that fail to comply.",
+          "why_it_matters": "The proposal tests how far governments can regulate global platforms amid pressure from Washington.",
+          "countries": [
+            "Australia",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/australia-sees-no-threat-to-us-ties-after-white-house-criticism-of-social-media-reforms"
+            }
+          ]
+        },
+        {
+          "label": "U.S. elections",
+          "headline": "Conflicting rulings leave Missouri congressional map uncertain",
+          "summary": "A federal judge temporarily blocked Missouri's old districts Tuesday, shortly after the U.S. Supreme Court left standing a state ruling requiring them. The competing orders concern a new Republican-backed map challenged through a referendum petition.",
+          "why_it_matters": "Uncertainty close to Election Day complicates election administration and campaign planning.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/redistricting-congress-trump-gerrymandering-house-aadd3c4e6cc3a2c8100756cb7b352289"
+            }
+          ]
+        },
+        {
+          "label": "Public services",
+          "headline": "Nearly 10,000 New Zealand public servants strike over pay",
+          "summary": "Public employees stopped work for several hours Wednesday, disrupting services including employment and social housing support. Unions say wage offers fail to keep pace with living costs, while the government has defended staffing cuts as necessary for its budget.",
+          "why_it_matters": "The stoppage puts public-service capacity and household costs at the center of the approaching election.",
+          "countries": [
+            "New Zealand"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/new-zealand-public-servants-walk-off-job-over-pay-offer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "aviation",
+      "title": "Aviation Disruption",
+      "description": "A system failure and a fatal remote-area crash expose different transport vulnerabilities.",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "UK travel",
+          "headline": "UK air-traffic failure cancels more than 1,000 flights",
+          "summary": "AP cited Flightradar24 reporting more than 1,000 cancellations Tuesday. NATS said the processing-system fault was resolved in the evening, but airlines faced backlogs and displaced aircraft and crews.",
+          "why_it_matters": "Travelers face continuing knock-on disruption even after the technical fault is repaired.",
+          "countries": [
+            "United Kingdom"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/408a8997d9fb39508e922e09d2523884"
+            }
+          ]
+        },
+        {
+          "label": "Malaysia crash",
+          "headline": "Five die in Malaysian medical-service helicopter crash",
+          "summary": "Authorities said a pilot and four health-ministry staff died in Tuesday's crash near Long Lellang in Sarawak. Wildfire haze complicated the search and prevented aerial access; investigators have not established the cause.",
+          "why_it_matters": "The loss affects a service that brings medical care to isolated communities and highlights the operational burden of regional haze.",
+          "countries": [
+            "Malaysia",
+            "Indonesia"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/09/flying-doctor-helicopter-crashes-in-malaysia-authorities-say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Fresh developments concern military security and allied command planning.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Sabotage investigation",
+          "headline": "Romanian court orders Russian suspect held for 30 days",
+          "summary": "The Bucharest Court of Appeal ordered pre-trial detention Tuesday in an alleged sabotage case. DIICOT says the suspect collected and transmitted information about Romanian and allied military sites; SRI says it prevented a sabotage operation. These are investigative allegations, not a conviction.",
+          "why_it_matters": "The case puts protection of military infrastructure and supply routes under renewed scrutiny.",
+          "countries": [
+            "Romania",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "AGERPRES",
+              "url": "https://agerpres.ro/english/2026/09/08/russian-citizen-who-plotted-acts-of-diversion-and-sabotage-in-romania-placed-under-pre-trial-arrest--1591849"
+            }
+          ]
+        },
+        {
+          "label": "Allied planning",
+          "headline": "Parliament advances review of request for up to 20 military staff",
+          "summary": "Parliament's leadership referred the president's request to defense committees Tuesday. The proposal concerns staff participation in the Ukraine-support command rotating between France and Britain; the presidential letter says planning participation carries no obligation to deploy forces in Ukraine.",
+          "why_it_matters": "The distinction between headquarters planning and a future deployment is central to the decision lawmakers must consider.",
+          "countries": [
+            "Romania",
+            "Ukraine",
+            "France",
+            "United Kingdom"
+          ],
+          "sources": [
+            {
+              "name": "AGERPRES",
+              "url": "https://agerpres.ro/english/2026/09/08/romanian-president-seeks-parliament-s-approval-for-military-participation-in-multinational-command-s--1591805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Two current discussion threads reveal questions readers are trying to resolve.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Ukraine discussion probes the evidence behind refinery-strike claims",
+          "summary": "The September 8 live thread includes debate about air-defense supplies and whether circulating footage substantiates reported refinery damage. Several commenters challenge stronger claims than the linked material appears to support.",
+          "why_it_matters": "The exchange is a useful example of source-checking within a partisan discussion; the thread itself does not verify the military claims.",
+          "countries": [
+            "Ukraine",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Reddit: r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1wadsr3/rworldnews_live_thread_russian_invasion_of/"
+            }
+          ]
+        },
+        {
+          "label": "r/CanadianInvestor",
+          "headline": "Canadian investors discuss tariff exposure and currency uncertainty",
+          "summary": "The September 8 daily discussion connects the trade dispute with concerns about Bombardier, exchange rates and interest rates. These are informal reactions from forum participants, not a representative survey or investment advice.",
+          "why_it_matters": "The thread shows how policy headlines are filtering into questions about company exposure and household purchasing costs.",
+          "countries": [
+            "Canada",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reddit: r/CanadianInvestor",
+              "url": "https://www.reddit.com/r/CanadianInvestor/comments/1wak3ar/daily_discussion_thread_for_september_08_2026/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
