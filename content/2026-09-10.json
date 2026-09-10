@@ -1,0 +1,315 @@
+{
+  "date": "2026-09-10",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Shipping attacks intensify, oil tops $100, and August heat ties the global record.",
+  "generated_at": "2026-09-10T09:04:26+03:00",
+  "summary": {
+    "spotlight": "Attacks on commercial shipping are deepening the Gulf crisis as oil remains above $100. Record global heat, a judicial confrontation in Brazil and Romania's infrastructure vulnerabilities also demand attention.",
+    "market_mood": "Volatile",
+    "reader_note": "Reporting checked on the morning of September 10 in Romania. Military claims are attributed and shipping figures are preliminary. Reddit selections reflect discussion, not verified reporting or representative opinion; the immigration thread is an explicitly dated September 4 selection."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran reports attacks on 10 ships after U.S. sinks five tankers",
+    "summary": "Iran said Wednesday it attacked 10 ships near Hormuz after U.S. forces sank five Iranian oil tankers. Reuters described the exchanges as the war's largest wave of shipping attacks; at least one seafarer was reported dead and another missing.",
+    "why_it_matters": "Direct attacks on commercial vessels increase risks to crews and threaten already constrained energy supplies.",
+    "countries": [
+      "Iran",
+      "United States",
+      "Jordan"
+    ],
+    "sources": [
+      {
+        "name": "Reuters via Internazionale",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/iran-attacks-us-base-in-jordan-ships-near-hormuz-after-tankers-sunk"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "energy",
+      "title": "Shipping & Markets",
+      "description": "Fresh traffic data show how the conflict is disrupting energy trade.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Shipping data",
+          "headline": "Tracked Hormuz transits fall to seven",
+          "summary": "Preliminary data published Thursday recorded seven transits on Wednesday, down from 12 the previous day and a 10-day average of 14. Ships sailing with transponders switched off are excluded.",
+          "why_it_matters": "The figures indicate limited visible traffic, but they are not a complete count of all crossings.",
+          "countries": [
+            "Iran",
+            "Oman"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/hormuz-shipping-traffic-in-single-digits-data-shows"
+            }
+          ]
+        },
+        {
+          "label": "Morning markets",
+          "headline": "Asian shares slide as Brent trades near $101",
+          "summary": "Asian stock markets retreated early Thursday after Wednesday's Wall Street losses. Brent hovered around $101 a barrel after rising 3.4% the previous day.",
+          "why_it_matters": "Persistent fuel-price pressure squeezes household budgets and raises transport costs.",
+          "countries": [
+            "Japan",
+            "China",
+            "South Korea",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stocks-markets-oil-trump-rates-7fbc77061abd778608068d3beb1bbbaf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "New attacks bring further civilian harm on both sides of the Black Sea.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Civilian casualties",
+          "headline": "Sumy shopping-mall grounds hit as Zelenskyy urges greater pressure",
+          "summary": "Three people died in a Russian drone attack on shopping-mall grounds in Sumy Wednesday evening, the regional governor said. Earlier, Zelenskyy called for a stronger international response to Russia's bombardment of civilian areas.",
+          "why_it_matters": "Continued civilian deaths underline the gap between diplomatic efforts and protection on the ground.",
+          "countries": [
+            "Ukraine",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-drone-attack-6670c99dcc9ed149a2bd9c0deac455cf"
+            }
+          ]
+        },
+        {
+          "label": "Black Sea",
+          "headline": "Russian authorities report eight injured in Sochi sea-drone attack",
+          "summary": "Krasnodar authorities said sea drones injured eight people and damaged beach infrastructure in Sochi late Wednesday. Reuters verified video showing gunfire and an explosion on an embankment.",
+          "why_it_matters": "The incident extends the war's civilian impact along the Black Sea coast.",
+          "countries": [
+            "Russia",
+            "Ukraine"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/sea-drones-injure-eight-in-russia-s-black-sea-resort-of-sochi-officials-say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "politics",
+      "title": "Power & Diplomacy",
+      "description": "Political promises and institutional disputes shape major international relationships.",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "U.S. midterms",
+          "headline": "Trump promises $5,000 payments if Republicans keep Congress",
+          "summary": "At the Republican convention in Dallas Wednesday, Trump pledged $5,000 for every American adult if his party retains both congressional chambers. AP described the proposal, potentially costing at least $1 trillion, as financially and politically implausible.",
+          "why_it_matters": "This is an election pledge, not an enacted payment program.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-midterm-convention-dallas-speakers-trumpapalooza-5be7a32b6cffb5b1eaa58d982fdb3448"
+            }
+          ]
+        },
+        {
+          "label": "Brazil courts",
+          "headline": "Brazil's chief justice suspends rival rulings in court dispute",
+          "summary": "Chief Justice Edson Fachin suspended the effects of competing Supreme Court decisions Wednesday and called an extraordinary session for next week. The clash involves orders removing and reinstating the federal police chief amid disputed intelligence-monitoring allegations.",
+          "why_it_matters": "The confrontation strains judicial authority shortly before October's national elections.",
+          "countries": [
+            "Brazil"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/brazil-top-court-judge-orders-reinstatement-of-federal-police-chief"
+            }
+          ]
+        },
+        {
+          "label": "China and India",
+          "headline": "Expected Xi visit puts diplomatic thaw against business barriers",
+          "summary": "Reuters reports that Xi Jinping is widely expected at this weekend's BRICS summit in New Delhi, although Beijing had not confirmed the visit. Visa delays, investment rules and equipment restrictions continue to hinder business ties.",
+          "why_it_matters": "Improved diplomatic contact does not yet guarantee easier trade or investment.",
+          "countries": [
+            "China",
+            "India"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/analysis-xi-s-india-visit-to-help-diplomatic-thaw-but-business-ties-bound-by-suspicion"
+            }
+          ]
+        },
+        {
+          "label": "Caribbean strike",
+          "headline": "U.S. military says vessel strike killed three",
+          "summary": "U.S. Southern Command said Wednesday it killed three people in a Caribbean vessel strike. It alleged trafficking activity based on intelligence but provided no further details; rights groups condemn the wider campaign as extrajudicial killing.",
+          "why_it_matters": "The operation renews scrutiny of the evidence and accountability surrounding lethal maritime enforcement.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/us-strikes-vessel-in-caribbean-killing-three"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Climate & Space",
+      "description": "New measurements and strategic investment debates reach beyond today's conflicts.",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Global temperature",
+          "headline": "August ties the hottest month in the global record",
+          "summary": "Copernicus put August's global average at 16.96°C, statistically tied with July 2023 within measurement uncertainty. Scientists attribute the heat to human-caused warming amplified by a strong El Nino.",
+          "why_it_matters": "The new record highlights growing heat exposure and pressure on infrastructure.",
+          "countries": [
+            "Global"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/heat-record-climate-change-sizzle-el-nino-2a78248322a04b97f417346308d05483"
+            }
+          ]
+        },
+        {
+          "label": "Space industry",
+          "headline": "Paris summit focuses on Europe's space ambitions",
+          "summary": "A two-day summit opened Wednesday in Paris with participants from about 120 countries. European officials and industry leaders are discussing competitiveness in a sector dominated by U.S. companies; France said SpaceX and Blue Origin canceled attendance.",
+          "why_it_matters": "Access to launch services and satellite networks is increasingly a question of strategic independence.",
+          "countries": [
+            "France",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-us-space-industry-paris-summit-starlink-6f41bedb4716954239591df28b7f1f84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Energy logistics, cyber resilience and crisis preparedness drive the local agenda.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Oil Terminal",
+          "headline": "Court clears union steps toward Oil Terminal strikes",
+          "summary": "Constanta's tribunal rejected management's challenge Wednesday, finding the union's strike procedures lawful. A warning strike is planned today without stopping activity, followed by an indefinite general strike from September 17. Workers seek 6.5% wage indexation; the decision can be appealed.",
+          "why_it_matters": "A prolonged dispute could affect a strategically important petroleum operator.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Radio Romania Constanta",
+              "url": "https://www.radioconstanta.ro/2026/09/09/tribunalul-constanta-decizie-in-privinta-legalitatii-conflictului-de-munca-dintre-conducere-si-sindicat-la-oil-terminal-sa/"
+            }
+          ]
+        },
+        {
+          "label": "Cybersecurity hearings",
+          "headline": "Officials tell Parliament land-registry warnings went unanswered",
+          "summary": "At Wednesday's hearings on July's land-registry cyberattack, the Cyberint chief said critical weaknesses had been flagged since 2021 with no official agency response recorded by SRI. DNSC cited reused passwords and outdated systems. The attack disrupted property transactions for almost a month.",
+          "why_it_matters": "The testimony points to preventable weaknesses in essential public services and questions about institutional follow-through.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "AGERPRES",
+              "url": "https://agerpres.ro/english/2026/09/09/parliament-it-committee-hearings-national-cyberint-centre-sent-1-300-notifications-on-vulnerabilitie--1592143"
+            }
+          ]
+        },
+        {
+          "label": "Today's agenda",
+          "headline": "EU crisis commissioner due in Bucharest for preparedness talks",
+          "summary": "Hadja Lahbib is scheduled to meet Romanian leaders today to discuss EU civil protection and crisis readiness. The Commission announced an 18:15 press conference with Raed Arafat at the General Inspectorate for Aviation.",
+          "why_it_matters": "The visit offers a checkpoint on Romania's contribution to shared emergency-response capacity.",
+          "countries": [
+            "Romania",
+            "Moldova"
+          ],
+          "sources": [
+            {
+              "name": "AGERPRES",
+              "url": "https://agerpres.ro/english/2026/09/09/eu-commissioner-hadja-lahbib-to-visit-romania-and-moldova-for-talks-on-eu-civil-protection-mechanism--1592081"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Two readable discussions offer public questions rather than independent confirmation.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/neoliberal",
+          "headline": "EU-Canada discussion explores closer ties without full membership",
+          "summary": "A recent thread about a reported EU-Canada partnership discusses the balance between single-market access and obligations, including comparisons with EFTA. Those comparisons are commenters' interpretations, not agreed treaty terms.",
+          "why_it_matters": "The discussion captures interest in alternatives to dependence on larger powers.",
+          "countries": [
+            "Canada"
+          ],
+          "sources": [
+            {
+              "name": "Reddit: r/neoliberal",
+              "url": "https://www.reddit.com/r/neoliberal/comments/1warv2h/eu_and_canada_plan_farreaching_alliance_to/"
+            }
+          ]
+        },
+        {
+          "label": "r/neoliberal | September 4",
+          "headline": "Immigration debate turns on whether Canada can build enough homes",
+          "summary": "In a September 4 thread, participants debate labor shortages, immigration levels, zoning and housing supply. Some favor more construction-worker immigration; others want evidence of faster homebuilding first.",
+          "why_it_matters": "This older discussion usefully exposes the practical trade-offs behind competing growth narratives; it is not a survey of Canadian opinion.",
+          "countries": [
+            "Canada"
+          ],
+          "sources": [
+            {
+              "name": "Reddit: r/neoliberal",
+              "url": "https://www.reddit.com/r/neoliberal/comments/1w7995s/canada_wants_to_be_ambitious_that_means_getting/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
