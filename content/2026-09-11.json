@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-11",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Mokha falls to the Houthis, Europe raises rates, and Canada expands support for Ukraine.",
+  "generated_at": "2026-09-11T09:03:32+03:00",
+  "summary": {
+    "spotlight": "The Houthi capture of a strategic Yemeni port adds to pressure on global shipping. Energy-driven inflation is prompting tighter monetary policy, while Ukraine secures new Canadian support.",
+    "market_mood": "Volatile",
+    "reader_note": "Reporting checked on September 11 in Romania, including developments from September 10. Ferry casualty figures remain provisional; allegations and intelligence assessments are attributed. Reddit selections are September 10 discussions, not verified reporting or representative public opinion. Images are omitted because no sufficiently useful direct image was verified."
+  },
+  "featured_story": {
+    "category": "security",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Houthis capture Mokha, adding pressure on Red Sea shipping",
+    "summary": "Houthi and Yemeni officials said the Iran-backed rebels seized Mokha on Thursday. The port lies about 80 kilometers from Bab el-Mandeb, giving the group a stronger position near another crucial shipping route while Hormuz traffic remains disrupted.",
+    "why_it_matters": "Threats to both maritime chokepoints could compound shipping delays and energy supply risks.",
+    "countries": [
+      "Yemen",
+      "Iran",
+      "Saudi Arabia"
+    ],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/yemen-iran-houthi-rebels-red-sea-mokha-e4e799701b382799a955969c212800ea"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "security",
+      "title": "Security & Diplomacy",
+      "description": "New military commitments and a consequential intelligence assessment.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Ukraine",
+          "headline": "Canada promises drones, interceptors and winter energy support",
+          "summary": "Mark Carney said Thursday that a third of Canada's planned drone production would support Ukraine. He also announced C$350 million in air-defense interceptors and more than C$430 million in loan guarantees for Ukrainian gas purchases.",
+          "why_it_matters": "The commitments address air-defense shortages and winter energy needs, although production promises still require delivery.",
+          "countries": [
+            "Canada",
+            "Ukraine",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-canada-zelenskyy-2a74de6552061bda57a1c5aa4464db52"
+            }
+          ]
+        },
+        {
+          "label": "Korean Peninsula",
+          "headline": "Seoul maintains that Kim's daughter is the likely heir",
+          "summary": "South Korea's intelligence service reaffirmed its assessment that Kim Jong Un's daughter is his likely successor. It said it was still checking whether she has an older brother; this remains an outside intelligence assessment, not a succession announcement from Pyongyang.",
+          "why_it_matters": "Leadership continuity in a nuclear-armed state is a significant regional security question.",
+          "countries": [
+            "North Korea",
+            "South Korea"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/north-korea-kim-son-daughter-heir-3a6f6aa66442f0e9d62459df877b62e1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Markets & Inflation",
+      "description": "Energy costs are feeding through to prices and interest rates.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Eurozone",
+          "headline": "ECB raises its benchmark rate to 2.50%",
+          "summary": "The European Central Bank increased its benchmark rate by a quarter percentage point Thursday. Christine Lagarde cited persistent inflation pressure from the Middle East conflict and said future decisions would depend on incoming data.",
+          "why_it_matters": "Higher euro-area borrowing costs can affect households, business investment and financing conditions across Europe.",
+          "countries": [
+            "European Union"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/europe-tariffs-economic-growth-trump-de62b59fba535fccaf6f75e52d037c63"
+            }
+          ]
+        },
+        {
+          "label": "United States",
+          "headline": "U.S. wholesale inflation accelerates to 5.4%",
+          "summary": "August producer prices rose 5.4% from a year earlier, up from 4.8% in July, according to Thursday's release. The monthly increase was 0.4%, with elevated energy costs keeping pressure on businesses.",
+          "why_it_matters": "Producer costs can feed into consumer prices and complicate the Federal Reserve's next decision.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/producer-prices-inflation-economy-iran-66d1591b979271ee7b79b113d715f6ef"
+            }
+          ]
+        },
+        {
+          "label": "Markets",
+          "headline": "Oil reaches its highest level since May as stocks fall",
+          "summary": "Oil's rise pushed Wall Street lower on Thursday. AP reported U.S. regular gasoline averaging nearly $4.28 a gallon and traders assigning a higher probability to a Federal Reserve rate increase next week.",
+          "why_it_matters": "The combination of expensive energy and tighter borrowing conditions puts pressure on consumers and companies.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/stocks-markets-oil-trump-rates-7fbc77061abd778608068d3beb1bbbaf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "institutions",
+      "title": "Politics & Public Memory",
+      "description": "Court decisions shape election conditions as the United States marks September 11.",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "U.S. Elections",
+          "headline": "Missouri turns to its 2022 map after another Supreme Court rejection",
+          "summary": "The U.S. Supreme Court again rejected the Trump-backed congressional map Thursday. Missouri's chief election official directed local authorities to use the 2022 districts, potentially giving voters different House candidate choices from those in August's primary.",
+          "why_it_matters": "The decision affects a closely watched House seat and creates practical challenges for election administration.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/missouri-redistricting-congressional-map-trump-c505162fe7880f60eb4dd587bc51d313"
+            }
+          ]
+        },
+        {
+          "label": "Brazil",
+          "headline": "Brazil's Supreme Court cancels a second session amid internal crisis",
+          "summary": "The court canceled Thursday's deliberations and scheduled a Tuesday session to consider whether Justice Alexandre de Moraes should be investigated over alleged links to a failed bank's owner. The allegations remain unresolved.",
+          "why_it_matters": "The institutional dispute is intensifying immediately ahead of October's national elections.",
+          "countries": [
+            "Brazil"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/346a3d9480838af5a7a5c4b7c581175c"
+            }
+          ]
+        },
+        {
+          "label": "September 11",
+          "headline": "Twenty-five years on, journalists revisit witnessing the attacks",
+          "summary": "On the 25th anniversary of September 11, AP journalists recount reporting the attacks while living through them. Their recollections preserve first-hand accounts of the destruction and confusion in New York.",
+          "why_it_matters": "The anniversary offers a moment to revisit the human experience behind an event that reshaped international security.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/september-11-associated-press-eeacb6c1608413860c2306008b354b89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "rescue",
+      "title": "Rescue & Recovery",
+      "description": "The search continues after a major Philippine ferry fire.",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Philippines",
+          "headline": "Smoke hampers ferry search; 84 people remain missing",
+          "summary": "Rescuers on Friday were assessing access to the burned MV June Aster near Palawan. AP's morning report put the toll at at least five dead and 84 missing, updating earlier counts; 43 people had been rescued. The fire's cause remains under investigation.",
+          "why_it_matters": "Search conditions remain dangerous, and the provisional figures may change as the vessel is examined.",
+          "countries": [
+            "Philippines"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/53da1f785c386cfbd189ef1dd3017c03"
+            },
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/five-dead-after-philippine-ferry-catches-fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "Technology",
+      "description": "New disclosures put AI misuse and safeguards under scrutiny.",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "AI Safety",
+          "headline": "Anthropic reports blocking potentially dangerous research requests",
+          "summary": "Anthropic disclosed attempts to misuse Claude for work that could support biological weapons, alongside other abuse cases. Its September report describes company-detected incidents, rather than independently establishing that a weapon was developed.",
+          "why_it_matters": "The disclosures add evidence for debates over AI safeguards while leaving questions about undetected misuse.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/anthropic-ai-threat-bioweapon-russia-00266dca90e4f8853f669648998d3bda"
+            },
+            {
+              "name": "Anthropic report",
+              "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Security allegations, political sentiment and energy investment deserve local attention.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Security",
+          "headline": "Russian Embassy rejects Romania's sabotage allegations",
+          "summary": "Russia's embassy dismissed allegations against a Russian citizen held in preventive arrest and sought consular access. Romanian prosecutors allege he collected sensitive military information and prepared sabotage coordinated from Russia; the embassy disputes both wrongdoing and Russian state involvement.",
+          "why_it_matters": "The case has become a diplomatic dispute over alleged threats to Romanian and NATO infrastructure.",
+          "countries": [
+            "Romania",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/news/russian-embassy-dismisses-sabotage-allegations-against-citizen"
+            }
+          ]
+        },
+        {
+          "label": "Polling",
+          "headline": "INSCOP poll puts AUR at 39.7% among respondents naming a party",
+          "summary": "A September 10 report on the Informat.ro-INSCOP barometer gives AUR 39.7%, PSD 18.7%, PNL 16.3% and USR 9%. These figures cover respondents expressing a party preference, regardless of certainty to vote; that group represented 70.6% of the sample.",
+          "why_it_matters": "The poll indicates political sentiment, but its denominator must be kept distinct from likely voters or an election result.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/news/poll-far-right-party-aur-leads-romanias-parliamentary-voting"
+            }
+          ]
+        },
+        {
+          "label": "Energy",
+          "headline": "BCR reports EUR 535 million in energy-project financing",
+          "summary": "BCR said its January-August financing supported projects totaling 948 MW: 780 MW of renewable generation and 168 MW of storage. The figures describe financed projects and should not be read as newly operational capacity.",
+          "why_it_matters": "Generation and storage investment can improve energy resilience as regional fuel costs rise.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Romania Insider",
+              "url": "https://www.romania-insider.com/news/romanias-bcr-bank-extends-eur-535-mln-950"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Two September 10 conversations add public reaction rather than independently verified facts.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/claude",
+          "headline": "AI safety thread exposes a split over practical misuse risks",
+          "summary": "A highly discussed post sharing an alarming statement attributed to an Anthropic researcher prompted debate about AI risks. Visible comments disagreed over how readily information could translate into real-world biological harm.",
+          "why_it_matters": "The conversation shows conflicting risk perceptions; neither the screenshot nor anonymous replies independently establish technical capabilities.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reddit: r/claude",
+              "url": "https://www.reddit.com/r/claude/comments/1wcjhqr/anthropic_researcher_i_would_burn_my_equity_to/"
+            }
+          ]
+        },
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Defense discussion turns to industrial capacity behind future aircraft",
+          "summary": "The September 10 conflict megathread includes a discussion of a reported U.S. Navy aircraft-program decision. Commenters weigh manufacturer workloads and production constraints while explicitly questioning the reliability of unnamed-source reporting.",
+          "why_it_matters": "It is a useful window into procurement concerns, but speculation about an award is not confirmation of a contract.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reddit: r/CredibleDefense",
+              "url": "https://www.reddit.com/r/CredibleDefense/comments/1wcet77/active_conflicts_news_megathread_september_10_2026/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
