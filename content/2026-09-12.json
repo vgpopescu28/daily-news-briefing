@@ -1,0 +1,324 @@
+{
+  "date": "2026-09-12",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Saturday Morning Edition",
+  "edition_subtitle": "Red Sea pressure widens as inflation bites and BRICS leaders meet.",
+  "generated_at": "2026-09-12T09:04:35+03:00",
+  "summary": {
+    "spotlight": "Mayun's capture and a Saudi pipeline shutdown intensify the energy and shipping crisis. New inflation figures, India's BRICS summit and Congo's widening Ebola outbreak round out the morning's major developments.",
+    "market_mood": "Volatile",
+    "reader_note": "Prepared for September 12 in Romania time, using overnight reporting and the latest substantive September 11 developments. The Ukraine industrial-strike update concerns September 10 events. Reddit selections are public discussion, not independent evidence."
+  },
+  "featured_story": {
+    "label": "Top Story",
+    "headline": "Houthis capture Mayun as Saudi Arabia shuts its East-West oil pipeline",
+    "summary": "Officials on both sides confirmed the Houthi capture of Mayun island at the Red Sea's southern entrance. Saudi Arabia separately shut its East-West pipeline as a precaution after drone attacks; Riyadh said the drones came from Iraq.",
+    "why_it_matters": "The two developments threaten routes used to bypass the disrupted Strait of Hormuz, increasing pressure on energy supplies and shipping.",
+    "countries": [
+      "Yemen",
+      "Saudi Arabia",
+      "Iraq"
+    ],
+    "sources": [
+      {
+        "name": "AP",
+        "url": "https://apnews.com/article/025d052a14d9481258d51009a76d0bd6"
+      }
+    ],
+    "category": "red-sea",
+    "tone": "conflict"
+  },
+  "sections": [
+    {
+      "key": "red-sea",
+      "title": "Red Sea Crisis",
+      "description": "Military gains are creating new diplomatic pressure and civilian displacement.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Humanitarian",
+          "headline": "Fighting displaces at least 46,000 people in southwestern Yemen",
+          "summary": "IOM reported Friday that at least 46,000 people had fled renewed fighting since the previous week. Families are leaving the Mokha area while damaged transport routes and depleted emergency stocks complicate relief.",
+          "why_it_matters": "The territorial advance is also an immediate shelter, water and healthcare emergency.",
+          "countries": [
+            "Yemen"
+          ],
+          "sources": [
+            {
+              "name": "UN News via Global Issues",
+              "url": "https://www.globalissues.org/news/2026/09/11/44025"
+            }
+          ]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Saudi crown prince sought US military assistance against Houthis, Reuters reports",
+          "summary": "Mohammed bin Salman asked Donald Trump on Thursday for military help against Yemen's Houthis, three sources familiar with the matter told Reuters on Friday. The request followed the group's growing threat to Red Sea traffic.",
+          "why_it_matters": "The request puts Washington's response to its Saudi partner at the center of the widening conflict.",
+          "countries": [
+            "Saudi Arabia",
+            "United States",
+            "Yemen"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Yahoo",
+              "url": "https://malaysia.news.yahoo.com/trump-declines-saudi-crown-princes-045116085.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine & European Security",
+      "description": "Border warnings and attacks on industry deepen regional exposure.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Border security",
+          "headline": "Poland warns of further provocations at Ukraine's European crossings",
+          "summary": "Donald Tusk warned that Russia could intensify provocations at Ukraine's border crossings. He said Warsaw and Kyiv had averted a threat to a Polish crossing Wednesday, but offered no details or evidence of Russian involvement in that incident.",
+          "why_it_matters": "Crossing-point disruption could affect civilian travel and the routes sustaining Ukraine.",
+          "countries": [
+            "Poland",
+            "Ukraine",
+            "Moldova"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/poland-russia-moldova-cia-border-crossing-ukraine-b1e2a19e2a9df1e84aec722896d38cab"
+            }
+          ]
+        },
+        {
+          "label": "Industry",
+          "headline": "Updated reporting details deadly strikes on Ukraine's industrial sites",
+          "summary": "Reuters reporting published September 11 says Thursday's attacks killed seven people in Pavlohrad and two at a Bunge sunflower-oil facility in Dnipro. The strikes also hit a Kyiv petrol station.",
+          "why_it_matters": "Damage to processing and logistics sites threatens employment and export earnings alongside the civilian toll.",
+          "countries": [
+            "Ukraine",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/11/russian-forces-hit-kyiv-petrol-station-injuring-four"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "diplomacy",
+      "title": "Diplomacy & Rights",
+      "description": "India hosts major powers as Hong Kong delivers a consequential security verdict.",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "BRICS summit",
+          "headline": "BRICS leaders gather in New Delhi with wars testing common ground",
+          "summary": "Leaders are meeting Saturday to discuss trade, investment and global conflicts. Modi's separate Friday meetings with Putin and Iran's president preceded the summit; the agenda includes energy security and reform of international institutions.",
+          "why_it_matters": "Competing interests within the expanded bloc make any shared position on the wars significant.",
+          "countries": [
+            "India",
+            "China",
+            "Russia",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/india-brics-modi-russia-china-iran-wars-5393274f87a16461b195d13f324e747a"
+            }
+          ]
+        },
+        {
+          "label": "Civil liberties",
+          "headline": "Hong Kong jails three Tiananmen vigil organizers",
+          "summary": "Lee Cheuk-yan, Chow Hang-tung and Albert Ho received prison terms of roughly five to seven years Friday in an incitement-to-subversion case under the national security law. The case drew international criticism; authorities defended enforcement of national security.",
+          "why_it_matters": "The sentences show the shrinking room for organized dissent and public commemoration in Hong Kong.",
+          "countries": [
+            "China"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1e91bf6d80c11ae3802481e0ac6b324a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Inflation & Energy",
+      "description": "New US data show the household and transport costs of the energy shock.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "US prices",
+          "headline": "US monthly inflation accelerates to 0.4% in August",
+          "summary": "Consumer prices rose 0.4% from July, up from the previous month's 0.1% increase, the Labor Department reported Friday. Annual inflation held at 3.4%, while renewed energy pressure sharpened attention on the Federal Reserve's next decision.",
+          "why_it_matters": "Faster monthly price increases keep borrowing costs and household purchasing power under pressure.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/c76f53f7a53def0c464ca44ac637f203"
+            }
+          ]
+        },
+        {
+          "label": "Transport costs",
+          "headline": "US diesel rises above $6 a gallon on average",
+          "summary": "AP reports that average US diesel prices reached a new record above $6 a gallon Friday as the Iran war disrupted fuel flows.",
+          "why_it_matters": "Diesel costs feed into trucking and distribution, creating another channel for higher everyday prices.",
+          "countries": [
+            "United States",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/636252b3b82326b41661ee5c4073dacb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "humanitarian",
+      "title": "Health & Disaster Recovery",
+      "description": "Congo's outbreak expands while Nepal's recovery still faces access barriers.",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Ebola",
+          "headline": "Congo reports over 7,000 confirmed Ebola cases across seven provinces",
+          "summary": "Government figures reported by Reuters late Friday put confirmed cases at 7,022 and deaths at 3,398. A case in northwestern Sud-Ubangi widened the response area far beyond the outbreak's eastern epicenter.",
+          "why_it_matters": "Staffing and funding shortages complicate a response that must now cover a much larger geographic area.",
+          "countries": [
+            "Democratic Republic of the Congo"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via ThePrint",
+              "url": "https://theprint.in/world/ebola-infections-top-7000-in-congo-as-virus-spreads-to-new-province/3040815/"
+            }
+          ]
+        },
+        {
+          "label": "Flood recovery",
+          "headline": "Nepal's isolated communities still struggle to receive essential aid",
+          "summary": "A Friday IPS report describes continued shortages of food, clean water, shelter and healthcare two weeks after the floods. Damaged roads and bridges are forcing helicopter deliveries and temporary crossings, while searches continue.",
+          "why_it_matters": "Recovery depends on restoring access before prolonged isolation compounds the disaster's health and livelihood losses.",
+          "countries": [
+            "Nepal"
+          ],
+          "sources": [
+            {
+              "name": "Inter Press Service",
+              "url": "https://www.globalissues.org/news/2026/09/11/44020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Fresh inflation figures and a sharp weekend weather change matter locally.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Cost of living",
+          "headline": "Romanian annual inflation falls to about 6.2%, but prices still rise",
+          "summary": "August's annual inflation rate fell to 6.17% from 8.16% in July, according to INS figures reported Friday. Prices nevertheless increased 0.22% during August, and services were more than 11% dearer than a year earlier.",
+          "why_it_matters": "Slower inflation does not reverse earlier price increases, and energy costs remain a risk to the improving annual rate.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Digi24",
+              "url": "https://www.digi24.ro/digieconomic/financiar/inflatia-incetineste-la-617-in-august-dar-serviciile-raman-puternic-scumpite-expert-costul-de-la-pompa-nu-ramane-la-pompa-118711"
+            }
+          ]
+        },
+        {
+          "label": "Weekend weather",
+          "headline": "Saturday brings heavy rain and a marked temperature divide",
+          "summary": "The forecast published Friday calls for cooling in western, central and northern Romania, with some highs near 17C, while the southeast could reach 32C. Heavy rain, thunderstorms and locally more than 40 liters per square meter are forecast in parts of the east.",
+          "why_it_matters": "The abrupt change could disrupt weekend travel and outdoor plans, particularly in areas with intense downpours.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Observator News",
+              "url": "https://observatornews.ro/vremea/vremea-de-maine-12-septembrie-ploi-torentiale-si-racire-accentuata-in-jumatate-de-tara-maxime-de-17-grade-665933.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Three September 11 discussions add perspective; comments are not verified reporting or representative polling.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Readers debate what the Red Sea advance actually changes",
+          "summary": "Friday's conflict megathread weighs the Houthis' new positions against their existing ability to threaten shipping. Participants challenge sweeping claims about control of the strait and debate Saudi military options.",
+          "why_it_matters": "The thread is useful for its competing interpretations, while battlefield assertions still require independent confirmation.",
+          "countries": [
+            "Yemen",
+            "Saudi Arabia"
+          ],
+          "sources": [
+            {
+              "name": "Reddit - r/CredibleDefense",
+              "url": "https://www.reddit.com/r/CredibleDefense/comments/1wdbwcd/active_conflicts_news_megathread_september_11_2026/"
+            }
+          ]
+        },
+        {
+          "label": "r/Romania",
+          "headline": "Inflation release sparks debate over slower increases versus cheaper living",
+          "summary": "A September 11 discussion of the INS release centers on the difference between lower inflation and falling prices. Comments also dispute the relative roles of taxes, energy and government policy.",
+          "why_it_matters": "It highlights why a better annual statistic may not match how households experience bills; the comments are anecdotal.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Reddit - r/Romania",
+              "url": "https://www.reddit.com/r/Romania/comments/1wd9alk/breaking_rata_anual%C4%83_a_infla%C8%9Biei_a_sc%C4%83zut/"
+            }
+          ]
+        },
+        {
+          "label": "r/911archive",
+          "headline": "An anniversary thread collects memories across generations",
+          "summary": "A September 11 thread invites readers to recall where they were during the 2001 attacks. Responses range from childhood memories and workplace uncertainty to reflections by people born afterward.",
+          "why_it_matters": "The discussion adds personal context to the 25th anniversary, with recollections presented as individual accounts.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reddit - r/911archive",
+              "url": "https://www.reddit.com/r/911archive/comments/1wd5k65/its_official_25_years/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
