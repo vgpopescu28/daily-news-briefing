@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-13",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Sunday Morning Edition",
+  "edition_subtitle": "Another Hormuz attack report, Sweden votes, and BRICS seeks common ground.",
+  "generated_at": "2026-09-13T09:04:17+03:00",
+  "summary": {
+    "spotlight": "A fresh report of a ship hit in Hormuz adds to pressure on energy routes already strained by the Saudi pipeline shutdown. Sweden votes today, while BRICS leaders have agreed on a joint response to the Middle East crisis.",
+    "market_mood": "Volatile",
+    "reader_note": "Reporting checked Sunday morning in Romania; most developments occurred Saturday. Sweden's results are still ahead. Romania fuel figures are Saturday's snapshot, and the September 11 UK vote is included as a significant development absent from yesterday's edition. Reddit items reflect selected discussions, not representative opinion or independently verified news."
+  },
+  "featured_story": {
+    "headline": "New Hormuz ship-attack report deepens concern over oil routes",
+    "summary": "Reuters reports that UKMTO received a report of a projectile hitting a vessel in the Strait of Hormuz early Sunday. The crew's condition and extent of damage were still unknown. The report follows the shutdown of Saudi Arabia's East-West pipeline after a drone attack.",
+    "why_it_matters": "Threats to both the strait and an alternative export route increase the risk of further energy-supply disruption.",
+    "countries": [
+      "Iran",
+      "Saudi Arabia",
+      "Oman"
+    ],
+    "sources": [
+      {
+        "name": "Reuters via WSAU",
+        "url": "https://wsau.com/2026/09/12/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies/"
+      }
+    ],
+    "category": "middle-east",
+    "tone": "conflict",
+    "label": "Top Story"
+  },
+  "sections": [
+    {
+      "key": "middle-east",
+      "title": "Middle East Crisis",
+      "description": "Attribution, fragile diplomacy and security fears shape the regional response.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "headline": "Iraq acknowledges Saudi pipeline attack came from its territory",
+          "summary": "Iraq said the attack on Saudi Arabia's key oil pipeline originated on Iraqi territory. Trump suggested Iran was probably responsible; that statement does not establish who ordered or carried out the attack.",
+          "why_it_matters": "The acknowledgment places Baghdad under pressure as the conflict threatens neighboring energy infrastructure.",
+          "countries": [
+            "Iraq",
+            "Saudi Arabia",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/324485fad65647d4a897d5bfdcb7849c"
+            }
+          ],
+          "label": "Middle East Crisis"
+        },
+        {
+          "headline": "Iranian official lowers expectations for Monday's Oman meeting",
+          "summary": "A senior Iranian official told Reuters that planned talks with Gulf states in Oman were not expected to produce a signed Hormuz agreement. Oman had not officially announced the meeting, and Bahrain said it would not attend meetings with Iran.",
+          "why_it_matters": "The proposed meeting offers a diplomatic opening, but attendance and a concrete agreement remain uncertain.",
+          "countries": [
+            "Iran",
+            "Oman",
+            "Bahrain"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via ThePrint",
+              "url": "https://theprint.in/world/no-signed-hormuz-deal-expected-yet-from-oman-meeting-on-monday-iranian-official-says/3041305/"
+            }
+          ],
+          "label": "Middle East Crisis"
+        },
+        {
+          "headline": "Lebanon's president visits the south amid fears of more Israeli attacks",
+          "summary": "President Joseph Aoun visited Nabatiyeh on Saturday after Israel seized parts of a nearby ridge earlier this month. Residents have called for a stronger Lebanese army presence despite the June ceasefire.",
+          "why_it_matters": "Security in the south remains fragile for communities that have returned after displacement.",
+          "countries": [
+            "Lebanon",
+            "Israel"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/867b9fc371b7944264f8647f319520de"
+            }
+          ],
+          "label": "Middle East Crisis"
+        }
+      ]
+    },
+    {
+      "key": "security",
+      "title": "Ukraine & Asian Security",
+      "description": "New attacks and military warnings test regional defenses.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "headline": "Russian strikes kill eight civilians in Ukraine, officials say",
+          "summary": "Local officials reported eight civilian deaths and dozens of injuries in Russian attacks, AP reported Saturday. The strikes followed Putin's warning that European troop deployments to Ukraine would mean direct conflict with Russia.",
+          "why_it_matters": "Civilian losses and the warning complicate efforts to strengthen Ukraine's security.",
+          "countries": [
+            "Ukraine",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/839f5b0fc5217afc4cb34e15b01b6eff"
+            }
+          ],
+          "label": "Ukraine & Asian Security"
+        },
+        {
+          "headline": "North Korea launches missiles after trilateral military drills",
+          "summary": "South Korea said North Korea fired several short-range ballistic missiles from the Wonsan area on Saturday. The launches followed the conclusion of military exercises involving South Korea, Japan and the United States.",
+          "why_it_matters": "The sequence underscores persistent military tension and the need for coordinated monitoring among the three allies.",
+          "countries": [
+            "North Korea",
+            "South Korea",
+            "Japan",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ccf51bb9cd9abfda6c0b0f36c4b639e1"
+            }
+          ],
+          "label": "Ukraine & Asian Security"
+        }
+      ]
+    },
+    {
+      "key": "diplomacy",
+      "title": "BRICS Diplomacy",
+      "description": "Summit agreements and bilateral talks test the group's ability to bridge divisions.",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "headline": "BRICS adopts declaration urging restraint in the Middle East",
+          "summary": "BRICS leaders adopted a joint declaration Saturday expressing concern over the Middle East war and urging restraint. The statement also criticized unilateral trade barriers, according to Reuters.",
+          "why_it_matters": "Consensus is significant for a grouping that includes both Iran and the United Arab Emirates, though a declaration does not itself end hostilities.",
+          "countries": [
+            "India",
+            "Iran",
+            "United Arab Emirates",
+            "China",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via ThePrint",
+              "url": "https://theprint.in/world/brics-adopts-joint-declaration-urges-maximum-restraint-in-mideast/3041229/"
+            }
+          ],
+          "label": "BRICS Diplomacy"
+        },
+        {
+          "headline": "Modi and Xi discuss repairing India-China relations",
+          "summary": "Narendra Modi and Xi Jinping met on the BRICS sidelines Saturday. Modi stressed that peace along the disputed border was essential for broader relations, while Xi called for closer cooperation.",
+          "why_it_matters": "Improved ties could ease friction between two major economies, but the boundary dispute remains unresolved.",
+          "countries": [
+            "India",
+            "China"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/e51a7eb70cfb3c79c978fbf9cc9cbed5"
+            }
+          ],
+          "label": "BRICS Diplomacy"
+        }
+      ]
+    },
+    {
+      "key": "europe-politics",
+      "title": "European Politics",
+      "description": "Sweden's election and a consequential British parliamentary vote merit attention.",
+      "tone": "policy",
+      "stories": [
+        {
+          "headline": "Sweden votes today after a close election campaign",
+          "summary": "Swedes elect parliament and regional and municipal councils today. Reuters' September 10 preview described a narrow opposition polling lead. The election authority expects initial parliamentary count figures around 21:00 Swedish time, or 22:00 in Romania.",
+          "why_it_matters": "Coalition negotiations will determine the next government; morning polls and predictions are not election results.",
+          "countries": [
+            "Sweden"
+          ],
+          "sources": [
+            {
+              "name": "Swedish Election Authority",
+              "url": "https://www.val.se/english/election-results/elections-to-the-riksdag-and-regional-and-municipal-councils/election-results-2026"
+            },
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/factbox-sweden-election-what-you-need-to-know"
+            }
+          ],
+          "label": "European Politics"
+        },
+        {
+          "headline": "UK lawmakers reject assisted-dying legislation",
+          "summary": "On Friday, September 11, the House of Commons rejected the assisted-dying bill for England and Wales by 286 votes to 270. It would have allowed qualifying terminally ill adults to seek an assisted death under specified safeguards.",
+          "why_it_matters": "The vote ends this legislative attempt and leaves campaigners seeking a different route to change.",
+          "countries": [
+            "United Kingdom"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a4eb64d8891d5c8b776845f6535578f3"
+            }
+          ],
+          "label": "European Politics"
+        }
+      ]
+    },
+    {
+      "key": "society",
+      "title": "Safety & Culture",
+      "description": "A worsening maritime disaster and Venice's top film award round out the global picture.",
+      "tone": "policy",
+      "stories": [
+        {
+          "headline": "Philippine ferry fire death toll rises to 76",
+          "summary": "AP's Saturday report puts the ferry fire toll at 76 dead and 13 missing, with 43 survivors. The cause remains undetermined, and investigators are examining emergency procedures and possible responsibility.",
+          "why_it_matters": "The revised toll sharpens the urgency of victim identification and maritime-safety accountability.",
+          "countries": [
+            "Philippines"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/bc9474e96f2c9febe84c745ced6e9553"
+            }
+          ],
+          "label": "Safety & Culture"
+        },
+        {
+          "headline": "Woman Unknown wins Venice's Golden Lion",
+          "summary": "May el-Toukhy's postwar Danish drama Woman Unknown won the Venice Film Festival's top prize Saturday. AP reports that John Malkovich received the best actor award for Wild Horse Nine.",
+          "why_it_matters": "The award brings international attention to el-Toukhy's film and to women's representation in major festival competitions.",
+          "countries": [
+            "Italy",
+            "Denmark"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/a6018c587044350c0503e1c199d5077f"
+            }
+          ],
+          "label": "Safety & Culture"
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Saturday's pump-price snapshot shows the local pressure on motorists.",
+      "tone": "romania",
+      "stories": [
+        {
+          "headline": "Bucharest pump prices rise again in Saturday's survey",
+          "summary": "Libertatea, citing Peco Online, reported standard petrol at 9.91-9.97 lei per litre and diesel at 10.37-10.44 lei in monitored Bucharest networks on September 12. These are Saturday's reported prices, not a live Sunday quote.",
+          "why_it_matters": "Higher pump prices add pressure to commuting and transport budgets; station-level prices can change.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Libertatea / Peco Online",
+              "url": "https://www.libertatea.ro/stiri/pret-benzina-si-motorina-12-septembrie-2026-cat-costa-litrul-in-bucuresti-cluj-iasi-timisoara-si-constanta-r66ezrb"
+            }
+          ],
+          "label": "Romania"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Two readable September 12 discussions reveal questions and disagreements behind the headlines.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "headline": "Sweden election thread debates what political labels capture",
+          "summary": "A September 12 r/worldnews discussion of BBC election coverage debates whether descriptions of the Sweden Democrats adequately distinguish immigration positions from economic policy. Commenters disagree sharply.",
+          "why_it_matters": "The thread illustrates contested political framing; it should not be read as a survey of Swedish voters.",
+          "countries": [
+            "Sweden"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/worldnews",
+              "url": "https://www.reddit.com/r/worldnews/comments/1web40a/sweden_election_becomes_tight_race_as_hard_right/"
+            }
+          ],
+          "label": "Trending on Reddit"
+        },
+        {
+          "headline": "Oil discussion turns to the Saudi pipeline attack",
+          "summary": "The September 12 r/oil daily discussion includes attention to Trump's comments on responsibility for the Saudi pipeline attack. The thread mixes news links with participants' market opinions.",
+          "why_it_matters": "It offers a small window into energy-market concerns, with claims and price predictions requiring independent checking.",
+          "countries": [
+            "Saudi Arabia",
+            "Iran",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/oil",
+              "url": "https://www.reddit.com/r/oil/comments/1we9muf/daily_oil_price_opinions_september_12_2026_all/"
+            }
+          ],
+          "label": "Trending on Reddit"
+        }
+      ]
+    }
+  ]
+}
