@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-14",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Monday Morning Edition",
+  "edition_subtitle": "Oil supply tightens, Hormuz talks slip, and Sweden awaits a final count.",
+  "generated_at": "2026-09-14T09:04:13+03:00",
+  "summary": {
+    "spotlight": "Attacks on energy routes and postponed regional talks dominate the start of the week. Sweden's election remains unresolved, while investors prepare for a consequential Federal Reserve decision.",
+    "market_mood": "Volatile",
+    "reader_note": "Checked Monday morning in Romania, with developments mainly from Sunday and early Monday. Sweden's results remain provisional; oil quotes are timestamped snapshots and supply-loss estimates are conditional. The Romania item revisits a September 8 forecast for today, not a confirmed river measurement. Reddit selections describe discussion, not representative opinion or verified reporting."
+  },
+  "featured_story": {
+    "headline": "Oil jumps above $107 as attacks squeeze alternative export routes",
+    "summary": "Brent rose 3.1% to $107.82 a barrel at 03:40 GMT Monday, Reuters reported, as further attacks compounded concern over the Saudi East-West pipeline shutdown. WTI reached $103.22. The figures are an early trading snapshot.",
+    "why_it_matters": "Disruption to routes that bypass Hormuz adds pressure to transport costs and inflation worldwide.",
+    "countries": [
+      "Saudi Arabia",
+      "Iran",
+      "Yemen"
+    ],
+    "sources": [
+      {
+        "name": "Reuters via Business Recorder",
+        "url": "https://www.brecorder.com/news/40439372/oil-prices-jump-more-than-2-after-new-strikes-on-saudi-strait-of-hormuz"
+      }
+    ],
+    "label": "Top Story",
+    "category": "middle-east",
+    "tone": "conflict"
+  },
+  "sections": [
+    {
+      "key": "middle-east",
+      "title": "Middle East Crisis",
+      "description": "Diplomacy has slipped while pressure on shipping and civilian communities grows.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "headline": "Oman postpones the planned Hormuz meeting",
+          "summary": "Oman postponed Monday's meeting with Iran and regional countries on the Strait of Hormuz. Iranian state media also reported that an Iranian commercial vessel was struck Sunday, killing one person.",
+          "why_it_matters": "The postponement removes an immediate opportunity to ease shipping tensions.",
+          "countries": [
+            "Oman",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/27d276de911a983cdb1b81101ee56083"
+            }
+          ],
+          "label": "Middle East Crisis"
+        },
+        {
+          "headline": "Saudi export stocks face a short runway without pipeline repairs",
+          "summary": "Industry sources told Reuters that Yanbu had enough inventory for five to seven days of exports after Friday's pipeline shutdown. Estimates of repairs ranged from a quicker partial restart to five or six weeks; officials had not provided a timetable.",
+          "why_it_matters": "As much as 4% of global supply is at risk if the route stays closed and stocks run out; that is a scenario, not an established loss.",
+          "countries": [
+            "Saudi Arabia"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Business Recorder",
+              "url": "https://www.brecorder.com/news/40439290/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply"
+            }
+          ],
+          "label": "Middle East Crisis"
+        },
+        {
+          "headline": "Yemen fighting intensifies as Houthis fire into Saudi Arabia",
+          "summary": "Yemeni government forces attacked Houthi positions along the Red Sea on Sunday, while the Houthis fired into Saudi Arabia. AP reported new displacement and appeals for help at crowded shelters in Aden.",
+          "why_it_matters": "The fighting threatens civilians and shipping near Bab el-Mandeb, another important alternative to Hormuz.",
+          "countries": [
+            "Yemen",
+            "Saudi Arabia"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/yemen-houthis-saudi-shipping-mandeb-90dc86201ef51410ebcdd913837d741d"
+            }
+          ],
+          "label": "Middle East Crisis"
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Fuel-market pressure is creating new diplomatic friction over Ukraine's campaign.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "headline": "Trump urges Ukraine to stop targeting Russian diesel infrastructure",
+          "summary": "Trump called on Volodymyr Zelenskyy on Sunday to halt attacks on Russian diesel infrastructure, arguing that shortages were harming the world. Reuters reported that Ukrainian refinery strikes have reduced Russian fuel production.",
+          "why_it_matters": "The demand exposes a conflict between Ukraine's strategy against Russia's energy sector and Washington's concern over fuel supplies.",
+          "countries": [
+            "Ukraine",
+            "Russia",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Business Recorder",
+              "url": "https://www.brecorder.com/news/40439344/trump-tells-ukraines-zelenskiy-to-stop-hitting-russian-diesel"
+            }
+          ],
+          "label": "Ukraine War"
+        }
+      ]
+    },
+    {
+      "key": "elections",
+      "title": "Sweden's Election",
+      "description": "A very narrow preliminary margin leaves the governing outcome unsettled.",
+      "tone": "policy",
+      "stories": [
+        {
+          "headline": "Sweden's opposition holds a provisional one-seat edge",
+          "summary": "With 92% counted early Monday, AP reported the opposition heading for 175 seats against 174 for the government alliance. The result remained too close to call. Sweden's election authority expects final parliamentary results the weekend after election day.",
+          "why_it_matters": "Remaining ballots could change the balance, and the preliminary tally does not establish who will form a government.",
+          "countries": [
+            "Sweden"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/d7108eb1da493f7646b30c6f7a3421af"
+            },
+            {
+              "name": "Swedish Election Authority",
+              "url": "https://www.val.se/english/election-results/elections-to-the-riksdag-and-regional-and-municipal-councils/election-results-2026"
+            }
+          ],
+          "label": "Sweden's Election"
+        }
+      ]
+    },
+    {
+      "key": "economy",
+      "title": "Markets & Trade",
+      "description": "The week opens with interest-rate uncertainty and evidence of shifting investment.",
+      "tone": "economy",
+      "stories": [
+        {
+          "headline": "Investors brace for a possible Fed rate increase Wednesday",
+          "summary": "Reuters' week-ahead report says Friday's futures pricing implied an over 80% chance of a quarter-point Fed increase after stronger inflation data. Some investors remained skeptical that policymakers would act.",
+          "why_it_matters": "Wednesday's decision and guidance could reshape borrowing costs and valuations; Friday's market odds are not a forecast guarantee.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Business Recorder",
+              "url": "https://www.brecorder.com/news/40439319/wall-street-week-ahead-investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting"
+            }
+          ],
+          "label": "Markets & Trade"
+        },
+        {
+          "headline": "German companies expand China investment as U.S. outlays shrink",
+          "summary": "An IW study using Bundesbank data found German investment in China increased by about a third in the first half of 2026, Reuters reported Sunday. Investment in the United States fell by nearly two-thirds to around €4.3 billion.",
+          "why_it_matters": "The divergence shows how companies are adjusting their international production plans amid trade tensions.",
+          "countries": [
+            "Germany",
+            "China",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Business Recorder",
+              "url": "https://www.brecorder.com/news/40439281/german-firms-lift-china-investment-as-us-outlays-fall-iw-study-shows"
+            }
+          ],
+          "label": "Markets & Trade"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "AI & Global Competition",
+      "description": "China's cooperation proposals and Washington's regulatory stance point to competing approaches.",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "headline": "Xi proposes a BRICS open-source AI initiative",
+          "summary": "At the summit's closing session Sunday, Xi Jinping proposed an AI Open Source Zone, a special economic zone partnership and a service-trade forum in China next year, Reuters reported.",
+          "why_it_matters": "These are proposed mechanisms for cooperation; their significance will depend on participation and implementation.",
+          "countries": [
+            "China",
+            "India"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Business Recorder",
+              "url": "https://www.brecorder.com/news/40439351/xi-pushes-greater-brics-economic-ties"
+            }
+          ],
+          "label": "AI & Global Competition"
+        },
+        {
+          "headline": "Trump emphasizes competition with China in AI oversight debate",
+          "summary": "Trump said Sunday that he feared losing America's AI advantage to China. While acknowledging some need for regulation, he offered no specific rules and dismissed some warnings about rapid development, AP reported.",
+          "why_it_matters": "His comments indicate the administration's priorities as pressure for safeguards grows.",
+          "countries": [
+            "United States",
+            "China"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d"
+            }
+          ],
+          "label": "AI & Global Competition"
+        }
+      ]
+    },
+    {
+      "key": "us-policy",
+      "title": "U.S. Politics",
+      "description": "A major election-linked payment proposal still requires legislative action.",
+      "tone": "policy",
+      "stories": [
+        {
+          "headline": "Johnson says Trump's $5,000 payment proposal needs Congress",
+          "summary": "House Speaker Mike Johnson said Sunday that Trump's proposal to pay every American adult $5,000 if Republicans retain Congress would require congressional approval. Johnson pledged to try to advance it.",
+          "why_it_matters": "The proposal is a political promise, not an approved payment program.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-congress-5000-dividend-election-economy-437910454c66a3adbfd2f66dae20ad04"
+            }
+          ],
+          "label": "U.S. Politics"
+        }
+      ]
+    },
+    {
+      "key": "disasters",
+      "title": "Indonesia Ferry Disaster",
+      "description": "A large search operation follows a capsizing in the Java Sea.",
+      "tone": "environment",
+      "stories": [
+        {
+          "headline": "Search continues for 129 missing after Indonesian ferry capsizes",
+          "summary": "AP's updated Sunday report said six people had died, 108 had been rescued and at least 129 remained missing after the Virgo Transport 8 overturned in bad weather. Its manifest listed 243 passengers and crew.",
+          "why_it_matters": "The immediate priority is finding survivors; casualty and rescue figures may change as teams reconcile the passenger list.",
+          "countries": [
+            "Indonesia"
+          ],
+          "sources": [
+            {
+              "name": "AP via NPR / WCBU",
+              "url": "https://www.wcbu.org/npr-news/2026-09-13/indonesian-passenger-ship-overturns-sparking-search-for-at-least-129-missing"
+            }
+          ],
+          "label": "Indonesia Ferry Disaster"
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "A previously issued river-flow forecast reaches its target date today.",
+      "tone": "romania",
+      "stories": [
+        {
+          "headline": "Danube forecast puts today's low-water risk in focus",
+          "summary": "Apele Române warned on September 8 that Danube flow at Baziaș could fall to about 1,300 cubic metres per second by September 14, against a September average of 3,800. Today's actual reading was not verified in this research pass.",
+          "why_it_matters": "Low flow matters for navigation, hydropower and facilities using Danube water; the forecast should not be mistaken for a measured value.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "News.ro / Apele Române",
+              "url": "https://www.news.ro/social/apele-romane-dunarea-presiunea-debitelor-extrem-scazute-hidrologii-prognozeaza-posibila-scadere-pana-aproximativ-1-300-m-s-14-septembrie-una-dintre-cele-dificile-perioade-hidrologice-ultimii-ani-1922401508102026091622709706"
+            }
+          ],
+          "label": "Romania"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Three readable discussions show the questions behind major headlines.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "headline": "Sweden count prompts debate over polling and coalition arithmetic",
+          "summary": "An r/fivethirtyeight discussion compares election-day polling with the narrow count and debates the difficulty of forming a coalition. Participants disagree over what the numbers imply.",
+          "why_it_matters": "It illustrates why seat projections, polling errors and governing agreements are separate questions; use official results for the count.",
+          "countries": [
+            "Sweden"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/fivethirtyeight",
+              "url": "https://www.reddit.com/r/fivethirtyeight/comments/1wfjpgw/with_almost_70_of_precincts_in_swedens_general/"
+            }
+          ],
+          "label": "Trending on Reddit"
+        },
+        {
+          "headline": "Ferry discussion questions tracking and rescue delays",
+          "summary": "A widely discussed r/news post about the Indonesian ferry raises questions about emergency communications. Replies challenge the assumption that losing contact necessarily means rescuers do not know a vessel's last position.",
+          "why_it_matters": "The thread surfaces a useful distinction between locating a vessel and rescuing passengers, but technical claims remain commenters' assertions.",
+          "countries": [
+            "Indonesia"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/news",
+              "url": "https://www.reddit.com/r/news/comments/1wewtk3/search_underway_for_indonesian_passenger_ship/"
+            }
+          ],
+          "label": "Trending on Reddit"
+        },
+        {
+          "headline": "Oil thread debates pipeline repairs and weekend price signals",
+          "summary": "The September 13 r/oil discussion links pipeline coverage and debates how much confidence to place in weekend price indications. It mixes reporting, speculation and trading positions.",
+          "why_it_matters": "Readers can see the uncertainty driving discussion without treating participants' predictions as reliable market data.",
+          "countries": [
+            "Saudi Arabia",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/oil",
+              "url": "https://www.reddit.com/r/oil/comments/1wf4npz/daily_oil_price_opinions_september_13_2026_all/"
+            }
+          ],
+          "label": "Trending on Reddit"
+        }
+      ]
+    }
+  ]
+}
