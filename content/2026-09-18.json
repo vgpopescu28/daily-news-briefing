@@ -1,0 +1,331 @@
+{
+  "date": "2026-09-18",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A new Hormuz tanker claim, Saudi fighter-jet plans, and Romania’s government test.",
+  "generated_at": "2026-09-18T09:03:05+03:00",
+  "summary": {
+    "spotlight": "Iran says it struck a tanker near the Strait of Hormuz, while South Korea rules out joining the fighting. Romania’s designated prime minister faces a difficult search for a parliamentary majority.",
+    "market_mood": "Energy and shipping risk remain elevated after the latest Hormuz report.",
+    "reader_note": "Morning briefing in Romania on September 18. The tanker account and reported Oman talks are attributed to their sources. The Carpathian summit is scheduled for today. No Reddit discussion was sufficiently current and verifiable to add. Why-it-matters notes are editorial analysis."
+  },
+  "featured_story": {
+    "label": "Top Story",
+    "headline": "Iran says its forces struck tanker near Strait of Hormuz",
+    "summary": "Iran’s Revolutionary Guards said they targeted a Togo-flagged tanker called Trend near the Strait of Hormuz. A British maritime agency separately reported a security incident northeast of Khasab, Oman, but did not identify a vessel; the two reports have not been linked.",
+    "why_it_matters": "Any verified attack in this shipping corridor could compound pressure on oil transport and insurance.",
+    "countries": [
+      "Iran",
+      "Oman"
+    ],
+    "sources": [
+      {
+        "name": "AFP via Agerpres",
+        "url": "https://agerpres.ro/politic-extern/2026/09/18/iranul-afirma-ca-a-lovit-un-petrolier-in-sectorul-ormuz--1594672"
+      }
+    ],
+    "category": "conflict",
+    "tone": "conflict"
+  },
+  "sections": [
+    {
+      "key": "gulf-yemen",
+      "title": "Gulf & Yemen",
+      "description": "Shipping danger, diplomacy and arms plans converge.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "South Korea",
+          "headline": "Seoul rules out combat deployment to Hormuz",
+          "summary": "President Lee Jae-myung reiterated that South Korea will not send troops to fight in the U.S.–Iran war, responding to reports of a possible deployment to the strait.",
+          "why_it_matters": "Seoul’s stance shows the limits of allied support for a broader military operation.",
+          "countries": [
+            "South Korea",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/18/seulul-nu-va-desfasura-forte-pentru-a-lupta-in-stramtoarea-ormuz-reitereaza-presedintele-sud-coreean--1594688"
+            }
+          ]
+        },
+        {
+          "label": "Arms sale",
+          "headline": "Washington approves proposed sale of 48 F-35s to Saudi Arabia",
+          "summary": "The U.S. State Department approved a proposed $24.3 billion sale of 48 F-35 aircraft to Saudi Arabia amid fighting with Houthi rebels in Yemen.",
+          "why_it_matters": "The proposed deal signals a longer-term shift in Gulf air power, even as the current conflict demands immediate defenses.",
+          "countries": [
+            "United States",
+            "Saudi Arabia",
+            "Yemen"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/17/washingtonul-aproba-vanzarea-a-48-de-avioane-de-vanatoare-f-35-catre-arabia-saudita--1594658"
+            }
+          ]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Sources report direct U.S.–Houthi talks in Oman",
+          "summary": "Diplomatic sources told dpa that U.S. officials met Houthi representatives in Oman as fighting in Yemen intensified. Neither a deal nor a ceasefire was announced.",
+          "why_it_matters": "A direct channel could help contain attacks on shipping, but its practical effect is unproven.",
+          "countries": [
+            "United States",
+            "Yemen",
+            "Oman"
+          ],
+          "sources": [
+            {
+              "name": "dpa via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/17/o-delegatie-americana-a-purtat-discutii-cu-rebelii-houthi-in-oman-surse--1594628"
+            }
+          ]
+        },
+        {
+          "label": "Accountability",
+          "headline": "UN mission raises war-crime concerns over U.S. actions in Iran",
+          "summary": "A UN mission said it found grounds to believe U.S. forces committed war crimes in Iran. The finding is an investigative assessment, not a court judgment.",
+          "why_it_matters": "Its evidence and recommendations may shape pressure for independent investigation.",
+          "countries": [
+            "United States",
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/17/o-misiune-a-onu-a-gasit-motive-sa-creada-ca-sua-au-comis-crime-de-razboi-in-iran--1594403"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe-security",
+      "title": "European Security",
+      "description": "Russia’s war continues to shape planning across its neighbors.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Poland",
+          "headline": "Polish premier warns of possible hybrid attacks on Ukraine’s allies",
+          "summary": "Prime Minister Donald Tusk said Polish intelligence assesses that Russia’s plans include drone and missile hybrid attacks against European allies of Ukraine. The assessment describes a risk, not a confirmed new attack.",
+          "why_it_matters": "Such warnings can drive air-defense and civil-preparedness decisions across NATO’s eastern flank.",
+          "countries": [
+            "Poland",
+            "Russia",
+            "Ukraine"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/17/premierul-poloniei-avertizeaza-ca-planurile-rusiei-includ-atacuri-hibride-cu-drone-si-rachete-impotr--1594632"
+            }
+          ]
+        },
+        {
+          "label": "Moldova",
+          "headline": "Moldova takes repeated drone airspace incursions to OSCE",
+          "summary": "Moldova’s representative at the OSCE raised repeated violations of the country’s airspace by drones against the backdrop of Russia’s war in Ukraine.",
+          "why_it_matters": "Cross-border incidents expose a neighboring state to danger and diplomatic strain.",
+          "countries": [
+            "Moldova",
+            "Ukraine",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/17/republica-moldova-a-denuntat-la-osce-incalcarile-repetate-ale-spatiului-sau-aerian--1594627"
+            }
+          ]
+        },
+        {
+          "label": "Ukraine budget",
+          "headline": "Ukraine approves draft 2027 budget with record military outlays",
+          "summary": "Ukraine’s government approved a 2027 budget plan with record military spending and a stated need for €45.8 billion in external financing. Parliamentary consideration and actual funding remain ahead.",
+          "why_it_matters": "The large financing gap shows how heavily Kyiv’s defense and public services rely on foreign support.",
+          "countries": [
+            "Ukraine"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/17/ucraina-guvernul-a-adoptat-bugetul-pentru-2027-ce-include-cheltuieli-militare-record--1594616"
+            }
+          ]
+        },
+        {
+          "label": "Sweden",
+          "headline": "Swedish prime minister announces resignation after election defeat",
+          "summary": "Prime Minister Ulf Kristersson announced his resignation after his party’s defeat in Sweden’s parliamentary election. Coalition formation will determine the next government.",
+          "why_it_matters": "The result changes the political balance in a newly enlarged NATO’s Nordic region.",
+          "countries": [
+            "Sweden"
+          ],
+          "sources": [
+            {
+              "name": "Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/17/suedia-premierul-ulf-kristersson-si-a-anuntat-demisia-dupa-infrangerea-partidului-sau-in-alegerile-p--1594498"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world-politics",
+      "title": "World Politics",
+      "description": "New pressure points in the Americas and Asia.",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Venezuela",
+          "headline": "Opposition ex-mayor arrested during Venezuela talks",
+          "summary": "Opposition figures said former mayor Javier Oropeza was arrested Thursday as the government and opposition held another round of negotiations in Caracas.",
+          "why_it_matters": "Detention of an opposition figure could erode confidence in the talks before they produce a settlement.",
+          "countries": [
+            "Venezuela"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/18/venezuela-un-opozant-arestat-in-pline-negocieri-cu-guvernul--1594674"
+            }
+          ]
+        },
+        {
+          "label": "North Korea",
+          "headline": "Kim Yo Jong threatens stronger response to U.S. exercises",
+          "summary": "Kim Yo Jong accused Washington of heightening regional tensions through military exercises and warned of a more offensive North Korean response in a state-media statement.",
+          "why_it_matters": "The warning raises the risk of another test or military demonstration in Northeast Asia.",
+          "countries": [
+            "North Korea",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/18/coreea-de-nord-sora-lui-kim-critica-manevrele-americane-si-ameninta-cu-o-riposta-mai-ofensiva--1594670"
+            }
+          ]
+        },
+        {
+          "label": "Australia",
+          "headline": "Australia outlines detention policy for visa overstayers",
+          "summary": "Australia’s government said visitors who overstay their visas would face administrative detention as it tightened migration rules, alongside new limits affecting student and working-holiday visas.",
+          "why_it_matters": "The approach could affect travelers and sharpen the country’s debate over migration enforcement.",
+          "countries": [
+            "Australia"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/18/australia-vrea-sa-i-retina-pe-turistii-care-depasesc-termenul-de-sedere-permis--1594695"
+            }
+          ]
+        },
+        {
+          "label": "U.S. politics",
+          "headline": "Republican lawmaker challenges Trump’s deportation policy",
+          "summary": "Florida Representative Maria Elvira Salazar warned that some Hispanic voters feel betrayed by the administration’s immigration enforcement, while Democratic lawmakers also criticized its economic effects.",
+          "why_it_matters": "Public dissent within the president’s party may influence the midterm campaign and future policy.",
+          "countries": [
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AFP via Agerpres",
+              "url": "https://agerpres.ro/politic-extern/2026/09/18/sua-alegatorii-hispanici-se-simt-tradati-de-trump-in-privinta-imigratiei-potrivit-unei-alese-republi--1594676"
+            }
+          ]
+        },
+        {
+          "label": "United Nations",
+          "headline": "Guterres urges cooperation as world leaders prepare for UN meeting",
+          "summary": "In an AP interview ahead of next week’s UN leaders’ meeting, Secretary-General António Guterres described a divided world and urged governments to cooperate on conflict, inequality and artificial intelligence.",
+          "why_it_matters": "The agenda frames the test facing governments as the UN leadership prepares to change at year’s end.",
+          "countries": [
+            "United Nations"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/ca2c4ed803381fd12ca7259f1ce4f34d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "A government nomination and regional diplomacy lead the domestic agenda.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Government",
+          "headline": "Mureșan designated prime minister; majority remains uncertain",
+          "summary": "President Nicușor Dan designated MEP Siegfried Mureșan as prime minister Thursday after party consultations. Dan said no parliamentary majority had emerged, leaving the nominee to negotiate support for a cabinet.",
+          "why_it_matters": "A government with full powers is needed to make budget and policy decisions after months of political deadlock.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Agerpres",
+              "url": "https://agerpres.ro/politic/2026/09/17/update-siegfried-muresan---desemnat-premier-de-presedintele-nicusor-dan--1594574"
+            }
+          ]
+        },
+        {
+          "label": "Regional summit",
+          "headline": "Romanian president due at inaugural Carpathian summit in Ukraine",
+          "summary": "The presidency says Nicușor Dan is scheduled to attend Friday’s inaugural Carpathian Integration Initiative summit in Ukraine’s Ivano-Frankivsk region, with economic and regional cooperation on the agenda.",
+          "why_it_matters": "The meeting could connect border-region investment and infrastructure priorities across eight Carpathian countries.",
+          "countries": [
+            "Romania",
+            "Ukraine"
+          ],
+          "sources": [
+            {
+              "name": "Romanian presidency via Agerpres",
+              "url": "https://agerpres.ro/comunicate/2026/09/17/comunicat-de-presa---administratia-prezidentiala--1594624"
+            }
+          ]
+        },
+        {
+          "label": "Health budget",
+          "headline": "Romania moves 2.06 billion lei forward for existing health bills",
+          "summary": "The finance minister said 2.058 billion lei already budgeted for the fourth quarter will be made available in the third quarter to pay for care, devices and medicines already provided.",
+          "why_it_matters": "The shift eases immediate payment pressure without increasing the annual allocation or resolving structural funding problems.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Agerpres",
+              "url": "https://agerpres.ro/economic/2026/09/17/nazare-peste-2-miliarde-de-lei-mutati-din-trimestrul-iv-in-trimestrul-iii-pentru-plata-unor-obligati--1594540"
+            }
+          ]
+        },
+        {
+          "label": "Energy",
+          "headline": "Industry group says Romania now runs refined-fuel trade deficit",
+          "summary": "The Intelligent Energy Association said Romania shifted from a surplus to a €590 million deficit in refined petroleum products, underlining dependence on imports.",
+          "why_it_matters": "The trend could leave fuel prices more exposed to external supply shocks.",
+          "countries": [
+            "Romania"
+          ],
+          "sources": [
+            {
+              "name": "Agerpres",
+              "url": "https://agerpres.ro/economic/2026/09/17/aei-romania-a-trecut-de-la-excedent-la-un-deficit-de-590-milioane-euro-la-produsele-petroliere-rafin--1594303"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
