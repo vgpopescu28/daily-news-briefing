@@ -1,0 +1,306 @@
+{
+  "date": "2026-09-20",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Riyadh attack confirmed, Europe votes and the energy squeeze spreads.",
+  "generated_at": "2026-09-20T09:05:12+03:00",
+  "summary": {
+    "spotlight": "Saudi Arabia has confirmed an attempted Houthi missile attack on Riyadh, sharpening the regional security crisis. Elections in Russia and Germany, unresolved Greenland agreement terms and the cost of energy shape the Sunday agenda.",
+    "market_mood": "Volatile",
+    "reader_note": "September 20 morning briefing in Romania time, drawing mainly on September 18-19 reporting. Election results are pending. September 17 reports on UN visas and Vietnam flooding are explicitly dated continuing stories. Reddit reflects selected discussions, not representative opinion or verified claims."
+  },
+  "featured_story": {
+    "label": "Top Story",
+    "headline": "Saudi Arabia confirms attempted Houthi missile attack on Riyadh",
+    "summary": "The Saudi-led coalition said it intercepted a ballistic missile aimed at Riyadh on Saturday and thwarted attacks on other locations, including Yanbu. AP reported no casualties or confirmed damage; Houthi claims of major fires remained unverified.",
+    "why_it_matters": "Threats to Saudi cities and oil infrastructure widen the war’s economic and civilian risks.",
+    "countries": [
+      "Saudi Arabia",
+      "Yemen"
+    ],
+    "sources": [
+      {
+        "name": "AP via Local 10",
+        "url": "https://www.local10.com/news/2026/09/19/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-a-ballistic-missile/"
+      }
+    ],
+    "category": "middle-east",
+    "tone": "conflict"
+  },
+  "sections": [
+    {
+      "key": "middle-east",
+      "title": "Middle East",
+      "description": "War diplomacy and civilian testimony accompany the military escalation.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Negotiations",
+          "headline": "Iran says it sent conditions for ending the war via Qatar",
+          "summary": "Iran’s top national security official said Saturday that Tehran had conveyed its conditions to Washington through Qatar. The announcement does not establish that the United States has accepted the terms or that a ceasefire is imminent.",
+          "why_it_matters": "The mediation channel is worth watching for an actual response and agreed terms.",
+          "countries": [
+            "Iran",
+            "United States",
+            "Qatar"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/24211a3b34731a669f3e7ab93314afdf"
+            }
+          ]
+        },
+        {
+          "label": "Human rights",
+          "headline": "Narges Mohammadi describes Iranians squeezed by war and repression",
+          "summary": "In a Saturday AP interview, Nobel laureate Narges Mohammadi described severe economic hardship and internal repression after prolonged warfare. Her account centers the experience of Iranian civilians alongside the military and diplomatic headlines.",
+          "why_it_matters": "Civilian welfare and political freedoms remain essential measures of the conflict’s consequences.",
+          "countries": [
+            "Iran"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/6bdfbd3fd84e4bab4d0b01176df9c7c0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "elections-diplomacy",
+      "title": "Elections & Diplomacy",
+      "description": "Sunday ballots and international negotiations carry consequences beyond national borders.",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Russia | Voting today",
+          "headline": "Russia’s parliamentary voting ends Sunday, including occupied Ukrainian areas",
+          "summary": "The three-day election concludes today with virtually no genuine opposition. AP reports that it includes territories illegally annexed from Ukraine; Kyiv condemns the voting, and a rights activist describes coercion of residents. No final result is available in this morning briefing.",
+          "why_it_matters": "Moscow is using the ballot to reinforce domestic control and its claims over occupied territory.",
+          "countries": [
+            "Russia",
+            "Ukraine"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/dc5773facca1bedad04c212ccdc94532"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/7f10803a87456051be876c0c33375af8"
+            }
+          ]
+        },
+        {
+          "label": "Germany | Voting today",
+          "headline": "Berlin and Mecklenburg-Western Pomerania vote in a test for Merz",
+          "summary": "Voters elect two regional parliaments Sunday amid pressure on Chancellor Friedrich Merz’s coalition. AP’s pre-election reporting highlights far-right strength in Mecklenburg-Western Pomerania and housing costs in Berlin. These are contests to watch, not reported results.",
+          "why_it_matters": "The outcomes could alter political support for the federal government’s economic reforms.",
+          "countries": [
+            "Germany"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/df17e9fec6cb00a347b5b8a9f09bb548"
+            }
+          ]
+        },
+        {
+          "label": "Arctic security",
+          "headline": "Denmark and Greenland insist U.S. agreement preserves sovereignty",
+          "summary": "Denmark and Greenland said Saturday that the proposed security agreement would respect sovereignty, following Trump’s claim of permanent U.S. control over security. Reuters reports that key terms remain unpublished and signing is expected during the coming UN General Assembly week.",
+          "why_it_matters": "The text will determine how expanded U.S. military access fits with Greenlandic self-determination.",
+          "countries": [
+            "Denmark",
+            "Greenland",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reuters via Internazionale",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/19/greenland-denmark-say-us-deal-will-not-cede-sovereignty"
+            }
+          ]
+        },
+        {
+          "label": "UN | September 17 report",
+          "headline": "Iranian leaders receive U.S. visas for the coming UN meeting",
+          "summary": "AP reported September 17 that Washington approved visas for Iran’s president and foreign minister to attend the UN high-level meeting. The permission enables attendance despite the war; it is not evidence of a bilateral negotiation or breakthrough.",
+          "why_it_matters": "The gathering provides diplomatic opportunities while the main disputes remain unresolved.",
+          "countries": [
+            "Iran",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3f91ccc8def4a9d5499b7c8620450864"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "energy",
+      "title": "Energy & Everyday Costs",
+      "description": "Fuel shortages and price relief put essential services and public finances under strain.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Cuba | Friday outage",
+          "headline": "Cuba’s latest grid collapse leaves millions without power",
+          "summary": "Cuba’s electricity system collapsed Friday, and officials began restoration procedures, AP reported. Authorities cited a transmission failure as the country contends with deteriorating infrastructure and constrained fuel supplies. This report does not establish Sunday’s restoration status.",
+          "why_it_matters": "Repeated outages disrupt water, transport, food storage and everyday economic activity.",
+          "countries": [
+            "Cuba",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/0f180c8e414898dbe34875d3d82b8016"
+            }
+          ]
+        },
+        {
+          "label": "Germany | Planned relief",
+          "headline": "Germany plans fuel-tax cut from October through December",
+          "summary": "Federal and state leaders agreed on temporary energy-tax relief for petrol and diesel, ARD reports. Including VAT effects, the planned reduction is 17 euro cents per litre from October 1 through year-end, with relief estimated at €2.5 billion.",
+          "why_it_matters": "The policy aims to ease household and business costs, but actual pump-price savings remain to be seen.",
+          "countries": [
+            "Germany"
+          ],
+          "sources": [
+            {
+              "name": "ARD / Tagesschau",
+              "url": "https://www.tagesschau.de/eilmeldung/einigung-tankrabatt-spritpreisdeckel-100.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "flood-risk",
+      "title": "Flood Risk",
+      "description": "An earlier warning remains relevant through the weekend.",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Vietnam | September 17 report",
+          "headline": "Vietnam’s flooding warning extends into Monday",
+          "summary": "AP reported Thursday that northern flooding submerged more than 2,000 homes and isolated over 1,000 households. Forecasters expected widespread rain through September 21, including southern Vietnam. Those damage figures describe Thursday’s assessment rather than a fresh Sunday count.",
+          "why_it_matters": "Continuing rain threatens access to homes, schools and transport routes.",
+          "countries": [
+            "Vietnam"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/1728f9ab865955ed520a63b7d07ba142"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Diplomatic objections and investment priorities bring the international agenda home.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Regional security",
+          "headline": "Romania condemns Russian voting in occupied Ukraine and Transnistria",
+          "summary": "Romania’s Foreign Ministry condemned the Duma elections in occupied Ukrainian territories and polling stations opened in Moldova’s Transnistrian region without Chișinău’s consent, RRI reported Saturday evening.",
+          "why_it_matters": "The statement reinforces Romania’s support for both neighbors’ sovereignty during Russia’s election weekend.",
+          "countries": [
+            "Romania",
+            "Ukraine",
+            "Moldova",
+            "Russia"
+          ],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-19-2026-update-id1061327.html"
+            }
+          ]
+        },
+        {
+          "label": "Economy",
+          "headline": "Nazare calls for lower financing costs after Dublin talks",
+          "summary": "Following the EU finance ministers’ meeting in Dublin, interim Finance Minister Alexandru Nazare said Romania needs lower financing costs and stronger investment incentives. RRI reports that discussions with European and international institutions focused on investment, private capital and productivity.",
+          "why_it_matters": "These priorities frame the economic agenda for the government still being assembled.",
+          "countries": [
+            "Romania",
+            "Ireland"
+          ],
+          "sources": [
+            {
+              "name": "Radio Romania International",
+              "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-19-2026-update-id1061327.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Three readable September 18-19 discussions explore energy policy and its human consequences.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/oil",
+          "headline": "Fuel-tax thread questions whether relief will reach drivers",
+          "summary": "Commenters discussing Germany’s fuel-tax plan debate whether suppliers will pass savings through and whether cheaper fuel supports demand during a shortage. Claims about earlier tax cuts are commenters’ interpretations, not findings established by the thread.",
+          "why_it_matters": "The discussion identifies two useful checks: pump-price changes and who ultimately receives the relief.",
+          "countries": [
+            "Germany"
+          ],
+          "sources": [
+            {
+              "name": "Reddit | r/oil",
+              "url": "https://www.reddit.com/r/oil/comments/1wkqdjt/germany_cuts_fuel_tax_as_middle_east_conflicts/"
+            }
+          ]
+        },
+        {
+          "label": "r/news",
+          "headline": "Cuba blackout discussion focuses on civilian hardship and sanctions",
+          "summary": "A thread linking Reuters coverage of Cuba’s grid collapse contains debate about the fuel blockade, domestic governance and the impact on residents. Some users ask how to help; historical and political assertions in comments remain unverified.",
+          "why_it_matters": "It shows concern about humanitarian consequences without resolving competing explanations for the crisis.",
+          "countries": [
+            "Cuba",
+            "United States"
+          ],
+          "sources": [
+            {
+              "name": "Reddit | r/news",
+              "url": "https://www.reddit.com/r/news/comments/1wjzmd5/cuba_energy_grid_suffers_nationwide_collapse/"
+            }
+          ]
+        },
+        {
+          "label": "r/europe",
+          "headline": "Windfall-tax debate turns to supply incentives and electric vehicles",
+          "summary": "A discussion of proposed taxes on energy profits branches into whether price caps discourage supply and whether electric vehicles can reduce oil dependence. Participants disagree about affordability and policy tradeoffs.",
+          "why_it_matters": "These are public questions to investigate, not evidence that a particular policy has succeeded.",
+          "countries": [
+            "Germany"
+          ],
+          "sources": [
+            {
+              "name": "Reddit | r/europe",
+              "url": "https://www.reddit.com/r/europe/comments/1wkg7eh/record_fuel_prices_across_eu_prompt_calls_for/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
