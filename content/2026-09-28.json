@@ -1,0 +1,227 @@
+{
+  "date": "2026-09-28",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A rejected Iran proposal, renewed attacks in Ukraine and rising fuel costs set the global agenda.",
+  "generated_at": "2026-09-28T09:00:00+03:00",
+  "summary": {
+    "spotlight": "The United States' rejection of Iran's proposal to reopen the Strait of Hormuz has kept the Middle East conflict and energy markets tightly linked. In Ukraine, a Russian drone attack around Kyiv again showed that the air war is exacting a direct civilian cost as diplomacy remains unresolved.",
+    "market_mood": "Volatile",
+    "reader_note": "Selection reflects reporting available on the morning of September 28 in Romania time. Official claims, prospective policy decisions and Reddit discussions are identified as such; Reddit posts are public-sentiment signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran proposal rejected as Hormuz uncertainty lifts oil prices again",
+    "summary": "Reuters reported that oil rose after President Donald Trump rejected Iran's proposed terms to end the conflict and reopen the Strait of Hormuz. Trump said further talks were expected this week, but the disagreement leaves a crucial shipping route and regional supply flows exposed to renewed disruption.",
+    "why_it_matters": "The absence of a deal is feeding directly into fuel costs, inflation expectations and security risk far beyond the Gulf.",
+    "countries": ["Iran", "United States", "Saudi Arabia", "United Arab Emirates"],
+    "sources": [
+      {"name": "Reuters via MarketScreener", "url": "https://www.marketscreener.com/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate-ce785adcd880f024"}
+    ]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Diplomatic contact persists, but the conflict's shipping and regional-security risks remain acute.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Diplomacy",
+          "headline": "Iran says diplomacy is the only route as Washington rejects its proposal",
+          "summary": "Iran's proposal was conveyed through Qatari mediators after the UN General Assembly, according to Reuters. Trump rejected it over the weekend while saying negotiators would continue talking this week; Tehran has maintained that diplomacy is the only solution.",
+          "why_it_matters": "The parties have reopened a channel, but their publicly stated positions still leave a large gap over ending the fighting and restoring navigation.",
+          "countries": ["Iran", "United States", "Qatar"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://www.marketscreener.com/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate-ce785adcd880f024"}]
+        },
+        {
+          "label": "Shipping",
+          "headline": "Middle East crude exports recover, but the Strait of Hormuz remains a pressure point",
+          "summary": "Preliminary Kpler data cited by Reuters put September crude exports from key Middle East producers at 12.8 million barrels a day, their highest level since the war began. Hormuz shipments were estimated at roughly 7.4 million barrels a day after Saudi Arabia redirected flows following damage to its East-West pipeline.",
+          "why_it_matters": "A partial export recovery reduces immediate shortage risk but does not remove the vulnerability created by contested sea lanes and damaged infrastructure.",
+          "countries": ["Saudi Arabia", "United Arab Emirates", "Iran"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://www.marketscreener.com/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate-ce785adcd880f024"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "Saudi-led coalition reports intercepting Houthi missiles and drones",
+          "summary": "Reuters said Yemen's Saudi-led coalition reported intercepting two ballistic missiles and two drones launched by the Iran-backed Houthis toward the kingdom early Saturday. The report described the claims as coalition statements amid a wider regional conflict.",
+          "why_it_matters": "The incidents underline how the Iran conflict can widen through allied armed groups and threaten Saudi energy infrastructure.",
+          "countries": ["Yemen", "Saudi Arabia", "Iran"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://www.marketscreener.com/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate-ce785adcd880f024"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "Russia's drone campaign again hit civilian sites around Kyiv while aid and grain-security issues remain live.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Aerial war",
+          "headline": "Russian drone strikes kill five people in and around Kyiv, officials say",
+          "summary": "Reuters reported that a drone attack set a market west of Kyiv ablaze, killing two people, while three others died in strikes elsewhere and Kyiv also came under attack. Ukrainian authorities said nine people, including a child, were injured in the capital; Russia's military position was not included in the report.",
+          "why_it_matters": "The attack shows the continuing reach of the drone campaign against civilians and urban infrastructure.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "Reuters via South China Morning Post", "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368982/russian-drones-kill-2-market-outside-kyiv-3-others-different-regions-officials-say"}]
+        },
+        {
+          "label": "Civilian infrastructure",
+          "headline": "Kyivstar headquarters is reported hit during continued attacks on communications infrastructure",
+          "summary": "Reuters reported that Ukraine's largest mobile operator said its headquarters was struck amid continuing Russian attacks on data centers and communications infrastructure. President Volodymyr Zelenskyy said Russia had launched 277 attack drones since Saturday, a figure that could not be independently verified by Reuters.",
+          "why_it_matters": "Strikes on telecoms can compound physical damage by disrupting emergency response, business activity and civilian communications.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "Reuters via South China Morning Post", "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368982/russian-drones-kill-2-market-outside-kyiv-3-others-different-regions-officials-say"}]
+        },
+        {
+          "label": "Military aid",
+          "headline": "US administration works toward Ukraine assistance spending deadline",
+          "summary": "Reuters reported that the US administration had made legally binding commitments for most of the $400 million Congress approved late last year for the Ukraine Security Assistance Initiative. Sources said $307 million had been obligated and the remaining $93 million was expected to be committed before the September 30 fiscal deadline.",
+          "why_it_matters": "The funding timeline matters as Kyiv confronts sustained attacks and seeks predictable military support.",
+          "countries": ["Ukraine", "United States"],
+          "sources": [{"name": "Reuters via Devdiscourse", "url": "https://www.devdiscourse.com/article/international/3982860-reuters-world-news-summary"}]
+        }
+      ]
+    },
+    {
+      "key": "markets-energy",
+      "title": "Markets & Energy",
+      "description": "The oil shock is lifting bond yields and sharpening central-bank and inflation concerns.",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil",
+          "headline": "Brent rises above $105 as peace talks remain stalled",
+          "summary": "Reuters reported Brent futures rose more than 1% to $105.64 a barrel in early Asian trading after the Iran proposal was rejected, while US crude was $93.11. The move followed a volatile week in which concern over possible US diesel-export restrictions also roiled refined-fuel markets.",
+          "why_it_matters": "Costlier crude and diesel can raise transport, food and industrial costs across economies already focused on inflation.",
+          "countries": ["Global", "United States", "Iran"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://www.marketscreener.com/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate-ce785adcd880f024"}]
+        },
+        {
+          "label": "Central banks",
+          "headline": "Higher energy prices harden expectations for further rate tightening",
+          "summary": "Reuters reported that traders were pricing a 65% probability of a Federal Reserve rate increase at its late-October meeting, while the Reserve Bank of Australia was expected to raise rates Tuesday. The report linked the shift to energy-driven inflation concerns and higher long-term Treasury yields.",
+          "why_it_matters": "If energy pressure persists, borrowing costs may remain elevated even as governments and companies absorb the fuel shock.",
+          "countries": ["United States", "Australia", "Global"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://www.marketscreener.com/news/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build-ce785adcdb89f522"}]
+        },
+        {
+          "label": "India",
+          "headline": "India's rupee and bonds face renewed oil sensitivity",
+          "summary": "Reuters said Indian markets entered a shortened week with oil prices elevated, global bond yields high and expectations of an RBI rate increase next week. The report said investors were also watching US inflation and payroll data for clues to further Federal Reserve policy.",
+          "why_it_matters": "The strain on a major oil importer illustrates how the Middle East conflict is transmitting financial pressure into emerging economies.",
+          "countries": ["India", "United States", "Iran"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://in.marketscreener.com/news/indian-rupee-bonds-vulnerable-to-oil-pangs-on-waning-iran-diplomacy-hopes-ce785adcdb89f523"}]
+        }
+      ]
+    },
+    {
+      "key": "major-power-diplomacy",
+      "title": "Major-Power Diplomacy",
+      "description": "A US-China pause creates breathing space without resolving the strategic disputes beneath it.",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Trade",
+          "headline": "China confirms two-month extension of US trade truce",
+          "summary": "China's commerce ministry said the extension through January 10 would give both sides time to assess implementation of their economic arrangement and maintain a more predictable policy environment, Reuters reported. The countries plan regular dialogue under a new trade council.",
+          "why_it_matters": "The pause limits the immediate tariff risk for businesses, but it is a temporary framework rather than a settlement of the rivalry.",
+          "countries": ["China", "United States"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://ca.marketscreener.com/news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-ce785adcdb88ff26"}]
+        },
+        {
+          "label": "Technology",
+          "headline": "US and China agree an AI incident-communication channel",
+          "summary": "Reuters reported that the two governments agreed to establish a channel for artificial-intelligence incidents and to hold follow-up talks by the end of November. The arrangements emerged alongside discussions on trade, financial services and direct flights.",
+          "why_it_matters": "Even limited technical contact is notable when AI competition is increasingly framed as a national-security issue.",
+          "countries": ["China", "United States"],
+          "sources": [{"name": "Reuters via Internazionale", "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/china-says-us-trade-truce-extension-creates-space-to-advance-talks"}]
+        },
+        {
+          "label": "United Nations",
+          "headline": "UN week ends with contact on Iran and Ukraine but no major breakthrough",
+          "summary": "Reuters' review of the General Assembly week said the gathering enabled the first shuttle contact between US and Iranian officials since a July ceasefire collapse, while discussions on the Iran and Ukraine wars moved only incrementally. The UN also remains under budget and political pressure ahead of a leadership transition.",
+          "why_it_matters": "The week showed diplomacy still functioning as a venue for contact, but not yet producing a credible path to end the largest conflicts.",
+          "countries": ["United States", "Iran", "Ukraine", "Global"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://www.marketscreener.com/news/six-big-takeaways-from-a-turbulent-week-of-un-diplomacy-ce785adcd98cf620"}]
+        }
+      ]
+    },
+    {
+      "key": "human-security",
+      "title": "Human Security",
+      "description": "Health and communications disruptions are compounding instability in fragile regions.",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Congo health",
+          "headline": "WHO says Congo's Ebola outbreak reaches two additional health zones",
+          "summary": "The World Health Organization said the Bundibugyo Ebola outbreak in the Democratic Republic of Congo had spread to Bulu in Sud Ubangi and Dungu in Haut-Uele, bringing the number of affected zones to 63 across seven provinces, Reuters reported. Separate local officials reported a confirmed mpox case in Bunia.",
+          "why_it_matters": "A wider geographic footprint makes surveillance, care and cross-border coordination more difficult in an already severe outbreak.",
+          "countries": ["Democratic Republic of Congo", "South Sudan"],
+          "sources": [{"name": "Reuters via Devdiscourse", "url": "https://www.devdiscourse.com/article/international/3982924-reuters-health-news-summary"}]
+        },
+        {
+          "label": "Ethiopia",
+          "headline": "Tigray communications disruption follows renewed fighting, Reuters reports",
+          "summary": "Reuters reported that internet and phone networks were disrupted in Ethiopia's Tigray region after fighting between federal troops and Tigrayan forces. Sources told Reuters that the regional ruling party had ordered operators to cut access, an account that the report attributed to people familiar with the situation.",
+          "why_it_matters": "Communications blackouts can make civilian protection, humanitarian access and independent verification harder during an escalation.",
+          "countries": ["Ethiopia"],
+          "sources": [{"name": "Reuters via Devdiscourse", "url": "https://www.devdiscourse.com/article/international/3982513-reuters-world-news-summary"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Parliamentary hearings begin as the proposed Mureșan government seeks the votes it lacks.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Government formation",
+          "headline": "Ministerial hearings begin for Mureșan government proposal",
+          "summary": "Romania's joint parliamentary leadership scheduled hearings for proposed ministers on September 28 and 29, with a confidence vote set for Wednesday, September 30, HotNews reported. Prime minister-designate Siegfried Mureșan said he had 170 votes from PNL, USR and UDMR, short of the 233 required.",
+          "why_it_matters": "The vote will test whether Romania can form a government after months of instability or move closer to another failed formation attempt.",
+          "countries": ["Romania"],
+          "sources": [{"name": "HotNews", "url": "https://hotnews.ro/cand-are-loc-votul-decisiv-in-parlament-pentru-guvernul-muresan-2358784"}]
+        },
+        {
+          "label": "Fiscal stakes",
+          "headline": "Political deadlock keeps Romania's investment-grade outlook in focus",
+          "summary": "A Reuters-linked account of Mureșan's nomination noted that the lack of a parliamentary majority was keeping pressure on Romania's investment rating and on the ability to approve a 2027 budget. The rating concern is a risk assessment, not a new rating action.",
+          "why_it_matters": "A durable governing majority matters not only for politics but also for fiscal credibility, EU funding and financing costs.",
+          "countries": ["Romania"],
+          "sources": [{"name": "Reuters-linked report", "url": "https://xchg.ro/stiri/diverse/nicusor-dan-propune-premier-pnl-muresan"}]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Selected threads show how readers are processing the war and fuel squeeze; they are not representative polling.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Ukraine live thread focuses on drone warfare and the costs of escalation",
+          "summary": "A September 27 r/worldnews Ukraine live thread had more than 350 upvotes and included discussion of AI-assisted drone production, reported loss claims and the risk of cheaper autonomous weapons spreading beyond the war. The comments are participant opinions and not verified battlefield reporting.",
+          "why_it_matters": "The discussion captures public attention to how the war is changing military technology as well as the daily human toll.",
+          "countries": ["Ukraine", "Russia", "Germany"],
+          "sources": [{"name": "Reddit · r/worldnews", "url": "https://www.reddit.com/r/worldnews/comments/1wrjsi7/rworldnews_live_thread_russian_invasion_of/"}]
+        },
+        {
+          "label": "r/oil",
+          "headline": "Diesel-export discussion draws attention to China's role in a tighter fuel market",
+          "summary": "A September 27 r/oil thread with more than 500 upvotes shared analysis of rising Chinese diesel exports and asked readers to assess the source. Commenters focused on whether additional exports could ease a global fuel squeeze; the thread itself does not establish market facts.",
+          "why_it_matters": "It shows why fuel-market participants are watching Asian refined-product flows alongside the Middle East conflict.",
+          "countries": ["China", "Global"],
+          "sources": [{"name": "Reddit · r/oil", "url": "https://www.reddit.com/r/oil/comments/1wrivby/chinas_diesel_exports_surge_as_the_global_fuel/"}]
+        }
+      ]
+    }
+  ]
+}
