@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-25",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A planned pause in Ukraine, rising Middle East risk and mass European protests shape the morning scan.",
+  "generated_at": "2026-10-25T06:00:00+03:00",
+  "summary": {
+    "spotlight": "A localized ceasefire in the occupied Ukrainian city of Oleshky is due to start Tuesday, offering a narrow test of whether humanitarian arrangements can work while wider peace talks remain deadlocked. Elsewhere, attacks on Gulf shipping and political tension around Israel's election keep Middle East risks high, while large demonstrations in France and other European cities show how sharply living-cost pressure is feeding public unrest.",
+    "market_mood": "Volatile",
+    "reader_note": "Reporting is current to Sunday morning in Romania. Reddit entries identify active public discussion, not independently verified reporting or representative public opinion."
+  },
+  "featured_story": {
+    "category": "ukraine-war",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Oleshky ceasefire offers a narrow humanitarian test as Ukraine peace talks remain stuck",
+    "summary": "Ukraine, Russia and the United States have confirmed a localized ceasefire for the Russian-occupied city of Oleshky, intended to allow aid deliveries and civilian evacuations. AP reported that the arrangement is expected to begin on October 27, while disagreements over territory and security guarantees still block a broader settlement.",
+    "why_it_matters": "If the pause holds, it could ease an acute civilian emergency and provide rare evidence that limited agreements can function amid the wider war.",
+    "countries": ["Ukraine", "Russia", "United States"],
+    "sources": [
+      {"name": "AP", "url": "https://apnews.com/article/7d8aadbf684780223434e705913ecbf3"},
+      {"name": "AP", "url": "https://apnews.com/article/94e0aee5d56bcd164f8cbae0918ed1f8"}
+    ]
+  },
+  "sections": [
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "A humanitarian opening sits alongside continued military pressure and difficult questions over outside support.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Diplomacy",
+          "headline": "Ukraine and Russia signal openness to new U.S.-brokered talks, but core disputes persist",
+          "summary": "Kyiv and Moscow have indicated they are willing to resume talks, with the United Arab Emirates proposed as a possible venue. AP said the local Oleshky initiative has not resolved the central disputes over occupied territory or security guarantees.",
+          "why_it_matters": "A return to talks may lower immediate diplomatic friction, but the unresolved issues remain the ones that determine whether a durable peace is possible.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/94e0aee5d56bcd164f8cbae0918ed1f8"}]
+        },
+        {
+          "label": "Connectivity",
+          "headline": "Musk says he ordered the Ukraine Starlink speed restriction before service was restored",
+          "summary": "Elon Musk said he was behind a speed restriction on Starlink service in Ukraine after service was restored, AP reported. The episode has renewed scrutiny of the role a commercial satellite network plays in Ukrainian civilian and military connectivity.",
+          "why_it_matters": "Reliance on privately controlled communications infrastructure can become a strategic vulnerability during a war.",
+          "countries": ["Ukraine", "United States", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/a3a0139dfc23365550306dd66fe43daa"}]
+        },
+        {
+          "label": "Air war",
+          "headline": "Russian missile strike on Kyiv underscores the gap between diplomacy and the battlefield",
+          "summary": "Russian missiles hit Kyiv and other regions on October 22 while Moscow said it had downed more than 800 Ukrainian drones. Ukrainian officials reported civilian casualties and damage across multiple regions.",
+          "why_it_matters": "The scale of continuing aerial operations makes local humanitarian arrangements more difficult to expand and keeps civilian infrastructure exposed.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/5eef1c7dc4cc401dd8de85f718574877"}]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Shipping danger, electoral politics and civilian protection concerns continue to widen the regional consequences of conflict.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz",
+          "headline": "Iran says seven oil tankers were attacked in the Strait of Hormuz",
+          "summary": "Iran said seven oil tankers were attacked in the Strait of Hormuz as concern grew that fighting could return to a wider war. AP reported that October had seen the highest monthly pace of reported attacks on commercial shipping since the conflict began.",
+          "why_it_matters": "A prolonged threat to this energy chokepoint can raise fuel costs, insurance rates and economic uncertainty far beyond the Gulf.",
+          "countries": ["Iran", "Gulf states", "United States", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/2abebce2fca2c085e0e0ee717e42cf28"}]
+        },
+        {
+          "label": "Israel election",
+          "headline": "Large Tel Aviv rally presses Netanyahu ahead of Israel's election",
+          "summary": "Thousands rallied in Tel Aviv ahead of Tuesday's Israeli election, calling for an inquiry into the failures surrounding the October 7, 2023 attacks. AP described the vote as one of the most consequential in Israel's history.",
+          "why_it_matters": "The result will shape Israeli policy on the war, domestic accountability and the country's posture toward Iran and its neighbors.",
+          "countries": ["Israel", "Palestinian territories"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/707ad41a79d384ff4715902ce3d60df5"}]
+        },
+        {
+          "label": "West Bank",
+          "headline": "Israel expands West Bank operation after deadly attack on soldiers in Hebron",
+          "summary": "Israeli forces carried out arrests and demolitions in Hebron after two Palestinian gunmen killed two Israeli soldiers and wounded three others. The operation came days before the national election, according to AP.",
+          "why_it_matters": "A further rise in West Bank violence would compound regional instability and make post-election de-escalation harder.",
+          "countries": ["Israel", "Palestinian territories"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/5995f6958ff503686ad68a8d547daf4d"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "U.N. says displacement in Yemen has exceeded 256,000 since August",
+          "summary": "U.N. humanitarian partners say more than 256,000 people have been displaced in Yemen since fighting intensified in August. The U.N. has also warned that Taiz's humanitarian situation is deteriorating rapidly.",
+          "why_it_matters": "The displacement surge deepens a crisis in a country where food, health and basic services were already under severe strain.",
+          "countries": ["Yemen"],
+          "sources": [{"name": "United Nations", "url": "https://www.un.org/sg/fr/node/401528"}, {"name": "UN DPPA", "url": "https://dppa.un.org/en/node/136980"}]
+        }
+      ]
+    },
+    {
+      "key": "black-sea-security",
+      "title": "Black Sea Security",
+      "description": "Attacks on commercial traffic near NATO waters have made the war's maritime spillover a direct regional concern.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Commercial shipping",
+          "headline": "Drone attacks near Romania and Bulgaria raise fears of a NATO test",
+          "summary": "A string of drone attacks on cargo vessels in the Black Sea has killed two people and left at least 25 missing, AP reported. The attacks have taken place in or near the exclusive economic zones of Romania and Bulgaria, both NATO members.",
+          "why_it_matters": "Repeated attacks near alliance territory threaten a major trade route and increase the risk of a dangerous miscalculation.",
+          "countries": ["Romania", "Bulgaria", "Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/866f21a940311b13abd9425457edf388"}]
+        },
+        {
+          "label": "Shipping route",
+          "headline": "Black Sea disruption threatens Ukraine's grain-export alternatives",
+          "summary": "Ukraine has relied more heavily on Black Sea and Danube routes after Russian attacks on its ports, AP noted in its report on the vessel strikes. Any sustained disruption adds risk for buyers in Africa and the Middle East as well as for regional ports.",
+          "why_it_matters": "Shipping insecurity can quickly become a food-price and supply problem in import-dependent markets.",
+          "countries": ["Ukraine", "Romania", "Bulgaria", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/866f21a940311b13abd9425457edf388"}]
+        }
+      ]
+    },
+    {
+      "key": "european-politics",
+      "title": "European Political Strain",
+      "description": "Large demonstrations over living costs and public services are becoming a wider challenge for European governments.",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "France",
+          "headline": "More than 400,000 protest across France over living costs and school funding",
+          "summary": "French authorities said more than 400,000 people demonstrated nationwide, while organizers estimated a higher turnout. Clashes in Paris followed a largely peaceful march, and police reported nearly 1,000 arrests.",
+          "why_it_matters": "The demonstrations add pressure on President Emmanuel Macron as fiscal stress and household costs become a core political issue.",
+          "countries": ["France"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ad2fb9206e72e5d1b4ae43fdf7aa96a9"}]
+        },
+        {
+          "label": "Continental protests",
+          "headline": "Italian cities deploy police and soldiers as protests spread across Europe",
+          "summary": "Thousands of young protesters marched in Italian cities including Milan, Rome and Turin, while demonstrations also occurred in Madrid, Lisbon and Tirana. AP reported that authorities sought to prevent a repeat of earlier violence and looting.",
+          "why_it_matters": "The cross-border pattern suggests governments face a broader confidence problem rather than an isolated national protest movement.",
+          "countries": ["Italy", "Spain", "Portugal", "Albania", "France"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/b41b5adf5a749440abb88693059eeced"}]
+        },
+        {
+          "label": "Energy markets",
+          "headline": "Attacks in Hormuz keep a risk premium under global energy markets",
+          "summary": "The reported tanker attacks underline that oil supply and shipping costs remain exposed even when physical exports continue. The Strait of Hormuz carries a major share of seaborne oil trade, making every security incident globally relevant.",
+          "why_it_matters": "Persistent transport risk can feed higher energy prices into inflation and household budgets already under political strain.",
+          "countries": ["Iran", "Gulf states", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/2abebce2fca2c085e0e0ee717e42cf28"}]
+        }
+      ]
+    },
+    {
+      "key": "science-space",
+      "title": "Science & Space",
+      "description": "NASA's updated lunar timetable and work aboard the ISS offer a counterpoint to the day's crisis-driven agenda.",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Artemis",
+          "headline": "NASA outlines plans to return U.S. astronauts to the Moon in 2028",
+          "summary": "NASA leaders gave an October 23 update on the agency's plan to return astronauts to the lunar surface in 2028. The agency said its Artemis III mission remains central to the effort.",
+          "why_it_matters": "The plan sets a public benchmark for the United States' human-spaceflight program and its competition and cooperation with other space powers.",
+          "countries": ["United States", "Global"],
+          "sources": [{"name": "NASA", "url": "https://www.nasa.gov/news/recently-published/"}]
+        },
+        {
+          "label": "International Space Station",
+          "headline": "ISS crew prepares for spacewalks while continuing science experiments",
+          "summary": "NASA said Expedition 75 crew members worked on a 3D bioprinter and a levitation furnace while two astronauts prepared for a spacewalk. The work includes preparations for solar-array installation and power augmentation.",
+          "why_it_matters": "Maintaining station power and research capacity supports the ISS's role as a platform for international science and technology development.",
+          "countries": ["United States", "International partners"],
+          "sources": [{"name": "NASA", "url": "https://www.nasa.gov/news/recently-published/"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Black Sea spillover remains the dominant security concern for Romania as shipping attacks continue near its waters.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Black Sea security",
+          "headline": "Vessel attacks near Romanian waters keep Black Sea protection at the center of Romania's agenda",
+          "summary": "The recent series of cargo-vessel attacks has focused attention on the security of maritime traffic near Romania and Bulgaria. AP reported that the incidents threaten a commercial route that is vital for Ukraine's exports and regional trade.",
+          "why_it_matters": "Romania's security and economic interests are directly tied to keeping the Black Sea route safe and predictable.",
+          "countries": ["Romania", "Bulgaria", "Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/866f21a940311b13abd9425457edf388"}]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "Selected discussions show where specialist and public attention is clustering, not a measure of verified facts or public opinion.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Defense discussion focuses on Ukraine's restored high-speed satellite service",
+          "summary": "Participants in the October 24 conflict megathread discussed reports that Starlink and Starshield service in Ukraine was again operating above 400 kilometers per hour. The thread shares reporting and analysis, so its claims need independent confirmation.",
+          "why_it_matters": "The discussion reflects sustained concern over how commercial satellite rules can affect battlefield and civilian resilience.",
+          "countries": ["Ukraine", "United States", "Russia"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xe4rbn/active_conflicts_news_megathread_october_24_2026/"}]
+        },
+        {
+          "label": "r/worldnews",
+          "headline": "High-engagement discussion follows reports of Iranian threats against U.S. officials",
+          "summary": "A Reddit intelligence-feed compilation recorded substantial engagement in r/worldnews with reports that Iran was advancing plots against senior U.S. officials. The post is a measure of attention, not an independent confirmation of the reporting.",
+          "why_it_matters": "It shows how quickly security reporting involving Iran, the United States and the wider regional crisis can become a major public discussion online.",
+          "countries": ["Iran", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1xe6tlt/reddit_intelligence_feed_20261024_1200_utc/"}]
+        }
+      ]
+    }
+  ]
+}
