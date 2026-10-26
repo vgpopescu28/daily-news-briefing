@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-26",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "Election shocks in Brazil and Serbia meet persistent conflict and shipping risk.",
+  "generated_at": "2026-10-26T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Brazilian President Luiz Inácio Lula da Silva has won reelection as his rival Flávio Bolsonaro rejects the result, while Serbia's Aleksandar Vučić has conceded defeat to a student-led opposition movement. Those political shifts arrive against an unchanged backdrop of war in Ukraine, air-travel disruption in Saudi Arabia and threats to commercial shipping in the Gulf.",
+    "market_mood": "Volatile",
+    "reader_note": "Romania has no sufficiently fresh, independently sourced domestic development in this morning's selection. Reddit entries flag public attention, not verified reporting or representative opinion."
+  },
+  "featured_story": {
+    "category": "elections",
+    "tone": "policy",
+    "label": "Top Story",
+    "headline": "Lula wins Brazil's election as Bolsonaro rejects the result",
+    "summary": "President Luiz Inácio Lula da Silva was declared the winner of Brazil's presidential election over Flávio Bolsonaro, Associated Press reported. Bolsonaro said he would seek to annul the result after a late extension of voting hours, while Lula's win marked a major political reversal after the first-round result.",
+    "why_it_matters": "Brazil's political direction matters for the Amazon, regional diplomacy and the balance of power in Latin America's largest democracy.",
+    "countries": ["Brazil"],
+    "sources": [
+      {"name": "AP", "url": "https://apnews.com/article/e2c9fe8fc4aa3e3675b9a8ec15405d93"},
+      {"name": "AP", "url": "https://apnews.com/article/b68d2e2e315644e62de8f6839e8ddcff"}
+    ]
+  },
+  "sections": [
+    {
+      "key": "elections",
+      "title": "Elections & Political Change",
+      "description": "Major votes in Latin America and the Balkans have produced abrupt changes in political direction.",
+      "kicker": "Political Shift",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Brazil",
+          "headline": "Lula's victory follows a tense runoff and a challenge from the Bolsonaro camp",
+          "summary": "AP reported that Lula won a fourth presidential term after a runoff shaped by a last-minute court decision to extend voting in some areas. Flávio Bolsonaro refused to concede and argued that the result should be annulled.",
+          "why_it_matters": "The dispute will test the resilience of Brazil's electoral institutions after a polarizing contest.",
+          "countries": ["Brazil"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e2c9fe8fc4aa3e3675b9a8ec15405d93"}]
+        },
+        {
+          "label": "Serbia",
+          "headline": "Vučić concedes as Serbia's student-led opposition claims a seismic election win",
+          "summary": "Aleksandar Vučić conceded defeat to a diverse, student-led opposition movement after an election that followed years of protests against his government. AP described the result as a major shift in a country where Vučić had held power for 14 years.",
+          "why_it_matters": "The result could reset Serbia's relationship with the European Union, Russia and its own protest movement.",
+          "countries": ["Serbia", "European Union", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/fdf5def8a20aebc8ae139fd719478775"}]
+        },
+        {
+          "label": "Venezuela",
+          "headline": "Opposition leader María Corina Machado returns to Venezuela after months abroad",
+          "summary": "Venezuelan opposition leader María Corina Machado returned after months in exile, AP reported, as questions persist about the country's democratic future and outside influence. Her reappearance puts renewed focus on an opposition long constrained by the government.",
+          "why_it_matters": "Machado's return could alter the political calculation for both the opposition and the authorities in Caracas.",
+          "countries": ["Venezuela"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e6eff0c2ff962fd9b0f87270b24ef567"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War",
+      "description": "Diplomatic signals remain fragile as both sides continue long-range attacks.",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Strikes",
+          "headline": "Russia and Ukraine continue exchanges of missile and drone attacks despite mediation",
+          "summary": "Missiles struck Kyiv while Ukraine sent hundreds of drones toward Moscow in the latest large exchange, Reuters reported. The attacks continued as both governments discussed a possible return to U.S.-mediated talks.",
+          "why_it_matters": "Continuing long-range attacks show how little battlefield restraint exists even when diplomatic contacts remain open.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "Reuters", "url": "https://www.investing.com/news/world-news/russia-ukraine-exchange-strikes-as-us-envoy-leaves-after-talks-4964598"}]
+        },
+        {
+          "label": "Ceasefire test",
+          "headline": "The planned Oleshky humanitarian ceasefire remains a narrow test of cooperation",
+          "summary": "Ukraine, Russia and the United States have described a localized pause around the occupied city of Oleshky as a way to enable aid and civilian evacuations. The arrangement does not resolve disputes over territory or security guarantees.",
+          "why_it_matters": "A functioning local pause could reduce civilian harm, but it would not by itself change the strategic deadlock.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/94e0aee5d56bcd164f8cbae0918ed1f8"}]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Attacks affecting aviation, commercial shipping and civilians continue to widen the regional fallout.",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Saudi aviation",
+          "headline": "Riyadh airport reopens limited traffic after repeated Houthi attacks",
+          "summary": "Saudi Arabia's King Khalid International Airport reopened for domestic flights after multiple strikes on Riyadh this month, AP reported. The attacks have disrupted transport and heightened concern over the conflict's reach into Saudi territory.",
+          "why_it_matters": "Threats to a major regional airport make the conflict an immediate risk to civilians, commerce and international travel.",
+          "countries": ["Saudi Arabia", "Yemen"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/f9b9c553a5b3c689fc3c8c5be1d75b94"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "Houthi attacks on Yemeni government forces deepen the humanitarian and security crisis",
+          "summary": "Houthi rebels killed at least 53 government-force recruits in an attack, AP reported, amid intensified fighting and repeated strikes reaching Saudi Arabia. The escalation adds to displacement and humanitarian needs inside Yemen.",
+          "why_it_matters": "A worsening Yemeni conflict raises risks for civilians and for shipping routes near the Bab el-Mandeb chokepoint.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/6afad4ec4c22dcccd379152ea87cb0e2"}]
+        },
+        {
+          "label": "Hormuz",
+          "headline": "Reported tanker attacks keep the Strait of Hormuz at the center of global energy risk",
+          "summary": "Iran said multiple oil tankers were attacked in the Strait of Hormuz, while AP reported a sharp rise in reported attacks on commercial shipping during October. Independent details of individual incidents remain difficult to establish quickly.",
+          "why_it_matters": "Risk to this critical waterway can feed into oil prices, insurance costs and broader inflation pressures.",
+          "countries": ["Iran", "Gulf states", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/2abebce2fca2c085e0e0ee717e42cf28"}]
+        },
+        {
+          "label": "West Bank",
+          "headline": "Israeli forces turn Hebron homes into military positions during a lockdown",
+          "summary": "Al Jazeera reported that Israeli forces turned homes in Hebron into military posts as restrictions and operations intensified in the West Bank. The development comes as Israel approaches a consequential national election.",
+          "why_it_matters": "Escalation in the West Bank can further complicate regional diplomacy and civilian protection efforts.",
+          "countries": ["Israel", "Palestinian territories"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/"}]
+        }
+      ]
+    },
+    {
+      "key": "health-environment",
+      "title": "Health & Environment",
+      "description": "A violent incident during an Ebola response underscores the obstacles confronting health workers in eastern Congo.",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Ebola",
+          "headline": "Attack kills nurse responding to an Ebola alert in eastern Congo",
+          "summary": "A nurse was killed and another health worker badly injured while responding to an Ebola alert in eastern Congo, according to the World Health Organization and AP. The attack compounds the operational danger facing responders during an outbreak.",
+          "why_it_matters": "Violence against health staff can delay detection and treatment, making it harder to contain infectious disease.",
+          "countries": ["Democratic Republic of Congo"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/b739277681b530aef772cf66be7e41f0"}]
+        },
+        {
+          "label": "Wildlife trade",
+          "headline": "Baby orangutans found in India draw attention to illegal wildlife trafficking",
+          "summary": "Five baby orangutans discovered in an Indian forest have exposed concerns about illegal wildlife trade, AP reported. Experts say the case highlights the overlap of organized trafficking, consumer demand and biodiversity loss.",
+          "why_it_matters": "Wildlife trafficking threatens already vulnerable species and can exploit gaps in cross-border enforcement.",
+          "countries": ["India", "Indonesia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/10e16dc6d7854a882b9716805ca1ee70"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Selected posts show where online attention is clustering around the day's political news.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Brazil result drives a high-engagement global discussion thread",
+          "summary": "A heavily discussed r/worldnews post about Lula's victory focused on the result's significance for Brazil and the region. Comments are a public reaction and should not be treated as reporting or a representative poll.",
+          "why_it_matters": "The scale of engagement shows how quickly a major election result can become a cross-border online conversation.",
+          "countries": ["Brazil", "Global"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/worldnews/comments/1xfhum9/lula_wins_a_record_fourth_term_in_brazil_in_a/"}]
+        },
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Conflict watchers continue to track Ukraine satellite access and Russian strike reports",
+          "summary": "The active-conflicts megathread collected reporting and commentary on Ukraine's connectivity, Russian strikes and wider regional security. Its posts are useful for attention signals, but individual claims require independent verification.",
+          "why_it_matters": "Specialist online forums can surface the practical issues that readers are following between official updates.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xd9vui/active_conflicts_news_megathread_october_23_2026/"}]
+        }
+      ]
+    }
+  ]
+}
