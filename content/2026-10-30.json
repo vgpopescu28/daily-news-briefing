@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-30",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-10-30T09:00:00+02:00",
+  "summary": {
+    "spotlight": "A localized ceasefire is allowing aid workers to prepare an entry into occupied Oleshky, while the sinking of a container ship near Bulgaria shows how Ukraine's war continues to endanger civilian sea lanes. Middle East maritime claims, Israel's inconclusive election and the approaching G20 meeting keep diplomatic and market risks elevated.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes developments independently reported by major outlets. Reddit items are clearly labeled as public-attention signals, not verified reporting."
+  },
+  "featured_story": {
+    "category": "ukraine-black-sea",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Aid mission prepares to enter Oleshky as localized Ukraine truce holds",
+    "summary": "A humanitarian mission is preparing to enter Russian-occupied Oleshky after a localized ceasefire held for a third day, according to the Associated Press. Ukrainian officials said demining and delivery of relief supplies must come before representatives from Ukraine, Russia and the United States can be present on site.",
+    "why_it_matters": "The arrangement is a rare practical pause in the war and a test of whether limited civilian protections can hold amid wider fighting.",
+    "countries": ["Ukraine", "Russia", "United States"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/aab99d86fccb26294711ef40407b416c"}]
+  },
+  "sections": [
+    {
+      "key": "ukraine-black-sea",
+      "title": "Ukraine & the Black Sea",
+      "description": "A humanitarian opening and fresh danger to commercial traffic show the war's civilian reach.",
+      "kicker": "Eastern Flank",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Humanitarian pause",
+          "headline": "Oleshky ceasefire creates a narrow route for relief and evacuation planning",
+          "summary": "The ceasefire is intended to allow aid into Oleshky and support civilian evacuations from the heavily damaged city. AP reported that Ukrainian and Russian officials are still waiting on demining and secure access before the operation can proceed.",
+          "why_it_matters": "The mission could become a model for tightly bounded civilian agreements, but it remains vulnerable to any return of local fighting.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/0f135e71101c48ccd83927efeebf3347"}]
+        },
+        {
+          "label": "Commercial shipping",
+          "headline": "Drone-hit container ship sinks off Bulgaria while sailing toward Constanța",
+          "summary": "A Greek-managed container ship sank off Bulgaria's Black Sea coast after being hit by drones, AP reported. The vessel had been travelling from Haifa, Israel, to Constanța, Romania, and its crew was rescued.",
+          "why_it_matters": "The incident brings the risks of the war closer to NATO waters and threatens a route important for Romanian commerce and Ukraine-linked transit.",
+          "countries": ["Bulgaria", "Romania", "Ukraine", "Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/2bfd978d36fbb958781cf2721cabcf5c"}]
+        },
+        {
+          "label": "Winter resilience",
+          "headline": "Ukraine's civilian infrastructure remains exposed as winter approaches",
+          "summary": "A recent ACAPS assessment says continued large-scale attacks on energy, transport and logistics infrastructure are likely to sustain pressure on civilians during the cold season. It cautions that delayed diplomacy would further worsen risks.",
+          "why_it_matters": "Infrastructure damage can turn military escalation into a broader humanitarian and economic emergency.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "ACAPS", "url": "https://www.acaps.org/fileadmin/Data_Product/Main_media/20260422_ACAPS_Ukraine_-_Impacts_of_the_Middle_East_conflict.pdf"}]
+        }
+      ]
+    },
+    {
+      "key": "middle-east",
+      "title": "Iran, Hormuz & Gaza",
+      "description": "Maritime claims, mediation and continuing civilian harm keep the regional crisis unsettled.",
+      "kicker": "Regional Risk",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz",
+          "headline": "Iran says three tankers struck mines; US disputes a separate drone-capture claim",
+          "summary": "Iranian state media said three oil tankers struck mines while trying to leave the Strait of Hormuz by an unauthorized route. AP could not independently confirm the tanker claims, and the US military denied Iran's separate assertion that it had captured an American drone near the strait.",
+          "why_it_matters": "Unverified maritime incidents at a major energy chokepoint can still raise freight, insurance and fuel-price risks.",
+          "countries": ["Iran", "United States", "Gulf states"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c11dac838a072af25ba8d0eb81d01035"}]
+        },
+        {
+          "label": "Mediation",
+          "headline": "Tehran says it remains in contact with mediators over a Hormuz plan",
+          "summary": "Iran said it remained in close contact with mediators as efforts continued to reduce confrontation around the Strait of Hormuz, Al Jazeera reported. The outlet also highlighted the deepening humanitarian crisis in Yemen's Taiz, where food and fuel access has been constrained.",
+          "why_it_matters": "Even indirect engagement matters because an escalation could quickly spread across bases, shipping lanes and civilian economies.",
+          "countries": ["Iran", "Qatar", "Oman", "Yemen"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/?t=1790426595"}]
+        },
+        {
+          "label": "Gaza",
+          "headline": "Israeli strike on a civilian vehicle in central Gaza kills two, AP says",
+          "summary": "Health officials at Al-Aqsa Martyrs Hospital said an Israeli strike on a civilian vehicle in central Gaza killed two people and wounded another. The report came as Israel awaited final election results and the conflict's ceasefire remained fragile.",
+          "why_it_matters": "Continuing civilian casualties underline how quickly a fragile pause can fail to protect people on the ground.",
+          "countries": ["Israel", "Palestinian territories"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c11dac838a072af25ba8d0eb81d01035"}]
+        }
+      ]
+    },
+    {
+      "key": "elections-diplomacy",
+      "title": "Elections & Diplomacy",
+      "description": "Contested mandates and a divided G20 agenda are limiting room for collective action.",
+      "kicker": "Political Fault Lines",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Israel",
+          "headline": "Final Israeli results leave Netanyahu's bloc without a clear majority",
+          "summary": "Final results were expected to confirm that Benjamin Netanyahu's bloc lost its parliamentary majority, AP reported. Coalition talks remain uncertain because no party reached the 61 seats needed to control the Knesset.",
+          "why_it_matters": "The eventual coalition will shape policy on Gaza, the West Bank and Israel's wider regional posture.",
+          "countries": ["Israel", "Palestinian territories"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c11dac838a072af25ba8d0eb81d01035"}]
+        },
+        {
+          "label": "G20",
+          "headline": "G20 diplomats arrive in Atlanta facing conflict, tariff and China disputes",
+          "summary": "G20 diplomats are preparing to meet in Atlanta against deep divisions over Russia's war in Ukraine, the US-Israeli war against Iran, tariffs and the South China Sea, AP reported. The summit is due in December in Florida.",
+          "why_it_matters": "The rifts make consensus on trade, security and economic stability harder just as cross-border shocks are multiplying.",
+          "countries": ["United States", "China", "Russia", "G20"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ed4ab8ad9fedd628c39ac05bc5092cac"}]
+        },
+        {
+          "label": "Haiti",
+          "headline": "Haiti sets new election dates as Salvadoran troops bolster anti-gang operations",
+          "summary": "Haiti announced new election dates while more than 2,000 Salvadoran troops joined efforts against armed gangs, AP reported. The vote plan comes amid persistent insecurity and displacement.",
+          "why_it_matters": "A credible electoral timetable depends on security improving enough for people to register, campaign and vote safely.",
+          "countries": ["Haiti", "El Salvador"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3c24fe0b0134ea2b41b48fc80457215d"}]
+        }
+      ]
+    },
+    {
+      "key": "climate-energy",
+      "title": "Climate & Energy Transition",
+      "description": "Clean-technology exports offer a rare counterweight to conflict-driven energy insecurity.",
+      "kicker": "Long-Term Shift",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Clean technology",
+          "headline": "China's record clean-tech exports could avert billions of tonnes of emissions",
+          "summary": "China's record exports of solar equipment, batteries and electric vehicles are increasing as the Iran war drives demand for alternatives to fossil fuels, AP reported. CREA estimates the 2026 exports could avert about 8.4 billion metric tons of carbon dioxide over their lifetime if the trend continues.",
+          "why_it_matters": "The scale of deployment could materially affect emissions and energy security, even as trade frictions over Chinese technology persist.",
+          "countries": ["China", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7e690fb8b89f8faa82fa241bf551940e"}]
+        },
+        {
+          "label": "Food security",
+          "headline": "Haiti's hunger emergency deepens under violence, high prices and El Niño",
+          "summary": "Nearly six million people in Haiti are experiencing severe hunger and almost two million face emergency conditions, according to a new food-security analysis reported by AP. Gang violence, displacement, high food and fuel prices and El Niño are compounding the crisis.",
+          "why_it_matters": "The crisis shows how climate stress and insecurity can reinforce each other faster than relief systems can respond.",
+          "countries": ["Haiti"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e7054f6124e386240f10c9ff3ad45331"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "The Black Sea attack has immediate implications for Constanța-bound trade and regional security.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Constanța route",
+          "headline": "Sinking off Bulgaria puts security of Romania-bound shipping back in focus",
+          "summary": "The drone-hit container ship that sank off Bulgaria had been sailing to Constanța, according to AP. The rescue prevented a reported loss of life, but the incident adds a new operational risk to Romania's principal Black Sea port.",
+          "why_it_matters": "Constanța is vital to regional trade and Ukrainian transit, so disruption near its approaches has both economic and security consequences.",
+          "countries": ["Romania", "Bulgaria", "Ukraine"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/2bfd978d36fbb958781cf2721cabcf5c"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Specialist threads highlight the public questions forming around Europe’s security risks.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Specialist readers focus on Russia-Ukraine war links and intelligence reporting",
+          "summary": "A recent r/CredibleDefense discussion collected reporting and commentary on ties among actors in the Russia-Ukraine war. It is a public discussion and source-discovery signal, not independently verified reporting.",
+          "why_it_matters": "The thread shows sustained attention to the networks and decision-makers behind the battlefield picture.",
+          "countries": ["Ukraine", "Russia", "Europe"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xgoeny/active_conflicts_news_megathread_october_27_2026/"}]
+        },
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Black Sea and frontline developments remain a major discussion signal",
+          "summary": "Another active r/CredibleDefense megathread continues to gather reader discussion of the Donbas, maritime risk and related reporting. Comments should be treated as opinion and public interest, not evidence.",
+          "why_it_matters": "It captures why civilian sea-lane incidents are resonating beyond the immediate region.",
+          "countries": ["Ukraine", "Romania", "Bulgaria", "Russia"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xd9vui/active_conflicts_news_megathread_october_23_2026/"}]
+        }
+      ]
+    }
+  ]
+}
