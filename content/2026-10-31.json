@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-31",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-10-31T09:00:00+02:00",
+  "summary": {
+    "spotlight": "The G20 closes its Atlanta meeting without agreement on key security questions as the Strait of Hormuz crisis again threatens shipping and fuel markets. A rare local truce in Ukraine is moving civilians out of Oleshky, while weak Chinese factory data and climate-finance deadlock add to concerns about the global outlook.",
+    "market_mood": "Volatile",
+    "reader_note": "The briefing prioritizes current reporting from major outlets and primary institutions. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "global-diplomacy",
+    "tone": "diplomacy",
+    "label": "Top Story",
+    "headline": "G20 foreign ministers end Atlanta talks without consensus on core security disputes",
+    "summary": "Foreign ministers from the G20's largest economies are due to finish two days of talks in Atlanta without agreement on several major security issues, the Associated Press reported. Divisions over Russia's war in Ukraine and other conflicts overshadowed the meeting.",
+    "why_it_matters": "The absence of consensus leaves the G20 with less capacity to coordinate on wars, trade disruption and an increasingly fragile global economy.",
+    "countries": ["United States", "Ukraine", "Russia", "G20"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/21c65a8bb02a3a0f0c89f0ce6d56d5fd"}]
+  },
+  "sections": [
+    {
+      "key": "global-diplomacy",
+      "title": "Global Diplomacy",
+      "description": "Multilateral diplomacy is struggling to keep pace with overlapping security crises.",
+      "kicker": "Statecraft",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "G20",
+          "headline": "Atlanta meeting exposes deep divides over Ukraine and wider security risks",
+          "summary": "The G20 talks have been shaped by disagreements among members over Russia's invasion of Ukraine and the broader international security agenda. AP reported that the ministers were not expected to bridge those gaps before the meeting ended.",
+          "why_it_matters": "Those divisions complicate efforts to protect trade, manage inflation shocks and build common responses to conflict.",
+          "countries": ["United States", "Ukraine", "Russia", "China"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/21c65a8bb02a3a0f0c89f0ce6d56d5fd"}]
+        },
+        {
+          "label": "Myanmar",
+          "headline": "UN investigator says Myanmar's junta is using attacks on civilians to terrorize communities",
+          "summary": "A UN rights investigator said Myanmar's military-backed government is deliberately attacking civilians and that arms purchases from China, Russia and elsewhere are fueling the war, AP reported. The investigator described the human-rights situation as catastrophic.",
+          "why_it_matters": "The warning places renewed pressure on arms suppliers and on international mechanisms trying to document abuses.",
+          "countries": ["Myanmar", "China", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7d34142b4cb4b9afc187cac2b98b82af"}]
+        },
+        {
+          "label": "Haiti",
+          "headline": "Haiti's election plan still depends on security improving amid gang violence",
+          "summary": "Haiti has announced new election dates while security operations against armed gangs continue, AP reported previously. Displacement and insecurity remain central obstacles to a credible vote.",
+          "why_it_matters": "An election timetable cannot restore legitimacy unless voters, candidates and election workers can participate safely.",
+          "countries": ["Haiti", "El Salvador"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3c24fe0b0134ea2b41b48fc80457215d"}]
+        }
+      ]
+    },
+    {
+      "key": "iran-hormuz",
+      "title": "Iran & Hormuz",
+      "description": "Claims of new tanker incidents underline the danger to a critical energy chokepoint.",
+      "kicker": "Maritime Risk",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Shipping",
+          "headline": "Iran says four tankers hit mines and caught fire in the Strait of Hormuz",
+          "summary": "Iran said four tankers struck mines and caught fire in the Strait of Hormuz, AP reported. The claims add to a run of incidents in waters vital to global oil and gas trade.",
+          "why_it_matters": "Even disputed incidents can raise insurance, freight and fuel costs when commercial traffic is already constrained.",
+          "countries": ["Iran", "Oman", "Gulf states"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7f7f34ceb62f294a450e48ace0bd56e0"}]
+        },
+        {
+          "label": "Security claim",
+          "headline": "Iranian Guards say two tankers stopped south of Hormuz after reported incidents",
+          "summary": "Iran's Revolutionary Guards Navy said two oil tankers stopped south of the strait after what it described as incidents involving vessels using an unauthorized route, Reuters reported. The details could not be independently verified in the report.",
+          "why_it_matters": "The distinction between confirmed maritime safety information and official claims is crucial for shippers making route decisions.",
+          "countries": ["Iran", "Oman"],
+          "sources": [{"name": "Reuters", "url": "https://www.aol.com/articles/irans-irgc-navy-says-two-104428000.html"}]
+        },
+        {
+          "label": "Energy markets",
+          "headline": "Higher fuel prices and disrupted shipping lift pressure on global oil companies and consumers",
+          "summary": "ExxonMobil and Chevron reported stronger results as higher prices and output supported earnings, AP said. The report noted that conflict-driven disruption has impeded much of the usual shipping through Hormuz.",
+          "why_it_matters": "Energy-company results illustrate how a regional maritime crisis is being transmitted into household fuel costs and global inflation.",
+          "countries": ["United States", "Iran", "Gulf states"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/852851049c1ede6811516fe92700dcbe"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "A narrow humanitarian opening coexists with continued danger elsewhere in the conflict.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Humanitarian truce",
+          "headline": "Evacuations begin from Oleshky under a rare localized ceasefire",
+          "summary": "Residents of Russian-occupied Oleshky began leaving in bus convoys on the fourth day of a localized truce, AP reported. The ceasefire is expected to continue through Sunday evening while civilians choose whether to travel to Ukrainian- or Russian-held territory.",
+          "why_it_matters": "The operation is a practical test of whether limited civilian protection can be sustained while the wider war continues.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/1eb633aee4d33b3845a72053d7f6346c"}]
+        },
+        {
+          "label": "Civilian risk",
+          "headline": "Drone attack in northeastern Ukraine kills one person during the local truce",
+          "summary": "AP reported that a Russian drone attack on a town in northeastern Ukraine killed one woman and injured eight people. The incident occurred while the limited Oleshky ceasefire remained in place far to the south.",
+          "why_it_matters": "Localized agreements can ease one crisis without reducing civilian exposure across the broader battlefield.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/1eb633aee4d33b3845a72053d7f6346c"}]
+        },
+        {
+          "label": "Economic resilience",
+          "headline": "Ukraine's central bank warns industrial damage could push the economy into recession",
+          "summary": "Ukraine's central bank warned that damage to industrial targets could push the country into recession, according to AP's reporting from the Oleshky humanitarian operation. The warning reflects the economic cost of continued attacks beyond the immediate front line.",
+          "why_it_matters": "Long-term economic damage may constrain Ukraine's ability to sustain recovery, public services and defense.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/aab99d86fccb26294711ef40407b416c"}]
+        }
+      ]
+    },
+    {
+      "key": "economy-technology",
+      "title": "Economy & Technology",
+      "description": "Trade weakness, market swings and a major cybercrime report are shaping the economic picture.",
+      "kicker": "Market Pulse",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "China",
+          "headline": "China's factory activity contracts as new export orders weaken",
+          "summary": "China's factory activity contracted in October as new export orders weakened, reversing the prior month's rebound, AP reported. The data arrives as trading partners press Beijing to rebalance an expanding trade surplus.",
+          "why_it_matters": "Weaker export demand in the world's second-largest economy would add pressure to global manufacturing and trade.",
+          "countries": ["China", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/f1e0e24004da425a1b3c8935b16a245c"}]
+        },
+        {
+          "label": "Markets",
+          "headline": "Technology-led selloff drags Wall Street toward its worst day since June",
+          "summary": "A broad technology-stock selloff pushed the Nasdaq sharply lower in afternoon trading, AP reporting carried by NDTV said. The move highlights continued sensitivity to high valuations and growth expectations.",
+          "why_it_matters": "Large moves in technology shares can rapidly tighten financial conditions and weigh on global investor sentiment.",
+          "countries": ["United States", "Global"],
+          "sources": [{"name": "AP via NDTV", "url": "https://www.ndtv.com/agencies/associated-press-1327?pfrom=home-khabar_tajataren"}]
+        },
+        {
+          "label": "Cybersecurity",
+          "headline": "Binance says hackers stole more than $6 billion in what may be a record crypto heist",
+          "summary": "Binance said hackers stole more than $6 billion, an incident described in an AP news summary as potentially the largest cryptocurrency theft on record. The company has not released enough public detail to establish all of the attack's mechanics.",
+          "why_it_matters": "A breach of this scale would test risk controls across crypto markets and could revive calls for tougher oversight.",
+          "countries": ["Global"],
+          "sources": [{"name": "AP", "url": "https://southeast.newschannelnebraska.com/story/370523766/ap-news-summary-at-124-am-edt"}]
+        }
+      ]
+    },
+    {
+      "key": "climate-humanitarian",
+      "title": "Climate & Humanitarian Pressure",
+      "description": "Climate finance gridlock and acute crises continue to amplify social vulnerability.",
+      "kicker": "Long-Term Risk",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Climate finance",
+          "headline": "EU climate chief says COP31 finance talks are stalled",
+          "summary": "EU climate chief Wopke Hoekstra said negotiations on new climate-finance commitments at COP31 are deadlocked after two years of stalled progress on cutting emissions, according to Clean Energy Wire's daily briefing. The impasse comes as countries prepare for another difficult summit cycle.",
+          "why_it_matters": "Without predictable finance, lower-income countries have less capacity to adapt to climate shocks or invest in cleaner growth.",
+          "countries": ["European Union", "Global"],
+          "sources": [{"name": "Clean Energy Wire", "url": "https://www.cleanenergywire.org/news/brief-30-october-26"}]
+        },
+        {
+          "label": "Extreme heat",
+          "headline": "Reuters coverage highlights the growing danger of major heatwaves during pregnancy",
+          "summary": "Reuters' climate coverage has highlighted evidence that major heatwaves can endanger pregnant people and their babies. The risk is especially acute where access to cooling, healthcare and reliable power is limited.",
+          "why_it_matters": "Heat exposure turns a climate hazard into a direct maternal and public-health challenge.",
+          "countries": ["Global"],
+          "sources": [{"name": "Reuters", "url": "https://www.reutersconnect.com/collection/environment-and-climate-coverage"}]
+        },
+        {
+          "label": "Food security",
+          "headline": "Haiti's hunger emergency remains entwined with insecurity and high prices",
+          "summary": "A recent food-security analysis reported by AP found that nearly six million people in Haiti face severe hunger, with violence, displacement, fuel costs and El Niño worsening conditions. The crisis persists alongside the country's uncertain political transition.",
+          "why_it_matters": "Food insecurity can deepen displacement and destabilize already fragile public institutions.",
+          "countries": ["Haiti"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e7054f6124e386240f10c9ff3ad45331"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Black Sea maritime risk continues to shape Romania's security and trade priorities.",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Black Sea security",
+          "headline": "Romania accelerates mine and drone surveillance after attacks on cargo ships",
+          "summary": "Romania's top defense council said the country would speed development of surveillance equipment and capabilities to counter mines and drones in the Black Sea after attacks on commercial ships off its coast, Reuters reported. The decision follows a series of incidents near vital trade routes.",
+          "why_it_matters": "Better maritime awareness is central to protecting Constanța-bound commerce and managing spillover from the war in Ukraine.",
+          "countries": ["Romania", "Ukraine", "Bulgaria"],
+          "sources": [{"name": "Reuters", "url": "https://www.marketscreener.com/news/romania-to-speed-up-development-of-black-sea-capabilities-after-cargo-ship-attacks-ce785cdedc8afe20"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Specialist discussion points to the questions readers are asking around maritime risk and Ukraine's defenses.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Readers debate the resilience of Hormuz flows and the limits of open-source estimates",
+          "summary": "A r/CredibleDefense megathread has drawn discussion of oil flows, maritime security and Iran's capacity to disrupt shipping. It is a public discussion and source-discovery signal, not independently verified reporting.",
+          "why_it_matters": "The thread reflects why any new tanker claim is closely watched for its potential effect on energy markets.",
+          "countries": ["Iran", "Gulf states", "Global"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1wu0x3j/active_conflicts_news_megathread_september_30_2026/"}]
+        },
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Ukraine discussion focuses on early warning, satellite access and civilian protection",
+          "summary": "Specialist commenters are discussing reports about Ukraine's early-warning picture and communications constraints. Their comments are opinion and should not be treated as confirmation of operational claims.",
+          "why_it_matters": "The attention shows how technological support has become central to public understanding of Ukraine's resilience.",
+          "countries": ["Ukraine", "United States", "Russia"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1x4sldj/active_conflicts_news_megathread_october_13_2026/"}]
+        }
+      ]
+    }
+  ]
+}
