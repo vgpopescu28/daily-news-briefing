@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-04",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-04T09:00:00+02:00",
+  "summary": {
+    "spotlight": "The U.S. midterm election has delivered Democrats control of Congress, a sharp constraint on President Trump's final two years. Abroad, a U.S. strike in the Strait of Hormuz and a renewed Russian bombardment of Ukraine's power system have kept the two wars at the center of diplomatic and market risk.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition focuses on developments reported overnight by major outlets. No sufficiently fresh, independently sourced Romania development met the threshold today. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "us-midterms",
+    "tone": "policy",
+    "label": "Top Story",
+    "headline": "Democrats win control of Congress in a sweeping U.S. midterm rebuke to Trump",
+    "summary": "The Associated Press projected that Democrats won the House and Senate in Tuesday's midterms, with gains extending into states and districts that had backed President Donald Trump in 2024. AP's voter polling found that high prices, the Iran war and concerns about corruption were prominent factors for many voters.",
+    "why_it_matters": "Unified Democratic control of Congress is set to reshape oversight, budgets and the administration's scope for domestic and foreign-policy initiatives.",
+    "countries": ["United States"],
+    "sources": [
+      {"name": "AP", "url": "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226"}
+    ]
+  },
+  "sections": [
+    {
+      "key": "us-midterms",
+      "title": "U.S. Midterm Result",
+      "description": "The election result changes the balance of power in Washington and the political setting for U.S. policy abroad.",
+      "kicker": "Political Shift",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Congress",
+          "headline": "Democrats' gains reach Senate races and governorships well beyond the usual battlegrounds",
+          "summary": "AP reported Democratic victories in Senate and governor's races across states including Georgia, Iowa, Ohio and Texas, alongside the party's congressional wins. The result gives the party a much stronger platform to challenge the White House agenda.",
+          "why_it_matters": "The scale of the shift could affect legislation, investigations and the political calculations of both parties before the next presidential race.",
+          "countries": ["United States"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/1cb09c8674598632ec3e4307eda5fbb8"}
+          ]
+        },
+        {
+          "label": "Election integrity",
+          "headline": "False voting claims circulate as election officials report relatively limited disruption",
+          "summary": "AP's fact-checking team documented false and unverified election claims spreading online during voting, while its election coverage reported a comparatively limited number of operational problems. The contrasting streams underline the continuing pressure on public confidence in vote administration.",
+          "why_it_matters": "Disinformation around vote counting can have lasting effects on trust even where there is no evidence it changed an outcome.",
+          "countries": ["United States"],
+          "sources": [
+            {"name": "AP Fact Focus", "url": "https://apnews.com/article/4eb6dfe111fbddd615554ce36d4ed8f7"},
+            {"name": "AP", "url": "https://apnews.com/article/ba3037eed7bd816cc084bb1c4a2e6ccf"}
+          ]
+        }
+      ]
+    },
+    {
+      "key": "iran-hormuz",
+      "title": "Iran & Gulf Security",
+      "description": "A limited U.S. strike, Iranian conditions for talks and fragile shipping security keep the regional conflict globally consequential.",
+      "kicker": "Global Risk",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Strait of Hormuz",
+          "headline": "U.S. strike on Iranian targets raises questions over the next phase of the Hormuz crisis",
+          "summary": "AP described the U.S. action against Iranian targets in the Strait of Hormuz as apparently limited, but reported that it has raised fresh questions about escalation. Iran has proposed reopening the waterway and resuming nuclear talks if the United States meets conditions that include lifting its naval blockade and oil sanctions.",
+          "why_it_matters": "The gulf between those conditions and a deal leaves a vital energy route exposed to further military or commercial disruption.",
+          "countries": ["Iran", "United States", "Gulf states"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/183b3d32d9bf5241f744abb917e6713e"}
+          ]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Iran's chief negotiator says Washington must prevent a renewed war",
+          "summary": "Iran's chief negotiator said the United States must act to prevent renewed fighting after the defensive strikes, according to AP's regional live coverage. The comments came as the sides remain far apart on how to de-escalate the conflict and restore shipping access.",
+          "why_it_matters": "Even limited diplomatic messaging matters because the conflict's next steps are being priced immediately into shipping and energy markets.",
+          "countries": ["Iran", "United States"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/9ae5cec3d1f9cde02652f52f7f80fbce"}
+          ]
+        },
+        {
+          "label": "China",
+          "headline": "China prepares an envoy trip to Iran, Oman and Saudi Arabia",
+          "summary": "AP reported that China plans to send a special envoy to Iran, Oman and Saudi Arabia in early to mid-November. Beijing, a major regional energy customer, has called for dialogue as the conflict disrupts security and commerce.",
+          "why_it_matters": "Chinese diplomacy adds a consequential channel outside the U.S.-Qatar contacts and reflects Asian exposure to Gulf supply risk.",
+          "countries": ["China", "Iran", "Oman", "Saudi Arabia"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/8722c8b5a9deb228e7a188d4760ea8ed"}
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "New attacks on critical infrastructure and a confirmed timetable for talks sharpen the contrast between war and diplomacy.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Energy infrastructure",
+          "headline": "Russian bombardment knocks out power across parts of Ukraine ahead of Abu Dhabi talks",
+          "summary": "Reuters reported that Russian missiles and drones struck Ukraine's energy infrastructure in waves, cutting power to swathes of the country. Ukrainian officials also said a strike on an aid-distribution site in Zaporizhzhia killed civilians, while Russia said a Ukrainian drone attack damaged a Yaroslavl refinery.",
+          "why_it_matters": "The attacks deepen winter vulnerability and make a limited energy ceasefire a central test of whether next week's diplomacy can produce practical relief.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {"name": "Reuters via Investing.com", "url": "https://www.investing.com/news/commodities-news/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-to-engage-4996122"}
+          ]
+        },
+        {
+          "label": "Talks",
+          "headline": "Kremlin confirms Ukraine-Russia-U.S. talks in Abu Dhabi on November 10-11",
+          "summary": "The Kremlin confirmed that Russian, Ukrainian and U.S. delegations will meet in Abu Dhabi on November 10 and 11, Reuters reported. The planned agenda includes de-escalation and postwar security arrangements, with the parties still divided over core issues.",
+          "why_it_matters": "The meeting is the clearest scheduled diplomatic opening since earlier talks were disrupted by the Middle East war.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [
+            {"name": "Reuters via Investing.com", "url": "https://www.investing.com/news/world-news/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week-4994064"}
+          ]
+        },
+        {
+          "label": "Priorities",
+          "headline": "Zelenskyy sets energy protection, Black Sea shipping and prisoner exchanges as priorities",
+          "summary": "AP reported that President Volodymyr Zelenskyy identified halting attacks on energy and critical infrastructure, unblocking Black Sea grain shipments and expanding prisoner exchanges as priorities for the talks. His consultations with European leaders are continuing before the meeting.",
+          "why_it_matters": "Those narrower objectives could provide a route to risk reduction even if a comprehensive settlement remains out of reach.",
+          "countries": ["Ukraine", "Russia", "European countries"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/264da8725dc2bb1f0039a698a59af9fc"}
+          ]
+        }
+      ]
+    },
+    {
+      "key": "markets-diplomacy",
+      "title": "Markets & Diplomacy",
+      "description": "Oil volatility, resilient alternative export routes and G20 disagreement show the spillover from conflict into the wider economy.",
+      "kicker": "Economic Impact",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil",
+          "headline": "Oil rises in a volatile Asian session as markets await Washington's next move on Iran",
+          "summary": "Reuters reported that oil prices rose on Wednesday as investors assessed the Iran conflict and the U.S. midterm result. The move followed sharp recent swings as traders weighed prospects for diplomacy against the risk of further disruption around Hormuz.",
+          "why_it_matters": "Oil's sensitivity to military and political headlines keeps inflation, transport costs and consumer fuel prices exposed to sudden reversals.",
+          "countries": ["Iran", "United States", "Global markets"],
+          "sources": [
+            {"name": "Reuters via Yahoo Finance", "url": "https://sg.finance.yahoo.com/news/oil-rises-iran-war-uncertainty-051949081.html"}
+          ]
+        },
+        {
+          "label": "Saudi exports",
+          "headline": "Saudi Aramco reports higher profit while using its Red Sea route to offset Hormuz disruption",
+          "summary": "AP reported that higher oil prices lifted Saudi Aramco's profits despite the disruption caused by attacks and uncertainty. The company used its East-West pipeline to Yanbu on the Red Sea to maintain a significant share of exports while tanker traffic through Hormuz faced risk.",
+          "why_it_matters": "Alternative routes can cushion supply shocks, but they do not eliminate the added cost and strategic risk of a prolonged Hormuz disruption.",
+          "countries": ["Saudi Arabia", "Iran", "Global markets"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/6fefcbf7b89dd2e4e638cf80d5ffc36f"}
+          ]
+        },
+        {
+          "label": "G20",
+          "headline": "G20 foreign ministers leave Atlanta without consensus on major security disputes",
+          "summary": "AP reported that G20 foreign ministers ended their Atlanta meeting without consensus as differences over Ukraine, Iran, tariffs and the South China Sea overshadowed the gathering. Navigation and security in the Hormuz, Red, Black and South China seas were among the issues discussed.",
+          "why_it_matters": "The inability of leading economies to align on core security issues limits the forum's capacity to coordinate when conflicts are feeding directly into trade and energy risk.",
+          "countries": ["G20 countries", "Ukraine", "Iran", "China"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/21c65a8bb02a3a0f0c89f0ce6d56d5fd"}
+          ]
+        }
+      ]
+    },
+    {
+      "key": "humanitarian-pressure",
+      "title": "Humanitarian Pressure",
+      "description": "Civilian protection concerns remain acute across conflicts that are competing for diplomatic attention.",
+      "kicker": "Civilian Impact",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Ukraine civilians",
+          "headline": "Rescuers work through the aftermath of aid-shelter bombings as strikes hit hospitals",
+          "summary": "AP reported that Ukraine's latest wave of attacks damaged hospitals and wounded scores of people in addition to the deadly strike on a site used for aid distribution. The report came as the country prepared for the U.S.-brokered talks.",
+          "why_it_matters": "The continuing civilian toll makes protection of humanitarian sites and essential services an immediate issue, not only a postwar concern.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/264da8725dc2bb1f0039a698a59af9fc"}
+          ]
+        },
+        {
+          "label": "Yemen",
+          "headline": "U.N. concerns persist over detained personnel in Houthi-controlled Yemen",
+          "summary": "AP reported that the United Nations said it had not received information or proof of life for a staff member held by Yemen's Houthi authorities since June 2024. The case remains a reminder of the humanitarian constraints in a conflict that could widen further with regional escalation.",
+          "why_it_matters": "Detention of aid personnel reduces the ability of humanitarian organizations to operate safely where needs are already severe.",
+          "countries": ["Yemen"],
+          "sources": [
+            {"name": "AP", "url": "https://apnews.com/article/b918f44d8f212d7daf7f2f9a98c91a0b"}
+          ]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These threads show online attention to the day’s conflicts and should not be treated as independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Ukraine live thread concentrates crowd-sourced discussion after the latest wave of strikes",
+          "summary": "A continuing r/worldnews live thread drew discussion of battlefield claims, losses and attacks in Ukraine. It demonstrates the intensity of real-time public monitoring, but individual assertions and linked material require independent verification.",
+          "why_it_matters": "High-velocity online reporting can surface leads quickly, but it also requires readers to distinguish public discussion from confirmed news.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [
+            {"name": "Reddit", "url": "https://www.reddit.com/r/worldnews/comments/1wxz00d/rworldnews_live_thread_russian_invasion_of/"}
+          ]
+        },
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Specialist megathread follows the overlap of Ukraine, Gulf security and defence supply",
+          "summary": "A recent r/CredibleDefense conflict megathread contains public discussion of Ukrainian air defence, force posture and the wider effects of the Iran conflict. The analysis is a useful indicator of specialist online attention, not a substitute for verified reporting.",
+          "why_it_matters": "The discussion illustrates how the simultaneous wars are being viewed as competing for weapons, industrial capacity and political attention.",
+          "countries": ["Ukraine", "Iran", "United States"],
+          "sources": [
+            {"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xd9vui/active_conflicts_news_megathread_october_23_2026/"}
+          ]
+        }
+      ]
+    }
+  ]
+}
