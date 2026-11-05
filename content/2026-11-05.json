@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-05",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-05T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Democrats' sweep of Congress has given President Trump a domestic political shock but has not resolved the Iran war, where tanker protection and the prospect of further strikes remain live questions. Russia's attacks on Ukraine's power and water systems add urgency to a diplomatic opening that is still days away.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes developments reported overnight by major outlets. No sufficiently fresh, independently sourced Romania development met the threshold. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "us-politics",
+    "tone": "policy",
+    "label": "Top Story",
+    "headline": "After the midterm rout, Trump faces new political constraints but retains wide latitude abroad",
+    "summary": "The Associated Press reported that Democrats captured both chambers of Congress, a result foreign leaders greeted with relief but also caution. The new Congress will not take office until January, and the White House retains significant power over military and diplomatic decisions including the conflict with Iran.",
+    "why_it_matters": "The vote may reshape oversight and budgets while leaving the immediate direction of U.S. foreign policy uncertain.",
+    "countries": ["United States", "Iran", "Ukraine", "European countries"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/7b404b759381379067a52f42e5be578d"}]
+  },
+  "sections": [
+    {
+      "key": "us-politics",
+      "title": "U.S. Midterm Fallout",
+      "description": "The election result changes Washington's political balance without immediately settling the major conflicts shaping global risk.",
+      "kicker": "Political Shift",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Iran policy",
+          "headline": "Trump weighs the next step in Iran war after an election defeat tied partly to conflict fatigue",
+          "summary": "AP reported that the president must decide whether to intensify, sustain or seek an exit from the Iran conflict after Republican losses. The administration has discussed naval escorts for international tankers while fighting has also spread into the Red Sea.",
+          "why_it_matters": "The choice will determine whether the election result produces a diplomatic opening or a renewed escalation in a vital energy corridor.",
+          "countries": ["United States", "Iran", "Saudi Arabia", "Yemen"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99"}]
+        },
+        {
+          "label": "International response",
+          "headline": "Allies see room for a less combative U.S. posture but warn policy will not change overnight",
+          "summary": "European, Canadian and South African leaders reacted to the Democratic victories with a mix of hope and restraint, AP reported. Officials stressed that Trump remains president for two more years and that security and trade policy are unlikely to reset automatically.",
+          "why_it_matters": "The reaction underscores how strongly U.S. domestic politics is being read through the lens of alliance security, tariffs and the two wars.",
+          "countries": ["United States", "Canada", "South Africa", "European countries"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7b404b759381379067a52f42e5be578d"}]
+        }
+      ]
+    },
+    {
+      "key": "iran-gulf",
+      "title": "Iran & Gulf Security",
+      "description": "The conflict's next phase remains unsettled as shipping protection, military options and Iranian political messaging compete for attention.",
+      "kicker": "Global Risk",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Strait of Hormuz",
+          "headline": "Tanker escorts and the threat of another round of strikes keep Hormuz at the center of the crisis",
+          "summary": "AP reported that Washington is weighing its next move after limited U.S. strikes around the Strait of Hormuz, with naval escorts for international tankers among the measures under consideration. Repeated attacks on commercial shipping have disrupted a route that once carried about a fifth of globally traded oil and gas.",
+          "why_it_matters": "Protection measures could reduce immediate exposure for ships but also risk widening military contact in the narrow waterway.",
+          "countries": ["Iran", "United States", "Gulf states"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e92751dbcdf940c486c8d1e57dafbe99"}]
+        },
+        {
+          "label": "Tehran",
+          "headline": "Iranian leaders portray the U.S. election result as a rejection of Trump's war",
+          "summary": "Iranian officials and state media struck a defiant tone after the U.S. vote, AP reported, while people in the region waited for a signal on whether Washington would end the war. The comments do not amount to a negotiated offer, but they show how closely Tehran is tracking U.S. political pressure.",
+          "why_it_matters": "Domestic political change in the United States can alter diplomatic incentives even when the military situation has not changed.",
+          "countries": ["Iran", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/f3c48a92df2bd8a658d3e704a7291d11"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "The Iran conflict continues to overlap with fighting and humanitarian constraints in Yemen",
+          "summary": "AP's regional coverage described fighting between the Iran-backed Houthis and a Saudi Arabia-led coalition alongside the broader confrontation with Tehran. The overlap keeps Red Sea insecurity and aid access part of the same regional risk picture.",
+          "why_it_matters": "A widening regional conflict would add civilian harm and threaten another key maritime trade route alongside Hormuz.",
+          "countries": ["Yemen", "Saudi Arabia", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ada824e7387edec2cd8d1f97045dff2b"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Strikes on essential services and a mounting civilian toll are testing Ukraine ahead of prospective U.S.-linked diplomacy.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Kyiv infrastructure",
+          "headline": "Russian attacks disrupt power and water in Kyiv and surrounding areas",
+          "summary": "Russian attacks caused hours-long power and water outages across Kyiv and nearby regions, AP reported. The strikes add to pressure on Ukraine's infrastructure as colder weather approaches.",
+          "why_it_matters": "Repeated attacks on basic services raise humanitarian and economic costs while making any limited infrastructure truce more urgent.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/37dc5e85a5c8c135996bc2720e0674d9"}]
+        },
+        {
+          "label": "Civilian toll",
+          "headline": "Death toll in a southern Ukrainian village rises to 40 after a major strike",
+          "summary": "President Volodymyr Zelenskyy said the death toll in a stricken southern village had risen to 40, AP reported. The incident is among the deadliest single attacks reported in Ukraine in nearly five years of the war.",
+          "why_it_matters": "The scale of civilian harm intensifies calls for air defence and accountability at a moment when diplomatic attention is divided.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/37dc5e85a5c8c135996bc2720e0674d9"}]
+        },
+        {
+          "label": "Talks",
+          "headline": "Prospective Ukraine-Russia-U.S. talks remain a narrow opening after weeks of escalation",
+          "summary": "AP previously reported that a three-way meeting involving Ukraine, Russia and the United States was expected in Abu Dhabi in November, though the format has faced disruption from events in the Middle East. Kyiv has emphasized practical objectives including protection of infrastructure, Black Sea shipping and prisoner exchanges.",
+          "why_it_matters": "Even limited agreements could reduce immediate civilian and maritime risk if the parties can move from announced talks to implementation.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/0f135e71101c48ccd83927efeebf3347"}]
+        }
+      ]
+    },
+    {
+      "key": "asia-cyber",
+      "title": "Asia & Cybersecurity",
+      "description": "North Korean missile activity and a record cryptocurrency theft connect regional security with financial-system vulnerability.",
+      "kicker": "Security Signal",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "North Korea",
+          "headline": "North Korea fires missiles while rejecting U.S. accusations over Binance theft",
+          "summary": "South Korea's military said North Korea launched multiple missiles toward the sea after Pyongyang rejected renewed diplomacy with Washington and protested accusations over the Binance hack, AP reported. North Korean media also publicized work on a large warship and new weapons technology.",
+          "why_it_matters": "The sequence combines military signaling, cyber allegations and stalled diplomacy in one of Asia's most volatile security relationships.",
+          "countries": ["North Korea", "South Korea", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/036aa8b36ae8401f3c1b3bbb81e9b2ed"}]
+        },
+        {
+          "label": "Cryptocurrency",
+          "headline": "FBI attribution puts North Korea at the center of the record Binance cryptocurrency heist",
+          "summary": "The FBI said North Korean actors were behind the theft of more than $6 billion in virtual assets from Binance, according to AP reporting. Pyongyang has denied responsibility, while the episode has renewed scrutiny of state-linked cybercrime and the resilience of major exchanges.",
+          "why_it_matters": "A loss of this scale makes cyber security a systemic issue for digital-asset markets and sanctions enforcement.",
+          "countries": ["North Korea", "United States", "Global markets"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb"}]
+        },
+        {
+          "label": "Critical infrastructure",
+          "headline": "Britain's cyber chief warns AI-enabled attacks on critical infrastructure are likely by 2028",
+          "summary": "Britain's cyber chief said criminal and state actors, including China and Russia, are increasingly using artificial intelligence in cyber activity and that attacks on critical infrastructure are likely by 2028, AP reported. The warning followed costly attacks on major British companies and suppliers.",
+          "why_it_matters": "The assessment illustrates how cyber risk is moving from data theft toward wider disruption of essential economic systems.",
+          "countries": ["United Kingdom", "China", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/4e61bf9b55c7d1d15cfd075859d2ba08"}]
+        }
+      ]
+    },
+    {
+      "key": "markets-travel",
+      "title": "Markets & European Security",
+      "description": "Energy anxiety and disruption across European air travel demonstrate the economic spillovers from geopolitical and hybrid risks.",
+      "kicker": "Spillover Effects",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Energy",
+          "headline": "European leaders tie cost-of-living pressure to the need to resolve the Iran war",
+          "summary": "British Prime Minister Andy Burnham said fuel-price pressure from the Middle East war was a major source of voter frustration and urged a concerted push to end the conflict, AP reported. The warning reflects the continuing sensitivity of energy prices to Persian Gulf shipping risk.",
+          "why_it_matters": "Energy costs can translate military uncertainty into immediate political and inflation pressure far from the conflict zone.",
+          "countries": ["United Kingdom", "Iran", "European countries"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7b404b759381379067a52f42e5be578d"}]
+        },
+        {
+          "label": "Aviation",
+          "headline": "Hoax bomb threats prompt searches and diversions on flights across Europe",
+          "summary": "Several European flights received hoax bomb threats that led to searches, diversions and, in one case, an Italian Air Force escort until landing, AP reported. Bulgarian authorities said inspections found no explosives on two aircraft arriving in Sofia.",
+          "why_it_matters": "Even false threats can impose substantial operational costs and expose the vulnerability of cross-border transport networks to disruption.",
+          "countries": ["Bulgaria", "Italy", "European countries"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/54591e18981c93e6c5aabe140404dab4"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These public threads show online attention to the day's conflicts and should not be treated as independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/geopolitics",
+          "headline": "Users debate whether the U.S. midterms change the odds of escalation with Iran",
+          "summary": "A r/geopolitics discussion focused on how congressional losses might affect U.S. policy toward Iran, mixing historical comparisons and competing views of deterrence. The conversation is a snapshot of public analysis rather than verified news.",
+          "why_it_matters": "It shows how rapidly domestic political events are being interpreted through the lens of regional security risk.",
+          "countries": ["United States", "Iran"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/geopolitics/comments/1xnxgi4/iran_watching_for_trumps_next_move_after_stunning/"}]
+        },
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Specialist megathread weighs the overlap between Iran, Ukraine and U.S. political change",
+          "summary": "A r/CredibleDefense megathread collected public discussion of the midterms, Ukraine's defence needs and the Iran conflict. It can help identify which questions are drawing specialist attention, but individual claims require independent verification.",
+          "why_it_matters": "The discussion reflects concern that simultaneous conflicts are competing for political attention and military resources.",
+          "countries": ["United States", "Ukraine", "Iran"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xnkemt/active_conflicts_news_megathread_november_04_2026/"}]
+        }
+      ]
+    }
+  ]
+}
