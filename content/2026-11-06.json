@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-06",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-06T09:00:00+02:00",
+  "summary": {
+    "spotlight": "The possibility of renewed U.S. military action against Iran is again driving diplomacy across the Gulf, while shipping restrictions and regional alliances show how far the crisis has spread. In parallel, Ukraine's partners are discussing reconstruction and security guarantees ahead of trilateral talks with Russia and the United States.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes developments reported overnight by major outlets. No sufficiently fresh, independently sourced Romania development met the threshold. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "iran-gulf",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran-war risk sharpens as regional diplomacy tries to keep another escalation at bay",
+    "summary": "Iran's foreign minister has spoken with Gulf and Turkish counterparts as Washington weighs its next move and Tehran warns that states aiding an attack could become targets. Iraq is pressing to keep its territory out of the confrontation, while the Strait of Hormuz remains a central economic and security vulnerability.",
+    "why_it_matters": "A return to broad military operations could quickly widen the conflict through Iraq, Yemen and the world's most important oil-shipping chokepoint.",
+    "countries": ["Iran", "United States", "Iraq", "Saudi Arabia", "Qatar"],
+    "sources": [
+      {"name": "AP", "url": "https://apnews.com/article/mideast-iran-war-hormuz-tankers-a35d13806844d99fda93de0a19de57fa"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran"}
+    ]
+  },
+  "sections": [
+    {
+      "key": "iran-gulf",
+      "title": "Iran & Gulf Security",
+      "description": "Diplomatic outreach and new military alignments sit alongside persistent danger around the Strait of Hormuz.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Regional diplomacy",
+          "headline": "Iran canvasses Gulf capitals and Turkey as maritime security dominates the talks",
+          "summary": "Iranian Foreign Minister Abbas Araghchi held calls with Saudi, Qatari, Omani, Kuwaiti and Turkish counterparts, according to AP. Qatar stressed freedom of navigation and Hormuz safety was a principal topic in Iran's conversation with Oman.",
+          "why_it_matters": "The calls show regional states trying to preserve a diplomatic channel even as all sides prepare for a possible new military phase.",
+          "countries": ["Iran", "Saudi Arabia", "Qatar", "Oman", "Turkey"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/mideast-iran-war-hormuz-tankers-a35d13806844d99fda93de0a19de57fa"}]
+        },
+        {
+          "label": "Iraq",
+          "headline": "Baghdad tells Washington it will not be a launchpad for attacks on neighbours",
+          "summary": "Iraqi Prime Minister Ali al-Zaidi told President Donald Trump that Iraqi territory should not be used to attack neighbouring states, Al Jazeera reported. Iraq's foreign minister warned armed groups against joining any Iranian retaliation and said another war would be disastrous for the country.",
+          "why_it_matters": "Iraq's ability to stay outside direct confrontation is crucial to limiting the geographical spread of the Iran conflict.",
+          "countries": ["Iraq", "United States", "Iran"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran"}]
+        },
+        {
+          "label": "Regional alliance",
+          "headline": "Turkey ratifies a collective-defence pact with Saudi Arabia and Pakistan",
+          "summary": "Turkey's parliament approved the Mecca defence agreement, which includes mutual-assistance provisions among Turkey, Saudi Arabia and Pakistan. The vote comes as Saudi Arabia faces continued Houthi attacks, though officials said any Turkish deployment would require further steps.",
+          "why_it_matters": "The pact adds a new security framework to a region already under strain from the Iran war and Yemen fighting.",
+          "countries": ["Turkey", "Saudi Arabia", "Pakistan", "Yemen"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Air attacks continue while partners work on reconstruction funding and a framework for wider security talks.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Air war",
+          "headline": "Russia and Ukraine exchange airstrikes as negotiators meet on the war's aftermath",
+          "summary": "AP reported fresh airstrikes as officials met at NATO headquarters in Brussels to discuss reconstruction, 2027 funding and security guarantees. Ukraine's lead negotiator said the talks also covered threats from Russia to Ukraine and Europe.",
+          "why_it_matters": "The parallel tracks underline the gap between continuing battlefield danger and planning for a durable postwar settlement.",
+          "countries": ["Ukraine", "Russia", "Belgium", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"}]
+        },
+        {
+          "label": "European support",
+          "headline": "European Commission sends Ukraine another $4.9 billion for defence and public services",
+          "summary": "The European Commission transferred 4.4 billion euros to Ukraine under a loan package agreed by EU leaders, AP reported. The funds are intended to help cover essential defence and public-service spending.",
+          "why_it_matters": "Budget support is a core part of Ukraine's resilience as infrastructure damage and military demand continue to mount.",
+          "countries": ["Ukraine", "European Union"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"}]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Trump's meeting with a Putin envoy precedes planned trilateral talks in Abu Dhabi",
+          "summary": "President Trump met Russian envoy Kirill Dmitriev at the White House while U.S. envoys held Brussels talks with Ukrainian and European officials, AP reported. Three-way discussions involving Russia, Ukraine and the United States are planned for next week in Abu Dhabi.",
+          "why_it_matters": "The meetings could clarify whether a broader security arrangement is possible, but the positions of Kyiv and Moscow remain far apart.",
+          "countries": ["United States", "Russia", "Ukraine", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ukraine-melania-trump-oleshky-ceasefire-putin-envoy-3ae35835dbc87ab348478c62c6c25ee3"}]
+        }
+      ]
+    },
+    {
+      "key": "politics-governance",
+      "title": "Politics & Governance",
+      "description": "Election outcomes in the United States, Israel and Paraguay are reshaping the constraints on national leaders.",
+      "kicker": "Political Shift",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "United States",
+          "headline": "Democratic congressional victory sets up a contest over how to govern the new majority",
+          "summary": "The AP reported that the midterm result has given competing Democratic factions reasons to claim their approach worked. The party will need to bridge moderate, progressive and fiscally conservative priorities as it prepares to take control of Congress.",
+          "why_it_matters": "The new majorities can change oversight, nominations and spending, even though the White House retains significant foreign-policy power.",
+          "countries": ["United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7890426d2bbd6bbc2c6f8b72e6f9a54f"}]
+        },
+        {
+          "label": "Israel",
+          "headline": "Israel's president prepares to choose who gets first chance to form a government",
+          "summary": "President Isaac Herzog said he would announce on Sunday whether Benjamin Netanyahu or former military chief Gadi Eisenkot gets the first mandate to build a coalition. Arab parties recommended Eisenkot, while Netanyahu's Likud backed the incumbent prime minister.",
+          "why_it_matters": "The coalition process will determine whether Israel gets a new governing alignment or enters another period of political deadlock.",
+          "countries": ["Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/israel-election-netanyahu-57aefc6424da937ad2842f6d762631ae"}]
+        },
+        {
+          "label": "Paraguay",
+          "headline": "Paraguay's president resigns after bank collapse triggers political crisis",
+          "summary": "President Santiago Pena resigned as pressure grew over the failure of digital lender ueno, which left millions unable to access accounts, Al Jazeera reported. Congress was moving toward impeachment proceedings and Vice President Pedro Alliana was set to replace him.",
+          "why_it_matters": "The collapse highlights the financial and political risk created when a fast-growing lender is deeply connected to public funds.",
+          "countries": ["Paraguay"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"}]
+        }
+      ]
+    },
+    {
+      "key": "economy-society",
+      "title": "Markets & Social Pressure",
+      "description": "Election uncertainty and cost-of-living strain are hitting markets and public life on both sides of the Atlantic.",
+      "kicker": "Spillover Effects",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Markets",
+          "headline": "AI and data-centre shares lead a sharp U.S. market selloff after the midterms",
+          "summary": "U.S. markets fell sharply on Thursday, led by chip and data-centre stocks as investors assessed a changed political outlook for AI infrastructure. Al Jazeera reported that the Nasdaq was down 4.8 percent in midday trading and that most recent local ballot measures restricting data centres passed.",
+          "why_it_matters": "The selloff shows how local opposition and a divided federal government could alter expectations for a major investment boom.",
+          "countries": ["United States"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets"}]
+        },
+        {
+          "label": "France",
+          "headline": "French unions stage nationwide strikes over pay, public services and the cost of living",
+          "summary": "Workers and students joined demonstrations across France after unions called a nationwide day of action. The demands include higher wages, tax changes and better school conditions, with protests planned in about 260 cities and towns.",
+          "why_it_matters": "The broadening movement adds political pressure ahead of France's 2027 presidential election and reflects wider European affordability concerns.",
+          "countries": ["France"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest"}]
+        }
+      ]
+    },
+    {
+      "key": "humanitarian-risk",
+      "title": "Humanitarian Risk",
+      "description": "Civilian services and health conditions are deteriorating in conflict-affected communities.",
+      "kicker": "Civilian Impact",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Yemen",
+          "headline": "Taiz residents burn accumulated rubbish as fighting blocks access to a landfill",
+          "summary": "Al Jazeera reported that waste has built up in Taiz since early October because sanitation trucks cannot safely reach a landfill in Houthi-controlled territory. Residents are burning rubbish in streets and waterways, exposing neighbourhoods to toxic smoke amid fuel shortages and fighting.",
+          "why_it_matters": "The breakdown of basic municipal services turns a military siege into an immediate public-health danger for civilians.",
+          "countries": ["Yemen"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz"}]
+        },
+        {
+          "label": "Oleshky",
+          "headline": "A short Ukraine truce enabled evacuations but left a stark humanitarian baseline",
+          "summary": "AP reported that the six-day ceasefire in Oleshky enabled aid deliveries and the evacuation of nearly 800 people. The city, under Russian occupation, has suffered severe shortages of electricity, heat, water, food and medical supplies.",
+          "why_it_matters": "The local pause demonstrates that humanitarian arrangements can work, while showing how vulnerable civilians remain when they end.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ukraine-melania-trump-oleshky-ceasefire-putin-envoy-3ae35835dbc87ab348478c62c6c25ee3"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These public threads show online attention to the day's conflicts and should not be treated as independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Daily megathread concentrates public analysis on overlapping Iran and Ukraine risks",
+          "summary": "The r/CredibleDefense daily discussion collected links and commentary on active conflicts under rules asking contributors to distinguish opinion from sourced reporting. It is useful as a signal of specialist public attention, not as a standalone news source.",
+          "why_it_matters": "The thread reflects how closely observers are connecting the Iran crisis, European security and demands on U.S. policy.",
+          "countries": ["Iran", "Ukraine", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xoev3m/active_conflicts_news_megathread_november_05_2026/"}]
+        },
+        {
+          "label": "r/geopolitics",
+          "headline": "Readers focus on how the U.S. midterms could change foreign-policy constraints",
+          "summary": "Discussion in r/geopolitics has centred on the implications of Democrats taking Congress for the Iran conflict, Ukraine and alliance policy. The posts represent public interpretation of the result and require independent checking.",
+          "why_it_matters": "It highlights that domestic electoral outcomes are being rapidly translated into expectations about wars and international commitments.",
+          "countries": ["United States", "Iran", "Ukraine"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/geopolitics/"}]
+        }
+      ]
+    }
+  ]
+}
