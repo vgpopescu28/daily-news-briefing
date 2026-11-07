@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-07",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-07T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Fresh U.S. strikes on Iranian air defences have raised the temperature around the Strait of Hormuz even as Qatar presses Washington and Tehran to turn their contacts into a deal. In Europe, the search for a durable Ukraine settlement continues alongside a widening wave of hoax aviation threats and acute pressure on humanitarian systems.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes developments reported overnight by major outlets. No sufficiently fresh, independently sourced Romania development met the threshold. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "iran-gulf",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "U.S. strikes Iran again as Qatar urges both sides not to let a diplomatic opening close",
+    "summary": "President Donald Trump said U.S. forces carried out limited strikes on an Iranian air-defence system on Friday, while Iranian officials considered mediation proposals. Qatar's prime minister urged Washington and Tehran to make a peace deal rather than wait for a perfect moment, underscoring the narrow channel that remains open alongside military escalation.",
+    "why_it_matters": "Further fighting around Iran risks drawing in Gulf states and disrupting a maritime route central to global energy supplies.",
+    "countries": ["Iran", "United States", "Qatar", "Oman"],
+    "sources": [
+      {"name": "AP", "url": "https://apnews.com/article/53ed5d271b9aef6f880aebc133ea6a55"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"}
+    ]
+  },
+  "sections": [
+    {
+      "key": "iran-gulf",
+      "title": "Iran & Gulf Security",
+      "description": "Military action and mediation are moving in parallel, with the Strait of Hormuz still the central risk point.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Military escalation",
+          "headline": "Washington says its latest action targeted an Iranian air-defence system",
+          "summary": "Trump said the U.S. military conducted limited strikes on Friday against an Iranian air-defence system. AP reported that the action came as Iran reviewed proposals intended to narrow differences with Washington over its nuclear programme.",
+          "why_it_matters": "A supposedly limited exchange can still create incentives for retaliation and make diplomacy harder to sustain.",
+          "countries": ["Iran", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/53ed5d271b9aef6f880aebc133ea6a55"}]
+        },
+        {
+          "label": "Mediation",
+          "headline": "Qatar presses the United States and Iran to convert contacts into a deal",
+          "summary": "Qatar's prime minister said the United States and Iran should not wait for a perfect moment to reach a peace agreement. Al Jazeera reported that Trump said Washington was speaking with Tehran's representatives after a call with Qatar's emir.",
+          "why_it_matters": "Qatar's intervention signals that Gulf mediators see a closing window to prevent a broader regional war.",
+          "countries": ["Qatar", "Iran", "United States"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"}]
+        },
+        {
+          "label": "Hormuz",
+          "headline": "Reports of strikes near Qeshm keep the Hormuz shipping threat in focus",
+          "summary": "Iranian state and semiofficial outlets reported missiles striking Qeshm Island, while Iranian media said there were no casualties, according to Al Jazeera's live coverage. The claims could not be independently verified in the report.",
+          "why_it_matters": "Any escalation near Qeshm, which sits by the Strait of Hormuz, immediately raises concern for civilian shipping and oil flows.",
+          "countries": ["Iran", "Oman"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Security guarantees and reconstruction planning continue even as long-range attacks persist.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Security guarantees",
+          "headline": "Zelenskyy asks allies to spell out how postwar protection would work",
+          "summary": "President Volodymyr Zelenskyy said Ukraine needs specific commitments from Western partners on how security support would operate after the war. The request followed Brussels talks on reconstruction, 2027 funding and guarantees, AP reported.",
+          "why_it_matters": "The credibility of any eventual settlement will depend heavily on whether Ukraine believes it has enforceable protection against renewed attack.",
+          "countries": ["Ukraine", "United States", "European Union"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/713268db3dac59bff6ad6c831c72cdb6"}]
+        },
+        {
+          "label": "Air war",
+          "headline": "Russia and Ukraine continue air attacks while officials plan for the war's aftermath",
+          "summary": "Russia and Ukraine exchanged overnight airstrikes as U.S., European and Ukrainian officials completed a second day of Brussels discussions. The talks covered postwar reconstruction, funding for 2027 and security guarantees, AP reported.",
+          "why_it_matters": "The parallel military and diplomatic tracks show how far the parties remain from a settlement despite intensified planning.",
+          "countries": ["Ukraine", "Russia", "Belgium"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/0b975a30f862731346e7e1d098a8d538"}]
+        },
+        {
+          "label": "Next talks",
+          "headline": "A proposed Abu Dhabi format remains a test of whether direct diplomacy can restart",
+          "summary": "AP reported that three-way discussions involving Russia, Ukraine and the United States were planned for Abu Dhabi after White House and Brussels contacts. No agreement on core security or territorial questions has been announced.",
+          "why_it_matters": "A functioning trilateral channel could reduce miscalculation, but it is not itself evidence that the sides are nearing a deal.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ukraine-melania-trump-oleshky-ceasefire-putin-envoy-3ae35835dbc87ab348478c62c6c25ee3"}]
+        }
+      ]
+    },
+    {
+      "key": "global-diplomacy",
+      "title": "Global Diplomacy & Politics",
+      "description": "The U.S. midterm result is reshaping how partners and rivals assess Washington's room to act abroad.",
+      "kicker": "Political Spillover",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Great-power summit",
+          "headline": "China confirms discussions about a possible Xi-Trump-Putin meeting",
+          "summary": "China said discussions are under way about a potential meeting involving Xi Jinping, Donald Trump and Vladimir Putin. AP reported that Beijing has expressed concern over U.S. trade restrictions and has not committed to talks on arms control, Ukraine or Iran.",
+          "why_it_matters": "The prospect of a summit illustrates the pressure to manage several connected crises, while also exposing limits on what a leaders' meeting could resolve.",
+          "countries": ["China", "United States", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/685503bde099612212fb9d6f716422e4"}]
+        },
+        {
+          "label": "G7",
+          "headline": "Rubio's first post-midterm trip will put U.S. policy choices before G7 partners",
+          "summary": "Secretary of State Marco Rubio is due in France for meetings that will again confront the Iran and Ukraine wars, energy and food security. AP said the trip follows a midterm setback that has intensified questions about the administration's foreign-policy direction.",
+          "why_it_matters": "Allies will be looking for evidence that Washington can sustain commitments as Congress changes hands.",
+          "countries": ["United States", "France", "Canada", "Germany", "Japan", "United Kingdom", "Italy"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/9b4e34578509b9debde703d3069324e4"}]
+        },
+        {
+          "label": "Alliance confidence",
+          "headline": "The U.S. midterm result amplifies global questions about American reliability",
+          "summary": "AP's international dispatch found that the election result is being read abroad through the lens of the Iran war, Ukraine, trade tensions and high energy and food costs. It described partners and businesses reassessing the predictability of U.S. policy.",
+          "why_it_matters": "Perceptions of political stability affect diplomatic leverage long before formal policies change.",
+          "countries": ["United States", "United Kingdom", "Ukraine", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/4b5932abf54c5f6dc70b1f8f2d1c5d07"}]
+        }
+      ]
+    },
+    {
+      "key": "public-safety",
+      "title": "Public Safety & Health",
+      "description": "Authorities are responding to disruptive aviation hoaxes and a major vaccine-preventable disease resurgence.",
+      "kicker": "Public Risk",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "European aviation",
+          "headline": "Hoax bomb threats spread from European flights to newsrooms",
+          "summary": "A new wave of threats caused flight diversions and expanded to media organisations in Ireland, Bulgaria and the United Kingdom, Al Jazeera reported. Authorities found no explosive devices, but fighter escorts and repeated security checks disrupted travel across several countries.",
+          "why_it_matters": "Even false alerts can impose major operational costs and test public confidence in critical infrastructure.",
+          "countries": ["Ireland", "Bulgaria", "United Kingdom", "Austria", "Czech Republic", "Romania"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"}]
+        },
+        {
+          "label": "Measles",
+          "headline": "U.S. confirmed measles count passes 5,000, the highest in 35 years",
+          "summary": "The U.S. Centers for Disease Control and Prevention reported 5,182 confirmed measles cases in 2026, Al Jazeera reported. Children and teenagers account for about 59 percent of cases, while most infections have been associated with outbreaks.",
+          "why_it_matters": "The resurgence shows how gaps in vaccine coverage can revive a disease that had been eliminated nationally.",
+          "countries": ["United States"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years"}]
+        }
+      ]
+    },
+    {
+      "key": "humanitarian-climate",
+      "title": "Humanitarian & Climate Pressure",
+      "description": "Aid shortages and a pivotal climate conference underline the compounding costs of conflict and delayed action.",
+      "kicker": "Shared Risk",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Sudan",
+          "headline": "UN agencies warn Sudan's displaced people face a widening shelter gap",
+          "summary": "UNHCR and the International Organization for Migration say 15.4 million people in Sudan need emergency shelter and basic household items, but only about 10 percent can be prioritized with available funds. Al Jazeera reported that fewer than one million people have received assistance so far.",
+          "why_it_matters": "Without replenished stocks and funding, families repeatedly displaced by the war face worsening exposure as services and homes collapse.",
+          "countries": ["Sudan"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns"}]
+        },
+        {
+          "label": "Climate diplomacy",
+          "headline": "Guterres calls the coming UN climate talks a moment of truth",
+          "summary": "Ahead of climate talks opening in Turkey on Monday, outgoing UN Secretary-General António Guterres urged leaders to treat the meeting as a moment of truth. AP reported that he framed climate action amid simultaneous pressures from wars and concerns around artificial intelligence.",
+          "why_it_matters": "The conference will test whether governments can maintain climate cooperation while geopolitical crises dominate attention and budgets.",
+          "countries": ["Turkey", "United Nations"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e5ae99093b025f6fdd44c425602b93d1"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These public threads show online attention to the day's events and should not be treated as independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/CredibleDefense",
+          "headline": "Conflict-watchers debate Ukraine's energy campaign and the implications of a pause",
+          "summary": "The r/CredibleDefense daily thread collected a detailed user analysis of reported refinery-output recovery during the period of reduced Ukrainian strikes, alongside links to the planned Abu Dhabi talks. It is a public discussion, not independently verified reporting.",
+          "why_it_matters": "The thread shows how online specialist audiences are connecting infrastructure attacks, battlefield endurance and diplomacy.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/CredibleDefense/comments/1xp94fg/active_conflicts_news_megathread_november_06_2026/"}]
+        },
+        {
+          "label": "r/technology",
+          "headline": "A widely shared Amsterdam data-centre protest drives debate over power, housing and AI infrastructure",
+          "summary": "A highly upvoted r/technology post about protesters entering a Microsoft data-centre construction site in Amsterdam drew discussion about local grid capacity, housing and technology policy. The thread reflects public attention and opinion rather than a verified account of the event.",
+          "why_it_matters": "It captures how data-centre expansion is becoming a visible local political issue as AI infrastructure demand grows.",
+          "countries": ["Netherlands"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/technology/comments/1xpazyf/protesters_break_into_microsoft_data_center_site/"}]
+        }
+      ]
+    }
+  ]
+}
