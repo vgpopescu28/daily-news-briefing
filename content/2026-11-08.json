@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-08",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-08T09:00:00+02:00",
+  "summary": {
+    "spotlight": "A U.S. naval enforcement action in the Gulf of Oman and reported explosions around the Strait of Hormuz have renewed concern that the Iran war could intensify again. Ukraine enters a week of U.S.-brokered talks after a major Russian strike on its power system, while Israel, Yemen and the opening of COP31 add political and humanitarian pressure.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes developments reported overnight by major outlets. No sufficiently fresh, independently sourced Romania development met the threshold. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "iran-gulf",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "U.S. disables commercial ship near Iran as the Hormuz crisis shows new signs of escalation",
+    "summary": "U.S. Central Command said it disabled a St. Kitts-flagged commercial vessel after it ignored warnings and tried to leave the region after visiting an Iranian port. Iranian media also reported explosions near Qeshm and Jask, while the cause had not been independently established and the U.S. military did not immediately comment.",
+    "why_it_matters": "An incident involving a civilian vessel raises the risk of miscalculation around the energy-shipping corridor at the centre of the Iran conflict.",
+    "countries": ["Iran", "United States", "Oman"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/bc902d3400cb5d022f8bafd247ef975b"}]
+  },
+  "sections": [
+    {
+      "key": "iran-gulf",
+      "title": "Iran & Gulf Security",
+      "description": "The maritime confrontation and military signaling around Iran remain the clearest immediate global-risk channel.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Naval enforcement",
+          "headline": "Central Command says it fired on a vessel that tried to breach the Iran blockade",
+          "summary": "Central Command said it disabled the vessel after it ignored repeated warnings in the Gulf of Oman. AP reported that U.S. forces have enforced a months-long blockade on Iran in and around the Strait of Hormuz.",
+          "why_it_matters": "The use of force against a commercial ship could deepen insurance, routing and supply concerns for regional trade.",
+          "countries": ["United States", "Iran", "Oman"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/bc902d3400cb5d022f8bafd247ef975b"}]
+        },
+        {
+          "label": "Missile posture",
+          "headline": "Iran says it has dropped its self-imposed missile-range limit",
+          "summary": "Iran's Revolutionary Guard said it had lifted a self-imposed 2,000-kilometre limit on ballistic-missile ranges. AP reported the statement amid concern that Iran could seek weapons able to reach more distant targets.",
+          "why_it_matters": "The announcement is a deterrence signal that broadens the geographic stakes of any renewed full-scale fighting.",
+          "countries": ["Iran", "United States", "Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c26759ac66e6c022a3256adeae40c965"}]
+        },
+        {
+          "label": "Diplomatic constraint",
+          "headline": "Iranian leaders say the U.S. midterm result will not change their stance",
+          "summary": "Iran's leaders presented the U.S. election result as a rejection of the war but warned against expecting a fundamental shift in Washington's policy. AP reported that the conflict, launched in February, has disrupted energy markets and Hormuz shipping.",
+          "why_it_matters": "Tehran's public posture suggests that domestic U.S. political pressure alone may not be enough to restart negotiations.",
+          "countries": ["Iran", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/f3c48a92df2bd8a658d3e704a7291d11"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "A severe strike on energy infrastructure comes just before another attempt at U.S.-brokered diplomacy.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Energy infrastructure",
+          "headline": "Russian missiles and drones strain Kyiv's power, water and heating supplies",
+          "summary": "Russian forces struck energy infrastructure around Kyiv overnight, damaging systems that send power from two nuclear plants and putting additional pressure on water and heat as temperatures fall. Reuters reported that the Northern Bridge across the Dnipro was also damaged.",
+          "why_it_matters": "The attack increases civilian vulnerability ahead of winter and gives the war's energy dimension fresh urgency.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "Reuters", "url": "https://theprint.in/world/russia-pounds-power-facilities-around-kyiv-damages-major-bridge/3093133/"}]
+        },
+        {
+          "label": "Casualties and weapons",
+          "headline": "Ukraine reports at least nine wounded and alleges North Korean missiles were used",
+          "summary": "Drone and missile attacks hit several parts of Ukraine on Saturday, wounding at least nine people, according to AP. President Volodymyr Zelenskyy said preliminary findings indicated North Korean-made ballistic missiles struck energy facilities.",
+          "why_it_matters": "The allegation underscores the international supply links sustaining Russia's long-range campaign.",
+          "countries": ["Ukraine", "Russia", "North Korea"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/b042adf1f95848f5d233da866a72e312"}]
+        },
+        {
+          "label": "Abu Dhabi talks",
+          "headline": "Russia, Ukraine and the United States are set to resume trilateral talks this week",
+          "summary": "The Kremlin said another round of Russian, Ukrainian and U.S. negotiations was planned for Tuesday and Wednesday in Abu Dhabi. AP reported that both the timing and the U.S. role are being viewed through the aftermath of the midterm election.",
+          "why_it_matters": "The meeting will test whether a negotiating channel can survive continued attacks on Ukraine's civilian infrastructure.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/8f0cee7ab3dea277232b00a87648eaca"}]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-humanitarian",
+      "title": "Middle East Politics & Humanitarian Risk",
+      "description": "Israel's coalition process, Yemen's renewed violence and Gaza's exposure to winter are moving in parallel.",
+      "kicker": "Regional Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Israel politics",
+          "headline": "President Herzog gives Gadi Eisenkot the first chance to form an Israeli government",
+          "summary": "President Isaac Herzog asked opposition candidate Gadi Eisenkot to try to form a coalition after neither his bloc nor Benjamin Netanyahu's won a parliamentary majority. AP reported that Eisenkot has up to six weeks to assemble a government in a deeply divided political landscape.",
+          "why_it_matters": "The outcome will shape Israeli policy on Gaza and the wider regional conflict at a moment of heightened external pressure.",
+          "countries": ["Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/75934bfce1f2f2e43e1823de3761b12d"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "Houthi health officials say airstrikes near Sanaa killed at least 27 people",
+          "summary": "Airstrikes hit homes in a village near Yemen's capital, killing at least 27 people and wounding 36, according to a Houthi-run Health Ministry spokesman. AP could not independently verify the claims and said Saudi authorities did not immediately respond to requests for comment.",
+          "why_it_matters": "The reported civilian toll signals a sharp worsening in Yemen's conflict and a new threat to an already severe humanitarian crisis.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/1b5aef5b86be2e96e1cd8a18165afaf6"}]
+        },
+        {
+          "label": "Gaza winter",
+          "headline": "Heavy rain floods tents as Gaza's displaced families enter another winter",
+          "summary": "Heavy rain flooded makeshift shelters and soaked belongings in Gaza, where AP says more than 1.6 million Palestinians are living in tents or other temporary housing. The report described the weather as the start of another difficult winter for people who have lost homes during the war.",
+          "why_it_matters": "Seasonal weather is magnifying displacement and aid needs even when fighting is not the immediate headline.",
+          "countries": ["Palestinian Territories", "Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c26759ac66e6c022a3256adeae40c965"}]
+        }
+      ]
+    },
+    {
+      "key": "global-politics",
+      "title": "Global Politics & Rights",
+      "description": "Events in the United States, China and Turkey show how domestic politics is shaping international agendas.",
+      "kicker": "Political Spillover",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "U.S. foreign policy",
+          "headline": "The midterm rout is prompting allies and rivals to reassess Washington's room to manoeuvre",
+          "summary": "AP reported that partners and adversaries are reading the Democratic election victories through the lenses of the Iran war, Ukraine, tariffs and high fuel and food costs. The result does not automatically alter policy, but it changes the political environment in which decisions are made.",
+          "why_it_matters": "Confidence in U.S. commitments can shift quickly when domestic electoral pressure changes the incentives of decision-makers.",
+          "countries": ["United States", "Iran", "Ukraine"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/4b5932abf54c5f6dc70b1f8f2d1c5d07"}]
+        },
+        {
+          "label": "Hong Kong",
+          "headline": "Joshua Wong receives a further 10-year sentence under Hong Kong's security law",
+          "summary": "A Hong Kong court sentenced democracy campaigner Joshua Wong to 10 more years in prison for a national-security offence. AP reported that critics see the case as evidence of the continuing crackdown on the city's pro-democracy movement, while authorities defend the law as necessary for stability.",
+          "why_it_matters": "The sentence reinforces the depth of the legal and political shift in Hong Kong since Beijing imposed the security law in 2020.",
+          "countries": ["Hong Kong", "China"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/f4b08dd23bab9912569e5cabd990c1ef"}]
+        },
+        {
+          "label": "Climate diplomacy",
+          "headline": "COP31 opens in Turkey amid disasters, energy shocks and pressure to deliver",
+          "summary": "The UN climate conference opens in Antalya on Monday as governments confront higher temperatures, costly disasters and energy insecurity. AP reported that the meeting will focus on how to follow through on earlier climate pledges as the world moves beyond the 1.5-degree target.",
+          "why_it_matters": "COP31 will show whether climate cooperation can retain momentum when war and energy prices are competing for political attention.",
+          "countries": ["Turkey", "United Nations"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/6ce625b0e3d4ed0ab093df4e5f9c86ad"}]
+        }
+      ]
+    },
+    {
+      "key": "markets-energy",
+      "title": "Markets & Energy",
+      "description": "Investors are pricing the prospect of policy change against the continuing risks of war and tariffs.",
+      "kicker": "Market Pulse",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Post-election trading",
+          "headline": "Wall Street reprices defence, oil and AI stocks after the U.S. midterms",
+          "summary": "AP reported that defence and oil companies fell on expectations that a Democratic Congress could press for an end to the Iran war, while high-flying AI stocks and tariff-exposed companies also faced sharp moves. Trump Media lost 33 percent of its market value in the three trading days after the election.",
+          "why_it_matters": "The market reaction illustrates how quickly expectations around war, energy and trade policy can move asset prices.",
+          "countries": ["United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/4ac9a6a3c35aeec37374fc8083bf9395"}]
+        },
+        {
+          "label": "Shipping exposure",
+          "headline": "The latest Gulf incident keeps oil and freight risk tied to developments at Hormuz",
+          "summary": "The U.S. action in the Gulf of Oman followed months of blockade enforcement around a route central to global oil shipping. AP reported that the eight-month Iran war has already rattled markets and that attacks on commercial vessels accelerated in October.",
+          "why_it_matters": "Even without a confirmed supply disruption, insecurity around Hormuz can feed into fuel, insurance and transport costs worldwide.",
+          "countries": ["Iran", "United States", "Oman"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/bc902d3400cb5d022f8bafd247ef975b"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These posts show what public communities are discussing; they are not independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "A U.S. reward offer related to Iran's nuclear programme becomes a major discussion topic",
+          "summary": "A Reddit intelligence feed compiling public r/worldnews activity listed a U.S. State Department reward offer for information about Iran's nuclear programme among the community's most-upvoted items. This is a signal of online attention rather than confirmation of the underlying claims.",
+          "why_it_matters": "The discussion reflects how nuclear concerns are returning to public conversation as the broader Iran conflict escalates.",
+          "countries": ["Iran", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1xpz3jp/reddit_intelligence_feed_20261107_0601_utc/"}]
+        },
+        {
+          "label": "r/economics",
+          "headline": "Data-centre investment and an AI-stock rebound draw debate after a volatile week",
+          "summary": "The same public Reddit feed highlighted discussion of Google's reported Malaysia data-centre investment and a separate debate over whether the morning rebound in AI shares would last. These are community discussions and do not substitute for market reporting.",
+          "why_it_matters": "They show that infrastructure spending and the durability of the AI trade remain prominent public-market themes.",
+          "countries": ["Malaysia", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1xpz3jp/reddit_intelligence_feed_20261107_0601_utc/"}]
+        }
+      ]
+    }
+  ]
+}
