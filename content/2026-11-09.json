@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-09",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-09T09:00:00+02:00",
+  "summary": {
+    "spotlight": "The Iran war remains the leading global risk: U.S. and Iranian actions around Qeshm and the Strait of Hormuz are continuing even as Qatar mediates and Washington says it is unlikely to expand strikes. Ukraine, Russia and the United States are preparing for Abu Dhabi talks focused on security guarantees, while COP31 opens in Turkey against a backdrop of climate disasters and energy disruption.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition prioritizes developments reported by major outlets on November 9. Romania has a meaningful Black Sea security-policy signal. Reddit items are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "iran-gulf",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran conflict diplomacy accelerates, but attacks and shipping danger persist around Hormuz",
+    "summary": "President Donald Trump was due to meet Qatar's prime minister as mediation efforts gathered pace after the U.S. midterm elections. Reuters reported that senior U.S. and Gulf officials did not expect an immediate agreement, while mutual attacks and danger to shipping around the Strait of Hormuz continued.",
+    "why_it_matters": "The gap between diplomatic activity and conditions at sea keeps the risk of a wider military or energy-market shock unusually high.",
+    "countries": ["Iran", "United States", "Qatar", "Oman"],
+    "sources": [{"name": "Reuters", "url": "https://uk.marketscreener.com/news/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-the-war-ce785fd3da8cf725"}]
+  },
+  "sections": [
+    {
+      "key": "iran-gulf",
+      "title": "Iran & Gulf Security",
+      "description": "Diplomacy is active, but military signalling and commercial-shipping exposure remain acute.",
+      "kicker": "Global Lead",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Qatar mediation",
+          "headline": "Trump meets Qatar's leader as mediators seek a way out of the Iran war",
+          "summary": "Trump planned talks with Qatar's prime minister, a key mediator, as efforts to end the conflict intensified. Reuters said senior U.S. and Gulf officials doubted a quick deal was within reach.",
+          "why_it_matters": "Qatar's channel is central to testing whether restraint can be converted into a workable ceasefire or shipping arrangement.",
+          "countries": ["United States", "Qatar", "Iran"],
+          "sources": [{"name": "Reuters", "url": "https://uk.marketscreener.com/news/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-the-war-ce785fd3da8cf725"}]
+        },
+        {
+          "label": "Navigation risk",
+          "headline": "Iran says navigation aids were destroyed and unauthorised ships did not transit Hormuz overnight",
+          "summary": "An unnamed Revolutionary Guards Navy official told Iranian state media that navigational aids in the southern Strait of Hormuz had been destroyed and no unauthorised vessels passed overnight, Reuters reported.",
+          "why_it_matters": "Damage to navigation infrastructure compounds the physical and insurance risk for any commercial traffic through the chokepoint.",
+          "countries": ["Iran", "Oman"],
+          "sources": [{"name": "Reuters", "url": "https://uk.marketscreener.com/news/iran-says-no-unauthorised-vessels-transited-strait-of-hormuz-overnight-after-navigation-aids-destroy-ce785fd3d98fe1f8"}]
+        },
+        {
+          "label": "Saudi Arabia",
+          "headline": "Saudi Arabia says it intercepted missiles as debris damaged an Aramco building in Riyadh",
+          "summary": "Saudi Arabia said it intercepted incoming missiles aimed at the capital and other areas, while falling debris damaged a building of state oil producer Aramco in Riyadh's financial district. AP also reported the UAE rescued 22 crew members after a cargo-ship fire in the Sea of Oman.",
+          "why_it_matters": "The incidents show how the conflict's security and commercial consequences reach beyond the strait itself.",
+          "countries": ["Saudi Arabia", "United Arab Emirates", "Yemen"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/090d96e25872f5c63e105b9dd3e5dc60"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "The next U.S.-led diplomatic attempt puts future security guarantees and Europe’s role at the centre.",
+      "kicker": "Eastern Front",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Abu Dhabi talks",
+          "headline": "U.S.-led Russia-Ukraine talks will focus on security guarantees for both sides",
+          "summary": "A two-day session beginning Tuesday in Abu Dhabi follows earlier negotiations that produced no visible breakthrough. AP reported that postwar guarantees for Ukraine and the security concerns Russia links to NATO will be central questions.",
+          "why_it_matters": "Any durable settlement depends on resolving how Ukraine is protected from another invasion without creating a new escalation point.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/81537cce8daf84b24bf73a91addb6e9b"}]
+        },
+        {
+          "label": "European participation",
+          "headline": "Trump envoys seek a European place in negotiations over ending the war",
+          "summary": "U.S. envoys Steve Witkoff and Jared Kushner were expected to meet officials from Germany, France, Britain, Italy, NATO and the European Union in the United Arab Emirates, AP reported.",
+          "why_it_matters": "European participation is vital because any deal would affect the continent's security architecture and support for Ukraine.",
+          "countries": ["Ukraine", "Russia", "United States", "France", "Germany", "United Kingdom"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/514ff90fc04fae340898967e6655151c"}]
+        },
+        {
+          "label": "Territory",
+          "headline": "U.S. official says Russia and Ukraine show private flexibility on territory before talks",
+          "summary": "A U.S. official said both sides were showing some private flexibility over a possible territorial exchange, while stressing that security guarantees would be a major topic. Reuters said no territorial accord was expected before other parts of a postwar framework are addressed.",
+          "why_it_matters": "Even tentative flexibility would mark a shift on one of the conflict's hardest political issues, but it remains untested at the table.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "Reuters", "url": "https://sa.marketscreener.com/news/russia-and-ukraine-showing-flexibility-on-territory-us-official-says-ce785fd3de8ff02c"}]
+        }
+      ]
+    },
+    {
+      "key": "diplomacy-politics",
+      "title": "Diplomacy & Politics",
+      "description": "G7 ministers are weighing war, alliance coordination and the constraints imposed by U.S. domestic politics.",
+      "kicker": "Allied Pressure",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "G7 in Paris",
+          "headline": "G7 foreign ministers test how U.S. midterm losses could affect Iran and Ukraine policy",
+          "summary": "Foreign ministers gathered in Paris to assess whether the U.S. election result narrows Washington's room for manoeuvre on Ukraine, the Middle East and relations with allies. Reuters reported that diplomats cautioned against assuming a return to traditional U.S. multilateralism.",
+          "why_it_matters": "Allies need clarity on whether Washington's domestic political shift will change the conduct of two active wars.",
+          "countries": ["France", "United States", "Canada", "Germany", "Italy", "Japan", "United Kingdom"],
+          "sources": [{"name": "Reuters", "url": "https://www.investing.com/news/world-news/g7-allies-to-assess-impact-of-trumps-midterm-setback-at-paris-talks-5010426"}]
+        },
+        {
+          "label": "Iran policy",
+          "headline": "Rubio defends the Iran war despite its unpopularity after the U.S. midterms",
+          "summary": "Secretary of State Marco Rubio said the Iran campaign was necessary to confront what he described as a nuclear threat, while acknowledging that necessary policies are not always popular. AP reported that higher energy costs linked to Hormuz disruption had become a major political liability.",
+          "why_it_matters": "The administration is balancing strategic objectives against public pressure amplified by fuel and household costs.",
+          "countries": ["United States", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/f7b507b55634985d6013d36265b3fbc0"}]
+        },
+        {
+          "label": "Congressional challenge",
+          "headline": "A Republican lawmaker files an impeachment resolution against Defense Secretary Hegseth",
+          "summary": "Representative Thomas Massie filed a resolution seeking to impeach Defense Secretary Pete Hegseth, AP reported. The move came as the administration faces renewed scrutiny over Iran, immigration enforcement and the consequences of the midterm result.",
+          "why_it_matters": "The measure highlights growing domestic friction around the administration's security policy, even if removal remains politically unlikely.",
+          "countries": ["United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/a4a74dab93a32c094e2a5b0a5105578d"}]
+        }
+      ]
+    },
+    {
+      "key": "climate",
+      "title": "Climate & Global Resilience",
+      "description": "COP31 begins with extreme weather, high energy costs and a difficult geopolitical setting shaping the agenda.",
+      "kicker": "COP31 Opens",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Climate summit",
+          "headline": "COP31 opens in Turkey after a year of deadly heat and climate disasters",
+          "summary": "World leaders, negotiators and activists opened the UN climate summit in Antalya. AP reported that the meeting begins after deadly heat waves and disasters including floods in Nepal, while the Iran war has raised fuel and fertilizer prices.",
+          "why_it_matters": "The talks will test whether governments can sustain climate cooperation while conflict and energy insecurity dominate national priorities.",
+          "countries": ["Turkey", "United Nations"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/edd587ab19f3b57848b50f9dc724ba82"}]
+        },
+        {
+          "label": "UN warning",
+          "headline": "Guterres calls COP31 a moment of truth for climate action",
+          "summary": "UN Secretary-General António Guterres said he would urge leaders to do more and do it now as the conference begins. AP reported that he framed climate action alongside the overlapping pressures of war and concern over artificial intelligence.",
+          "why_it_matters": "The UN is trying to keep climate commitments politically visible when governments are preoccupied by security and economic shocks.",
+          "countries": ["United Nations", "Turkey"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/e5ae99093b025f6fdd44c425602b93d1"}]
+        }
+      ]
+    },
+    {
+      "key": "markets-energy",
+      "title": "Markets & Energy",
+      "description": "Oil's sharp retreat has improved risk appetite, even though physical security risks in the Gulf remain unresolved.",
+      "kicker": "Market Pulse",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Oil",
+          "headline": "Oil falls almost 5% as Trump signals restraint on Iran",
+          "summary": "Brent crude fell almost 5% after Trump downplayed the likelihood of renewed strikes on Iran, Reuters reported, although attacks on ships near Hormuz continued. The benchmark had already fallen 16% the previous week amid hopes that diplomacy could ease disruption.",
+          "why_it_matters": "Oil's reversal offers relief from inflation pressure, but the price move depends on fragile expectations rather than a confirmed security settlement.",
+          "countries": ["United States", "Iran", "Saudi Arabia"],
+          "sources": [{"name": "Reuters", "url": "https://live.euronext.com/en/financial-news/oil-falls-almost-5-trump-signals-restraint-iran"}]
+        },
+        {
+          "label": "Equities",
+          "headline": "U.S. stocks rebound as oil declines and investors recover much of last week's losses",
+          "summary": "U.S. stocks rallied and recovered most of the preceding week's decline as oil moved lower, AP reported. European and Asian indexes also rose, underscoring the scale of the relief rally after the latest energy-price swing.",
+          "why_it_matters": "Markets are treating lower oil as a broad macroeconomic positive, while remaining vulnerable to renewed escalation around Hormuz.",
+          "countries": ["United States", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/d938f8e6ff42b3706e1d36e6245ec56b"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Bucharest is emphasising its role in European security planning with a focus on the Black Sea.",
+      "kicker": "Romania Watch",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Black Sea security",
+          "headline": "Romanian defence minister discusses Europe's security capabilities and the Black Sea",
+          "summary": "Defence Minister Ştefan-Radu Oprea met European Commission Executive Vice-President Roxana Mînzatu in Bucharest to discuss strengthening European defence capabilities and Romania's role in security projects, with a focus on the Black Sea, Radio Romania International reported.",
+          "why_it_matters": "Romania's Black Sea role is increasingly tied to wider European deterrence, logistics and resilience planning.",
+          "countries": ["Romania", "European Union"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-9-2026-update-id1081608.html"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These posts indicate public attention and discussion, not independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Hormuz and the Iran war dominate international-news discussion threads",
+          "summary": "The daily r/worldnews ranking featured sustained discussion of the Iran conflict, maritime risk and the prospect of diplomacy. The ranking is a snapshot of community attention rather than a substitute for original reporting.",
+          "why_it_matters": "It shows the shipping and energy implications of the conflict have moved beyond specialist audiences.",
+          "countries": ["Iran", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/worldnews/top/?t=day"}]
+        },
+        {
+          "label": "r/geopolitics",
+          "headline": "Ukraine security guarantees draw renewed debate ahead of the Abu Dhabi talks",
+          "summary": "Posts in r/geopolitics are focusing on the political trade-offs around security guarantees, European participation and territorial questions ahead of the next Ukraine talks. These are community conversations and should be read as a public-interest signal.",
+          "why_it_matters": "The debate reflects how any negotiation will be judged not only by a ceasefire, but by the credibility of the security framework that follows.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/geopolitics/top/?t=day"}]
+        }
+      ]
+    }
+  ]
+}
