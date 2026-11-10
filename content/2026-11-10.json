@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-10",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-10T09:00:00+02:00",
+  "summary": {
+    "spotlight": "U.S.-brokered Russia-Ukraine talks begin in Abu Dhabi with security guarantees at their centre, even as the sides remain far apart on territory and NATO. In the Middle East, Washington's more restrained rhetoric has eased oil prices, but the Iran war continues to disrupt Hormuz and deepen risks across Yemen and the Red Sea.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition prioritizes reporting available on November 10. Romania has a concrete Black Sea security and EU-funding development. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Russia, Ukraine and the U.S. open Abu Dhabi talks with security guarantees in focus",
+    "summary": "Three-way talks begin Tuesday in the United Arab Emirates, restarting a U.S.-led push for a negotiated end to Russia's full-scale war. AP reported that the two-day session will focus on security guarantees, while Moscow and Kyiv remain far apart on the core terms of any settlement.",
+    "why_it_matters": "The meeting is a consequential test of whether diplomacy can produce a framework that protects Ukraine without merely freezing the conflict.",
+    "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"}]
+  },
+  "sections": [
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "The renewed negotiating channel is confronting the unresolved political and security questions of the war.",
+      "kicker": "Abu Dhabi Talks",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Negotiations",
+          "headline": "The first U.S.-mediated three-way session since February begins in the UAE",
+          "summary": "The Abu Dhabi meeting brings Russian, Ukrainian and U.S. representatives together after earlier rounds of negotiations failed to deliver a visible breakthrough. U.S. envoys described their objective as a lasting peace and a secure, sovereign Ukraine in a more stable European security environment.",
+          "why_it_matters": "Direct trilateral contact can clarify whether the parties have enough overlap to move beyond competing public positions.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"}]
+        },
+        {
+          "label": "Russian demands",
+          "headline": "Moscow's territorial and NATO demands remain a major obstacle to a settlement",
+          "summary": "AP reported that President Vladimir Putin wants Ukraine to withdraw from four regions Russia illegally annexed but does not fully control, abandon its NATO aspiration and accept military limits. Kyiv's security needs and sovereignty claims point in the opposite direction.",
+          "why_it_matters": "The gap shows why a meeting focused on guarantees is unlikely by itself to settle the territorial dispute.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"}]
+        },
+        {
+          "label": "European security",
+          "headline": "Any Ukraine framework would reshape Europe's security architecture",
+          "summary": "The U.S. envoys said they were seeking conditions for a sovereign and secure Ukraine within a more stable European security environment. That links the talks to the long-term role of European allies, deterrence and reconstruction rather than a ceasefire alone.",
+          "why_it_matters": "A deal that lacks credible security arrangements could leave the underlying risk of renewed war unresolved.",
+          "countries": ["Ukraine", "Russia", "European Union", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"}]
+        }
+      ]
+    },
+    {
+      "key": "iran-gulf",
+      "title": "Iran & Gulf Security",
+      "description": "Diplomatic signals have improved, but the conflict still threatens bases, commercial shipping and regional civilians.",
+      "kicker": "Fragile Restraint",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Qatar mediation",
+          "headline": "Trump meets Qatar's prime minister as Iran mediation continues",
+          "summary": "Qatar's prime minister met Trump at the White House as Doha continued to mediate between Washington and Tehran. Iranian officials dismissed U.S. characterizations of their terms, which include an end to the port blockade, sanctions relief, unfreezing assets and compensation for war damage.",
+          "why_it_matters": "The mediation channel is active, but the distance between stated conditions shows how difficult a durable agreement will be.",
+          "countries": ["United States", "Iran", "Qatar"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/iran-us-rubio-yemen-saudi-arabia-9b6fa963ea4766a08956e53506494468"}]
+        },
+        {
+          "label": "Shipping disruption",
+          "headline": "Hormuz disruption remains a global energy and trade risk despite softer rhetoric",
+          "summary": "The Iran war has severely disrupted movement through the Strait of Hormuz, driving up the price of oil, gasoline and other petroleum-linked goods. Trump said military action against Iran was not necessary at this point, helping push oil lower, but no confirmed security settlement has reopened normal traffic.",
+          "why_it_matters": "The oil-price retreat depends on expectations of restraint while the physical shipping disruption continues.",
+          "countries": ["Iran", "United States", "Oman"],
+          "sources": [{"name": "Reuters", "url": "https://finance.yahoo.com/news/oil-falls-trump-downplays-prospect-014322571.html"}, {"name": "AP", "url": "https://apnews.com/article/climate-fossil-fuels-emissions-pollution-war-energy-3adab6b51554800012a11fa0936f34f8"}]
+        },
+        {
+          "label": "Yemen civilian toll",
+          "headline": "Houthi health officials say an airstrike near Sanaa killed at least 44 people",
+          "summary": "Houthi-run health authorities said an airstrike on al-Shariya, east of Sanaa, killed at least 44 people and wounded 40, including children and women. The Saudi-led coalition said it had destroyed Houthi missile-related facilities but did not specify locations or provide further detail.",
+          "why_it_matters": "The competing accounts underscore the heavy civilian danger in Yemen as regional conflicts compound each other.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/iran-us-rubio-yemen-saudi-arabia-9b6fa963ea4766a08956e53506494468"}]
+        }
+      ]
+    },
+    {
+      "key": "maritime-security",
+      "title": "Maritime Security",
+      "description": "Instability around the Red Sea, Gulf of Aden and western Indian Ocean is widening the cost of protecting trade routes.",
+      "kicker": "Sea-Lane Pressure",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Piracy",
+          "headline": "EU naval commanders warn that piracy is rising from the Red Sea to the western Indian Ocean",
+          "summary": "AP joined an EU Operation Atalanta patrol and reported that commanders see an indirect link between regional wars, instability and a renewed piracy threat. The mission says commercial vessels have been hijacked and attacks have increased as turmoil affects Yemen and Somalia.",
+          "why_it_matters": "Threats in the alternative routes around Hormuz add freight, insurance and supply-chain pressure beyond the Gulf itself.",
+          "countries": ["Somalia", "Yemen", "Djibouti", "European Union"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/piracy-shipping-aden-eu-atalanta-somalia-mandeb-27bc3f388afd489c1c0d189037eb8995"}]
+        },
+        {
+          "label": "Bab el-Mandeb",
+          "headline": "The Bab el-Mandeb gains importance as Hormuz traffic is disrupted",
+          "summary": "In peacetime, about 12% of world trade and roughly a quarter of container traffic between Asia and Europe move through the Bab el-Mandeb, AP reported. The waterway has become even more important as an alternative for Gulf oil exports while Hormuz remains severely disrupted.",
+          "why_it_matters": "A second vulnerable chokepoint leaves the global economy with less room to absorb a wider regional escalation.",
+          "countries": ["Yemen", "Somalia", "Saudi Arabia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/piracy-shipping-aden-eu-atalanta-somalia-mandeb-27bc3f388afd489c1c0d189037eb8995"}]
+        }
+      ]
+    },
+    {
+      "key": "climate",
+      "title": "Climate & Global Resilience",
+      "description": "COP31 opens against the intertwined shocks of extreme weather, energy disruption and unresolved finance needs.",
+      "kicker": "COP31",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Implementation",
+          "headline": "COP31 delegates open talks in Turkey with pressure to turn pledges into action",
+          "summary": "The UN climate summit opened in Antalya after a year of deadly heat and climate-linked disasters. Delegates are discussing adaptation finance, methane reductions and the implementation of existing commitments as scientists say the 1.5°C target will be exceeded.",
+          "why_it_matters": "The summit tests whether climate cooperation can retain momentum while conflict and energy costs dominate political agendas.",
+          "countries": ["Turkey", "United Nations"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/turkey-cop31-summit-climate-change-edd587ab19f3b57848b50f9dc724ba82"}]
+        },
+        {
+          "label": "Carbon emissions",
+          "headline": "Scientists link a slight 2026 fall in carbon pollution to the Iran-war energy shock",
+          "summary": "The Global Carbon Project estimated fossil-fuel carbon emissions at 42.2 billion tons in 2026, down 0.4% from the previous year. Researchers told AP that the decline was driven largely by oil shocks and reduced oil use linked to the Iran war, rather than structural progress in clean energy.",
+          "why_it_matters": "An emissions decline caused by conflict is fragile and does not substitute for a durable transition away from fossil fuels.",
+          "countries": ["Iran", "Turkey"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/climate-fossil-fuels-emissions-pollution-war-energy-3adab6b51554800012a11fa0936f34f8"}]
+        }
+      ]
+    },
+    {
+      "key": "us-politics",
+      "title": "U.S. Politics",
+      "description": "A new congressional challenge is bringing domestic scrutiny to the administration's conduct of the Iran war.",
+      "kicker": "Washington",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Pentagon",
+          "headline": "Hegseth plans a rare Pentagon briefing as an impeachment effort takes shape",
+          "summary": "Defense Secretary Pete Hegseth is scheduled to hold his first Pentagon news conference in six months after Representative Thomas Massie filed an impeachment resolution. AP reported that the challenge focuses in part on the unpopular Iran war and other actions by the administration.",
+          "why_it_matters": "The episode puts congressional and public scrutiny of the war at the centre of U.S. politics just as mediators seek an off-ramp.",
+          "countries": ["United States", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/hegseth-impeachment-briefing-trump-massie-87a78193502f716e6fb8eee5aef06ac0"}]
+        },
+        {
+          "label": "Congress",
+          "headline": "The Iran war's cost and conduct are becoming a sharper domestic political issue",
+          "summary": "AP reported that Hegseth defended the conflict as necessary even while acknowledging the political challenge around it. The administration also faces pressure from the link between disrupted Gulf shipping, higher energy costs and household concerns.",
+          "why_it_matters": "Domestic constraints could influence Washington's willingness to sustain military operations or accept a diplomatic compromise.",
+          "countries": ["United States", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/iran-us-rubio-yemen-saudi-arabia-9b6fa963ea4766a08956e53506494468"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Bucharest is seeking a larger practical role in Black Sea security and navigation resilience.",
+      "kicker": "Romania Watch",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Black Sea hub",
+          "headline": "EU announces new support for a Romania-Bulgaria Black Sea security hub",
+          "summary": "During a visit to Bucharest, European Commission President Ursula von der Leyen said the EU would provide €10 million for Black Sea search-and-rescue operations and €50 million for a security hub to be managed by Romania and Bulgaria. President Nicuşor Dan linked a secure Black Sea to both peace and Ukraine's reconstruction.",
+          "why_it_matters": "The funding turns Romania's frontline-security argument into a concrete regional capability with relevance for trade and deterrence.",
+          "countries": ["Romania", "Bulgaria", "Ukraine", "European Union"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-9-2026-update-id1081608.html"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These posts indicate public attention and discussion, not independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "Iran, Hormuz and the risk of wider regional escalation dominate public discussion",
+          "summary": "The daily r/worldnews ranking is concentrating attention on the Iran conflict, commercial-shipping risk and diplomatic prospects. This is a measure of audience interest, not an editorial verification of individual claims.",
+          "why_it_matters": "The discussion reflects how a distant maritime crisis is being understood through fuel prices, military risk and fears of spillover.",
+          "countries": ["Iran", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/worldnews/top/?t=day"}]
+        },
+        {
+          "label": "r/geopolitics",
+          "headline": "Abu Dhabi talks prompt renewed debate over Ukraine's future security guarantees",
+          "summary": "Discussion in r/geopolitics is focused on the trade-offs between a ceasefire, territorial concessions and credible protection for Ukraine after any deal. The posts are best read as a public-interest signal rather than reporting.",
+          "why_it_matters": "It illustrates the scrutiny any agreement will face over whether it creates security or simply pauses the conflict.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/geopolitics/top/?t=day"}]
+        }
+      ]
+    }
+  ]
+}
