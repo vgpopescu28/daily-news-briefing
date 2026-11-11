@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-12",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-12T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Russia and Ukraine have agreed to a large prisoner exchange after U.S.-mediated talks in Abu Dhabi, but remain without a breakthrough on the war's political settlement. In the Middle East, a tanker incident in Hormuz, Gaza's worsening winter conditions and renewed Yemen strikes underline how humanitarian and trade risks continue to overlap.",
+    "market_mood": "Mixed",
+    "reader_note": "This edition prioritizes reporting available by the morning of November 12 in Romania. No fresh, independently sourced Romania development met the threshold. Reddit entries are public-attention signals, not independently verified reporting."
+  },
+  "featured_story": {
+    "category": "ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Russia and Ukraine agree to major prisoner exchange, but Abu Dhabi talks yield no wider breakthrough",
+    "summary": "Russia and Ukraine agreed to exchange 1,200 prisoners each after U.S.-mediated talks in Abu Dhabi, the Associated Press reported. The agreement is a substantial humanitarian outcome, but the parties did not announce progress on the territorial, political or security issues blocking a broader settlement.",
+    "why_it_matters": "The exchange shows that limited humanitarian bargains remain possible even as the core terms of ending Europe's largest war remain unresolved.",
+    "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/7c8d1024302e0c6ad8be064eec852a64"}]
+  },
+  "sections": [
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "The Abu Dhabi channel has produced a humanitarian agreement, while the political and security gaps remain wide.",
+      "kicker": "Abu Dhabi Talks",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Prisoners",
+          "headline": "The planned swap would return 1,200 prisoners to each side",
+          "summary": "The agreement to exchange 1,200 prisoners each is one of the largest announced humanitarian steps between Russia and Ukraine in the current diplomatic track. Details of its timing and implementation were not immediately made public.",
+          "why_it_matters": "Prisoner exchanges reduce immediate human suffering and can preserve a channel for further contact when political negotiations stall.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7c8d1024302e0c6ad8be064eec852a64"}]
+        },
+        {
+          "label": "Security guarantees",
+          "headline": "Postwar security arrangements remain central to the U.S.-led diplomacy",
+          "summary": "The Abu Dhabi talks were designed to address security guarantees as well as a possible settlement. U.S. officials have said European countries, the European Union and NATO need to be part of building consensus around any postwar framework.",
+          "why_it_matters": "A ceasefire without credible security arrangements risks leaving Ukraine exposed to renewed conflict.",
+          "countries": ["Ukraine", "Russia", "United States", "European Union"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/9a0e54363b4c74761212ad55785d2733"}, {"name": "AP", "url": "https://apnews.com/article/81537cce8daf84b24bf73a91addb6e9b"}]
+        },
+        {
+          "label": "No political deal",
+          "headline": "The talks close without resolving territory or the shape of a final peace",
+          "summary": "The new exchange did not bridge the sides' competing positions on territory, sovereignty and Ukraine's long-term security orientation. The absence of a broader announcement keeps the negotiating process fragile despite the humanitarian result.",
+          "why_it_matters": "The distinction between an exchange and a settlement is crucial for judging whether the talks are changing the war's trajectory.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/7c8d1024302e0c6ad8be064eec852a64"}]
+        }
+      ]
+    },
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Shipping safety, Gaza's winter emergency and Yemen's widening war remain connected sources of regional risk.",
+      "kicker": "Regional Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Hormuz",
+          "headline": "Iran reports tanker fire after a mine incident in the Strait of Hormuz",
+          "summary": "Iran's Revolutionary Guard said a tanker caught fire after striking a naval mine while using an unauthorized route through Hormuz. The UK Maritime Trade Operations center separately reported a tanker incident in the strait, but did not identify the vessel or immediately confirm the cause.",
+          "why_it_matters": "Even an incident with incomplete details reinforces the insurance, navigation and energy-market risks around a critical maritime chokepoint.",
+          "countries": ["Iran", "Oman", "United Kingdom"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/50075bc97e07d41fa3b66fc28858c06b"}]
+        },
+        {
+          "label": "Gaza winter",
+          "headline": "Aid groups say delayed winter supplies are worsening flooding risks in Gaza camps",
+          "summary": "Heavy rain has damaged makeshift tents in Gaza, where the United Nations and aid groups say more than 150,000 tents and water-removal pumps are ready to enter but have not been authorized. Israel's prime minister rejected responsibility and accused Hamas of diverting aid without presenting evidence.",
+          "why_it_matters": "The dispute over access is occurring as a weather emergency turns already inadequate shelter into an immediate public-health risk.",
+          "countries": ["Palestinian territories", "Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/50075bc97e07d41fa3b66fc28858c06b"}]
+        },
+        {
+          "label": "Gaza strikes",
+          "headline": "Israeli strikes kill three Palestinians as the ceasefire remains incomplete",
+          "summary": "AP reported that two Israeli strikes in Gaza killed three Palestinians on Wednesday, citing Shifa Hospital. Israel's military said it targeted military operatives, while large-scale fighting has slowed but not stopped since the October 2025 ceasefire deal.",
+          "why_it_matters": "Continued lethal incidents show that the reduced level of fighting has not created durable civilian protection or a stable peace.",
+          "countries": ["Palestinian territories", "Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/50075bc97e07d41fa3b66fc28858c06b"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "Saudi Arabia says it intercepted three Houthi cruise missiles aimed at Riyadh",
+          "summary": "Houthi forces claimed to have fired three cruise missiles toward Riyadh's King Khalid International Airport and also claimed an attack near Aden. A Saudi military spokesman said the three missiles fired toward the capital were intercepted and destroyed.",
+          "why_it_matters": "Direct missile exchanges keep Saudi Arabia and Yemen's conflict closely tied to the wider Iran-linked regional escalation.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/50075bc97e07d41fa3b66fc28858c06b"}]
+        }
+      ]
+    },
+    {
+      "key": "climate",
+      "title": "Climate & Resilience",
+      "description": "COP31 opens with renewed calls for faster action, finance and adaptation as global conflict competes for attention.",
+      "kicker": "COP31",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "Climate summit",
+          "headline": "World leaders press for faster climate action as COP31 formally opens",
+          "summary": "More than 70 leaders and senior officials addressed the U.N. climate summit in Antalya, calling for stronger mitigation, adaptation and finance. The leaders of China, the United States and India, the three largest emitters, did not attend.",
+          "why_it_matters": "The attendance gap highlights the difficulty of sustaining collective climate action while the largest economies confront domestic and geopolitical pressures.",
+          "countries": ["Turkey", "United Nations", "China", "India", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/056ff011b2e6f324c2cd089862c13824"}]
+        },
+        {
+          "label": "Adaptation",
+          "headline": "Climate displacement and methane cuts are prominent concerns at the talks",
+          "summary": "The International Organization for Migration said climate change displaced almost 30 million people in 2025. Island-state leaders urged a methane-cutting agreement, arguing that rapid reductions could limit near-term warming while longer-term carbon cuts scale up.",
+          "why_it_matters": "The debate connects abstract emissions targets to the immediate costs of displacement, food security and disaster preparedness.",
+          "countries": ["Turkey", "United Nations", "Palau", "Barbados"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/056ff011b2e6f324c2cd089862c13824"}]
+        }
+      ]
+    },
+    {
+      "key": "politics-markets",
+      "title": "Politics & Markets",
+      "description": "U.S. political constraints and volatile energy expectations continue to shape the international economic outlook.",
+      "kicker": "Policy Watch",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Washington",
+          "headline": "House rejects an impeachment push against Defense Secretary Hegseth",
+          "summary": "The House turned aside a resolution to impeach Defense Secretary Pete Hegseth over his conduct in office and handling of the Iran war. The vote comes after midterm losses that some Republicans linked to the conflict and elevated fuel costs.",
+          "why_it_matters": "The outcome does not end political pressure on the administration as the cost and conduct of the Iran war remain a domestic issue.",
+          "countries": ["United States", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/9a0e54363b4c74761212ad55785d2733"}]
+        },
+        {
+          "label": "Oil and equities",
+          "headline": "Markets remain sensitive to both Iran-war energy shocks and the AI-stock repricing",
+          "summary": "Recent oil-price moves have tracked shifts in expectations around the Iran conflict and Gulf shipping, while a sharp sell-off in AI-linked shares has exposed concern over data-center spending and highly valued technology stocks. The two themes leave investors balancing lower energy-risk expectations against broader growth and valuation anxiety.",
+          "why_it_matters": "Energy disruption and technology concentration are separate shocks that can reinforce uncertainty across global markets.",
+          "countries": ["United States", "Iran", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/4d12764c0b3ce38ffde3077712811182"}, {"name": "AP", "url": "https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e"}]
+        }
+      ]
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "description": "NASA highlights new work on gravitational waves and a measured environmental signal above Antarctica.",
+      "kicker": "Research Watch",
+      "tone": "space",
+      "stories": [
+        {
+          "label": "Space science",
+          "headline": "NASA studies examine how LISA could help reveal new exoplanets",
+          "summary": "NASA says two new studies show how the planned LISA gravitational-wave observatory could identify a distinctive population of exoplanets across the Milky Way. The work expands the possible scientific uses of an observatory designed to measure ripples in spacetime.",
+          "why_it_matters": "It points to a way future gravitational-wave instruments could complement established planet-hunting methods.",
+          "countries": ["United States", "European Union"],
+          "sources": [{"name": "NASA Goddard", "url": "https://science.gsfc.nasa.gov/sci/pressreleases/"}]
+        }
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "These posts show public discussion and skepticism, not independently verified reporting.",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "r/worldnews",
+          "headline": "The Ukraine prisoner exchange drives debate over whether humanitarian progress can unlock wider talks",
+          "summary": "Discussion in r/worldnews is focused on the humanitarian value of exchanges and the credibility of outside security guarantees for any later deal. This is a public-interest signal, not a substitute for reporting on the negotiations.",
+          "why_it_matters": "The reaction illustrates how any future agreement will be judged on both immediate human relief and long-term security.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/worldnews/top/?t=day"}]
+        },
+        {
+          "label": "r/geopolitics",
+          "headline": "Hormuz shipping claims prompt scrutiny of evidence and maritime-risk narratives",
+          "summary": "Posts in r/geopolitics are debating how to assess official claims about incidents in the Strait of Hormuz, including the gap between dramatic reports and independently corroborated details. The discussion is best read as a signal of audience concern and skepticism.",
+          "why_it_matters": "It shows why reliable confirmation matters when maritime incidents can rapidly affect perceptions of war risk and energy supply.",
+          "countries": ["Iran", "Oman", "United States"],
+          "sources": [{"name": "Reddit", "url": "https://www.reddit.com/r/geopolitics/top/?t=day"}]
+        }
+      ]
+    }
+  ]
+}
