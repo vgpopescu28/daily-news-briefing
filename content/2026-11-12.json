@@ -7,7 +7,7 @@
   "summary": {
     "spotlight": "Russia and Ukraine have agreed to a large prisoner exchange after U.S.-mediated talks in Abu Dhabi, but remain without a breakthrough on the war's political settlement. In the Middle East, a tanker incident in Hormuz, Gaza's worsening winter conditions and renewed Yemen strikes underline how humanitarian and trade risks continue to overlap.",
     "market_mood": "Mixed",
-    "reader_note": "This edition prioritizes reporting available by the morning of November 12 in Romania. No fresh, independently sourced Romania development met the threshold. Reddit entries are public-attention signals, not independently verified reporting."
+    "reader_note": "This edition prioritizes reporting available by the morning of November 12 in Romania. Romania coverage focuses on Black Sea security and a newly disclosed cyber attribution. Reddit entries are public-attention signals, not independently verified reporting."
   },
   "featured_story": {
     "category": "ukraine",
@@ -158,6 +158,55 @@
           "why_it_matters": "It points to a way future gravitational-wave instruments could complement established planet-hunting methods.",
           "countries": ["United States", "European Union"],
           "sources": [{"name": "NASA Goddard", "url": "https://science.gsfc.nasa.gov/sci/pressreleases/"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Black Sea security and cyber resilience remain closely tied to the war next door.",
+      "kicker": "Regional Security",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Black Sea hub",
+          "headline": "EU pledges €50 million to help Romania and Bulgaria launch a Black Sea security hub",
+          "summary": "European Commission President Ursula von der Leyen pledged €50 million to help Romania and Bulgaria accelerate a proposed Black Sea maritime-security hub, Reuters reported. The initiative follows a series of deadly drone attacks on cargo ships in the region.",
+          "why_it_matters": "The funding underlines how commercial shipping, energy infrastructure and NATO security are converging on the western Black Sea.",
+          "countries": ["Romania", "Bulgaria", "European Union", "Ukraine"],
+          "sources": [{"name": "Reuters", "url": "https://wsau.com/2026/11/10/eus-von-der-leyen-pledges-e50-million-to-speed-up-security-hub-in-the-black-sea/"}]
+        },
+        {
+          "label": "Cybersecurity",
+          "headline": "Romania says a Russian-linked group was behind a 2025 attack on a government organization",
+          "summary": "Romania's intelligence service said the Russia-linked Turla group carried out a cyberattack against a Romanian government organization in December 2025 and that countermeasures were taken. Reuters reported the statement on Wednesday.",
+          "why_it_matters": "The attribution adds cyber operations to Romania's growing catalogue of security concerns linked to Russia's war against Ukraine.",
+          "countries": ["Romania", "Russia"],
+          "sources": [{"name": "Reuters", "url": "https://uk.marketscreener.com/news/romanian-intelligence-agency-says-it-identified-russian-linked-cyber-attack-ce785edbdf8bff26"}]
+        }
+      ]
+    },
+    {
+      "key": "global-developments",
+      "title": "Global Developments",
+      "description": "New reporting highlights civilian risk in Gaza and mounting evidence that climate plans are falling short.",
+      "kicker": "Wider Watch",
+      "stories": [
+        {
+          "label": "Gaza hospital",
+          "headline": "Israeli strike on a Gaza hospital kills six, health authorities say",
+          "summary": "An Israeli strike hit a hospital in Gaza and killed six people, Palestinian health authorities said Thursday, according to AP. The reported attack adds to pressure on a health system already strained by the war and shortages.",
+          "why_it_matters": "Hospital incidents carry immediate civilian consequences and intensify scrutiny of protection for medical facilities during the conflict.",
+          "countries": ["Palestinian territories", "Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/50b547b5a82388b6b415aee4d776fbfb"}]
+        },
+        {
+          "label": "Climate gap",
+          "headline": "New assessment says five years of climate pledges have not slowed warming trends",
+          "summary": "A report released as COP31 continues says governments have not slowed or stopped global warming trends over the past five years because plans were not fully implemented and progress was offset by cancelled efforts, AP reported.",
+          "why_it_matters": "The finding raises the stakes for negotiators seeking credible implementation and finance commitments rather than another round of targets alone.",
+          "countries": ["Turkey", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/f3e3326d07ab4fbff40c37b605ecd66c"}]
         }
       ]
     },
