@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-13",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-13T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Iran's reported attack on a U.S. radar site in Bahrain has sharpened concern about escalation in the Gulf, while the Russia-Ukraine channel continues without a political settlement. Gaza's hospital strike and worsening exposure to cold show that civilian protection remains precarious even where fighting has slowed.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 13 in Romania. No dedicated Reddit section is included: the current threads reviewed did not provide sufficiently timely, independently checkable public-interest signal."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran says it struck a U.S. radar site in Bahrain as Gulf states urge restraint",
+    "summary": "Al Jazeera reported that Iran said it had targeted a U.S. radar site in Bahrain, while President Donald Trump said Gulf allies had urged him to pause further attacks. The claims are an acute reminder that military action around Iran is exposing U.S. facilities and regional partners to direct risk.",
+    "why_it_matters": "Any broadening of attacks on Gulf-based infrastructure could raise the risk to shipping, energy flows and regional diplomacy at once.",
+    "countries": ["Iran", "Bahrain", "United States", "Saudi Arabia"],
+    "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Military escalation and the Gaza humanitarian emergency are reinforcing each other across the region.",
+      "kicker": "Regional Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Gulf escalation",
+          "headline": "The Bahrain radar claim puts U.S. regional basing under renewed scrutiny",
+          "summary": "Iran's reported strike on a U.S. radar site in Bahrain follows weeks of heightened regional confrontation. Al Jazeera said Trump described Gulf allies as urging a pause in further attacks, underscoring the pressure for an off-ramp.",
+          "why_it_matters": "The vulnerability of foreign military facilities is becoming a central constraint on decisions about further escalation.",
+          "countries": ["Iran", "Bahrain", "United States"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        },
+        {
+          "label": "Gaza hospital",
+          "headline": "Strike on Nasser Hospital kills six and damages operating areas, AP reports",
+          "summary": "An Israeli strike hit Nasser Hospital's surgical wing, killing six people including a surgeon and a 13-year-old boy, according to AP reporting. The attack heavily damaged operating rooms and wards at a time when Gaza's health system remains deeply strained.",
+          "why_it_matters": "Damage to a major hospital limits care far beyond those directly caught in the strike.",
+          "countries": ["Palestinian territories", "Israel"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/25d0ebb9cc014c7366bede100d0ee5cf"}]
+        },
+        {
+          "label": "Winter exposure",
+          "headline": "A Palestinian baby dies from cold as rain-soaked camps face worsening shelter conditions",
+          "summary": "Al Jazeera reported that a baby died of hypothermia overnight in a tent in southern Gaza. The death highlights the compounding risk to displaced families as cold weather and rain hit inadequate shelters.",
+          "why_it_matters": "Weather is turning displacement into an immediate public-health emergency, not merely a logistical challenge.",
+          "countries": ["Palestinian territories", "Israel"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "U.N. Security Council renews Yemen sanctions as the Houthis claim fresh Saudi strikes",
+          "summary": "The Security Council renewed sanctions connected to Yemen while Houthi forces renewed claims of attacks on Saudi energy and military infrastructure. The claims require independent confirmation, but they point to continued regional spillover.",
+          "why_it_matters": "The Yemen front remains capable of drawing Saudi infrastructure and Red Sea security into the broader crisis.",
+          "countries": ["Yemen", "Saudi Arabia", "United Nations"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Diplomacy continues, but European participation and credible security guarantees remain unresolved.",
+      "kicker": "Peace Channel",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Europe's role",
+          "headline": "European governments press for a seat at Ukraine peace talks",
+          "summary": "AP reports that European leaders want a direct role in negotiations after tensions with Washington over trade, Greenland and the wars in Iran and Ukraine. Moscow's demands include limits on NATO forces near its borders and no European troop deployment in Ukraine.",
+          "why_it_matters": "A settlement that excludes the states expected to help enforce it would face a serious credibility problem.",
+          "countries": ["Ukraine", "Russia", "European Union", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/2a96d57210055edd2e76f71693e0a37c"}]
+        },
+        {
+          "label": "Negotiations",
+          "headline": "U.S. envoys and Putin agree to continue the Russia-Ukraine peace channel",
+          "summary": "Al Jazeera reported that U.S. envoys and Vladimir Putin agreed to continue contacts after two days of trilateral talks in the United Arab Emirates produced no breakthrough. The decision preserves a channel but does not resolve the underlying territorial and security disputes.",
+          "why_it_matters": "Keeping talks alive is useful, but continued meetings should not be confused with progress toward a settlement.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        },
+        {
+          "label": "Baltic security",
+          "headline": "Finland reports detecting a strike on a Russian warship",
+          "summary": "Al Jazeera listed Finland's detection of a strike on a Russian warship among the day's security developments as President Volodymyr Zelenskyy met U.S. envoys. The available early reporting did not establish full details of the incident.",
+          "why_it_matters": "Any confirmed military incident involving the Baltic Sea would add a new geographic pressure point to the war's wider security environment.",
+          "countries": ["Finland", "Russia", "Ukraine"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        }
+      ]
+    },
+    {
+      "key": "public-health",
+      "title": "Public Health",
+      "description": "Health authorities are reassessing whether a hard-won regional measles-elimination milestone has been lost.",
+      "kicker": "Health Watch",
+      "stories": [
+        {
+          "label": "Measles",
+          "headline": "Experts assess whether the U.S. and Mexico have lost measles elimination status",
+          "summary": "International health experts are meeting to determine whether the United States and Mexico have forfeited the elimination of measles, AP reports. The disease remains a major cause of child deaths globally despite being preventable by vaccination.",
+          "why_it_matters": "A reversal would signal that outbreaks can undo public-health gains when vaccination coverage slips.",
+          "countries": ["United States", "Mexico"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c2f73f91458992f3320d0228b7787627"}]
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "Technology",
+      "description": "A major service interruption and turmoil at a leading chipmaker show how concentrated digital infrastructure has become.",
+      "kicker": "Systems Watch",
+      "stories": [
+        {
+          "label": "Cloud services",
+          "headline": "Microsoft outage disrupts Outlook, Teams and Copilot for tens of thousands",
+          "summary": "Microsoft said servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services, according to Al Jazeera. The scale of the interruption was reported across multiple workplace tools.",
+          "why_it_matters": "The outage illustrates the operational exposure created when essential communications and AI services share a small number of providers.",
+          "countries": ["United States", "Global"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        },
+        {
+          "label": "Semiconductors",
+          "headline": "Nvidia shares come under pressure amid reports of leadership turmoil",
+          "summary": "Al Jazeera reported on allegations and security concerns surrounding Nvidia chief executive Jensen Huang, with the company becoming a focus for investors and lawmakers. The available reporting should be read with care while formal company and regulatory responses develop.",
+          "why_it_matters": "Instability at a company central to AI-chip supply could reverberate through technology markets and industrial planning.",
+          "countries": ["United States", "China"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        }
+      ]
+    },
+    {
+      "key": "africa-and-europe",
+      "title": "Africa & Europe",
+      "description": "Conflict in Tigray and social pressure in Spain are shaping two very different tests for governments.",
+      "kicker": "Regional Watch",
+      "stories": [
+        {
+          "label": "Ethiopia",
+          "headline": "Officials say fighting in Tigray is ending, but uncertainty remains",
+          "summary": "BBC reporting summarized by Daily Summary Of says federal forces entered Mekelle after the TPLF withdrew, with officials describing the latest phase of Tigray's conflict as effectively over. The report notes that hundreds are said to have died and the wider political outlook remains unclear.",
+          "why_it_matters": "An announced end to fighting does not by itself resolve displacement, accountability and political fragmentation.",
+          "countries": ["Ethiopia"],
+          "sources": [{"name": "BBC News", "url": "https://www.bbc.com/news/world-africa"}]
+        },
+        {
+          "label": "Housing",
+          "headline": "Spain approves housing reforms after a nationwide strike over costs",
+          "summary": "Spain's parliament approved laws limiting evictions after a nationwide strike over housing costs, Al Jazeera reported. The duration and final shape of the reforms depend on the coming snap-election outcome.",
+          "why_it_matters": "Housing affordability is becoming a powerful source of political pressure across European democracies.",
+          "countries": ["Spain"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        },
+        {
+          "label": "NATO summit",
+          "headline": "Albania says the next NATO summit will not take place in Tirana in 2027",
+          "summary": "Albanian Prime Minister Edi Rama said the next NATO summit would not be held in Tirana in 2027 as previously planned, while a NATO official said Albania would still host a future summit with the date undecided.",
+          "why_it_matters": "The scheduling dispute arrives amid domestic pressure over defense spending and wider debate about European security commitments.",
+          "countries": ["Albania", "NATO"],
+          "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania is tying its Black Sea posture and cyber defenses more closely to wider European security policy.",
+      "kicker": "Regional Security",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Cybersecurity",
+          "headline": "Romanian intelligence attributes a 2025 government cyberattack to a Russia-linked group",
+          "summary": "Romania's intelligence agency said the Turla group, linked to Russia's FSB, carried out a December 2025 cyberattack against a Romanian government organization. Reuters reported that the affected email service was fixed and no sensitive-data exfiltration was identified.",
+          "why_it_matters": "The attribution adds cyber operations to Romania's wider set of security concerns linked to the war in neighboring Ukraine.",
+          "countries": ["Romania", "Russia"],
+          "sources": [{"name": "Reuters", "url": "https://uk.marketscreener.com/news/romanian-intelligence-agency-says-it-identified-russian-linked-cyber-attack-ce785edbdf8bff26"}]
+        },
+        {
+          "label": "European Political Community",
+          "headline": "President Nicușor Dan raises Black Sea and Eastern Flank security in Dublin",
+          "summary": "Romania's presidency said Nicușor Dan would use the European Political Community summit in Dublin to advocate coordinated action on security, competitiveness, strategic connectivity and democratic resilience. The agenda includes the Eastern Flank, Black Sea security, Ukraine support and hybrid threats.",
+          "why_it_matters": "Romania is seeking to keep Black Sea risks central to Europe's broader defense and resilience agenda.",
+          "countries": ["Romania", "Ireland", "European Union", "Ukraine"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-12-2026-id1082958.html"}]
+        }
+      ]
+    }
+  ]
+}
