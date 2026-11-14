@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-14",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-14T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Iran's attack on a U.S. radar facility in Bahrain, confirmed by the U.S. military alongside its interception of two Iranian drones, has raised the immediate stakes in the Gulf. At the same time, U.S.-mediated Ukraine talks remain open but without a political breakthrough, while Asian leaders prepare a renewed call for peaceful conflict resolution.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 14 in Romania. Reddit items are clearly labelled as discussion signals, not independent reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "U.S. confirms Iranian attack on Bahrain radar facility as Gulf escalation returns",
+    "summary": "The U.S. military said it intercepted two Iranian attack drones headed toward Bahrain after Iran's Revolutionary Guard said it had struck a U.S. early-warning radar system there. Secretary of State Marco Rubio said further U.S. military action was not needed against an economically weakened Iran, even as the episode demonstrated the continuing exposure of Gulf partners and U.S. facilities.",
+    "why_it_matters": "A confirmed strike involving Bahrain makes the risk of a wider regional confrontation more immediate for military basing, energy routes and diplomacy.",
+    "countries": ["Iran", "Bahrain", "United States"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08"}]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "The Bahrain attack and the continuing danger to civilian and maritime security keep the Gulf at the center of global risk.",
+      "kicker": "Regional Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Bahrain attack",
+          "headline": "Iran's Bahrain strike tests the limits of a lower-intensity U.S. approach",
+          "summary": "Iran claimed it hit the U.S. radar system, while the U.S. military said it destroyed two Iranian drones bound for Bahrain. Rubio's public argument against further military action signals that Washington is weighing deterrence against the danger of broadening the conflict.",
+          "why_it_matters": "The incident shows that restraint does not eliminate the operational risk around U.S. installations and allied territory.",
+          "countries": ["Iran", "Bahrain", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08"}]
+        },
+        {
+          "label": "Maritime security",
+          "headline": "Deaths and disruption in the Hormuz region underline the cost of the maritime crisis",
+          "summary": "The International Maritime Organization said 25 seafarers had died and others were injured or missing after 134 incidents in the Strait of Hormuz and the wider Middle East maritime area as of November. The figure underscores that the shipping emergency is no longer only a market or military concern.",
+          "why_it_matters": "Sustained danger to crews and commercial vessels can prolong freight disruption and keep energy risk premiums elevated.",
+          "countries": ["Iran", "Oman", "Bahrain"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08"}]
+        },
+        {
+          "label": "Regional diplomacy",
+          "headline": "Turkey and Qatar deepen defense coordination while calling for diplomacy",
+          "summary": "AP reported that Turkey and Qatar agreed to continue working together to prevent a renewed Gulf war and encourage diplomacy. The move follows a defense agreement Turkey signed with Pakistan and Saudi Arabia in August.",
+          "why_it_matters": "Regional security arrangements are increasingly being used to hedge against escalation while formal negotiations remain uncertain.",
+          "countries": ["Turkey", "Qatar", "Saudi Arabia", "Pakistan"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "The diplomatic channel survives, but front-line pressure and the contest over Europe's security order remain unresolved.",
+      "kicker": "Peace Channel",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Talks",
+          "headline": "Ukraine launches nearly 1,200 drones at Russia after Abu Dhabi talks",
+          "summary": "AP reported that Ukraine launched nearly 1,200 drones at Russia as U.S.-led diplomacy shifted toward a wider European-security discussion. The scale of the operation illustrates that the military contest continues even as negotiators keep a political channel open.",
+          "why_it_matters": "The parallel tracks of negotiation and long-range attack leave little room for assuming that talks have reduced escalation risk.",
+          "countries": ["Ukraine", "Russia", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/157d168cb7ff9cae318cbf6cecb3988f"}]
+        },
+        {
+          "label": "Negotiations",
+          "headline": "U.S.-mediated talks close without a settlement but retain a humanitarian agenda",
+          "summary": "The first U.S.-mediated Russia-Ukraine talks in nine months covered prisoner exchanges, civilians in captivity and children taken from Ukraine, AP reported. The sides remain far apart on territory, NATO and the size of Ukraine's future military.",
+          "why_it_matters": "Humanitarian progress can ease suffering, but the central political disputes still block a durable ceasefire or settlement.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"}]
+        },
+        {
+          "label": "European security",
+          "headline": "A broader European security framework is emerging as a key part of the talks",
+          "summary": "U.S. officials said a lasting settlement would require direct engagement between Russia and European partners on wider security arrangements. Moscow has welcomed that approach, while European governments remain concerned about decisions that could shape their security without their full participation.",
+          "why_it_matters": "The negotiation is becoming about the continent's postwar security architecture as well as Ukraine's immediate battlefield.",
+          "countries": ["Ukraine", "Russia", "European Union", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"}]
+        }
+      ]
+    },
+    {
+      "key": "asia-diplomacy",
+      "title": "Asia & Diplomacy",
+      "description": "Leaders gathering in Southeast Asia face conflict management, Myanmar's war and a consequential great-power meeting.",
+      "kicker": "Regional Order",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "ASEAN",
+          "headline": "Southeast Asian leaders prepare another call for peaceful resolutions to conflicts",
+          "summary": "Draft communiques seen by AP show ASEAN leaders preparing to call for peaceful resolution of disputes in the South China Sea and of conflicts in Myanmar, the Middle East and Ukraine. No major breakthrough is expected from the summit discussions.",
+          "why_it_matters": "The language signals diplomatic consensus, but ASEAN's effectiveness will be judged by whether it can translate that consensus into leverage.",
+          "countries": ["ASEAN", "Myanmar", "China"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c6424379b1a551099f40b8f4a0318427"}]
+        },
+        {
+          "label": "Great powers",
+          "headline": "White House says Trump, Xi and Putin plan a three-way APEC meeting",
+          "summary": "The White House said Donald Trump, Xi Jinping and Vladimir Putin plan an unprecedented joint meeting on the sidelines of APEC. The prospect of a three-way encounter comes while Ukraine and the Iran conflict are straining relations among the world's major powers.",
+          "why_it_matters": "A meeting of the three leaders could reshape diplomatic expectations, but it could also deepen concern among allies about decisions made over their heads.",
+          "countries": ["United States", "China", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"}]
+        },
+        {
+          "label": "Myanmar",
+          "headline": "Myanmar's civil strife remains a central test for the ASEAN summit",
+          "summary": "Myanmar's conflict remains one of the subjects named in the ASEAN summit's draft final statements. The inclusion reflects persistent regional concern, even though the bloc has often struggled to turn statements into meaningful influence over the country's warring parties.",
+          "why_it_matters": "Myanmar is a measure of whether regional diplomacy can respond to a protracted crisis within its own neighborhood.",
+          "countries": ["Myanmar", "ASEAN"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/c6424379b1a551099f40b8f4a0318427"}]
+        }
+      ]
+    },
+    {
+      "key": "markets-and-infrastructure",
+      "title": "Markets & Infrastructure",
+      "description": "Oil supply uncertainty and a major U.S. aviation interruption show how quickly geopolitical and systems risks can reach daily life.",
+      "kicker": "Economic Spillover",
+      "tone": "economy",
+      "stories": [
+        {
+          "label": "Energy",
+          "headline": "Oil supplies are recovering unevenly, but the Middle East risk premium remains",
+          "summary": "Axios reported that oil supplies were beginning to recover but prices remained well above pre-war levels as Middle East exports returned unevenly. Analysts cited by the outlet warned that shipping attacks could resume while the confrontation over Iran's nuclear and missile programs remains unresolved.",
+          "why_it_matters": "Even a partial supply recovery may not quickly relieve consumers or industries if maritime security stays fragile.",
+          "countries": ["Iran", "Saudi Arabia", "Global"],
+          "sources": [{"name": "Axios", "url": "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal"}]
+        },
+        {
+          "label": "Aviation",
+          "headline": "FAA ground stop disrupts U.S. travel after communications problems",
+          "summary": "The Federal Aviation Administration grounded flights nationwide for several hours on Friday, disrupting weekend travel and leaving airlines and sports teams scrambling, AP reported. Delays and cancellations were expected to continue after flights resumed.",
+          "why_it_matters": "A short systems failure can cascade quickly through a tightly scheduled national transport network.",
+          "countries": ["United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/091ecf4f82a6158473357feeb05cf593"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's energy and diplomatic calendar connect domestic resilience to wider European and regional engagement.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Nuclear energy",
+          "headline": "Cernavodă Unit 1 is scheduled to return to nominal power after a delay",
+          "summary": "Nuclearelectrica said Cernavodă Nuclear Power Plant's Unit 1 would reach nominal power on November 14 after a delayed return. The operator's notice updates an earlier timetable for the unit, a major component of Romania's electricity system.",
+          "why_it_matters": "Reliable output from Cernavodă is important to Romania's energy balance as regional power security remains a strategic concern.",
+          "countries": ["Romania"],
+          "sources": [{"name": "Nuclearelectrica", "url": "https://nuclearelectrica.ro/ir/wp-content/uploads/sites/3/2026/11/CR-U1-delay.pdf"}]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "President Nicușor Dan is due at the Francophonie Summit in Cambodia",
+          "summary": "Romania's Presidential Administration said President Nicușor Dan would attend the Francophonie Summit in Cambodia on November 15 and 16. The visit places Romania in a broader diplomatic forum as it seeks to sustain international partnerships beyond its immediate neighborhood.",
+          "why_it_matters": "The summit offers Romania a venue to reinforce political and cultural ties across a wide multilingual network.",
+          "countries": ["Romania", "Cambodia"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-13-2026-update-id1083557.html"}]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "These are public-attention signals from discussion communities, retained for context rather than as independent verification.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Discussion signal",
+          "headline": "Geopolitics users focus on the Bahrain attack as a threshold-crossing event",
+          "summary": "A discussion in r/geopolitics framed the reported Bahrain radar incident as a notable escalation after a relative lull in strikes around the Strait of Hormuz. Contributors were debating its implications for U.S. regional posture and deterrence.",
+          "why_it_matters": "The thread captures how a localized military incident is being interpreted by an engaged public as a potentially wider strategic shift.",
+          "countries": ["Iran", "Bahrain", "United States"],
+          "score": "19",
+          "comments": "discussion",
+          "sources": [{"name": "Reddit / r/geopolitics", "url": "https://www.reddit.com/r/geopolitics/comments/1xve58m/iran_escalates_lowlevel_conflict_with_a_shot_at/"}]
+        },
+        {
+          "label": "Discussion signal",
+          "headline": "European Union forum debates the security implications of the Abu Dhabi talks",
+          "summary": "A thread in r/europeanunion focused on the possibility that U.S.-Russia contacts could shape a new European security arrangement. The discussion reflects concern about representation and enforcement, not a confirmed negotiating outcome.",
+          "why_it_matters": "Public debate mirrors a core policy question: whether European states will have meaningful influence over any postwar security framework.",
+          "countries": ["Ukraine", "Russia", "European Union", "United States"],
+          "score": "12",
+          "comments": "discussion",
+          "sources": [{"name": "Reddit / r/europeanunion", "url": "https://www.reddit.com/r/europeanunion/comments/1xsuwzd/us_overture_to_russia_on_european_security_sparks/"}]
+        }
+      ]
+    }
+  ]
+}
