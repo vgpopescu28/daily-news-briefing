@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-17",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-17T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Ukraine's power system is again at the center of the war as international nuclear and energy bodies warn that continued Russian attacks raise safety risks ahead of winter. In the Middle East, a deeper U.S. naval presence and continuing humanitarian strain in Gaza and Yemen keep regional escalation and trade-route security at the top of the global agenda.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 17 in Romania. Reddit items are public-attention signals, not independent reporting."
+  },
+  "featured_story": {
+    "category": "ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Ukraine's power grid and nuclear safety face renewed pressure as winter approaches",
+    "summary": "International nuclear and energy bodies warned that Russia's continuing attacks on Ukraine's energy infrastructure are increasing nuclear-safety risks as winter nears, according to a Reuters report published in the Gulf Times. The warning comes as Kyiv and Moscow remain far apart on the political terms of any settlement, despite a continuing U.S.-led diplomatic track.",
+    "why_it_matters": "Damage to electricity systems can turn battlefield escalation into a broad civilian and nuclear-safety emergency during the coldest months.",
+    "countries": ["Ukraine", "Russia", "Europe"],
+    "sources": [{"name": "Reuters via Gulf Times", "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/17/main-20261117-1-1794864772.pdf?ts=1794864772"}]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Military deployments, humanitarian needs and fragile sea-lane security remain tightly linked.",
+      "kicker": "Regional Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Gulf security",
+          "headline": "A third U.S. aircraft carrier reaches the Middle East as the Iran confrontation continues",
+          "summary": "AP reported that a third American aircraft carrier had arrived in the Middle East, adding to the U.S. military posture around the regional conflict. The deployment underscores Washington's concern over the Strait of Hormuz, through which a large share of global oil and gas normally transits.",
+          "why_it_matters": "More naval capacity can strengthen deterrence but also raises the stakes of any miscalculation around the Gulf.",
+          "countries": ["United States", "Iran", "Bahrain"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/8830a880160d69e2d7f1fd654207a121"}]
+        },
+        {
+          "label": "Gaza aid",
+          "headline": "Germany urges Israel to allow substantially more aid into Gaza before winter",
+          "summary": "Germany's foreign minister called for significantly greater humanitarian access to Gaza as rainy and stormy winter conditions approach, Anadolu reported. The appeal is expected to be part of discussions among EU foreign ministers in Brussels.",
+          "why_it_matters": "Winter exposure and restricted aid access could sharply worsen conditions for displaced families in Gaza.",
+          "countries": ["Palestinian Territories", "Israel", "Germany", "European Union"],
+          "sources": [{"name": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "Houthi authorities blame Saudi strikes for civilian deaths in Yemen",
+          "summary": "Iran-backed Houthi authorities said Saudi strikes in Houthi-controlled Yemen killed five people, AP reported; the claim was not independently verified in the report. The allegation comes as the Yemen conflict again intersects with wider Gulf and Red Sea tensions.",
+          "why_it_matters": "Escalation in Yemen threatens civilians and can further complicate security around major shipping routes.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/8830a880160d69e2d7f1fd654207a121"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Energy infrastructure, long-range attacks and unresolved negotiation terms define the next phase of the war.",
+      "kicker": "Winter Risk",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Peace talks",
+          "headline": "EU accuses Russia of using peace talks to buy time for attacks on Ukraine's power system",
+          "summary": "The European Union accused Russia of stalling in peace discussions while continuing to target Ukraine's energy infrastructure, AP reported. Moscow has not accepted the EU characterization, and core differences over territory and Ukraine's future security remain unresolved.",
+          "why_it_matters": "The gap between diplomacy and attacks on civilian infrastructure makes a durable ceasefire harder to build.",
+          "countries": ["Ukraine", "Russia", "European Union"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/cde686fba0e452b10ca613b3517e884e"}]
+        },
+        {
+          "label": "Drone war",
+          "headline": "Russia says it intercepted more than 1,300 Ukrainian drones in a major attack",
+          "summary": "Russia's Defense Ministry said it intercepted more than 1,300 Ukrainian drones in a large attack, AP reported. The claim could not be independently verified in the initial report, but it points to the expanding scale of long-range unmanned warfare.",
+          "why_it_matters": "Large drone operations can strain air defenses and extend the war's impact far beyond the front line.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/242cb3fd47fc79293cf264c321b93800"}]
+        },
+        {
+          "label": "Economic support",
+          "headline": "IMF says Ukraine could receive about $1.6 billion after progress on program reviews",
+          "summary": "The IMF said Ukraine could receive approximately $1.6 billion in additional assistance after progress in discussions on reviews of its four-year lending program, Anadolu reported. The prospective support comes amid mounting pressure on Ukraine's economy and power system.",
+          "why_it_matters": "External financing is critical to keeping state services and economic stability intact during a prolonged war.",
+          "countries": ["Ukraine", "International Monetary Fund"],
+          "sources": [{"name": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"}]
+        }
+      ]
+    },
+    {
+      "key": "great-power-diplomacy",
+      "title": "Great-Power Diplomacy",
+      "description": "Asia meetings may test whether strategic competition can coexist with crisis management.",
+      "kicker": "Asia Agenda",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Asia trip",
+          "headline": "Trump begins Asia trip with economic deals and proposed nuclear talks in focus",
+          "summary": "President Donald Trump began an Asia trip that includes Manila and Shenzhen and could culminate in three-way nuclear discussions with China's Xi Jinping and Russia's Vladimir Putin, AP reported. The itinerary also gives Washington an opportunity to discuss the Iran war and wider regional security.",
+          "why_it_matters": "Any understanding among the three nuclear powers could affect arms-control expectations and calculations in several active conflicts.",
+          "countries": ["United States", "China", "Russia", "Philippines"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ffc5e5a2d384f00960034ec10087502e"}]
+        },
+        {
+          "label": "Taiwan",
+          "headline": "Taiwan's security is expected to shadow the next Trump-Xi meeting",
+          "summary": "AP reported that Taiwan could receive less public attention than other agenda items when Trump and Xi meet again, even though arms sales and sovereignty disputes remain central to relations. The question is how Washington balances crisis diplomacy elsewhere with commitments in the Indo-Pacific.",
+          "why_it_matters": "Signals made around Taiwan can shape military planning and alliance confidence across East Asia.",
+          "countries": ["Taiwan", "China", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/eb211c849fa45cf3ddaa54102412a423"}]
+        },
+        {
+          "label": "North Korea",
+          "headline": "Trump leaves open the possibility of a meeting with North Korea's Kim",
+          "summary": "Trump indicated that a meeting with North Korean leader Kim Jong Un could be possible during his Asia trip, according to Anadolu's morning briefing. There was no announced arrangement, but the prospect places the Korean Peninsula alongside nuclear diplomacy with China and Russia.",
+          "why_it_matters": "Even a tentative reopening of leader-level contact could alter expectations around North Korea's weapons program and regional deterrence.",
+          "countries": ["United States", "North Korea", "South Korea"],
+          "sources": [{"name": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"}]
+        }
+      ]
+    },
+    {
+      "key": "africa-humanitarian",
+      "title": "Africa & Humanitarian Crises",
+      "description": "Sudan's war is inflicting further civilian harm while regional tensions broaden its risks.",
+      "kicker": "Overlooked Emergency",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Sudan",
+          "headline": "Rights group says Sudanese army airstrike killed at least 13 people in West Kordofan",
+          "summary": "A local rights group said a Sudanese army airstrike killed at least 13 people and destroyed homes in West Kordofan, AP reported. Sudan's war has displaced around 13 million people and pushed parts of the country into famine, according to aid organizations cited by AP.",
+          "why_it_matters": "Fresh civilian casualties deepen one of the world's largest displacement and hunger emergencies.",
+          "countries": ["Sudan"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/64fecf743ea8c55ae9dc4a72d0acd2a7"}]
+        },
+        {
+          "label": "Regional spillover",
+          "headline": "Ethiopia and Sudan trade accusations of backing armed groups",
+          "summary": "Ethiopia and Sudan accused each other of supporting armed fighters, raising concern that their tensions could become another front connected to Sudan's civil war, AP reported. The dispute follows diplomatic expulsions and the closure of Sudan's consulate in Asosa earlier this month.",
+          "why_it_matters": "A broader regional confrontation would make humanitarian access and conflict containment still more difficult.",
+          "countries": ["Ethiopia", "Sudan"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/649640494d674bfffcdc4418205b7485"}]
+        },
+        {
+          "label": "Conflict finance",
+          "headline": "Report says war-zone gold continued to enter the UAE despite tougher rules",
+          "summary": "A Swissaid report said the United Arab Emirates remains a key destination for gold smuggled from war zones despite regulations introduced after international pressure, AP reported. The report identified African producers including Sudan among countries linked to the flows.",
+          "why_it_matters": "Conflict-linked commodity flows can fund armed actors and undermine efforts to improve supply-chain accountability.",
+          "countries": ["United Arab Emirates", "Sudan", "Mali", "Guinea"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/1a1326e00b305df82062c3bb210da300"}]
+        }
+      ]
+    },
+    {
+      "key": "climate-and-markets",
+      "title": "Climate & Markets",
+      "description": "Climate negotiations collide with the energy and inflation consequences of active wars.",
+      "kicker": "Long-Term Stakes",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "COP31",
+          "headline": "First COP31 draft exposes sharp divisions while calling for faster fossil-fuel phaseout",
+          "summary": "COP31 co-host Australia released a first draft of a broad political deal that contains sharply differing positions on climate policy while calling for a faster phaseout of fossil fuels, Reuters reported. Negotiations are scheduled to continue through November 20.",
+          "why_it_matters": "The draft will test whether governments can translate broad climate concern into concrete action on energy systems.",
+          "countries": ["Türkiye", "Australia", "Global"],
+          "sources": [{"name": "Reuters via Gulf Times", "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/17/main-20261117-1-1794864772.pdf?ts=1794864772"}]
+        },
+        {
+          "label": "Climate warning",
+          "headline": "UN chief calls for immediate, drastic emissions cuts at his final climate summit",
+          "summary": "UN Secretary-General António Guterres said the world needs immediate and drastic fossil-fuel emissions cuts to avoid the most catastrophic effects of climate change, AP reported from COP31. His appeal comes as conflict, inflation and energy-security concerns compete for governments' attention.",
+          "why_it_matters": "The widening gap between climate science and policy action heightens economic and physical risks across regions.",
+          "countries": ["United Nations", "Türkiye", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/9c3945f36e4445dd4427f490c40e4bf3"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's economic outreach in Qatar continues amid regional concern over energy and shipping security.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Economic diplomacy",
+          "headline": "Romania's economy minister continues Qatar visit focused on energy, ports and digital investment",
+          "summary": "Romania's economy minister is in Qatar through November 18 to explore investment and business opportunities in energy, port infrastructure, tourism, transport and digitalization, Radio Romania International reported. The visit overlaps with wider concern about Gulf energy and maritime security.",
+          "why_it_matters": "Broader investment and infrastructure links can support Romania's long-term resilience and Black Sea connectivity.",
+          "countries": ["Romania", "Qatar"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-15-2026-id1083795.html"}]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Romania seeks a larger Francophonie role through its candidate for secretary-general",
+          "summary": "President Nicușor Dan attended the Francophonie Summit in Cambodia, where Romania backed former prime minister and European commissioner Dacian Cioloș for secretary-general, Radio Romania International reported. The organization brings together a wide diplomatic network across several continents.",
+          "why_it_matters": "The contest gives Romania a chance to build influence through a multilateral forum beyond its immediate region.",
+          "countries": ["Romania", "Cambodia"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-13-2026-update-id1083557.html"}]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "These discussion-led items indicate public attention, not independently verified reporting.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Discussion signal",
+          "headline": "Worldnews users focus on Pope Leo's appeal to stop Amazon deforestation",
+          "summary": "A public Reddit trend feed identified a highly upvoted r/worldnews discussion of Pope Leo's call to halt Amazon deforestation and condemn killings of Indigenous leaders. The thread reflects sustained public interest in environmental protection and violence against defenders.",
+          "why_it_matters": "The discussion shows how a regional environmental issue is drawing broad international public attention.",
+          "countries": ["Brazil", "Peru"],
+          "score": "1.6k",
+          "comments": "16",
+          "sources": [{"name": "Reddit trend feed", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1xxhrta/reddit_intelligence_feed_20261116_0600_utc/"}]
+        },
+        {
+          "label": "Discussion signal",
+          "headline": "Reddit users debate reported strain on Russia's gasoline reserves after refinery attacks",
+          "summary": "A public trend feed highlighted a widely discussed r/worldnews post about reported pressure on Russia's gasoline reserves after attacks on refineries. The item is a measure of conversation around the economic effects of the Ukraine war, not a substitute for independent verification.",
+          "why_it_matters": "The thread illustrates public interest in how attacks on energy infrastructure may affect wartime economic resilience.",
+          "countries": ["Russia", "Ukraine"],
+          "score": "3.4k",
+          "comments": "124",
+          "sources": [{"name": "Reddit trend feed", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1xvevss/reddit_intelligence_feed_20261113_1800_utc/"}]
+        }
+      ]
+    }
+  ]
+}

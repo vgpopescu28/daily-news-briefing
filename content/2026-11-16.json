@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-16",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-16T09:00:00+02:00",
+  "summary": {
+    "spotlight": "The conflict around the Gulf and Red Sea remains the main global risk: Yemen's government-aligned forces have pulled back from the Bab al-Mandab area, while new reported strikes and regional diplomatic efforts underline the fragility of maritime security. Russia's report of a large Ukrainian drone attack and a debate over lethal autonomous weapons show how rapidly conflict technology is reshaping both battlefields and diplomacy.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 16 in Romania. Reddit entries are discussion and public-attention signals, not independent reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Yemeni government forces retreat from Bab al-Mandab area in a setback against the Houthis",
+    "summary": "Yemeni government-aligned forces said they were redeploying from the area near the Bab al-Mandab Strait to strengthen the defense of Aden, Reuters reported. The move follows a six-week counteroffensive and leaves the Houthis better positioned near one of the world's most consequential shipping chokepoints.",
+    "why_it_matters": "The shift increases pressure on Red Sea trade routes and shows how the wider Iran-linked regional crisis is affecting the ground war in Yemen.",
+    "countries": ["Yemen", "Saudi Arabia", "Iran"],
+    "sources": [{"name": "Reuters", "url": "https://today.lorientlejour.com/article/1554518/yemeni-government-force-retreats-from-strait-in-major-setback-in-war-against-houthis.html"}]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Fighting in Yemen and unresolved U.S.-Iran tension keep the Gulf and Red Sea under sustained pressure.",
+      "kicker": "Regional Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Yemen",
+          "headline": "Houthis accuse Saudi Arabia of strikes that killed three people, including a child",
+          "summary": "Houthi authorities said Saudi strikes in Houthi-controlled Yemen killed three people, including a child, AP reported. The allegation comes as the war's front lines and the safety of nearby sea lanes are again becoming more volatile.",
+          "why_it_matters": "Civilian-harm allegations can deepen the humanitarian cost and complicate efforts to contain a conflict with consequences far beyond Yemen.",
+          "countries": ["Yemen", "Saudi Arabia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/8830a880160d69e2d7f1fd654207a121"}]
+        },
+        {
+          "label": "Diplomacy",
+          "headline": "Pakistan says it will keep pursuing diplomacy to reduce U.S.-Iran tensions",
+          "summary": "Pakistan's foreign minister said Islamabad would continue diplomatic efforts to reduce tensions between the United States and Iran with support from regional partners meeting through the Economic Cooperation Organization. He linked the diplomatic push to insecurity around the Persian Gulf and the Strait of Hormuz.",
+          "why_it_matters": "Regional states are trying to create an off-ramp because even limited escalation can disrupt energy flows and draw in neighboring governments.",
+          "countries": ["Pakistan", "Iran", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/fff3bfdcebb7ef084f0f29dd04d239ee"}]
+        },
+        {
+          "label": "Maritime security",
+          "headline": "Bab al-Mandab retreat adds a new land-war risk to Red Sea shipping",
+          "summary": "Reuters reported that the redeployment from the Bab al-Mandab area effectively ends the government's latest attempt to retake the coast near the mouth of the Red Sea. The report said the reversal raises the prospect of further Houthi advances toward Aden.",
+          "why_it_matters": "Control and insecurity near the strait can directly affect the route linking the Red Sea with the Gulf of Aden and global trade.",
+          "countries": ["Yemen", "Saudi Arabia", "Global"],
+          "sources": [{"name": "Reuters", "url": "https://uk.marketscreener.com/news/yemeni-government-force-retreats-from-strait-in-major-setback-in-war-against-houthis-ce785ededc81f321/"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "A new reported drone wave underlines that the war is intensifying even as political contacts remain open.",
+      "kicker": "Battlefield Pressure",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Drone war",
+          "headline": "Russia says it intercepted more than 1,300 Ukrainian drones in a massive aerial attack",
+          "summary": "Russia's Defense Ministry said its air defenses intercepted more than 1,300 Ukrainian drones in a large overnight attack, according to AP. The claim could not be independently verified in the initial report, but it illustrates the scale at which unmanned systems now feature in the war.",
+          "why_it_matters": "Large drone campaigns can strain air defenses, target infrastructure and keep escalation risks high far from the front line.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/242cb3fd47fc79293cf264c321b93800"}]
+        },
+        {
+          "label": "Negotiations",
+          "headline": "Humanitarian issues remain on the agenda, but core settlement disputes are unresolved",
+          "summary": "The first U.S.-mediated Russia-Ukraine talks in nine months covered prisoners, civilians in captivity and children taken from Ukraine, AP reported on November 14. The parties remained far apart on territory, NATO and the size of Ukraine's future armed forces.",
+          "why_it_matters": "Limited humanitarian progress can matter greatly, but it does not by itself create the conditions for a durable ceasefire.",
+          "countries": ["Ukraine", "Russia", "United States", "United Arab Emirates"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"}]
+        },
+        {
+          "label": "European security",
+          "headline": "The Ukraine negotiations are increasingly tied to Europe's future security order",
+          "summary": "U.S. officials have said a lasting settlement would require direct engagement between Russia and European partners on wider security arrangements, AP reported. European governments have warned against being sidelined in decisions that would shape the continent's postwar security.",
+          "why_it_matters": "The outcome could determine not only Ukraine's security but also the rules governing deterrence and alliances across Europe.",
+          "countries": ["Ukraine", "Russia", "European Union", "United States"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"}]
+        }
+      ]
+    },
+    {
+      "key": "technology-and-governance",
+      "title": "Technology & Global Governance",
+      "description": "Governments confront lethal AI questions while market anxiety over the technology sector persists.",
+      "kicker": "Rules & Risk",
+      "tone": "policy",
+      "stories": [
+        {
+          "label": "Autonomous weapons",
+          "headline": "UN-backed talks weigh whether to negotiate rules for lethal autonomous weapons",
+          "summary": "Government envoys meeting in Geneva are considering whether to launch negotiations on rules governing lethal autonomous weapon systems, AP reported. Advocates and UN figures are pressing for meaningful human control and accountability in decisions to use force.",
+          "why_it_matters": "The debate could shape whether rapidly advancing AI-enabled weapons are constrained before their use becomes more widespread.",
+          "countries": ["Switzerland", "United Nations", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/1ff519255c145105360b04961d136081"}]
+        },
+        {
+          "label": "Markets",
+          "headline": "Asian shares fall as the technology sell-off extends into a new week",
+          "summary": "Asian markets were mostly lower as concern over the fallout surrounding Nvidia and the durability of the artificial-intelligence trade extended into another week, AP reported. Oil held relatively steady but remained far above its prewar level as Gulf flows recovered unevenly.",
+          "why_it_matters": "A renewed tech sell-off can affect global risk appetite, while elevated oil prices add inflation pressure to the broader economic picture.",
+          "countries": ["United States", "China", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7"}]
+        },
+        {
+          "label": "Great-power diplomacy",
+          "headline": "Trump's Asia trip puts China, Russia and the Iran and Ukraine wars on the agenda",
+          "summary": "President Donald Trump is heading to Asia after U.S. midterm losses, with planned talks involving China's Xi Jinping and Russia's Vladimir Putin expected to draw attention, AP reported. The wars in Iran and Ukraine and pressure over Taiwan and Russia sanctions will frame the trip.",
+          "why_it_matters": "The meetings could alter diplomatic expectations across several conflicts, but they also raise concerns among allies about coordination and commitments.",
+          "countries": ["United States", "China", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"}]
+        },
+        {
+          "label": "Environment",
+          "headline": "Pope Leo calls for justice for Amazon environmental defenders during Peru visit",
+          "summary": "Pope Leo XIV called for justice for environmental defenders killed while protecting the Amazon and backed Indigenous efforts to stop logging and illegal mining, AP reported. His remarks placed deforestation, river pollution and violence against activists at the center of the visit.",
+          "why_it_matters": "The intervention keeps global attention on the links between biodiversity loss, organized crime and the protection of Indigenous communities.",
+          "countries": ["Peru", "Brazil", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/8a15143716d2d78a691f2eb995f1bda0"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Romania's diplomacy in Cambodia and its economic outreach in Qatar connect local priorities to wider international partnerships.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Francophonie",
+          "headline": "Nicușor Dan attends Francophonie Summit as members choose a new secretary-general",
+          "summary": "President Nicușor Dan is attending the November 15-16 Francophonie Summit in Cambodia, where leaders of the organization's 53 full member states are due to choose their next secretary-general. Romania has put forward former prime minister and European commissioner Dacian Cioloș as a candidate.",
+          "why_it_matters": "The summit gives Romania an opportunity to build influence in a broad diplomatic network that spans Europe, Africa, Asia and the Americas.",
+          "countries": ["Romania", "Cambodia"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-13-2026-update-id1083557.html"}]
+        },
+        {
+          "label": "Economic diplomacy",
+          "headline": "Romania's economy minister visits Qatar to discuss energy, ports and digital investment",
+          "summary": "Economy Minister Daniel Zamfir is in Qatar through November 18 to explore investment and business opportunities in energy, port infrastructure, tourism, transport and digitalization, Radio Romania International reported. The visit coincides with continued regional concern about energy and shipping security.",
+          "why_it_matters": "Diversified investment and infrastructure relationships can support Romania's long-term resilience and Black Sea connectivity.",
+          "countries": ["Romania", "Qatar"],
+          "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-15-2026-id1083795.html"}]
+        },
+        {
+          "label": "Currency",
+          "headline": "Central bank issues commemorative 50-bani coins for Constantin Brâncuși anniversary",
+          "summary": "The National Bank of Romania is putting five million 50-bani brass coins into circulation to mark 150 years since the birth of sculptor Constantin Brâncuși, according to AGERPRES. The regular-circulation issue begins on November 16.",
+          "why_it_matters": "The release is a small but visible public commemoration of one of Romania's most internationally influential cultural figures.",
+          "countries": ["Romania"],
+          "sources": [{"name": "AGERPRES", "url": "https://agerpres.ro/english/10W5zp4bMJ%252527%2525253b%25252520waitfor%25252520delay%25252520%2525270%253A0%253A15%252527%25252520--%25252520"}]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "These public-attention signals show what readers are debating, not independently verified reporting.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Discussion signal",
+          "headline": "Economics users focus on household wealth gaps and the growing U.S. debt burden",
+          "summary": "A public Reddit trend feed identified highly upvoted r/economics discussions about generational wealth losses, widening gains for older households and U.S. public debt. The posts represent active economic anxiety rather than a single new data release.",
+          "why_it_matters": "The discussion highlights how macroeconomic statistics are being interpreted through concerns about generational fairness and fiscal sustainability.",
+          "countries": ["United States"],
+          "score": "7.8k",
+          "comments": "594",
+          "sources": [{"name": "Reddit trend feed", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1xxhrta/reddit_intelligence_feed_20261116_0600_utc/"}]
+        },
+        {
+          "label": "Discussion signal",
+          "headline": "Geopolitics users debate prospects for a European defense force",
+          "summary": "The same public trend feed flagged an r/geopolitics discussion on reported support for a European army. The thread is a signal of public interest in European security integration amid the Ukraine war and uncertainty over future security arrangements.",
+          "why_it_matters": "Debate about joint European defense is increasingly tied to concerns about deterrence, representation and long-term strategic autonomy.",
+          "countries": ["European Union"],
+          "score": "626",
+          "comments": "71",
+          "sources": [{"name": "Reddit trend feed", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1xxhrta/reddit_intelligence_feed_20261116_0600_utc/"}]
+        }
+      ]
+    }
+  ]
+}
