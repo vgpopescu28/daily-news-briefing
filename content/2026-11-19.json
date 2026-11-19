@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-19",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-19T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Iran's attacks on U.S.-linked targets in Kuwait and Bahrain have widened the Gulf confrontation after an American strike on Qeshm Island. At the same time, Ukraine's refinery campaign, high-level talks in China and a fragile climate summit show how conflict is shaping diplomacy, markets and longer-term policy.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 19 in Romania. Reddit items are public-attention signals, not independent reporting."
+  },
+  "featured_story": {
+    "category": "middle-east-crisis",
+    "tone": "conflict",
+    "label": "Top Story",
+    "headline": "Iran widens Gulf attacks to Kuwait and Bahrain after U.S. strike on Qeshm Island",
+    "summary": "AP reported that Iran launched attacks at a U.S.-used air base in Kuwait and carried out further attacks on Bahrain after the United States struck Iran's Qeshm Island. Gulf states are intensifying efforts to prevent a wider war as commercial shipping and regional infrastructure remain exposed.",
+    "why_it_matters": "The spread of attacks beyond one Gulf state raises the chance of a broader regional confrontation and fresh disruption around the Strait of Hormuz.",
+    "countries": ["Iran", "United States", "Kuwait", "Bahrain"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/b1f0b530cffe951e6fcc1e27b2e1af94"}]
+  },
+  "sections": [
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Military retaliation, maritime risk and competing diplomatic pressures are converging across the Gulf.",
+      "kicker": "Regional Pressure",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Military posture",
+          "headline": "Washington weighs options as Israel warns of a possible Iranian chemical-weapons threat",
+          "summary": "Axios reported that President Donald Trump is considering whether to join a new round of strikes on Iran after Israel raised alarms about potential chemical-weapons work. The report said the White House has sought assessments of Iran's likely response to different military options.",
+          "why_it_matters": "Any decision to expand operations would test whether the latest Gulf escalation can still be contained.",
+          "countries": ["United States", "Iran", "Israel"],
+          "sources": [{"name": "Axios", "url": "https://www.axios.com/2026/11/19/trump-iran-israel-strikes-chemical-weapons"}]
+        },
+        {
+          "label": "Yemen",
+          "headline": "AP says the Yemen conflict could last months as a U.S. carrier withdraws",
+          "summary": "AP reported that the conflict in Yemen could extend for months while a U.S. aircraft carrier withdraws from the region. The report also noted reduced crude shipments through the Strait of Hormuz as attacks on shipping continue.",
+          "why_it_matters": "A prolonged Yemen front could sustain pressure on Red Sea and Gulf trade routes even if direct U.S.-Iran exchanges ease.",
+          "countries": ["Yemen", "United States", "Iran"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/b71b1d25f3cff987b4b125196ecb4c3a"}]
+        },
+        {
+          "label": "Shipping",
+          "headline": "Oil-market surplus expectations temper the immediate price effect of Hormuz shipping attacks",
+          "summary": "Reuters reported that oil prices were steady after earlier losses as expectations of a supply surplus and higher interest rates outweighed support from attacks on shipping in the Strait of Hormuz. The conflict still leaves prices vulnerable to sudden changes in maritime access.",
+          "why_it_matters": "Cheaper prices do not remove the underlying risk that another maritime incident could quickly reprice energy and freight.",
+          "countries": ["Iran", "Gulf States", "Global"],
+          "sources": [{"name": "Reuters via MarketScreener", "url": "https://in.marketscreener.com/news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-ce785eddde8af323/"}]
+        }
+      ]
+    },
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "Long-range strikes and diplomatic contacts continue alongside risks to civilians and energy security.",
+      "kicker": "War and Negotiations",
+      "tone": "ukraine",
+      "stories": [
+        {
+          "label": "Energy war",
+          "headline": "Ukraine says it struck two Russian oil refineries as Kyiv highlights domestic weapons output",
+          "summary": "AP reported that Ukraine said it hit two Russian oil refineries, part of its campaign against a sector central to Russia's war economy. Zelenskyy also promoted domestically made weapons as Kyiv seeks to sustain long-range capabilities.",
+          "why_it_matters": "Refinery strikes aim to impose economic and logistical costs beyond the front line while Ukraine looks for more self-reliance.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3c37f13d278c1312d795f108a7a91904"}]
+        },
+        {
+          "label": "Air defence",
+          "headline": "Russia says it intercepted more than 1,300 Ukrainian drones in a major attack",
+          "summary": "AP reported that Russia said its defences intercepted more than 1,300 Ukrainian drones in a large attack, while Ukraine claimed strikes on oil facilities. Such claims could not be independently verified in full, but the exchanges underline the scale of the drone contest.",
+          "why_it_matters": "Mass drone operations are forcing both sides to spend heavily on air defences and are widening the war's reach.",
+          "countries": ["Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/242cb3fd47fc79293cf264c321b93800"}]
+        },
+        {
+          "label": "Peace channel",
+          "headline": "Zelenskyy says Ukraine held fresh talks with U.S. and European officials on peace prospects",
+          "summary": "Reuters reported that Volodymyr Zelenskyy said Ukrainian officials held an online discussion with U.S. presidential envoys and European representatives about prospects for ending the war. No breakthrough was announced.",
+          "why_it_matters": "The contact keeps a diplomatic channel alive, but the absence of a public agreement underscores how far the parties remain from settlement.",
+          "countries": ["Ukraine", "United States", "Europe", "Russia"],
+          "sources": [{"name": "Reuters via Investing.com", "url": "https://www.investing.com/news/world-news/ukraines-zelenskiy-says-new-talks-on-peace-prospects-held-with-us-european-officials-5030715"}]
+        }
+      ]
+    },
+    {
+      "key": "great-power-diplomacy",
+      "title": "Great-Power Diplomacy",
+      "description": "The China meeting puts nuclear risk and two wars on the agenda for three major powers.",
+      "kicker": "Shenzhen Agenda",
+      "tone": "diplomacy",
+      "stories": [
+        {
+          "label": "Leaders' meeting",
+          "headline": "Trump-Xi-Putin meeting puts nuclear arms and the Iran and Ukraine wars at the center",
+          "summary": "AP reported that nuclear arms and ending the wars in Iran and Ukraine are expected to dominate the agenda when Donald Trump, Xi Jinping and Vladimir Putin meet in China. Trade and technology tensions remain an important backdrop.",
+          "why_it_matters": "The gathering brings leaders with influence over each major conflict into one forum, even though their interests are sharply different.",
+          "countries": ["United States", "China", "Russia", "Iran", "Ukraine"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/a04dc76ed8e786b087e2c1ea9598783a"}]
+        },
+        {
+          "label": "Economic backdrop",
+          "headline": "Persistent inflation keeps the prospect of further U.S. rate rises in focus",
+          "summary": "AP reported that Federal Reserve minutes showed concern that inflation had broadened beyond sectors most directly affected by energy prices and tariffs. Several policymakers see a need for tighter policy if price pressures do not ease.",
+          "why_it_matters": "Higher U.S. borrowing costs can tighten global financial conditions at the same time as war is raising fiscal and energy pressures.",
+          "countries": ["United States", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/9e72f3b6e3484173471cc382d6918de0"}]
+        }
+      ]
+    },
+    {
+      "key": "climate",
+      "title": "Climate Diplomacy",
+      "description": "COP31 is approaching its close with participation and financing still under pressure.",
+      "kicker": "Antalya Talks",
+      "tone": "environment",
+      "stories": [
+        {
+          "label": "COP31",
+          "headline": "U.S. state and city leaders seek to fill a federal vacuum at UN climate talks",
+          "summary": "AP reported that U.S. governors, mayors and other Democrats are attending COP31 in Antalya to signal continued climate engagement despite the federal government's absence. Their message is that subnational action will continue even if national policy diverges.",
+          "why_it_matters": "The unusual delegation highlights how domestic politics in a major emitter is changing the practical diplomacy of climate negotiations.",
+          "countries": ["United States", "Türkiye", "Global"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/ba522c208652b4e9baeca40a81ab53c4"}]
+        },
+        {
+          "label": "Science",
+          "headline": "WMO continues to put climate observations and 2026 indicators before COP31 delegates",
+          "summary": "The World Meteorological Organization says it is supporting COP31 with scientific observations and its annual assessment of climate indicators and impacts. The talks run through November 20 in Antalya.",
+          "why_it_matters": "Shared evidence on warming and impacts is essential to judging whether national promises match the scale of climate risk.",
+          "countries": ["Türkiye", "Global"],
+          "sources": [{"name": "World Meteorological Organization", "url": "https://public.wmo.int/themes/climate/wmo-at-cop31?page=0"}]
+        }
+      ]
+    },
+    {
+      "key": "horn-of-africa",
+      "title": "Horn of Africa",
+      "description": "A troop buildup on the Ethiopia-Eritrea border is reviving fears of another regional war.",
+      "kicker": "Rising Risk",
+      "tone": "conflict",
+      "stories": [
+        {
+          "label": "Border tension",
+          "headline": "Ethiopia and Eritrea mass forces along their border, raising fears of a wider war",
+          "summary": "Reuters reported that Ethiopia and Eritrea have amassed forces along their shared border, according to conflict monitors and people tied to militias in Ethiopia's Tigray region. The buildup has fuelled concern that recent fighting in northern Ethiopia could draw in Eritrea.",
+          "why_it_matters": "A renewed Ethiopia-Eritrea war would create another major humanitarian and security crisis in a strategically important region.",
+          "countries": ["Ethiopia", "Eritrea", "Tigray"],
+          "sources": [{"name": "Reuters via 95 KQDS", "url": "https://95kqds.com/2026/11/18/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say/"}]
+        }
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania & the Black Sea",
+      "description": "Maritime attacks near NATO territory keep regional security and economic resilience in focus.",
+      "kicker": "Local Focus",
+      "tone": "romania",
+      "stories": [
+        {
+          "label": "Maritime security",
+          "headline": "Another merchant ship sinks off Bulgaria as Black Sea danger reaches Romania's neighbourhood",
+          "summary": "AP reported that a merchant ship sank about 50 nautical miles off Bulgaria after an attack, with all 19 crew members rescued. The incident followed a series of attacks on commercial shipping in the western Black Sea, including near Romania.",
+          "why_it_matters": "Repeated attacks close to NATO waters threaten regional trade, seafarers and the sense of security on Romania's coast.",
+          "countries": ["Romania", "Bulgaria", "Ukraine", "Russia"],
+          "sources": [{"name": "AP", "url": "https://apnews.com/article/3265b6f9e84eb28b349dceb3223fd37f"}]
+        },
+        {
+          "label": "EU support",
+          "headline": "EU pledges €50 million to speed a Romania-Bulgaria Black Sea security hub",
+          "summary": "Reuters reported that European Commission President Ursula von der Leyen pledged €50 million to help Romania and Bulgaria accelerate a joint Black Sea maritime-security hub after a string of drone attacks on cargo ships. The Commission also announced separate support for Romanian search and rescue.",
+          "why_it_matters": "The funding turns concern over spillover from the Ukraine war into a concrete regional security project.",
+          "countries": ["Romania", "Bulgaria", "European Union"],
+          "sources": [{"name": "Reuters via TVP World", "url": "https://tvpworld.com/96406892/von-der-leyen-eu-to-spend-50-million-to-speed-up-security-hub-in-the-black-sea"}]
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "These discussion-led items indicate public attention, not independently verified reporting.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {
+          "label": "Discussion signal",
+          "headline": "Ukraine live thread focuses on reported refinery strikes and the role of air power",
+          "summary": "A current r/worldnews Ukraine live thread drew hundreds of votes and sustained discussion of reported refinery attacks, F-16 requirements and the evolving drone campaign. It is a public-attention signal rather than an independently verified account.",
+          "why_it_matters": "The discussion shows how attacks on Russian energy facilities are shaping public debate about Ukraine's military strategy.",
+          "countries": ["Ukraine", "Russia"],
+          "score": "463+", "comments": "active thread",
+          "sources": [{"name": "r/worldnews", "url": "https://www.reddit.com/r/worldnews/comments/1xz5j9d/rworldnews_live_thread_russian_invasion_of/"}]
+        },
+        {
+          "label": "Discussion signal",
+          "headline": "Reddit users follow the renewed attacks on Bahrain and Kuwait in a long-running Iran-war thread",
+          "summary": "A r/worldnews discussion thread collected user reports and debate as alerts and explosions were reported around Bahrain during the latest escalation. It reflects the demand for rapid updates, while individual claims require independent confirmation.",
+          "why_it_matters": "The thread illustrates how fast-moving Gulf security incidents are driving global public attention beyond traditional news cycles.",
+          "countries": ["Iran", "Bahrain", "Kuwait", "United States"],
+          "score": "active", "comments": "active thread",
+          "sources": [{"name": "r/worldnews", "url": "https://www.reddit.com/r/worldnews/comments/1xr6yoy/rworldnews_discussion_thread_us_and_israel_launch/"}]
+        }
+      ]
+    }
+  ]
+}
