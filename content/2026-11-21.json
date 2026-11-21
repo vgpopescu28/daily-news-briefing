@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-21",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-21T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Russian missiles and a suspected drone landing in Poland have sharply raised the stakes around the Ukraine war, with NATO calling the airspace violation grave. In the Middle East, indirect contacts over Iran continue while shipping and regional security risks remain high; COP31 has moved into overtime without a settled climate package.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 21 in Romania. Reddit items are public-attention signals, not independent reporting."
+  },
+  "featured_story": {
+    "category": "ukraine-war",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Russian missiles and suspected drone land in Poland as NATO calls airspace breach grave",
+    "summary": "Two Russian missiles and a suspected drone came down in Poland during a major Russian attack on Ukraine, according to Polish officials cited by AP. Poland's prime minister called the incident a likely provocation timed with multinational exercises, while NATO Secretary-General Mark Rutte described it as a grave violation of Polish airspace.",
+    "why_it_matters": "The incident tests NATO's eastern-flank deterrence at a moment when U.S.-led efforts to revive Ukraine negotiations remain fragile.",
+    "countries": ["Poland", "Russia", "Ukraine", "NATO"],
+    "sources": [
+      {"name": "AP", "url": "https://apnews.com/article/433e18f00cbd37a2a9da94e60fce0e07"},
+      {"name": "Reuters via Moscow Times", "url": "https://www.themoscowtimes.com/2026/11/20/poland-condemns-russian-provocation-after-3-airspace-violations-a94331/pdf"}
+    ]
+  },
+  "sections": [
+    {
+      "key": "ukraine",
+      "title": "Ukraine War",
+      "description": "The Poland incident and a large Russian strike on Ukraine intensify pressure on the diplomatic track.",
+      "kicker": "War and Deterrence",
+      "tone": "ukraine",
+      "stories": [
+        {"label": "Strike campaign", "headline": "Large Russian attack on Ukraine coincides with Polish airspace incident", "summary": "AP reported that the objects came down as Russia carried out a broad attack on neighbouring Ukraine. Ukrainian and Polish officials said the events unfolded near a two-week European military exercise preparing for a possible postwar mission.", "why_it_matters": "The overlap underscores how attacks on Ukraine can create immediate security consequences for nearby NATO states.", "countries": ["Ukraine", "Poland", "Russia"], "sources": [{"name": "AP", "url": "https://apnews.com/article/433e18f00cbd37a2a9da94e60fce0e07"}]},
+        {"label": "Security guarantees", "headline": "Moscow's position on NATO-like guarantees remains a central obstacle", "summary": "Russian Deputy Foreign Minister Sergei Ryabkov said even a quasi-membership in NATO for Ukraine would be unacceptable, AP reported. The comments contrast with recent U.S. suggestions that Moscow might accept a NATO-like security arrangement.", "why_it_matters": "The gap over Ukraine's future security architecture is likely to determine whether talks can move beyond a ceasefire discussion.", "countries": ["Russia", "Ukraine", "United States", "NATO"], "sources": [{"name": "AP", "url": "https://apnews.com/article/433e18f00cbd37a2a9da94e60fce0e07"}, {"name": "AP", "url": "https://apnews.com/article/157d168cb7ff9cae318cbf6cecb3988f"}]},
+        {"label": "European role", "headline": "European officials seek a direct place in U.S.-mediated Ukraine diplomacy", "summary": "AP reported that the United Kingdom, France, Germany, Italy, Poland and the European Union were expected to send representatives to talks. Their participation would give Kyiv's closest backers a more direct voice in discussions over a settlement and security guarantees.", "why_it_matters": "A durable agreement is unlikely without European commitments on security, financing and reconstruction.", "countries": ["Ukraine", "European Union", "United States", "Russia"], "sources": [{"name": "AP", "url": "https://apnews.com/article/157d168cb7ff9cae318cbf6cecb3988f"}]}
+      ]
+    },
+    {
+      "key": "middle-east-crisis",
+      "title": "Middle East Crisis",
+      "description": "Diplomatic feelers coexist with attacks affecting Saudi Arabia, Yemen and Gulf shipping.",
+      "kicker": "Escalation Risk",
+      "tone": "conflict",
+      "stories": [
+        {"label": "Indirect diplomacy", "headline": "U.S. envoys meet Qatari mediators over possible Iran negotiations", "summary": "Axios reported that Steve Witkoff and Jared Kushner met Qatari mediators to discuss a path back to Iran negotiations. Iran's foreign minister said a proposal involving a ceasefire, reopening the Strait of Hormuz and nuclear talks remained on the table.", "why_it_matters": "Qatar's mediation could create an off-ramp, but the proposals have not yet produced a verified agreement.", "countries": ["United States", "Iran", "Qatar"], "sources": [{"name": "Axios", "url": "https://www.axios.com/2026/11/20/witkoff-kushner-meet-qatari-mediators-iran"}]},
+        {"label": "Yemen spillover", "headline": "Saudi Arabia and Yemen's Houthis exchange fire as regional conflict spreads", "summary": "AP reported exchanges involving Saudi Arabia and Yemen's Houthi forces as the broader confrontation continued. The fighting adds another active front to an already strained regional security environment.", "why_it_matters": "Escalation in Yemen can threaten civilian populations and energy infrastructure while complicating Gulf diplomacy.", "countries": ["Saudi Arabia", "Yemen"], "sources": [{"name": "AP", "url": "https://apnews.com/article/16c39c487a23b53b73c5eabb7f0fd57a"}]},
+        {"label": "Hormuz", "headline": "Oil still flows through Hormuz, but attacks keep maritime risk elevated", "summary": "AP reported that substantial volumes of oil continue to transit the Strait of Hormuz under U.S. protection, even as Iranian attacks deter some tanker traffic. Rystad Energy estimated early-November flows were below October levels.", "why_it_matters": "Hormuz remains a critical choke point, so continued attacks can rapidly affect energy prices and global freight costs.", "countries": ["Iran", "Gulf States", "United States"], "sources": [{"name": "AP", "url": "https://apnews.com/article/16c39c487a23b53b73c5eabb7f0fd57a"}]}
+      ]
+    },
+    {
+      "key": "climate",
+      "title": "Climate Diplomacy",
+      "description": "COP31 enters overtime with countries still divided over emissions, fossil fuels and finance.",
+      "kicker": "Antalya Talks",
+      "tone": "environment",
+      "stories": [
+        {"label": "Overtime", "headline": "COP31 negotiations run past deadline as countries struggle to agree on climate response", "summary": "COP31 in Antalya moved into overtime as delegates continued to wrestle with language on the response to worsening global warming, AP reported. The talks take place as scientists warn the world is on course to exceed the Paris Agreement's 1.5-degree goal.", "why_it_matters": "Delay highlights the difficulty of turning climate urgency into commitments that major emitters will support and implement.", "countries": ["Türkiye", "Global"], "sources": [{"name": "AP", "url": "https://apnews.com/article/b54eebcade92e5ee4c513b9a5b2192a7"}]},
+        {"label": "Fossil fuels", "headline": "Draft climate text faces criticism for omitting a clear fossil-fuel phaseout", "summary": "AP reported that activists and several leaders criticized an earlier COP31 draft for not explicitly addressing fossil fuels. The negotiations instead focused heavily on electrification, finance and the wording of a final political declaration.", "why_it_matters": "Whether fossil fuels are named directly remains a test of the summit's willingness to confront the main source of emissions.", "countries": ["Türkiye", "Global"], "sources": [{"name": "AP", "url": "https://apnews.com/article/a683c5c87a7ee64caf4e9257948b6e40"}]}
+      ]
+    },
+    {
+      "key": "great-power-diplomacy",
+      "title": "Great-Power Diplomacy",
+      "description": "The Shenzhen summit delivered prominent imagery but few public answers on the hardest conflicts.",
+      "kicker": "APEC Aftermath",
+      "tone": "diplomacy",
+      "stories": [
+        {"label": "Shenzhen summit", "headline": "Xi uses Trump-Putin meeting to project China's diplomatic influence", "summary": "AP reported that Xi Jinping hosted Donald Trump and Vladimir Putin at APEC in Shenzhen, placing China at the centre of rare three-way talks. The meeting produced a broad peace declaration but no public breakthrough on Ukraine or Iran.", "why_it_matters": "The summit demonstrates China's convening power while showing that symbolism alone cannot resolve active wars.", "countries": ["China", "United States", "Russia"], "sources": [{"name": "AP", "url": "https://apnews.com/article/1537a3c561e41a1f8545490a3d29d376"}]},
+        {"label": "Limited outcome", "headline": "Joint summit statement leaves Ukraine and Iran conflicts unresolved", "summary": "AP's account of the Trump-Xi-Putin meeting said the resulting declaration did not mention Russia's war in Ukraine or the U.S.-led war in Iran. Analysts described the optics as more consequential than the announced substance.", "why_it_matters": "The omissions leave the core security disputes to separate and still uncertain negotiating channels.", "countries": ["China", "United States", "Russia", "Ukraine", "Iran"], "sources": [{"name": "AP", "url": "https://apnews.com/article/57638eeb4ed3385f1f943910686f1b2b"}]}
+      ]
+    },
+    {
+      "key": "markets-energy",
+      "title": "Markets & Energy",
+      "description": "Middle East export resilience and continued security shocks are pulling energy markets in opposite directions.",
+      "kicker": "Economic Watch",
+      "tone": "economy",
+      "stories": [
+        {"label": "Oil market", "headline": "Oil heads for another weekly fall despite Hormuz and Riyadh security concerns", "summary": "Reuters reported that oil prices were set for a third straight weekly decline as strong Middle East exports offset supply worries. Houthi attacks on Riyadh and reported Hormuz tanker disruptions nevertheless kept a geopolitical risk premium in the market.", "why_it_matters": "Prices are reflecting both the resilience of supply and the chance that one new attack could disrupt a critical export route.", "countries": ["Saudi Arabia", "Iran", "Global"], "sources": [{"name": "Reuters via Euronext", "url": "https://live.euronext.com/en/financial-news/oil-prices-set-third-straight-weekly-decline-strong-middle-east-export-flows"}]},
+        {"label": "Supply outlook", "headline": "U.S. EIA says constrained Middle East flows remain central to the oil outlook", "summary": "The U.S. Energy Information Administration said ship-to-ship transfers near Oman's coast had helped sustain some Hormuz flows, while Middle East volumes remained constrained. Its November outlook said those assumptions shape its forecast through the end of the year.", "why_it_matters": "Official supply forecasts show why maritime access around Hormuz is a global economic concern rather than only a regional security story.", "countries": ["Oman", "Iran", "Global"], "sources": [{"name": "U.S. Energy Information Administration", "url": "https://www.eia.gov/outlooks/steo/archives/Nov26.pdf"}]}
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania & the Black Sea",
+      "description": "The events in Poland reinforce the security concerns shared across NATO's eastern flank.",
+      "kicker": "Regional Focus",
+      "tone": "romania",
+      "stories": [
+        {"label": "Eastern flank", "headline": "Poland incident sharpens eastern-flank concerns relevant to Romania", "summary": "The reported Russian objects landing in Poland add to a pattern of security incidents affecting states bordering or near Ukraine. Romania, which has repeatedly monitored drone risks near its own frontier and Black Sea approaches, faces the same need for rapid detection and coordination.", "why_it_matters": "The event highlights why air defence, surveillance and allied coordination remain immediate priorities for Romania and its neighbours.", "countries": ["Romania", "Poland", "Ukraine", "NATO"], "sources": [{"name": "AP", "url": "https://apnews.com/article/433e18f00cbd37a2a9da94e60fce0e07"}, {"name": "European Commission", "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/es/statement_26_2381/STATEMENT_26_2381_EN.pdf"}]},
+        {"label": "European support", "headline": "European Commission stresses Romania's frontline role in regional security", "summary": "In a Bucharest statement issued this month, the European Commission described Romania as being on the frontline of European security and pointed to more than €21 billion available to member states. The support is linked to wider efforts to reinforce resilience and defence on the eastern flank.", "why_it_matters": "EU funding and planning will shape Romania's capacity to respond to the wider regional consequences of the war.", "countries": ["Romania", "European Union"], "sources": [{"name": "European Commission", "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/es/statement_26_2381/STATEMENT_26_2381_EN.pdf"}]}
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "Trending on Reddit",
+      "description": "These discussion-led items indicate public attention, not independently verified reporting.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {"label": "Discussion signal", "headline": "Reddit users debate the Polish airspace incident and NATO's response", "summary": "A discussion in r/europeanunion highlighted reporting on the Russian airspace violation and the British government's condemnation. It is a public-attention signal rather than independent reporting.", "why_it_matters": "The thread illustrates how quickly an eastern-flank incident can generate public concern about escalation and alliance credibility.", "countries": ["Poland", "Russia", "United Kingdom", "NATO"], "score": "active", "comments": "active thread", "sources": [{"name": "r/europeanunion", "url": "https://www.reddit.com/r/europeanunion/comments/1y1cuk7/uk_pm_burnham_condemns_russian_violation_of/"}]},
+        {"label": "Discussion signal", "headline": "Conflict-news thread tracks claims around the Russia-Ukraine strikes", "summary": "A r/CredibleDefense megathread collected discussion of the Polish incident, Ukraine's reported strikes and the wider Russian attack. The material is a public discussion signal and should be read alongside verified reporting.", "why_it_matters": "It shows sustained online attention to the operational and escalation risks of the war.", "countries": ["Ukraine", "Russia", "Poland"], "score": "active", "comments": "active thread", "sources": [{"name": "r/CredibleDefense", "url": "https://www.reddit.com/r/CredibleDefense/comments/1y0zo65/active_conflicts_news_megathread_november_20_2026/"}]}
+      ]
+    }
+  ]
+}
