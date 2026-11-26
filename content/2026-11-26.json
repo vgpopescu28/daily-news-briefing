@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-26",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-26T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Ukraine's reported strike on a Russian airbase and the fallout from the Libya warship attack underscored the conflict's widening reach. In the Middle East, Houthi claims of attacks on Saudi energy and commercial sites kept regional-security risk elevated, while markets absorbed another sharp technology-led selloff.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 26 in Romania. No fresh Romania-only development met the inclusion threshold; Reddit entries are public-attention signals, not independent reporting."
+  },
+  "featured_story": {
+    "category": "ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Ukraine says it damaged five Russian military aircraft at Savasleyka airbase",
+    "summary": "Ukraine's General Staff said its forces struck the Savasleyka airbase in Russia's Nizhny Novgorod region, damaging three MiG-31 jets and two Su-34 fighter-bombers. Russia did not immediately comment on the claim, reported by Reuters and carried by Al Jazeera.",
+    "why_it_matters": "The reported strike shows Kyiv continuing to target the aircraft and infrastructure used in Russia's long-range campaign against Ukraine.",
+    "countries": ["Ukraine", "Russia"],
+    "sources": [{"name": "Reuters via Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck"}]
+  },
+  "sections": [
+    {
+      "key": "ukraine",
+      "title": "Ukraine War & NATO",
+      "description": "Long-range operations and the Libya spillover continue alongside diplomatic and humanitarian pressures.",
+      "kicker": "Eastern Flank",
+      "tone": "ukraine",
+      "stories": [
+        {"label": "Airbase strike", "headline": "Kyiv reports damage to five aircraft at Russia's Savasleyka base", "summary": "Ukraine said it hit an airbase east of Moscow and damaged aircraft it says are used to launch hypersonic missiles and bombs. The report could not be independently verified at publication and Russia did not immediately comment.", "why_it_matters": "Operations against launch platforms aim to constrain Russia's ability to sustain long-range strikes on Ukrainian cities and infrastructure.", "countries": ["Ukraine", "Russia"], "sources": [{"name": "Reuters via Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck"}]},
+        {"label": "Libya fallout", "headline": "Two Libyan naval officers die after claimed Ukrainian strike on Russian warship", "summary": "Two Libyan naval officers died of wounds following the Ukrainian drone attack on a Russian warship moored in eastern Libya, AP reported. Libya's eastern-based forces vowed retaliation, while Ukraine has framed the operation as self-defense.", "why_it_matters": "The deaths raise the diplomatic cost of an operation that has taken the Russia-Ukraine war far beyond its usual theatre.", "countries": ["Libya", "Ukraine", "Russia"], "sources": [{"name": "AP", "url": "https://apnews.com/article/5719d6750c0619695c7f23a373cecd7b"}]},
+        {"label": "Families", "headline": "A seventh group of Ukrainian and Russian children is reunited with relatives", "summary": "Melania Trump said a seventh group of Ukrainian and Russian children had been reunited with their families, AP reported. The returns take place against the backdrop of disputes over wartime deportations and child transfers.", "why_it_matters": "Individual reunifications provide humanitarian relief but do not resolve the much wider accountability dispute over children affected by the war.", "countries": ["Ukraine", "Russia", "United States"], "sources": [{"name": "AP", "url": "https://apnews.com/article/4fa1ae5512f4fb71dc36478b0f44514e"}]}
+      ]
+    },
+    {
+      "key": "middle-east",
+      "title": "Middle East & Red Sea",
+      "description": "Energy infrastructure, Gaza's civilian conditions and cross-border security concerns remain in focus.",
+      "kicker": "Regional Escalation",
+      "tone": "conflict",
+      "stories": [
+        {"label": "Saudi targets", "headline": "Houthis claim attacks on Saudi ports, a refinery and Riyadh's financial district", "summary": "Yemen's Houthi rebels said they had targeted Saudi ports, a refinery and a tower in Riyadh's financial district. The Saudi-led coalition said it had intercepted some drones, while the claims and reported damage could not all be independently verified.", "why_it_matters": "Claims against energy and commercial sites keep the risk premium high for Saudi infrastructure and regional shipping.", "countries": ["Yemen", "Saudi Arabia"], "sources": [{"name": "AP", "url": "https://apnews.com/article/6995de4ee91278459742a359eeb7439e"}]},
+        {"label": "Gaza shelter", "headline": "Winter rains add pressure to vulnerable Gaza shelter sites", "summary": "Gaza councils warned that winter rain threatens roughly 1,000 shelter sites, according to Al Jazeera. Displaced families are facing renewed exposure as basic services and durable housing remain badly constrained.", "why_it_matters": "Weather can swiftly turn a chronic shelter shortage into an acute humanitarian emergency for displaced civilians.", "countries": ["Palestinian Territories", "Israel"], "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn"}]},
+        {"label": "Syria", "headline": "Islamic State attack kills two Syrian security personnel, state media says", "summary": "Syrian state media said an Islamic State attack killed two security personnel in Hasaka province, according to Reuters. The report is a reminder that militant violence remains a security concern even as regional attention concentrates on other conflicts.", "why_it_matters": "Persistent attacks complicate stabilisation efforts in northeastern Syria and can divert already limited security resources.", "countries": ["Syria"], "sources": [{"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/islamic-state-attack-kills-two-syrian-security-personnel-hasaka-state-media-says-2026-11-25/"}]}
+      ]
+    },
+    {
+      "key": "global-affairs",
+      "title": "Global Affairs",
+      "description": "A Russian energy deal, Hong Kong remembrance and an Egyptian disaster are shaping the wider news agenda.",
+      "kicker": "World Watch",
+      "tone": "diplomacy",
+      "stories": [
+        {"label": "Energy assets", "headline": "U.S.-led consortium agrees to acquire assets from Russian oil company Lukoil", "summary": "A U.S.-led consortium agreed to acquire assets from Russian oil company Lukoil, AP reported. The transaction comes after a period of shifting U.S. policy toward Moscow and pressure on global energy prices.", "why_it_matters": "Any redistribution of Russian oil assets can affect sanctions enforcement, ownership risk and the future flow of energy into world markets.", "countries": ["United States", "Russia"], "sources": [{"name": "AP", "url": "https://apnews.com/article/8c5df1befb2ebb2a0ce4f6b259fcdf14"}]},
+        {"label": "Hong Kong", "headline": "Hong Kong marks anniversary of deadly fire amid calls for safety reforms", "summary": "Hong Kong residents marked the anniversary of a deadly fire with flowers, prayers and tears, AP reported. Authorities said they were pursuing reforms and investigations after scrutiny of building maintenance and fire-safety rules.", "why_it_matters": "The anniversary keeps pressure on officials to show that oversight failures exposed by the disaster have been addressed.", "countries": ["Hong Kong", "China"], "sources": [{"name": "AP", "url": "https://apnews.com/article/98fa6c7d0db5ea7089f6dce02142b509"}]},
+        {"label": "Egypt", "headline": "Highway fire near Cairo kills at least 30, AP reports", "summary": "A highway fire near Egypt's capital killed at least 30 people, AP reported in its regional news roundup. Emergency response and road safety are under immediate scrutiny after one of the day's deadliest civilian incidents.", "why_it_matters": "The scale of the loss puts transport safety and emergency preparedness at the centre of Egypt's domestic agenda.", "countries": ["Egypt"], "sources": [{"name": "AP", "url": "https://apnews.com/article/6995de4ee91278459742a359eeb7439e"}]}
+      ]
+    },
+    {
+      "key": "markets-tech",
+      "title": "Markets & Technology",
+      "description": "Energy ownership shifts and a renewed AI selloff are reinforcing market uncertainty.",
+      "kicker": "Economic Watch",
+      "tone": "economy",
+      "stories": [
+        {"label": "Market volatility", "headline": "Technology shares lead another broad risk-off move", "summary": "A renewed selloff led by Nvidia pushed the Dow down sharply and sent the Nasdaq lower, according to widely shared market coverage. Investors are reassessing lofty AI-related valuations while tracking inflation and growth data.", "why_it_matters": "The concentration of recent gains in a small group of technology companies means changes in AI expectations can move wider markets quickly.", "countries": ["United States", "Global"], "sources": [{"name": "Reddit r/stockmarket discussion", "url": "https://www.reddit.com/r/stockmarket/"}]},
+        {"label": "Oil security", "headline": "Russian oil-asset deal keeps energy-security questions in view", "summary": "The planned acquisition of Lukoil assets by a U.S.-led consortium adds another variable to an oil market already balancing supply expectations with geopolitical shipping and infrastructure risk.", "why_it_matters": "Changes in who controls producing assets can alter the practical effect of sanctions and the reliability of future supply.", "countries": ["Russia", "United States", "Global"], "sources": [{"name": "AP", "url": "https://apnews.com/article/8c5df1befb2ebb2a0ce4f6b259fcdf14"}]},
+        {"label": "AI debate", "headline": "AI-bubble fears gain public traction as technology stocks retreat", "summary": "A highly engaged economics discussion highlighted new research warning of an AI-driven market bubble, while retail investors debated the extent of the technology selloff. The discussion reflects sentiment rather than a market forecast.", "why_it_matters": "Public concern over an AI trade reversal is becoming part of the narrative shaping risk appetite across technology markets.", "countries": ["United States", "Global"], "score": "2.7k+", "comments": "450+ comments", "sources": [{"name": "Reddit intelligence feed", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1y5tk41/reddit_intelligence_feed_20261126_0600_utc/"}]}
+      ]
+    },
+    {
+      "key": "trending-reddit",
+      "title": "Trending on Reddit",
+      "description": "These discussion-led items show public attention rather than independently verified reporting.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {"label": "Ukraine discussion", "headline": "Reddit attention centres on Ukraine's reported strike on Russian aircraft", "summary": "A r/worldnews post about Ukraine's claimed strike at Savasleyka was among the most engaged world-news links in a public feed. The thread is a measure of audience attention and not independent confirmation of battlefield claims.", "why_it_matters": "The response shows how reports of long-range Ukrainian strikes are resonating well beyond the immediate conflict zone.", "countries": ["Ukraine", "Russia"], "score": "2.3k+", "comments": "29+ comments", "sources": [{"name": "Reddit intelligence feed", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1y5tk41/reddit_intelligence_feed_20261126_0600_utc/"}]},
+        {"label": "Australia and Ukraine", "headline": "Albanese's call for Russia to end the war draws substantial online reaction", "summary": "A r/worldnews post on Australian Prime Minister Anthony Albanese urging Vladimir Putin to end the war was among the day's widely engaged discussions. It is included as a public-attention indicator, not as a substitute for diplomatic reporting.", "why_it_matters": "The thread highlights continued public interest in how leaders outside Europe position themselves on the war.", "countries": ["Australia", "Ukraine", "Russia"], "score": "1.5k+", "comments": "113+ comments", "sources": [{"name": "Reddit intelligence feed", "url": "https://www.reddit.com/r/LaGazzettadiKyiv/comments/1y5tk41/reddit_intelligence_feed_20261126_0600_utc/"}]}
+      ]
+    }
+  ]
+}
