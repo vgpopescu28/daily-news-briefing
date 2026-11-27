@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-27",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-27T09:00:00+02:00",
+  "summary": {
+    "spotlight": "A warning of a possible major Russian strike on Ukraine's power grid meets a stalled diplomatic track, while the deaths of two Italians in Kuwait sharpen the risk of further Middle East escalation. A new U.S. tariff push has also opened a fresh fault line with China, Japan, the European Union and other trading partners.",
+    "market_mood": "Volatile",
+    "reader_note": "This edition reflects reporting available on the morning of November 27 in Romania. Reddit was reviewed but no fresh, independently checkable thread added enough public-signal value to include."
+  },
+  "featured_story": {
+    "category": "ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Zelenskyy warns of a possible major Russian attack on Ukraine's power grid",
+    "summary": "President Volodymyr Zelenskyy said Ukraine had intelligence indicating Russia could be preparing a large new strike on energy infrastructure. The warning came as U.S. President Donald Trump described the negotiation channel as stuck over territory, AP reported.",
+    "why_it_matters": "A major attack on generation or transmission facilities would deepen winter hardship and test Ukraine's air-defence capacity at a critical moment.",
+    "countries": ["Ukraine", "Russia", "United States"],
+    "sources": [{"name": "AP", "url": "https://apnews.com/article/122f7f187eea20d4d2b659692b4c4f1e"}]
+  },
+  "sections": [
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War & European Security",
+      "description": "The threat to winter energy supplies and unresolved questions over territory remain central to the war.",
+      "kicker": "Eastern Flank",
+      "tone": "ukraine",
+      "stories": [
+        {"label": "Power-grid warning", "headline": "Kyiv flags intelligence of a possible major strike on energy infrastructure", "summary": "Zelenskyy said Russia may be preparing a significant attack on Ukraine's electricity system. AP reported that the warning coincided with continued concern over civilian resilience as winter approaches.", "why_it_matters": "Energy attacks can cause cascading outages and force Ukraine to divert scarce air-defence resources from other targets.", "countries": ["Ukraine", "Russia"], "sources": [{"name": "AP", "url": "https://apnews.com/article/122f7f187eea20d4d2b659692b4c4f1e"}]},
+        {"label": "Talks", "headline": "Trump says Ukraine negotiations remain deadlocked over territory", "summary": "Trump said Russia's public language about peace still raises the question of whose terms would govern a settlement, while describing the talks as in a partial deadlock over territory, AP reported.", "why_it_matters": "The territorial question remains the core obstacle to any durable ceasefire or security arrangement.", "countries": ["Ukraine", "Russia", "United States"], "sources": [{"name": "AP", "url": "https://apnews.com/article/122f7f187eea20d4d2b659692b4c4f1e"}]},
+        {"label": "EU financing", "headline": "EU leaders struggle over budget priorities and a proposed $49 billion Ukraine loan", "summary": "European leaders met in Brussels without an immediate agreement on the 2028-34 budget or financing for Ukraine, AP reported. France's president set an end-of-year target for broader budget agreement.", "why_it_matters": "The debate links Ukraine's ability to sustain public services and defence with the EU's wider fiscal priorities.", "countries": ["European Union", "Ukraine", "France"], "sources": [{"name": "AP", "url": "https://apnews.com/article/f073925a2ed77232e0d7db404600985e"}]}
+      ]
+    },
+    {
+      "key": "middle-east",
+      "title": "Middle East & Red Sea",
+      "description": "A deadly Kuwait incident, Gaza strikes and renewed pressure on Saudi energy infrastructure are raising regional risk.",
+      "kicker": "Regional Escalation",
+      "tone": "conflict",
+      "stories": [
+        {"label": "Kuwait attack", "headline": "Iran denies responsibility after drone debris kills two Italians in Kuwait", "summary": "Iranian Foreign Minister Abbas Araghchi offered condolences to Italy and denied Tehran was behind the incident that killed two Italian nationals, AP reported. The circumstances and attribution remain contested.", "why_it_matters": "A lethal attack in Kuwait risks drawing additional states into an already volatile regional confrontation.", "countries": ["Kuwait", "Iran", "Italy"], "sources": [{"name": "AP", "url": "https://apnews.com/article/522676f17532b878878ff7a4347d0e31"}]},
+        {"label": "Gaza", "headline": "Israeli strikes kill 10 in Gaza, AP reports", "summary": "AP's regional roundup reported that Israeli strikes killed 10 people in Gaza. The report underscored continued violence and humanitarian exposure despite international efforts to stabilise conditions.", "why_it_matters": "Continued civilian casualties make any ceasefire or reconstruction track harder to sustain.", "countries": ["Palestinian Territories", "Israel"], "sources": [{"name": "AP", "url": "https://apnews.com/article/522676f17532b878878ff7a4347d0e31"}]},
+        {"label": "Saudi energy", "headline": "Attack on Saudi Arabia's Jazan refinery kills one and disrupts operations", "summary": "Al Jazeera reported that an attack on the Jazan refinery killed one person and disrupted operations. Details of responsibility and the wider operational impact remain subject to further reporting.", "why_it_matters": "Disruption at oil infrastructure can quickly amplify energy-security and shipping concerns across the region.", "countries": ["Saudi Arabia"], "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]},
+        {"label": "Gaza diplomacy", "headline": "Qatar and Egypt discuss Gaza ceasefire and regional security", "summary": "Qatar's emir met Egypt's president in Cairo for talks focused on the Gaza ceasefire and regional security, according to Al Jazeera. Both countries have been central to mediation efforts.", "why_it_matters": "Cairo and Doha remain important channels for restoring a sustainable pause and managing regional spillover.", "countries": ["Qatar", "Egypt", "Palestinian Territories", "Israel"], "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/"}]}
+      ]
+    },
+    {
+      "key": "trade-markets",
+      "title": "Trade, Markets & Technology",
+      "description": "A proposed U.S. tariff escalation and cautious market rebound are reshaping the economic outlook.",
+      "kicker": "Economic Watch",
+      "tone": "economy",
+      "stories": [
+        {"label": "Tariffs", "headline": "China, Japan and other trading partners push back on planned U.S. tariff hikes", "summary": "China, Japan and other U.S. trading partners protested planned tariff increases and rejected Washington's allegations of excess capacity, AP reported. The European Union could face a potential 15% tariff rate under the proposal.", "why_it_matters": "A broad new tariff round would add uncertainty for trade, prices and already-fragile business investment.", "countries": ["United States", "China", "Japan", "European Union"], "sources": [{"name": "AP", "url": "https://apnews.com/article/b94a693004ad8f9b5e78f7aafb196a71"}]},
+        {"label": "Market response", "headline": "Asian and European shares rise as investors weigh tariffs and the AI trade", "summary": "Shares rose in Europe and Asia while U.S. markets were shut for Thanksgiving, AP reported. Investors remained cautious about highly valued AI-linked companies and the potential impact of new tariffs.", "why_it_matters": "The combination of trade policy and AI-valuation risk can move markets well beyond the technology sector.", "countries": ["Global", "United States", "China", "European Union"], "sources": [{"name": "AP", "url": "https://apnews.com/article/320cd8c9c286a7773797bf2f478ef314"}]},
+        {"label": "Currency policy", "headline": "Argentina moves to bar central-bank money printing for government financing", "summary": "Argentina has moved to stop the central bank from printing money to finance government spending, Al Jazeera reported. The change advances President Javier Milei's effort to harden fiscal and monetary discipline.", "why_it_matters": "The policy is a consequential test of whether institutional constraints can help stabilise a chronically inflation-prone economy.", "countries": ["Argentina"], "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]},
+        {"label": "Space business", "headline": "Mexico seeks talks with the U.S. over suspected SpaceX debris", "summary": "Mexico is seeking discussions with the United States over suspected SpaceX debris as launch activity from Starbase near the border increases, Al Jazeera reported.", "why_it_matters": "The episode highlights how rapid commercial-launch growth is creating new cross-border safety and regulatory questions.", "countries": ["Mexico", "United States"], "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news"}]}
+      ]
+    },
+    {
+      "key": "global-affairs",
+      "title": "Global Affairs & Climate",
+      "description": "Migration pressure, Iraqi federal tensions and the climate-finance gap remain significant global concerns.",
+      "kicker": "World Watch",
+      "tone": "diplomacy",
+      "stories": [
+        {"label": "Iraq", "headline": "Thousands protest in Irbil over Baghdad's move to take control of Kurdish oil and borders", "summary": "Thousands demonstrated in the Kurdistan Region's capital after Baghdad moved to assume control of oil operations and border crossings, AP reported. The dispute revives longstanding federal-regional tensions.", "why_it_matters": "Control of oil revenue and borders goes to the heart of Iraq's constitutional balance and internal stability.", "countries": ["Iraq"], "sources": [{"name": "AP", "url": "https://apnews.com/article/1b0e8cb02a09ce16b8885c60f4733a44"}]},
+        {"label": "Migration", "headline": "Senegalese youth continue to risk dangerous Atlantic crossings toward Europe", "summary": "AP reported that limited legal migration routes, economic strain and pressure on fisheries are helping drive young Senegalese people toward perilous journeys to Europe. Spain recorded a sharp November rise in arrivals.", "why_it_matters": "The trend couples humanitarian risk with enduring questions over migration policy, livelihoods and climate resilience.", "countries": ["Senegal", "Spain", "European Union"], "sources": [{"name": "AP", "url": "https://apnews.com/article/93cc418c0323bfe6b4abf009c39d9d0c"}]},
+        {"label": "Climate", "headline": "Experts warn failed climate talks could deepen inequality", "summary": "Experts told AP that the lack of a stronger outcome from recent climate negotiations could worsen inequality as climate impacts intensify and adaptation funding is cut. Independent analysis says progress on emissions has largely stalled.", "why_it_matters": "The shortfall is likely to fall most heavily on countries with the least capacity to finance adaptation and disaster recovery.", "countries": ["Global"], "sources": [{"name": "AP", "url": "https://apnews.com/article/ae4c6b1fc5d6b6679947e01c9ff8f607"}]}
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Bucharest's EU-budget priorities and a high-profile opposition case are in focus.",
+      "kicker": "Romania Watch",
+      "tone": "romania",
+      "stories": [
+        {"label": "EU budget", "headline": "President Nicușor Dan presses for Romania's place in the next EU budget", "summary": "President Nicușor Dan joined the special European Council meeting and the Friends of Cohesion group, arguing that the next EU budget should preserve meaningful support for Romania's regional development and convergence, Radio Romania International reported.", "why_it_matters": "The negotiations will shape the funding available for Romania's infrastructure, development and economic convergence after 2027.", "countries": ["Romania", "European Union"], "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-26-2026-id1088009.html"}]},
+        {"label": "Rule of law", "headline": "Romanian prosecutors formally charge AUR leader George Simion with inciting violence", "summary": "Romanian prosecutors formally charged opposition leader George Simion with inciting violence against election officials in connection with the previous year's contested presidential election, Reuters reported. Simion says the case is politically motivated.", "why_it_matters": "The case will be closely watched for its effect on Romania's polarised politics and public confidence in electoral institutions.", "countries": ["Romania"], "sources": [{"name": "Reuters", "url": "https://malaysia.news.yahoo.com/romanian-prosecutors-charge-hard-opposition-120641259.html"}]}
+      ]
+    }
+  ]
+}
