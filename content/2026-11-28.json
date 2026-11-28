@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-28",
+  "edition_title": "Daily Global News Briefing",
+  "edition_kicker": "Morning Edition",
+  "edition_subtitle": "A concise scan of the day's most important global signals.",
+  "generated_at": "2026-11-28T09:00:00+02:00",
+  "summary": {
+    "spotlight": "Ukraine's offer of a Black Sea ceasefire, made after reported attacks on grain carriers near Odesa, puts food security and maritime access back at the centre of diplomacy. In the Middle East, the U.S. enforcement of its naval blockade on Iran and a new Pakistan-Turkey-Saudi defence signal are keeping regional and energy risks elevated.",
+    "market_mood": "Cautious",
+    "reader_note": "This edition reflects reporting available on the morning of November 28 in Romania. Reddit items are included as public-attention signals, not as independent confirmation of events."
+  },
+  "featured_story": {
+    "category": "ukraine",
+    "tone": "ukraine",
+    "label": "Top Story",
+    "headline": "Ukraine offers a Black Sea ceasefire as attacks on grain shipping intensify",
+    "summary": "Ukraine said it has offered Russia a ceasefire in the Black Sea to enable food exports and has shared the proposal with international partners. The offer followed Ukrainian reports that Russian attacks hit two foreign grain carriers near Odesa carrying more than 100,000 tonnes of grain.",
+    "why_it_matters": "A limited maritime truce could ease pressure on food supply chains and Ukraine's export economy, but it depends on Moscow accepting a focused deal amid a wider war.",
+    "countries": ["Ukraine", "Russia", "Turkey", "Global"],
+    "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy"}, {"name": "S&P Global", "url": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/112626-russia-attacks-grain-ships-near-odesa-clouding-ukraine-corridor-recovery"}]
+  },
+  "sections": [
+    {
+      "key": "ukraine-war",
+      "title": "Ukraine War & Black Sea Security",
+      "description": "Maritime access, energy infrastructure and the stalled negotiation track remain central to the conflict.",
+      "kicker": "Eastern Flank",
+      "tone": "ukraine",
+      "stories": [
+        {"label": "Maritime diplomacy", "headline": "Kyiv says a Black Sea truce could protect food exports while it awaits Moscow's response", "summary": "Foreign Minister Andrii Sybiha said Ukraine is ready for a Black Sea ceasefire and is waiting for Russia to respond. Kyiv linked the proposal to escalating attacks on ports, commercial vessels, energy facilities and grain-export infrastructure.", "why_it_matters": "The proposal tests whether a narrow, commercially focused arrangement is possible even while broader peace talks remain stuck.", "countries": ["Ukraine", "Russia", "Black Sea"], "sources": [{"name": "Channel News Asia", "url": "https://www.channelnewsasia.com/world/ukraine-offers-russia-truce-black-sea-food-supply-fears-mount-source-says-6318116"}]},
+        {"label": "Energy ceasefire", "headline": "Ukraine links any pause in attacks on Russian oil facilities to a wider energy ceasefire", "summary": "Reporting on the Black Sea offer says Russia proposed that Ukraine halt strikes on Russian oil infrastructure. Kyiv says it would consider that only as part of a broader halt to attacks on energy systems.", "why_it_matters": "The condition shows how attacks on oil, power and shipping are increasingly being negotiated as one interconnected economic-security problem.", "countries": ["Ukraine", "Russia"], "sources": [{"name": "Gulf Times / Reuters", "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/28/main-20261128-1-1795817076.pdf?ts=1795817076"}]},
+        {"label": "Diplomacy", "headline": "Zelenskyy urges Washington to increase pressure on Putin", "summary": "President Volodymyr Zelenskyy urged the United States to pressure Vladimir Putin and challenged President Donald Trump's description of the Russian leader as a friend, AP reported. The exchange underlines Kyiv's concern that the diplomatic channel could favour Moscow's terms.", "why_it_matters": "Ukraine's leverage in any settlement depends heavily on sustained U.S. and European pressure on Russia.", "countries": ["Ukraine", "Russia", "United States"], "sources": [{"name": "AP", "url": "https://apnews.com/article/d891149b4cbd6521b83096a32bd5e53d"}]},
+        {"label": "NATO flank", "headline": "Kaliningrad tensions sharpen attention on NATO's Baltic security posture", "summary": "Renewed attention on Russia's heavily militarised Kaliningrad exclave follows an apparent attack on a Russian cargo vessel in the Gulf of Finland and Moscow's accusations of expanding regional sabotage, Time reported.", "why_it_matters": "The Baltic is a potential escalation corridor where Russia's war against Ukraine intersects directly with NATO territory and deterrence.", "countries": ["Russia", "Lithuania", "Poland", "NATO"], "sources": [{"name": "Time", "url": "https://time.com/article/2026/11/27/russian-exclave-kaliningrad-threat-nato-tensions-ukraine-war/"}]}
+      ]
+    },
+    {
+      "key": "middle-east",
+      "title": "Middle East & Red Sea",
+      "description": "The blockade around Iran, Houthi attacks and regional diplomacy continue to shape military and humanitarian risk.",
+      "kicker": "Regional Escalation",
+      "tone": "conflict",
+      "stories": [
+        {"label": "Hormuz blockade", "headline": "U.S. military says it disabled another vessel attempting to breach the Iran blockade", "summary": "The U.S. military said it disabled the commercial ship Pacific Archer after it tried to run the naval blockade on Iranian ports. AP said it was at least the 15th disclosed vessel disabled since the blockade began.", "why_it_matters": "Enforcement actions raise the risk of miscalculation at sea while keeping pressure on shipping, energy flows and insurance costs.", "countries": ["United States", "Iran", "Strait of Hormuz"], "sources": [{"name": "AP", "url": "https://apnews.com/article/800620518a351282f098faa9381b3375"}]},
+        {"label": "Regional defence", "headline": "Pakistan and Turkey pledge support for Saudi Arabia against Houthi attacks", "summary": "Pakistan and Turkey said they would support Saudi Arabia against continuing Houthi attacks during talks under their trilateral defence pact. The pact treats an attack on one member as an attack on all, AP reported.", "why_it_matters": "The declaration broadens the political stakes of the Yemen conflict and strengthens a regional deterrence signal toward the Houthis and their backers.", "countries": ["Pakistan", "Turkey", "Saudi Arabia", "Yemen"], "sources": [{"name": "AP", "url": "https://apnews.com/article/6c17e4827e5aef3e69f78cdb01d597dc"}]},
+        {"label": "Humanitarian risk", "headline": "UN warns hunger will deepen across the Middle East as war, fuel costs and aid cuts collide", "summary": "The United Nations warned that conflict, higher fuel costs and reduced humanitarian funding will intensify hunger in the region. AP noted that access to Houthi-controlled parts of Yemen has become harder as fighting has escalated.", "why_it_matters": "Food insecurity can deepen displacement and instability long after immediate military headlines fade.", "countries": ["Yemen", "Middle East"], "sources": [{"name": "AP", "url": "https://apnews.com/article/819ca5f619621b6f3b7ca8ba66b65762"}]},
+        {"label": "Gaza", "headline": "Israeli strike reportedly kills two Médecins Sans Frontières staff at a Gaza clinic", "summary": "Al Jazeera reported that an Israeli strike killed two Médecins Sans Frontières staff at a Gaza clinic on November 27. The reported attack adds to the pressure on health and aid services in the territory.", "why_it_matters": "Damage to medical and humanitarian capacity increases civilian vulnerability and complicates any effort to stabilise Gaza.", "countries": ["Palestinian Territories", "Israel"], "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/middle-east"}]}
+      ]
+    },
+    {
+      "key": "markets-tech",
+      "title": "Markets, Trade & Technology",
+      "description": "Oil policy, tariffs and strategic technology investment are setting the near-term economic agenda.",
+      "kicker": "Economic Watch",
+      "tone": "economy",
+      "stories": [
+        {"label": "Oil", "headline": "OPEC+ is expected to keep early-2027 output targets unchanged", "summary": "OPEC+ producers are expected to maintain first-quarter 2027 oil-output targets at their November 29 meeting, according to Reuters reporting cited by Business Recorder. Uncertainty around the Iran war and capacity estimates is clouding the decision.", "why_it_matters": "A rollover would leave the market relying on existing production plans while conflict-related supply disruption remains a major variable.", "countries": ["OPEC+", "Saudi Arabia", "Russia", "Iran"], "sources": [{"name": "Business Recorder / Reuters", "url": "https://www.brecorder.com/news/40451105"}]},
+        {"label": "Trade", "headline": "U.S. tariff debate opens a fault line within the Republican Party", "summary": "Some Republican lawmakers are reassessing tariff policy while Democrats prepare to challenge the administration's trade agenda, AP reported. Canada tariffs are among the measures drawing congressional scrutiny.", "why_it_matters": "Political resistance could affect the predictability of U.S. trade policy for partners, importers and consumers.", "countries": ["United States", "Canada"], "sources": [{"name": "AP", "url": "https://apnews.com/article/a438d0649e3b905804eafb63e9803bb3"}]},
+        {"label": "Brazil", "headline": "Brazilian markets rally after Lula names a veteran banker for finance minister", "summary": "Brazilian markets rose after President Luiz Inácio Lula da Silva confirmed a veteran banker as his finance minister for 2027, AP reported. Investors interpreted the choice as a sign of commitment to fiscal discipline.", "why_it_matters": "Brazil's economic management affects confidence in one of the largest emerging markets and in regional capital flows.", "countries": ["Brazil"], "sources": [{"name": "AP", "url": "https://apnews.com/article/5836b2ca098190540ff6669ebef01669"}]},
+        {"label": "Strategic tech", "headline": "EU plans a major push for quantum-computing capacity", "summary": "The European Union is considering a €50 billion fund for quantum-computing startups as it seeks to compete with the United States and China, according to Reuters reporting cited by ITPro.", "why_it_matters": "The proposal reflects Europe's effort to reduce dependence in technologies that could matter for computing, security and industrial competitiveness.", "countries": ["European Union", "United States", "China"], "sources": [{"name": "ITPro / Reuters", "url": "https://www.itpro.com/cybersecurity/encryption/eu-bets-eur50-billion-on-quantum-sovereignty"}]}
+      ]
+    },
+    {
+      "key": "global-affairs",
+      "title": "Global Affairs & Climate",
+      "description": "Political change, climate diplomacy and supply-chain resilience remain important longer-horizon signals.",
+      "kicker": "World Watch",
+      "tone": "diplomacy",
+      "stories": [
+        {"label": "Serbia", "headline": "Serbia's student-backed movement picks Radomir Saicic for next month's presidential election", "summary": "Al Jazeera reported that Serbia's student-backed movement, which won October's parliamentary election, named university professor Radomir Saicic as its presidential candidate. The vote will test whether the movement can translate parliamentary momentum into executive power.", "why_it_matters": "Political change in Serbia matters for the Western Balkans' democratic trajectory and its relationships with the EU and neighbouring states.", "countries": ["Serbia"], "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/"}]},
+        {"label": "Climate", "headline": "COP31's failure to reach a major deal leaves fossil-fuel diplomacy unresolved", "summary": "UN climate talks ended without an overarching agreement after disputes over language on fossil fuels, AP reported. The breakdown comes as countries confront worsening extreme weather and persistent disagreement over finance and transition pathways.", "why_it_matters": "The failure leaves a gap between climate science and collective political action ahead of the next round of negotiations.", "countries": ["Global", "Turkey"], "sources": [{"name": "AP", "url": "https://apnews.com/article/f6e36c4caf13ec6fed57c9f077cbd067"}]},
+        {"label": "Supply chains", "headline": "Fashion brands shift some orders from Bangladesh as labour unrest disrupts production", "summary": "Global retailers including Zara and H&M shifted nearly a tenth of their monthly orders from Bangladesh to other Asian manufacturing hubs in early November, Reuters reported. Factory owners cited labour unrest and rising costs.", "why_it_matters": "Even limited order shifts show how social instability can rapidly reshape sourcing decisions in a major apparel-exporting economy.", "countries": ["Bangladesh", "India"], "sources": [{"name": "StreetInsider / Reuters", "url": "https://new.streetinsider.com/Reuters?before_id=27404965"}]}
+      ]
+    },
+    {
+      "key": "romania",
+      "title": "Romania",
+      "description": "Political responses to anti-Romanian rhetoric in Germany and the EU budget debate are in focus.",
+      "kicker": "Romania Watch",
+      "tone": "romania",
+      "stories": [
+        {"label": "Diaspora", "headline": "Romanian officials reject German far-right claims about Romanian welfare use", "summary": "Romanian government representatives and MEPs responded after AfD co-leader Alice Weidel alleged that Romanian and Bulgarian families were living lavishly on German benefits, Radio Romania International reported.", "why_it_matters": "The dispute speaks to the status of Romanian workers abroad and to how migration rhetoric can strain intra-EU relations.", "countries": ["Romania", "Germany", "European Union"], "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-27-2026-id1088444.html"}]},
+        {"label": "EU funding", "headline": "Romania tracks high-stakes negotiations over the EU's 2028-34 budget", "summary": "Radio Romania International reported that the European Council president's proposed 2028-34 budget is about €1.58 trillion, lower than the Commission's initial proposal. Romania has a strong interest in the cohesion funding and convergence policies at stake.", "why_it_matters": "The next multiannual budget will shape financing for Romanian development priorities after 2027.", "countries": ["Romania", "European Union"], "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-26-2026-id1088009.html"}]}
+      ]
+    },
+    {
+      "key": "trending-on-reddit",
+      "title": "Trending on Reddit",
+      "description": "Conversation-led signals that point readers toward developments independently reported elsewhere.",
+      "kicker": "Public Signal",
+      "tone": "reddit",
+      "stories": [
+        {"label": "Black Sea debate", "headline": "Ukraine ceasefire offer draws active discussion in a Russia-Ukraine forum", "summary": "A Reddit post sharing France 24's report on the Black Sea ceasefire proposal drew discussion around how a shipping truce could work. The underlying development is separately reported by major news outlets in this edition.", "why_it_matters": "The thread shows public attention concentrating on the food-security and navigation consequences of the war, rather than only battlefield developments.", "countries": ["Ukraine", "Russia", "Black Sea"], "sources": [{"name": "Reddit / r/UkraineRussiaReport", "url": "https://www.reddit.com/r/UkraineRussiaReport/comments/1y7ayes/ua_pov_ukraine_submits_black_sea_ceasefire_offer/"}]},
+        {"label": "Romanian politics", "headline": "A Romanian opposition-leader prosecution is circulating in a European Union forum", "summary": "A Reddit post linking Reuters coverage of charges against AUR leader George Simion generated discussion about the case and Romania's political climate. Simion has called the prosecution politically motivated.", "why_it_matters": "The thread is a useful public-attention indicator for an issue that could affect confidence in Romanian political institutions.", "countries": ["Romania"], "sources": [{"name": "Reddit / r/europeanunion", "url": "https://www.reddit.com/r/europeanunion/comments/1y68uq5/romanian_prosecutors_charge_hardright_opposition/"}]}
+      ]
+    }
+  ]
+}
